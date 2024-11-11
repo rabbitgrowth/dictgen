@@ -40,6 +40,8 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
     if sound in consonants:
         chord = consonants[sound]
         if in_steno_order(stroke, chord):
+            if right:
+                yield from gen(sounds[1:], False, NULL, [*outline, stroke|chord])
             yield from gen(sounds[1:], right, stroke|chord, [*outline])
         else:
             if not right:
@@ -49,5 +51,3 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
     elif not right and sound in VOWELS:
         chord = VOWELS[sound]
         yield from gen(sounds[1:], True, stroke|chord, [*outline])
-    else:
-        raise ValueError(f'unknown sound {sound}')
