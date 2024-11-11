@@ -8,6 +8,8 @@ Stroke.setup(
     'A- O- * -E -U'.split(),
 )
 
+NULL = Stroke('')
+
 def read_chords(file):
     with open(file) as f:
         chords = {}
@@ -23,7 +25,7 @@ VOWELS = read_chords('chords/vowels.txt')
 def in_steno_order(a, b):
     return not a or not b or Stroke(a.last()) < Stroke(b.first())
 
-def gen(sounds, right=False, stroke=Stroke(''), outline=[]):
+def gen(sounds, right=False, stroke=NULL, outline=[]):
     print(sounds, right, stroke, outline, sep=' | ')
 
     if not sounds:
@@ -43,7 +45,7 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=[]):
             if not right:
                 yield from gen(sounds[1:], right, chord, [*outline, stroke | Stroke('U')])
             else:
-                yield from gen(sounds, False, Stroke(''), [*outline, stroke])
+                yield from gen(sounds, False, NULL, [*outline, stroke])
     elif not right and sound in VOWELS:
         chord = VOWELS[sound]
         yield from gen(sounds[1:], True, stroke | chord, [*outline])
