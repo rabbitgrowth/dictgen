@@ -22,3 +22,30 @@ VOWELS = read_chords('chords/vowels.txt')
 
 def in_steno_order(a, b):
     return not a or not b or Stroke(a.last()) < Stroke(b.first())
+
+def gen(sounds, left=True, stroke=Stroke(''), outline=[]):
+    print(sounds, left, stroke, outline, sep=' | ')
+
+    if not sounds:
+        if stroke:
+            yield [*outline, stroke]
+        return
+
+    sound = sounds[0]
+
+    consonants = LEFT if left else RIGHT
+
+    if sound in consonants:
+        chord = consonants[sound]
+        if in_steno_order(stroke, chord):
+            yield from gen(sounds[1:], left, stroke | chord, outline.copy())
+        else:
+            if left:
+                yield from gen(sounds[1:], left, chord, [*outline, stroke | Stroke('U')])
+            else:
+                yield from gen(sounds, True, Stroke(''), [*outline, stroke])
+    elif left and sound in VOWELS:
+        chord = VOWELS[sound]
+        yield from gen(sounds[1:], False, stroke | chord, outline.copy())
+    else:
+        raise ValueError(f'unknown sound {sound}')
