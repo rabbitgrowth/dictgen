@@ -23,8 +23,8 @@ VOWELS = read_chords('chords/vowels.txt')
 def in_steno_order(a, b):
     return not a or not b or Stroke(a.last()) < Stroke(b.first())
 
-def gen(sounds, left=True, stroke=Stroke(''), outline=[]):
-    print(sounds, left, stroke, outline, sep=' | ')
+def gen(sounds, right=False, stroke=Stroke(''), outline=[]):
+    print(sounds, right, stroke, outline, sep=' | ')
 
     if not sounds:
         if stroke:
@@ -33,19 +33,19 @@ def gen(sounds, left=True, stroke=Stroke(''), outline=[]):
 
     sound = sounds[0]
 
-    consonants = LEFT if left else RIGHT
+    consonants = LEFT if not right else RIGHT
 
     if sound in consonants:
         chord = consonants[sound]
         if in_steno_order(stroke, chord):
-            yield from gen(sounds[1:], left, stroke | chord, [*outline])
+            yield from gen(sounds[1:], right, stroke | chord, [*outline])
         else:
-            if left:
-                yield from gen(sounds[1:], left, chord, [*outline, stroke | Stroke('U')])
+            if not right:
+                yield from gen(sounds[1:], right, chord, [*outline, stroke | Stroke('U')])
             else:
-                yield from gen(sounds, True, Stroke(''), [*outline, stroke])
-    elif left and sound in VOWELS:
+                yield from gen(sounds, False, Stroke(''), [*outline, stroke])
+    elif not right and sound in VOWELS:
         chord = VOWELS[sound]
-        yield from gen(sounds[1:], False, stroke | chord, [*outline])
+        yield from gen(sounds[1:], True, stroke | chord, [*outline])
     else:
         raise ValueError(f'unknown sound {sound}')
