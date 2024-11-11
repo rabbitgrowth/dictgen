@@ -18,9 +18,8 @@ def read_chords(file):
             chords[sound] = Stroke(chord)
     return chords
 
-LEFT   = read_chords('chords/left.txt')
-RIGHT  = read_chords('chords/right.txt')
-VOWELS = read_chords('chords/vowels.txt')
+LEFT, RIGHT, VOWELS = (read_chords(f'chords/{basename}.txt')
+                       for basename in ['left', 'right', 'vowels'])
 
 def in_steno_order(a, b):
     return not a or not b or Stroke(a.last()) < Stroke(b.first())
