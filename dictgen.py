@@ -18,8 +18,7 @@ def read_chords(file):
             chords[sound] = Stroke(chord)
     return chords
 
-LEFT, RIGHT, VOWELS = (read_chords(f'chords/{basename}.txt')
-                       for basename in ['left', 'right', 'vowels'])
+LC, V, RC = (read_chords(f'chords/{basename}.txt') for basename in ['LC', 'V', 'RC'])
 
 def in_steno_order(a, b):
     return not a or not b or Stroke(a.last()) < Stroke(b.first())
@@ -41,7 +40,7 @@ def gen(sounds, right=False, stroke=NULL, outline=[], l=0):
 
     sound = sounds[0]
 
-    consonants = LEFT if not right else RIGHT
+    consonants = LC if not right else RC
 
     if sound in consonants:
         chord = consonants[sound]
@@ -54,6 +53,6 @@ def gen(sounds, right=False, stroke=NULL, outline=[], l=0):
                 yield from gen(sounds[1:], right, chord, [*outline, stroke|Stroke('U')], l+1)
             else:
                 yield from gen(sounds, False, NULL, [*outline, stroke], l+1)
-    elif not right and sound in VOWELS:
-        chord = VOWELS[sound]
+    elif not right and sound in V:
+        chord = V[sound]
         yield from gen(sounds[1:], True, stroke|chord, [*outline], l+1)
