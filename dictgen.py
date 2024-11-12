@@ -29,9 +29,10 @@ def prefixes(pron):
 def in_steno_order(a, b):
     return not a or not b or Stroke(a.last()) < Stroke(b.first())
 
-def gen(pron, right=False, stroke=NULL, outline=[], l=0):
-    print('  '*l, end='')
+def gen(pron, right=False, stroke=NULL, outline=[], level=0):
+    print('  '*level, end='')
     print(pron or '-', 'LR'[right], stroke or '-', '/'.join(map(str, outline)) or '-', sep=' ')
+    level += 1
 
     if not pron:
         # Reject strokes with left-bank keys only, which are reserved for briefs
@@ -49,14 +50,14 @@ def gen(pron, right=False, stroke=NULL, outline=[], l=0):
             chord = C[sound]
             if in_steno_order(stroke, chord):
                 if right:
-                    yield from gen(sounds, False, NULL, [*outline, stroke|chord], l+1)
-                yield from gen(sounds, right, stroke|chord, [*outline], l+1)
+                    yield from gen(sounds, False, NULL, [*outline, stroke|chord], level)
+                yield from gen(sounds, right, stroke|chord, [*outline], level)
             else:
                 if not right:
-                    yield from gen(sounds, right, chord, [*outline, stroke|Stroke('U')], l+1)
+                    yield from gen(sounds, right, chord, [*outline, stroke|Stroke('U')], level)
                 else:
-                    yield from gen(sound+sounds, False, NULL, [*outline, stroke], l+1)
+                    yield from gen(sound+sounds, False, NULL, [*outline, stroke], level)
         elif not right and sound in V:
             chord = V[sound]
-            yield from gen(sounds, False, NULL, [*outline, stroke|chord], l+1)
-            yield from gen(sounds, True, stroke|chord, [*outline], l+1)
+            yield from gen(sounds, False, NULL, [*outline, stroke|chord], level)
+            yield from gen(sounds, True, stroke|chord, [*outline], level)
