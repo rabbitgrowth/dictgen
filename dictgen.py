@@ -22,10 +22,6 @@ def read_chords(file):
 
 LC, V, RC = (read_chords(f'chords/{basename}.txt') for basename in ['LC', 'V', 'RC'])
 
-def prefixes(pron):
-    for i in range(1, len(pron)+1):
-        yield pron[:i], pron[i:]
-
 ODD_CASES = {
     (Stroke('SH'), Stroke('R')),
     (Stroke('-P'), Stroke('-L')),
@@ -38,8 +34,10 @@ def in_steno_order(a, b):
     # SKHRED "shred" (or SHU/RED)
     return (not a or not b or Stroke(a.last()) < Stroke(b.first())) and (a, b) not in ODD_CASES
 
-def gen(pron, right=False, stroke=NULL, outline=[]):
-    if not pron:
+STRESS = chr(769)
+
+def gen(pairs, right=False, stroke=NULL, outline=[]):
+    if not pairs:
         # Reject strokes with left-bank keys only, which are reserved for briefs:
         # T      "it"
         # START  "start"
@@ -50,28 +48,32 @@ def gen(pron, right=False, stroke=NULL, outline=[]):
 
     C = LC if not right else RC
 
-    for sound, sounds in prefixes(pron):
-        if sound in C:
-            chord = C[sound]
-            if in_steno_order(stroke, chord):
-                if right:
-                    yield from gen(sounds, False, NULL, [*outline, stroke|chord])
-                yield from gen(sounds, right, stroke|chord, [*outline])
+    head, *tail = pairs
+    spelling, sound = head
+    stressed = STRESS in sound
+    sound = sound.replace(STRESS, '')
+
+    if sound in C:
+        chord = C[sound]
+        if in_steno_order(stroke, chord):
+            if right:
+                yield from gen(tail, False, NULL, [*outline, stroke|chord])
+            yield from gen(tail, right, stroke|chord, [*outline])
+        else:
+            if not right:
+                # If a word begins with a series of consonants that are out of steno order,
+                # insert schwas in between:
+                #   TKPWU/WEPB "Gwen"
+                # This rule doesn't apply in the middle of a word, where there are usually
+                # more efficient breaks:
+                #   SEG/WAEU "segue" (not SE/TKPWU/WAEU)
+                # This also helps to prevent very awkward breaks:
+                #   AB/SES "abscess" (not A/PWU/SES)
+                if not outline: # building the first stroke
+                    yield from gen(tail, right, chord, [*outline, stroke|Stroke('U')])
             else:
-                if not right:
-                    # If a word begins with a series of consonants that are out of steno order,
-                    # insert schwas in between:
-                    #   TKPWU/WEPB "Gwen"
-                    # This rule doesn't apply in the middle of a word, where there are usually
-                    # more efficient breaks:
-                    #   SEG/WAEU "segue" (not SE/TKPWU/WAEU)
-                    # This also helps to prevent very awkward breaks:
-                    #   AB/SES "abscess" (not A/PWU/SES)
-                    if not outline: # building the first stroke
-                        yield from gen(sounds, right, chord, [*outline, stroke|Stroke('U')])
-                else:
-                    yield from gen(sound+sounds, False, NULL, [*outline, stroke])
-        elif not right and sound in V:
-            chord = V[sound]
-            yield from gen(sounds, False, NULL, [*outline, stroke|chord])
-            yield from gen(sounds, True, stroke|chord, [*outline])
+                yield from gen(pairs, False, NULL, [*outline, stroke])
+    elif not right and sound in V:
+        chord = V[sound]
+        yield from gen(tail, False, NULL, [*outline, stroke|chord])
+        yield from gen(tail, True, stroke|chord, [*outline])
