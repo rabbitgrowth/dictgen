@@ -38,7 +38,8 @@ STRESS = chr(769)
 
 def gen(pairs, right=False, stroke=NULL, outline=[]):
     if not pairs:
-        # Reject strokes with left-bank keys only, which are reserved for briefs:
+        # Reject strokes with left-bank keys only, which don't form syllables and
+        # are reserved for briefs:
         # T      "it"
         # START  "start"
         # STAR/T "star it"
