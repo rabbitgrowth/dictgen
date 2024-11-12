@@ -64,4 +64,5 @@ def gen(pron, right=False, stroke=NULL, outline=[], l=0):
                     yield from gen([sound, *sounds], False, NULL, [*outline, stroke], l+1)
         elif not right and sound in V:
             chord = V[sound]
+            yield from gen(sounds, False, NULL, [*outline, stroke|chord], l+1)
             yield from gen(sounds, True, stroke|chord, [*outline], l+1)
