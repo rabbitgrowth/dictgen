@@ -16,8 +16,8 @@ def read_chords(file):
     with open(file) as f:
         chords = {}
         for line in f:
-            sound, chord = line.strip().split()
-            chords[sound] = Stroke(chord)
+            symbols, chord = line.strip().split()
+            chords[symbols] = Stroke(chord)
     return chords
 
 LC, V, RC = (read_chords(f'chords/{basename}.txt') for basename in ['LC', 'V', 'RC'])
@@ -49,12 +49,12 @@ def gen(pairs, right=False, stroke=NULL, outline=[]):
     C = LC if not right else RC
 
     head, *tail = pairs
-    spelling, sound = head
-    stressed = STRESS in sound
-    sound = sound.replace(STRESS, '')
+    letters, symbols = head
+    stressed = STRESS in symbols
+    symbols = symbols.replace(STRESS, '')
 
-    if sound in C:
-        chord = C[sound]
+    if symbols in C:
+        chord = C[symbols]
         if in_steno_order(stroke, chord):
             if right:
                 yield from gen(tail, False, NULL, [*outline, stroke|chord])
@@ -73,11 +73,11 @@ def gen(pairs, right=False, stroke=NULL, outline=[]):
                     yield from gen(tail, right, chord, [*outline, stroke|Stroke('U')])
             else:
                 yield from gen(pairs, False, NULL, [*outline, stroke])
-    elif not right and sound in V:
+    elif not right and symbols in V:
         # Vowel Omission Principle: omit all /ə/ and unstressed /ɪ/ in strokes after the first
-        if outline and (sound == 'ə' or sound == 'ɪ' and not stressed):
+        if outline and (symbols == 'ə' or symbols == 'ɪ' and not stressed):
             chord = NULL
         else:
-            chord = V[sound]
+            chord = V[symbols]
         yield from gen(tail, False, NULL, [*outline, stroke|chord])
         yield from gen(tail, True, stroke|chord, [*outline])
