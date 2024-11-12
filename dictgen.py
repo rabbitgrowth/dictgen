@@ -31,13 +31,7 @@ def in_steno_order(a, b):
 
 def gen(pron, right=False, stroke=NULL, outline=[], l=0):
     print('  '*l, end='')
-    print(
-        '-' if not pron else ''.join(pron),
-        'L' if not right else 'R',
-        '-' if not stroke else stroke,
-        '-' if not outline else '/'.join(map(str, outline)),
-        sep=' '
-    )
+    print(pron or '-', 'LR'[right], stroke or '-', '/'.join(map(str, outline)) or '-', sep=' ')
 
     if not pron:
         # Reject strokes with left-bank keys only, which are reserved for briefs
@@ -61,7 +55,7 @@ def gen(pron, right=False, stroke=NULL, outline=[], l=0):
                 if not right:
                     yield from gen(sounds, right, chord, [*outline, stroke|Stroke('U')], l+1)
                 else:
-                    yield from gen([sound, *sounds], False, NULL, [*outline, stroke], l+1)
+                    yield from gen(sound+sounds, False, NULL, [*outline, stroke], l+1)
         elif not right and sound in V:
             chord = V[sound]
             yield from gen(sounds, False, NULL, [*outline, stroke|chord], l+1)
