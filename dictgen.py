@@ -10,7 +10,7 @@ Stroke.setup(
 
 NULL = Stroke('')
 
-L, M, R = map(Stroke, ['STKPWHR', 'AOEU', 'FRPBLGTSDZ'])
+LEFT, MID, RIGHT = map(Stroke, ['STKPWHR', 'AOEU', 'FRPBLGTSDZ'])
 
 def read_chords(file):
     with open(file) as f:
@@ -20,7 +20,10 @@ def read_chords(file):
             chords[symbols] = Stroke(chord)
     return chords
 
-LC, V, RC = (read_chords(f'chords/{basename}.txt') for basename in ['LC', 'V', 'RC'])
+LEFT_CONSONANTS, VOWELS, RIGHT_CONSONANTS = (
+    read_chords(f'chords/{basename}.txt')
+    for basename in ['left', 'mid', 'right']
+)
 
 ODD_CASES = {
     (Stroke('SH'), Stroke('R')),
@@ -43,19 +46,19 @@ def gen(pairs, right=False, stroke=NULL, outline=[]):
         # T      "it"
         # START  "start"
         # STAR/T "star it"
-        if stroke & (M|R):
+        if stroke & (MID|RIGHT):
             yield [*outline, stroke]
         return
 
-    C = LC if not right else RC
+    consonants = LEFT_CONSONANTS if not right else RIGHT_CONSONANTS
 
     head, *tail = pairs
     letters, symbols = head
     stressed = STRESS in symbols
     symbols = symbols.replace(STRESS, '')
 
-    if symbols in C:
-        chord = C[symbols]
+    if symbols in consonants:
+        chord = consonants[symbols]
         if in_steno_order(stroke, chord):
             if right:
                 yield from gen(tail, False, NULL, [*outline, stroke|chord])
@@ -74,11 +77,11 @@ def gen(pairs, right=False, stroke=NULL, outline=[]):
                     yield from gen(tail, right, chord, [*outline, stroke|Stroke('U')])
             else:
                 yield from gen(pairs, False, NULL, [*outline, stroke])
-    elif not right and symbols in V:
+    elif not right and symbols in VOWELS:
         # Vowel Omission Principle: omit all /ə/ and unstressed /ɪ/ in strokes after the first
         if outline and (symbols == 'ə' or symbols == 'ɪ' and not stressed):
             chord = NULL
         else:
-            chord = V[symbols]
+            chord = VOWELS[symbols]
         yield from gen(tail, False, NULL, [*outline, stroke|chord])
         yield from gen(tail, True, stroke|chord, [*outline])
