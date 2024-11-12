@@ -1,4 +1,12 @@
 a A
 ə U
+o AU
 ɛ E
 ɪ EU
+ɛj AEU
+ɪj AOE
+ɑj AOEU
+əw OE
+ʉw AOU
+aw OU
+oj OEU

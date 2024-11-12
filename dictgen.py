@@ -22,20 +22,24 @@ def read_chords(file):
 
 LC, V, RC = (read_chords(f'chords/{basename}.txt') for basename in ['LC', 'V', 'RC'])
 
+def prefixes(pron):
+    for i in range(1, len(pron)+1):
+        yield pron[:i], pron[i:]
+
 def in_steno_order(a, b):
     return not a or not b or Stroke(a.last()) < Stroke(b.first())
 
-def gen(sounds, right=False, stroke=NULL, outline=[], l=0):
+def gen(pron, right=False, stroke=NULL, outline=[], l=0):
     print('  '*l, end='')
     print(
-        '-' if not sounds else ''.join(sounds),
+        '-' if not pron else ''.join(pron),
         'L' if not right else 'R',
         '-' if not stroke else stroke,
         '-' if not outline else '/'.join(map(str, outline)),
         sep=' '
     )
 
-    if not sounds:
+    if not pron:
         # Reject strokes with left-bank keys only, which are reserved for briefs
         # T      it
         # START  start
@@ -44,21 +48,20 @@ def gen(sounds, right=False, stroke=NULL, outline=[], l=0):
             yield [*outline, stroke]
         return
 
-    sound = sounds[0]
-
     consonants = LC if not right else RC
 
-    if sound in consonants:
-        chord = consonants[sound]
-        if in_steno_order(stroke, chord):
-            if right:
-                yield from gen(sounds[1:], False, NULL, [*outline, stroke|chord], l+1)
-            yield from gen(sounds[1:], right, stroke|chord, [*outline], l+1)
-        else:
-            if not right:
-                yield from gen(sounds[1:], right, chord, [*outline, stroke|Stroke('U')], l+1)
+    for sound, sounds in prefixes(pron):
+        if sound in consonants:
+            chord = consonants[sound]
+            if in_steno_order(stroke, chord):
+                if right:
+                    yield from gen(sounds, False, NULL, [*outline, stroke|chord], l+1)
+                yield from gen(sounds, right, stroke|chord, [*outline], l+1)
             else:
-                yield from gen(sounds, False, NULL, [*outline, stroke], l+1)
-    elif not right and sound in V:
-        chord = V[sound]
-        yield from gen(sounds[1:], True, stroke|chord, [*outline], l+1)
+                if not right:
+                    yield from gen(sounds, right, chord, [*outline, stroke|Stroke('U')], l+1)
+                else:
+                    yield from gen([sound, *sounds], False, NULL, [*outline, stroke], l+1)
+        elif not right and sound in V:
+            chord = V[sound]
+            yield from gen(sounds, True, stroke|chord, [*outline], l+1)
