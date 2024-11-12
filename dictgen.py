@@ -48,11 +48,11 @@ def gen(pron, right=False, stroke=NULL, outline=[], l=0):
             yield [*outline, stroke]
         return
 
-    consonants = LC if not right else RC
+    C = LC if not right else RC
 
     for sound, sounds in prefixes(pron):
-        if sound in consonants:
-            chord = consonants[sound]
+        if sound in C:
+            chord = C[sound]
             if in_steno_order(stroke, chord):
                 if right:
                     yield from gen(sounds, False, NULL, [*outline, stroke|chord], l+1)
