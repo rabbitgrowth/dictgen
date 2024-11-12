@@ -17,6 +17,9 @@ tests = [
 
     ('Gwen', 'gwɛn', {'TKPWU/WEPB'}),
     ('segue', 'sɛgwɛj', {'SEG/WAEU'}),
+
+    ('sled', 'slɛd', {'SHRED'}),
+    ('shred', 'ʃrɛd', {'SKHRED', 'SHU/RED'}),
 ]
 
 failures = []

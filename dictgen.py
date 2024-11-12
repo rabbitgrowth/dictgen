@@ -27,6 +27,13 @@ def prefixes(pron):
         yield pron[:i], pron[i:]
 
 def in_steno_order(a, b):
+    # Reject cases that are technically in steno order but cause conflicts and
+    # don't feel right, like using SHR for shr-:
+    # SHRED  "sled"
+    # SKHRED "shred" (or SHU/RED)
+    if (a == Stroke('SH') and b == Stroke('R')
+            or a == Stroke('-P') and b == Stroke('-L')):
+        return False
     return not a or not b or Stroke(a.last()) < Stroke(b.first())
 
 def gen(pron, right=False, stroke=NULL, outline=[], level=0):
