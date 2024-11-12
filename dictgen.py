@@ -74,6 +74,10 @@ def gen(pairs, right=False, stroke=NULL, outline=[]):
             else:
                 yield from gen(pairs, False, NULL, [*outline, stroke])
     elif not right and sound in V:
-        chord = V[sound]
+        # Vowel Omission Principle: omit all /ə/ and unstressed /ɪ/ in strokes after the first
+        if outline and (sound == 'ə' or sound == 'ɪ' and not stressed):
+            chord = NULL
+        else:
+            chord = V[sound]
         yield from gen(tail, False, NULL, [*outline, stroke|chord])
         yield from gen(tail, True, stroke|chord, [*outline])
