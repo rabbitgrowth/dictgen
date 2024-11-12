@@ -38,11 +38,7 @@ def in_steno_order(a, b):
     # SKHRED "shred" (or SHU/RED)
     return (not a or not b or Stroke(a.last()) < Stroke(b.first())) and (a, b) not in ODD_CASES
 
-def gen(pron, right=False, stroke=NULL, outline=[], level=0):
-    print('  '*level, end='')
-    print(pron or '-', 'LR'[right], stroke or '-', '/'.join(map(str, outline)) or '-', sep=' ')
-    level += 1
-
+def gen(pron, right=False, stroke=NULL, outline=[]):
     if not pron:
         # Reject strokes with left-bank keys only, which are reserved for briefs:
         # T      "it"
@@ -59,8 +55,8 @@ def gen(pron, right=False, stroke=NULL, outline=[], level=0):
             chord = C[sound]
             if in_steno_order(stroke, chord):
                 if right:
-                    yield from gen(sounds, False, NULL, [*outline, stroke|chord], level)
-                yield from gen(sounds, right, stroke|chord, [*outline], level)
+                    yield from gen(sounds, False, NULL, [*outline, stroke|chord])
+                yield from gen(sounds, right, stroke|chord, [*outline])
             else:
                 if not right:
                     # If a word begins with a series of consonants that are out of steno order,
@@ -72,10 +68,10 @@ def gen(pron, right=False, stroke=NULL, outline=[], level=0):
                     # This also helps to prevent very awkward breaks:
                     #   AB/SES "abscess" (not A/PWU/SES)
                     if not outline: # building the first stroke
-                        yield from gen(sounds, right, chord, [*outline, stroke|Stroke('U')], level)
+                        yield from gen(sounds, right, chord, [*outline, stroke|Stroke('U')])
                 else:
-                    yield from gen(sound+sounds, False, NULL, [*outline, stroke], level)
+                    yield from gen(sound+sounds, False, NULL, [*outline, stroke])
         elif not right and sound in V:
             chord = V[sound]
-            yield from gen(sounds, False, NULL, [*outline, stroke|chord], level)
-            yield from gen(sounds, True, stroke|chord, [*outline], level)
+            yield from gen(sounds, False, NULL, [*outline, stroke|chord])
+            yield from gen(sounds, True, stroke|chord, [*outline])
