@@ -26,8 +26,8 @@ for word, pron, expected in tests:
         failures.append((result, expected))
 
 for result, expected in failures:
-    result   = ', '.join(result)
-    expected = ', '.join(expected)
+    result   = ', '.join(result)   or '-'
+    expected = ', '.join(expected) or '-'
     print(f'{word} /{pron}/ → {result} ≠ {expected}')
 
 if failures:
