@@ -26,15 +26,17 @@ def prefixes(pron):
     for i in range(1, len(pron)+1):
         yield pron[:i], pron[i:]
 
+ODD_CASES = {
+    (Stroke('SH'), Stroke('R')),
+    (Stroke('-P'), Stroke('-L')),
+}
+
 def in_steno_order(a, b):
     # Reject cases that are technically in steno order but cause conflicts and
     # don't feel right, like using SHR for shr-:
     # SHRED  "sled"
     # SKHRED "shred" (or SHU/RED)
-    if (a == Stroke('SH') and b == Stroke('R')
-            or a == Stroke('-P') and b == Stroke('-L')):
-        return False
-    return not a or not b or Stroke(a.last()) < Stroke(b.first())
+    return (not a or not b or Stroke(a.last()) < Stroke(b.first())) and (a, b) not in ODD_CASES
 
 def gen(pron, right=False, stroke=NULL, outline=[], level=0):
     print('  '*level, end='')
