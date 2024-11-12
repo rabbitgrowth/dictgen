@@ -10,6 +10,8 @@ Stroke.setup(
 
 NULL = Stroke('')
 
+L, M, R = map(Stroke, ['STKPWHR', 'AOEU', 'FRPBLGTSDZ'])
+
 def read_chords(file):
     with open(file) as f:
         chords = {}
@@ -34,7 +36,11 @@ def gen(sounds, right=False, stroke=NULL, outline=[], l=0):
     )
 
     if not sounds:
-        if stroke:
+        # Reject strokes with left-bank keys only, which are reserved for briefs
+        # T      it
+        # START  start
+        # STAR/T star it
+        if stroke & (M|R):
             yield [*outline, stroke]
         return
 
