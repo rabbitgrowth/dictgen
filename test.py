@@ -1,3 +1,5 @@
+import sys
+
 from dictgen import gen
 
 # TODO add stress to pronunciation
@@ -16,9 +18,17 @@ tests = [
     ('Gwen', 'gwɛn', {'TKPWU/WEPB'}),
 ]
 
+failures = []
+
 for word, pron, expected in tests:
     result = {'/'.join(map(str, outline)) for outline in gen(pron)}
     if result != expected:
-        result   = ', '.join(result)
-        expected = ', '.join(expected)
-        print(f'{word} /{pron}/ → {result} ≠ {expected}')
+        failures.append((result, expected))
+
+for result, expected in failures:
+    result   = ', '.join(result)
+    expected = ', '.join(expected)
+    print(f'{word} /{pron}/ → {result} ≠ {expected}')
+
+if failures:
+    sys.exit(1)
