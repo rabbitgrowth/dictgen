@@ -16,6 +16,7 @@ tests = [
     ('hahaha', 'hahaha', {'HA/HA/HA'}),
 
     ('Gwen', 'gwɛn', {'TKPWU/WEPB'}),
+    ('segue', 'sɛgwɛj', {'SEG/WAEU'}),
 ]
 
 failures = []

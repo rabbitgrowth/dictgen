@@ -35,10 +35,10 @@ def gen(pron, right=False, stroke=NULL, outline=[], level=0):
     level += 1
 
     if not pron:
-        # Reject strokes with left-bank keys only, which are reserved for briefs
-        # T      it
-        # START  start
-        # STAR/T star it
+        # Reject strokes with left-bank keys only, which are reserved for briefs:
+        # T      "it"
+        # START  "start"
+        # STAR/T "star it"
         if stroke & (M|R):
             yield [*outline, stroke]
         return
@@ -54,7 +54,16 @@ def gen(pron, right=False, stroke=NULL, outline=[], level=0):
                 yield from gen(sounds, right, stroke|chord, [*outline], level)
             else:
                 if not right:
-                    yield from gen(sounds, right, chord, [*outline, stroke|Stroke('U')], level)
+                    # If a word begins with a series of consonants that are out of steno order,
+                    # insert schwas in between:
+                    #   TKPWU/WEPB "Gwen"
+                    # This rule doesn't apply in the middle of a word, where there are usually
+                    # more efficient breaks:
+                    #   SEG/WAEU "segue" (not SE/TKPWU/WAEU)
+                    # This also helps to prevent very awkward breaks:
+                    #   AB/SES "abscess" (not A/PWU/SES)
+                    if not outline: # building the first stroke
+                        yield from gen(sounds, right, chord, [*outline, stroke|Stroke('U')], level)
                 else:
                     yield from gen(sound+sounds, False, NULL, [*outline, stroke], level)
         elif not right and sound in V:
