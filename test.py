@@ -34,5 +34,12 @@ class TestDictgen(unittest.TestCase):
         self.T('c e ll', 's ɛ́ l', 'KREL')
         self.T('Sz e ll', 's ɛ́ l', 'SEL')
 
+    def test_vowel_variants(self):
+        self.T('f ee', 'f ɪ́j', 'TPAOE')
+        self.T('f l ee', 'f l ɪ́j', 'TPHRAOE')
+        self.T('f l ee ce', 'f l ɪ́j s', 'TPHRAOES')
+        self.T('f e m a le', 'f ɪ́j m ɛj l', 'TPAOEPL/AEUL TPE/PHAEUL')
+        self.T('s e l f ie', 's ɛ́ l f ɪj', 'SEL/TPAE')
+
 if __name__ == '__main__':
     unittest.main()

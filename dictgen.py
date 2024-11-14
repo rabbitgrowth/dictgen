@@ -47,6 +47,13 @@ def in_steno_order(a, b):
     # SKHRED "shred" (or SHU/RED)
     return (not a or not b or Stroke(a.last()) < Stroke(b.first())) and (a, b) not in ODD_CASES
 
+SHORT_VOWELS = {
+    Stroke('AEU'):  Stroke('A'),
+    Stroke('AOE'):  Stroke('E'),
+    Stroke('AOEU'): Stroke('EU'),
+    Stroke('OE'):   Stroke('O'),
+}
+
 def destress(pron):
     return re.sub(r'''
           (?<![əɪ]) \u0301
@@ -74,6 +81,8 @@ def gen(pairs, right=False, stroke=NULL, outline=[]):
                     chord = Stroke('SKHR')
                 case [('c', 's')], _:
                     chord = Stroke('KR')
+                case [(_, 'ɪj')], [] if outline:
+                    chord = Stroke('AE')
                 case [(_, sound)], _:
                     chord = NON_RIGHT_SOUNDS.get(sound)
                     if chord is None:
@@ -109,5 +118,6 @@ def gen(pairs, right=False, stroke=NULL, outline=[]):
                 else:
                     yield from gen(pairs, False, NULL, outline+[stroke])
         elif not right and chord & MID:
-            yield from gen(rest, False, NULL, outline+[stroke|chord])
+            short_vowel = SHORT_VOWELS.get(chord, chord)
+            yield from gen(rest, False, NULL, outline+[stroke|short_vowel])
             yield from gen(rest, True, stroke|chord, outline)
