@@ -75,8 +75,6 @@ def gen(pairs, right=False, stroke=NULL, outline=[]):
             yield [*outline, stroke]
         return
 
-    consonants = [LEFT_CONSONANTS, RIGHT_CONSONANTS][right]
-
     for prefix, rest in prefixes(pairs):
         if not right:
             match prefix, rest:
