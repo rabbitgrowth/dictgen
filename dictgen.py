@@ -103,15 +103,15 @@ def gen(pairs, right=False, stroke=NULL, outline=[]):
                 yield from gen(rest, right, stroke|chord, outline)
             else:
                 if not right:
-                    # If a word begins with a series of consonants that are out of steno order,
-                    # insert schwas in between:
+                    # If a word begins with a series of consonants that are out of
+                    # steno order, insert schwas in between:
                     #   TKPWU/WEPB "Gwen"
-                    # This rule doesn't apply in the middle of a word, where there are usually
-                    # more efficient breaks:
+                    # This rule doesn't apply in the middle of a word, where there are
+                    # usually more efficient breaks:
                     #   SEG/WAEU "segue" (not SE/TKPWU/WAEU)
                     # This also helps to prevent very awkward breaks:
                     #   AB/SES "abscess" (not A/PWU/SES)
-                    if not outline: # building the first stroke
+                    if not outline:
                         yield from gen(rest, right, chord, outline+[stroke|Stroke('U')])
                 else:
                     yield from gen(pairs, False, NULL, outline+[stroke])
