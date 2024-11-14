@@ -46,7 +46,7 @@ def gen(pairs, right=False, stroke=NULL, outline=[]):
         # T      "it"
         # START  "start"
         # STAR/T "star it"
-        if stroke & (MID|RIGHT):
+        if stroke & MID or stroke & RIGHT:
             yield [*outline, stroke]
         return
 
