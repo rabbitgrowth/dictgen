@@ -76,6 +76,8 @@ def gen(pairs, right=False, stroke=NULL, outline=[]):
         return
 
     for prefix, rest in prefixes(pairs):
+        chord = None
+
         if not right:
             match prefix, rest:
                 case [(_, 'ʃ'), (_, 'r')], _:
@@ -86,18 +88,13 @@ def gen(pairs, right=False, stroke=NULL, outline=[]):
                     chord = Stroke('AE')
                 case [(_, sound)], _:
                     chord = NON_RIGHT_SOUNDS.get(sound)
-                    if chord is None:
-                        return
-                case _:
-                    return
         else:
             match prefix, rest:
                 case [(_, sound)], _:
                     chord = RIGHT_CONSONANTS.get(sound)
-                    if chord is None:
-                        return
-                case _:
-                    return
+
+        if chord is None:
+            return
 
         if chord & LEFT or chord & RIGHT:
             if in_steno_order(stroke, chord):
