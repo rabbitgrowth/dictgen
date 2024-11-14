@@ -48,7 +48,7 @@ def in_steno_order(a, b):
     return (not a or not b or Stroke(a.last()) < Stroke(b.first())) and (a, b) not in ODD_CASES
 
 def destress(pron):
-    return re.sub(r'([^əɪ])\u0301', r'\1', pron)
+    return re.sub(r'(?<![əɪ])\u0301|(?<=ɪ)\u0301(?=j)|(?<=ə)\u0301(?=w)', '', pron)
 
 def gen(pairs, right=False, stroke=NULL, outline=[]):
     if not pairs:
