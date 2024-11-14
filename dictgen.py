@@ -33,7 +33,7 @@ def prefixes(pairs):
     prefix = []
     for pair in pairs:
         prefix.append(pair)
-        yield tuple(prefix), tuple(pairs[len(prefix):])
+        yield prefix, pairs[len(prefix):]
 
 ODD_CASES = {
     (Stroke('SH'), Stroke('R')),
@@ -88,8 +88,8 @@ def gen(pairs, right=False, stroke=NULL, outline=[]):
         if chord & LEFT or chord & RIGHT:
             if in_steno_order(stroke, chord):
                 if right:
-                    yield from gen(rest, False, NULL, [*outline, stroke|chord])
-                yield from gen(rest, right, stroke|chord, [*outline])
+                    yield from gen(rest, False, NULL, outline+[stroke|chord])
+                yield from gen(rest, right, stroke|chord, outline)
             else:
                 if not right:
                     # If a word begins with a series of consonants that are out of steno order,
@@ -101,11 +101,11 @@ def gen(pairs, right=False, stroke=NULL, outline=[]):
                     # This also helps to prevent very awkward breaks:
                     #   AB/SES "abscess" (not A/PWU/SES)
                     if not outline: # building the first stroke
-                        yield from gen(rest, right, chord, [*outline, stroke|Stroke('U')])
+                        yield from gen(rest, right, chord, outline+[stroke|Stroke('U')])
                 else:
-                    yield from gen(pairs, False, NULL, [*outline, stroke])
+                    yield from gen(pairs, False, NULL, outline+[stroke])
         elif not right and chord & MID:
             # TODO
             # Vowel Omission Principle: omit all /ə/ and unstressed /ɪ/ in strokes after the first
-            yield from gen(rest, False, NULL, [*outline, stroke|chord])
-            yield from gen(rest, True, stroke|chord, [*outline])
+            yield from gen(rest, False, NULL, outline+[stroke|chord])
+            yield from gen(rest, True, stroke|chord, outline)
