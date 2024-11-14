@@ -1,8 +1,11 @@
 a A
-ə U
 o AU
+ɔ AU
 ɛ E
+ə U
+ə́ U
 ɪ EU
+ɪ́ EU
 ɛj AEU
 ɪj AOE
 ɑj AOEU

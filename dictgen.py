@@ -82,6 +82,10 @@ def gen(pairs, right=False, stroke=NULL, outline=[]):
             match prefix, rest:
                 case [('c', 's')], _:
                     chord = Stroke('KR')
+                case [(_, ('ə'|'ə́'))], _ if outline:
+                    chord = NULL
+                case [(_, 'ɪ')], _ if outline:
+                    chord = NULL
                 case [(_, 'ɪj')], [] if outline:
                     chord = Stroke('AE')
                 case [(_, sound)], _:
@@ -115,7 +119,7 @@ def gen(pairs, right=False, stroke=NULL, outline=[]):
                         yield from gen(rest, right, chord, outline+[stroke|Stroke('U')])
                 else:
                     yield from gen(pairs, False, NULL, outline+[stroke])
-        elif not right and chord & MID:
+        elif not right:
             short_vowel = SHORT_VOWELS.get(chord, chord)
             yield from gen(rest, False, NULL, outline+[stroke|short_vowel])
             yield from gen(rest, True, stroke|chord, outline)
