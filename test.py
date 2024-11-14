@@ -21,7 +21,7 @@ class TestDictgen(unittest.TestCase):
     def test_multistroke(self):
         self.T('h a h a h a', 'h a h a h a', 'HA/HA/HA')
 
-    def test_insert_schwa(self):
+    def test_consonants_out_of_steno_order(self):
         self.T('G w e n', 'g w ɛ́ n', 'TKPWU/WEPB')
         self.T('s e g u e', 's ɛ́ g w ɛj', 'SEG/WAEU')
 
