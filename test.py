@@ -1,6 +1,6 @@
 import unittest
 
-from dictgen import Stroke, gen
+from dictgen import Stroke, destress, gen
 
 class TestDictgen(unittest.TestCase):
     def test_gen(self):
@@ -10,7 +10,7 @@ class TestDictgen(unittest.TestCase):
                 par = par.strip()
                 word, pron, *outlines = par.splitlines()
                 letters = word.split()
-                symbols = pron.split()
+                symbols = destress(pron).split()
                 pairs = list(zip(letters, symbols, strict=True))
                 result = set(map(tuple, gen(pairs)))
                 expected = {
