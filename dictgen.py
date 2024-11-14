@@ -94,7 +94,7 @@ def gen(pairs, right=False, stroke=NULL, outline=[]):
                     chord = RIGHT_CONSONANTS.get(sound)
 
         if chord is None:
-            return
+            continue
 
         if chord & LEFT or chord & RIGHT:
             if in_steno_order(stroke, chord):
