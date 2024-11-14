@@ -29,5 +29,10 @@ class TestDictgen(unittest.TestCase):
         self.T('s l e d', 's l ɛ́ d', ['SHRED'])
         self.T('sh r e d', 'ʃ r ɛ́ d', ['SKHRED', 'SHU/RED'])
 
+    def test_orthographic_chord(self):
+        self.T('s e ll', 's ɛ́ l', ['SEL'])
+        self.T('c e ll', 's ɛ́ l', ['KREL'])
+        self.T('Sz e ll', 's ɛ́ l', ['SEL'])
+
 if __name__ == '__main__':
     unittest.main()
