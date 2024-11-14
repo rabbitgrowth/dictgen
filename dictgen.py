@@ -41,11 +41,14 @@ ODD_CASES = {
 }
 
 def in_steno_order(a, b):
-    # Reject cases that are technically in steno order but cause conflicts and
-    # don't feel right, like using SHR for shr-:
+    # Reject cases that are technically in steno order but cause conflicts
+    # and don't feel right, like using SHR for shr-:
     # SHRED  "sled"
     # SKHRED "shred" (or SHU/RED)
-    return (not a or not b or Stroke(a.last()) < Stroke(b.first())) and (a, b) not in ODD_CASES
+    return (
+        (not a or not b or Stroke(a.last()) < Stroke(b.first()))
+        and (a, b) not in ODD_CASES
+    )
 
 SHORT_VOWELS = {
     Stroke('AEU'):  Stroke('A'),
@@ -63,8 +66,8 @@ def destress(pron):
 
 def gen(pairs, right=False, stroke=NULL, outline=[]):
     if not pairs:
-        # Reject strokes with left-bank keys only, which don't form syllables and
-        # are reserved for briefs:
+        # Reject strokes with left-bank keys only, which don't form syllables
+        # and are reserved for briefs:
         # T      "it"
         # START  "start"
         # STAR/T "star it"
@@ -72,7 +75,7 @@ def gen(pairs, right=False, stroke=NULL, outline=[]):
             yield [*outline, stroke]
         return
 
-    consonants = LEFT_CONSONANTS if not right else RIGHT_CONSONANTS
+    consonants = [LEFT_CONSONANTS, RIGHT_CONSONANTS][right]
 
     for prefix, rest in prefixes(pairs):
         if not right:
