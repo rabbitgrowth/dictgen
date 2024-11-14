@@ -105,7 +105,5 @@ def gen(pairs, right=False, stroke=NULL, outline=[]):
                 else:
                     yield from gen(pairs, False, NULL, outline+[stroke])
         elif not right and chord & MID:
-            # TODO
-            # Vowel Omission Principle: omit all /ə/ and unstressed /ɪ/ in strokes after the first
             yield from gen(rest, False, NULL, outline+[stroke|chord])
             yield from gen(rest, True, stroke|chord, outline)
