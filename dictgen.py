@@ -80,14 +80,14 @@ def gen(pairs, right=False, stroke=NULL, outline=[]):
 
         if not right:
             match prefix, rest:
-                case [(_, 'ʃ'), (_, 'r')], _:
-                    chord = Stroke('SKHR')
                 case [('c', 's')], _:
                     chord = Stroke('KR')
                 case [(_, 'ɪj')], [] if outline:
                     chord = Stroke('AE')
                 case [(_, sound)], _:
                     chord = NON_RIGHT_SOUNDS.get(sound)
+                case [(_, 'ʃ'), (_, 'r')], _:
+                    chord = Stroke('SKHR')
         else:
             match prefix, rest:
                 case [(_, sound)], _:
