@@ -1,6 +1,31 @@
 import re
+from dataclasses import dataclass
 
 from plover_stroke import BaseStroke
+
+@dataclass
+class Sound:
+    symbols: str
+    stressed: bool
+    length: int
+    letters: str
+
+VOWEL = re.compile(r'([aɑɛɪɔoɵʉʌə])(\u0301?)([ːjw]?)')
+
+def parse_pairs(pairs):
+    sounds = []
+    for letters, symbols in pairs:
+        match = VOWEL.match(symbols)
+        if match:
+            first, stress, second = match.groups()
+            symbols = first + second
+            stressed = bool(stress)
+            length = len(symbols)
+        else:
+            stressed = False
+            length = 0
+        sounds.append(Sound(symbols, stressed, length, letters))
+    return sounds
 
 class Stroke(BaseStroke):
     pass
@@ -27,8 +52,6 @@ LEFT_CONSONANTS, VOWELS, RIGHT_CONSONANTS = (
     for basename in ['left', 'mid', 'right']
 )
 
-NON_RIGHT_SOUNDS = LEFT_CONSONANTS | VOWELS
-
 def prefixes(pairs):
     prefix = []
     for pair in pairs:
@@ -49,77 +72,3 @@ def in_steno_order(a, b):
         (not a or not b or Stroke(a.last()) < Stroke(b.first()))
         and (a, b) not in ODD_CASES
     )
-
-SHORT_VOWELS = {
-    Stroke('AEU'):  Stroke('A'),
-    Stroke('AOE'):  Stroke('E'),
-    Stroke('AOEU'): Stroke('EU'),
-    Stroke('OE'):   Stroke('O'),
-}
-
-def destress(pron):
-    return re.sub(r'''
-          (?<![əɪ]) \u0301
-        | (?<=ɪ) \u0301 (?=j)
-        | (?<=ə) \u0301 (?=w)
-    ''', '', pron, flags=re.VERBOSE)
-
-def gen(pairs, right=False, stroke=NULL, outline=[]):
-    if not pairs:
-        # Reject strokes with left-bank keys only, which don't form syllables
-        # and are reserved for briefs:
-        # T      "it"
-        # START  "start"
-        # STAR/T "star it"
-        if stroke & MID or stroke & RIGHT:
-            yield [*outline, stroke]
-        return
-
-    for prefix, rest in prefixes(pairs):
-        chord = None
-
-        if not right:
-            match prefix, rest:
-                case [('c', 's')], _:
-                    chord = Stroke('KR')
-                case [(_, ('ə'|'ə́'))], _ if outline:
-                    chord = NULL
-                case [(_, 'ɪ')], _ if outline:
-                    chord = NULL
-                case [(_, 'ɪj')], [] if outline:
-                    chord = Stroke('AE')
-                case [(_, sound)], _:
-                    chord = NON_RIGHT_SOUNDS.get(sound)
-                case [(_, 'ʃ'), (_, 'r')], _:
-                    chord = Stroke('SKHR')
-        else:
-            match prefix, rest:
-                case [(_, sound)], _:
-                    chord = RIGHT_CONSONANTS.get(sound)
-
-        if chord is None:
-            continue
-
-        if chord & LEFT or chord & RIGHT:
-            if in_steno_order(stroke, chord):
-                if right:
-                    yield from gen(rest, False, NULL, outline+[stroke|chord])
-                yield from gen(rest, right, stroke|chord, outline)
-            else:
-                if not right:
-                    # If a word begins with a series of consonants that are out of
-                    # steno order, insert schwas in between:
-                    #   TKPWU/WEPB "Gwen"
-                    # This rule doesn't apply in the middle of a word, where there are
-                    # usually more efficient breaks:
-                    #   SEG/WAEU "segue" (not SE/TKPWU/WAEU)
-                    # This also helps to prevent very awkward breaks:
-                    #   AB/SES "abscess" (not A/PWU/SES)
-                    if not outline:
-                        yield from gen(rest, right, chord, outline+[stroke|Stroke('U')])
-                else:
-                    yield from gen(pairs, False, NULL, outline+[stroke])
-        elif not right:
-            short_vowel = SHORT_VOWELS.get(chord, chord)
-            yield from gen(rest, False, NULL, outline+[stroke|short_vowel])
-            yield from gen(rest, True, stroke|chord, outline)
