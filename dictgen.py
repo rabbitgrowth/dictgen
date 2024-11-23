@@ -75,10 +75,10 @@ def is_possible_coda(consonant_cluster):
     return True
 
 def combine(nodes):
-    result = [[]]
+    products = [[]]
     for node in nodes:
-        result = [product+choice for product in result for choice in node]
-    return result
+        products = [product+choice for product in products for choice in node]
+    return products
 
 def syllabify(sounds):
     consonant_clusters, vowels = separate(sounds)
