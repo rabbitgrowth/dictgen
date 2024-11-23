@@ -32,7 +32,7 @@ class Sound:
 
     def __repr__(self):
         stress_mark = "'" if self.stressed else ''
-        return '/' + stress_mark + self.symbols + '/'
+        return stress_mark + self.symbols
 
 VOWEL = re.compile(r'([aɑɛɪɔoɵʉʌə])(\u0301?)([ːjw]?)')
 
