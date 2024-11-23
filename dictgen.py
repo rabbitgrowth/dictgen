@@ -40,12 +40,12 @@ def to_sounds(pairs):
     sounds = []
     for letters, symbols in pairs:
         match = VOWEL.match(symbols)
-        if match:
+        if match: # vowel
             first, stress, second = match.groups()
             symbols = first + second
             stressed = bool(stress)
             length = len(symbols)
-        else:
+        else: # consonant
             stressed = False
             length = 0
         sounds.append(Sound(symbols, stressed, length, letters))
