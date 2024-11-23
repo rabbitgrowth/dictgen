@@ -21,14 +21,14 @@ class Sound:
 
     # TODO don't just check stress?
     def __eq__(self, other):
-        if not isinstance(other, Sound):
-            return NotImplemented
-        return self.stressed == other.stressed
+        if isinstance(other, Sound):
+            return self.stressed == other.stressed
+        return NotImplemented
 
     def __lt__(self, other):
-        if not isinstance(other, Sound):
-            return NotImplemented
-        return not self.stressed and other.stressed
+        if isinstance(other, Sound):
+            return not self.stressed and other.stressed
+        return NotImplemented
 
     def __repr__(self):
         stress_mark = "'" if self.stressed else ''
