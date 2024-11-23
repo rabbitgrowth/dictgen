@@ -15,5 +15,6 @@ z -Z
 ŋ -PBG
 ʃ -GS
 θ -GT
+ð -GT
 ʧ -FP
 ʤ -PBLG
