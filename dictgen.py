@@ -68,7 +68,5 @@ def in_steno_order(a, b):
     # and don't feel right, like using SHR for shr-:
     # SHRED  "sled"
     # SKHRED "shred" (or SHU/RED)
-    return (
-        (not a or not b or Stroke(a.last()) < Stroke(b.first()))
-        and (a, b) not in ODD_CASES
-    )
+    return ((not a or not b or Stroke(a.last()) < Stroke(b.first()))
+            and (a, b) not in ODD_CASES)
