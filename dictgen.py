@@ -101,6 +101,7 @@ def syllabify(sounds):
                       for coda, onset in divisions
                       if is_possible_coda(coda) and is_possible_onset(onset)])
     final_consonant_cluster = next(consonant_clusters)
+    assert next(consonant_clusters, None) is None
     parts.extend([[[right_vowel]], [final_consonant_cluster]])
     return combine(parts)
 
