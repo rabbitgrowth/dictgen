@@ -133,7 +133,7 @@ LEFT_CONSONANTS, VOWELS, RIGHT_CONSONANTS = (read_chords(f'chords/{stem}.txt')
 
 ODD_CASES = {
     (Stroke('SH'), Stroke('R')),
-    (Stroke('-P'), Stroke('-L')),
+    # TODO add more cases like T + P and -P + -L?
 }
 
 def in_steno_order(a, b):
