@@ -1,37 +1,60 @@
-All single-consonant phonemes except /ŋ/	
-Stop plus approximant other than /j/:
-/pl/, /bl/, /kl/, /ɡl/, /pr/, /br/, /tr/,[a] /dr/,[a] /kr/, /ɡr/, /tw/, /dw/, /ɡw/, /kw/, /pw/
-
-play, blood, clean, glove, prize, bring, tree,[a] dream,[a] crowd, green, twin, dwarf, Guam, quick, puissance
-Voiceless fricative or /v/ plus approximant other than /j/:[b]
-/fl/, /sl/, /θl/,[c] /ʃl/, /fr/, /θr/, /ʃr/, /hw/,[d] /sw/, /θw/, /vw/
-
-floor, sleep, thlipsis,[c] schlep, friend, three, shrimp, what,[d] swoon, thwart, voilà
-Consonant other than /r/ or /w/ plus /j/ (before /uː/ or its modified/reduced forms):[e]
-/pj/, /bj/, /tj/,[e] /dj/,[e] /kj/, /ɡj/, /mj/, /nj/,[e] /fj/, /vj/, /θj/,[e] /sj/,[e] /zj/,[e] /hj/, /lj/[e]
-
-pure, beautiful, tube,[e] during,[e] cute, argue, music, new,[e] few, view, thew,[e] suit,[e] Zeus,[e] huge, lurid[e]
-/s/ plus voiceless stop:[f]
-/sp/, /st/, /sk/
-
-speak, stop, skill
-/s/ plus nasal other than /ŋ/:[f]
-/sm/, /sn/
-
-smile, snow
-/s/ plus voiceless non-sibilant fricative:[c]
-/sf/, /sθ/
-
-sphere, sthenic
-/s/ plus voiceless stop plus approximant:[f]
-/spl/, /skl/,[c] /spr/, /str/, /skr/, /skw/, /spj/, /stj/,[e] /skj/
-
-split, sclera, spring, street, scream, square, spew, student,[e] skewer
-/s/ plus nasal plus approximant:
-/smj/ /snj/
-
-smew, snew[g]
-/s/ plus voiceless non-sibilant fricative plus approximant:[c]
-/sfr/
-
-sphragistics
+pl
+bl
+kl
+ɡl
+pr
+br
+tr
+dr
+kr
+ɡr
+tw
+dw
+ɡw
+kw
+pw
+fl
+sl
+θl
+ʃl
+fr
+θr
+ʃr
+hw
+sw
+θw
+vw
+pj
+bj
+tj
+dj
+kj
+ɡj
+mj
+nj
+fj
+vj
+θj
+sj
+zj
+hj
+lj
+sp
+st
+sk
+sm
+sn
+sf
+sθ
+spl
+skl
+spr
+str
+skr
+skw
+spj
+stj
+skj
+smj
+snj
+sfr

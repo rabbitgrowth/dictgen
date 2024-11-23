@@ -1,22 +1,107 @@
-The single consonant phonemes except /h/, /w/, /j/ and, in non-rhotic varieties, /r/	 
-Lateral approximant plus stop or affricate: /lp/, /lb/, /lt/, /ld/, /ltʃ/, /ldʒ/, /lk/	help, bulb, belt, hold, belch, indulge, milk
-In rhotic varieties, /r/ plus stop or affricate: /rp/, /rb/, /rt/, /rd/, /rtʃ/, /rdʒ/, /rk/, /rɡ/	harp, orb, fort, beard, arch, large, mark, morgue
-Lateral approximant + fricative: /lf/, /lv/, /lθ/, /ls/, /lz/, /lʃ/, (/lð/)	golf, solve, wealth, else, bells, Welsh, (stealth (v.))
-In rhotic varieties, /r/ + fricative: /rf/, /rv/, /rθ/, /rð/, /rs/, /rz/, /rʃ/	dwarf, carve, north, birth (v.), force, Mars, marsh
-Lateral approximant + nasal: /lm/, /ln/	film, kiln
-In rhotic varieties, /r/ + nasal or lateral: /rm/, /rn/, /rl/	arm, born, snarl
-Nasal + homorganic stop or affricate: /mp/, /nt/, /nd/, /ntʃ/, /ndʒ/, /ŋk/; some varieties also allow /ŋg/	jump, tent, end, lunch, lounge, pink, sing
-Nasal + fricative: /mf/, /mz/, /mθ/, (/nf/), /nθ/, (/ns/), /nz/, /ŋz/; some varieties also allow /ŋθ/	triumph, Thames, warmth, (saunf), month, (prince), bronze, songs, length, strength
-Voiceless fricative plus voiceless stop: /ft/, /sp/, /st/, /sk/, /ʃt/, /θt/	left, crisp, lost, ask, smashed, smithed
-Voiced fricative plus voiced stop: /zd/, /ðd/	blazed, writhed
-Two or three voiceless fricatives: /fθ/, /fθs/	fifth, fifths
-Two voiceless stops: /pt/, /kt/	opt, act
-Two voiceless stops + fricative: /pts/, /kts/	opts, acts
-Stop plus fricative: /pθ/, /ps/, /bz/, /tθ/, /ts/, /dθ/, /dz/, /ks/, /gz/	depth, lapse, ebbs, eighth, klutz, width, adze, box, eggs
-Lateral approximant + two or three consonants: /lmd/, /lpt/, /lps/, /lfθ/, /lts/, /lst/, /lkt/, /lks/	filmed, sculpt, alps, twelfth,[a] waltz, whilst, mulct, calx
-In rhotic varieties, /r/ + two consonants: /rmd/, /rmθ/, /rpt/, /rps/, /rnd/, /rts/, /rst/, /rld/, /rkt/, /rks/	farmed, warmth, excerpt, corpse, mourned, quartz, horst, world, infarct, irks
-Nasal + homorganic stop + stop or fricative: /mpt/, /mps/, /nts/, /ntθ/, /ŋkt/, /ŋks/, /ŋkθ/ in some varieties	prompt, glimpse, chintz, thousandth, distinct, jinx, length
-Nasal + homorganic stop + two fricatives: /ntθs/	thousandths
-Nasal + non-homorganic stop: /mt/, /md/, /ŋd/	dreamt, hemmed, hanged
-Three obstruents: /ksθ/, /kst/	sixth, next
-Four obstruents: /ksθs/, /ksθt/, /ksts/	sixths, sixthed, texts
+lp
+lb
+lt
+ld
+ltʃ
+ldʒ
+lk
+rp
+rb
+rt
+rd
+rtʃ
+rdʒ
+rk
+rɡ
+lf
+lv
+lθ
+ls
+lz
+lʃ
+lð
+rf
+rv
+rθ
+rð
+rs
+rz
+rʃ
+lm
+ln
+rm
+rn
+rl
+mp
+nt
+nd
+ntʃ
+ndʒ
+ŋk
+ŋg
+mf
+mz
+mθ
+nf
+nθ
+ns
+nz
+ŋz
+ŋθ
+ft
+sp
+st
+sk
+ʃt
+θt
+zd
+ðd
+fθ
+fθs
+pt
+kt
+pts
+kts
+pθ
+ps
+bz
+tθ
+ts
+dθ
+dz
+ks
+gz
+lmd
+lpt
+lps
+lfθ
+lts
+lst
+lkt
+lks
+rmd
+rmθ
+rpt
+rps
+rnd
+rts
+rst
+rld
+rkt
+rks
+mpt
+mps
+nts
+ntθ
+ŋkt
+ŋks
+ŋkθ
+ntθs
+mt
+md
+ŋd
+ksθ
+kst
+ksθs
+ksθt
+ksts
