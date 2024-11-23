@@ -134,10 +134,8 @@ def read_chords(file):
             chords[symbols] = Stroke(chord)
     return chords
 
-LEFT_CONSONANTS, VOWELS, RIGHT_CONSONANTS = (
-    read_chords(f'chords/{stem}.txt')
-    for stem in ['left', 'mid', 'right']
-)
+LEFT_CONSONANTS, VOWELS, RIGHT_CONSONANTS = (read_chords(f'chords/{stem}.txt')
+                                             for stem in ['left', 'mid', 'right'])
 
 ODD_CASES = {
     (Stroke('SH'), Stroke('R')),
