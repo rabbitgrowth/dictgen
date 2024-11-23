@@ -67,12 +67,21 @@ def separate(sounds):
         raise ValueError('no vowel')
     return consonant_clusters, vowels
 
-# TODO
+def read_clusters(file):
+    with open(file) as f:
+        return set(map(str.strip, f))
+
+ONSETS, CODAS = (read_clusters(f'clusters/{basename}.txt')
+                 for basename in ['onsets', 'codas'])
+
+def join(sounds):
+    return ''.join(sound.symbols for sound in sounds)
+
 def is_possible_onset(consonant_cluster):
-    return True
+    return join(consonant_cluster) in ONSETS
 
 def is_possible_coda(consonant_cluster):
-    return True
+    return join(consonant_cluster) in CODAS
 
 def combine(parts):
     products = [[]]
