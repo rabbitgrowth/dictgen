@@ -71,8 +71,8 @@ def read_clusters(file):
     with open(file) as f:
         return set(map(str.strip, f))
 
-ONSETS, CODAS = (read_clusters(f'clusters/{basename}.txt')
-                 for basename in ['onsets', 'codas'])
+ONSETS, CODAS = (read_clusters(f'clusters/{stem}.txt')
+                 for stem in ['onsets', 'codas'])
 
 def join(sounds):
     return ''.join(sound.symbols for sound in sounds)
@@ -135,8 +135,8 @@ def read_chords(file):
     return chords
 
 LEFT_CONSONANTS, VOWELS, RIGHT_CONSONANTS = (
-    read_chords(f'chords/{basename}.txt')
-    for basename in ['left', 'mid', 'right']
+    read_chords(f'chords/{stem}.txt')
+    for stem in ['left', 'mid', 'right']
 )
 
 ODD_CASES = {
