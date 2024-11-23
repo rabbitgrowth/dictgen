@@ -76,11 +76,11 @@ ONSETS, CODAS = (read_clusters(f'clusters/{stem}.txt')
 def to_string(sounds):
     return ''.join(sound.symbols for sound in sounds)
 
-def is_possible_onset(consonant_cluster):
-    return to_string(consonant_cluster) in ONSETS
+def is_possible_onset(sounds):
+    return not sounds or to_string(sounds) in ONSETS
 
-def is_possible_coda(consonant_cluster):
-    return to_string(consonant_cluster) in CODAS
+def is_possible_coda(sounds):
+    return not sounds or to_string(sounds) in CODAS
 
 def combine(parts):
     products = [[]]
