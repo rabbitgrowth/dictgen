@@ -1,7 +1,6 @@
 import re
 from dataclasses import dataclass
 from functools import total_ordering
-from itertools import pairwise
 
 from plover_stroke import BaseStroke
 
@@ -91,27 +90,22 @@ def combine(parts):
 
 def syllabify(sounds):
     consonant_clusters, vowels = separate(sounds)
-    assert len(consonant_clusters) >= 2
-    assert len(vowels) >= 1
-    consonant_clusters = iter(consonant_clusters)
-    initial_consonant_cluster = next(consonant_clusters)
-    parts = [[initial_consonant_cluster]]
-    right_vowel = vowels[0] # default for the shortest case
-                            # (consonant cluster, vowel, consonant cluster)
-    for (left_vowel, right_vowel), consonant_cluster in zip(pairwise(vowels),
-                                                            consonant_clusters):
-        parts.append([[left_vowel]])
-        divisions = divide(consonant_cluster)
-        if left_vowel > right_vowel:
-            divisions.pop(0) # stronger left vowel attracts at least one consonant
-        elif left_vowel < right_vowel:
-            divisions.pop() # stronger right vowel attracts at least one consonant
-        parts.append([[*coda, None, *onset]
-                      for coda, onset in divisions
-                      if is_possible_coda(coda) and is_possible_onset(onset)])
-    final_consonant_cluster = next(consonant_clusters)
-    assert not list(consonant_clusters)
-    parts.extend([[[right_vowel]], [final_consonant_cluster]])
+    parts = [[consonant_clusters.pop(0)]]
+    prev = None
+    for vowel, consonant_cluster in zip(vowels, consonant_clusters, strict=True):
+        if prev is not None:
+            prev_vowel, prev_consonant_cluster = prev
+            parts.append([[prev_vowel]])
+            divisions = divide(prev_consonant_cluster)
+            if prev_vowel > vowel:
+                divisions.pop(0) # stronger left vowel attracts at least one consonant
+            elif prev_vowel < vowel:
+                divisions.pop() # stronger right vowel attracts at least one consonant
+            parts.append([[*coda, None, *onset]
+                          for coda, onset in divisions
+                          if is_possible_coda(coda) and is_possible_onset(onset)])
+        prev = vowel, consonant_cluster
+    parts.extend([[[vowel]], [consonant_cluster]])
     return combine(parts)
 
 class Stroke(BaseStroke):
