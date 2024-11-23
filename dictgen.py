@@ -74,10 +74,10 @@ def is_possible_onset(consonant_cluster):
 def is_possible_coda(consonant_cluster):
     return True
 
-def combine(nodes):
+def combine(parts):
     products = [[]]
-    for node in nodes:
-        products = [product+choice for product in products for choice in node]
+    for part in parts:
+        products = [product+choice for product in products for choice in part]
     return products
 
 def syllabify(sounds):
@@ -86,23 +86,23 @@ def syllabify(sounds):
     assert len(vowels) >= 1
     consonant_clusters = iter(consonant_clusters)
     initial_consonant_cluster = next(consonant_clusters)
-    nodes = [[initial_consonant_cluster]]
+    parts = [[initial_consonant_cluster]]
     right_vowel = vowels[0] # default for the shortest case
                             # (consonant cluster, vowel, consonant cluster)
     for (left_vowel, right_vowel), consonant_cluster in zip(pairwise(vowels),
                                                             consonant_clusters):
-        nodes.append([[left_vowel]])
+        parts.append([[left_vowel]])
         divisions = divide(consonant_cluster)
         if left_vowel > right_vowel:
             divisions.pop(0) # stronger left vowel attracts at least one consonant
         elif left_vowel < right_vowel:
             divisions.pop() # stronger right vowel attracts at least one consonant
-        nodes.append([[*coda, None, *onset]
+        parts.append([[*coda, None, *onset]
                       for coda, onset in divisions
                       if is_possible_coda(coda) and is_possible_onset(onset)])
     final_consonant_cluster = next(consonant_clusters)
-    nodes.extend([[[right_vowel]], [final_consonant_cluster]])
-    return combine(nodes)
+    parts.extend([[[right_vowel]], [final_consonant_cluster]])
+    return combine(parts)
 
 class Stroke(BaseStroke):
     pass
