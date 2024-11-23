@@ -12,7 +12,7 @@ class Sound:
 
 VOWEL = re.compile(r'([aɑɛɪɔoɵʉʌə])(\u0301?)([ːjw]?)')
 
-def parse_pairs(pairs):
+def to_sounds(pairs):
     sounds = []
     for letters, symbols in pairs:
         match = VOWEL.match(symbols)
