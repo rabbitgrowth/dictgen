@@ -131,6 +131,8 @@ def read_chords(file):
 LEFT_CONSONANTS, VOWELS, RIGHT_CONSONANTS = (read_chords(f'chords/{stem}.txt')
                                              for stem in ['left', 'mid', 'right'])
 
+NON_RIGHT_SOUNDS = LEFT_CONSONANTS | VOWELS
+
 ODD_CASES = {
     (Stroke('SH'), Stroke('R')),
     # TODO add more cases like T + P and -P + -L?
@@ -143,3 +145,46 @@ def in_steno_order(a, b):
     # SKHRED "shred" (or SHU/RED)
     return ((not a or not b or Stroke(a.last()) < Stroke(b.first()))
             and (a, b) not in ODD_CASES)
+
+def crosses_boundary(chord):
+    last = Stroke(chord.last())
+    return last & MID or last & RIGHT
+
+def gen(sounds, right=False, stroke=NULL, outline=[]):
+    if not sounds:
+        return {tuple(outline+[stroke])}
+
+    sound, *rest = sounds
+
+    if sound is None:
+        return gen(rest, False, NULL, outline+[stroke])
+
+    matches = []
+
+    match sounds:
+        case [Sound('ʃ'), Sound('r'), *rest]:
+            matches.append((Stroke('SKHR'), rest))
+        # ...
+
+    match sounds:
+        # ...
+        case [sound, *rest]:
+            pool = [NON_RIGHT_SOUNDS, RIGHT_CONSONANTS][right]
+            chord = pool.get(sound.symbols)
+            if chord is None:
+                return set()
+            matches.append((chord, rest))
+
+    results = set()
+
+    for chord, rest in matches:
+        if crosses_boundary(chord):
+            right = True
+        if in_steno_order(stroke, chord):
+            results |= gen(rest, right, stroke|chord, outline)
+        else:
+            if not right:
+                stroke |= Stroke('U')
+            results |= gen(rest, right, chord, outline+[stroke])
+
+    return results
