@@ -117,7 +117,6 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
         return gen(rest, False, NULL, outline+[stroke])
 
     matches = []
-
     if not right:
         match sounds:
             case [Sound('ʃ'), Sound('r'), *rest]:
