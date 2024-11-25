@@ -2,9 +2,9 @@ import re
 from dataclasses import dataclass
 from functools import total_ordering
 
-from stroke import Stroke
 from chords import NON_RIGHT_CHORDS, RIGHT_CHORDS
 from clusters import ONSETS, CODAS
+from stroke import Stroke
 
 def divide(lst):
     return [(lst[:i], lst[i:]) for i in range(len(lst)+1)]
