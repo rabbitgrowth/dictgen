@@ -130,6 +130,10 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
                 matches.append((chord, rest))
     else:
         match sounds:
+            case [Sound('m'), Sound('p'), *rest]:
+                matches.append((Stroke('-FPL'), rest))
+            case [Sound('s'), Sound('t'), *rest]:
+                matches.append((Stroke('-SZ'), rest)) # TODO change to *S
             case [Sound(), *rest]:
                 chord = RIGHT_CHORDS.get(sound.ipa)
                 matches.append((chord, rest))

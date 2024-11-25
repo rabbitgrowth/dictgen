@@ -44,8 +44,16 @@ class TestDictgen(unittest.TestCase):
     def test_left_vowel_attracts_consonant(self):
         self.T('f o ll ow', 'f ɔ́ l əw', 'TPAUL/OE')
 
+    @unittest.expectedFailure
+    def test_left_vowel_attracts_consonants(self):
+        # TODO te doesn't really correspond to t here
+        self.T('i n te r e s t', 'ɪ́ n t r ɛ s t', 'EUPB/TR*ES EUPBT/R*ES')
+
     def test_right_vowel_attracts_consonant(self):
         self.T('a b ou t', 'ə b áw t', 'U/PWOUT')
+
+    def test_right_vowel_attracts_consonants(self):
+        self.T('c o m p l e te', 'k ə m p l ɪ́j t', 'KUPL/PHRAOET KUFPL/HRAOET')
 
 if __name__ == '__main__':
     unittest.main()
