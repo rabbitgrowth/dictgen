@@ -18,12 +18,12 @@ class TestDictgen(unittest.TestCase):
         }
         self.assertEqual(result, expected)
 
-    def test_basic(self):
+    def test_cvc(self):
         self.T('c a t', 'k á t', 'KAT')
-        self.T('s t r a p', 's t r á p', 'STRAP')
+        self.T('d o g', 'd ɔ́ g', 'TKAUG')
 
-    def test_multistroke(self):
-        self.T('h a h a h a', 'h a h a h a', 'HA/HA/HA')
+    def test_ccvcc(self):
+        self.T('s c r i p t', 's k r ɪ́ p t', 'SKREUPT')
 
     def test_consonants_out_of_steno_order(self):
         self.T('G w e n', 'g w ɛ́ n', 'TKPWU/WEPB')
