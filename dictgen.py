@@ -10,8 +10,8 @@ def divide(lst):
 @dataclass
 @total_ordering
 class Sound:
-    symbols: str
-    letters: str
+    ipa: str
+    spelling: str
     stressed: bool
     length: int
 
@@ -31,23 +31,23 @@ class Sound:
 
     def __repr__(self):
         stress_mark = "'" if self.stressed else ''
-        return stress_mark + self.symbols
+        return stress_mark + self.ipa
 
 VOWEL = re.compile(r'([aɑɛɪɔoɵʉʌə])(\u0301?)([ːjw]?)')
 
 def to_sounds(pairs):
     sounds = []
-    for letters, symbols in pairs:
-        match = VOWEL.match(symbols)
+    for spelling, ipa in pairs:
+        match = VOWEL.match(ipa)
         if match: # vowel
             first, stress, second = match.groups()
-            symbols = first + second
+            ipa = first + second
             stressed = bool(stress)
-            length = len(symbols)
+            length = len(ipa)
         else: # consonant
             stressed = False
             length = 0
-        sounds.append(Sound(symbols, letters, stressed, length))
+        sounds.append(Sound(ipa, spelling, stressed, length))
     return sounds
 
 def separate(sounds):
@@ -74,7 +74,7 @@ ONSETS, CODAS = (read_clusters(f'clusters/{stem}.txt')
                  for stem in ['onsets', 'codas'])
 
 def to_string(sounds):
-    return ''.join(sound.symbols for sound in sounds)
+    return ''.join(sound.ipa for sound in sounds)
 
 def is_possible_onset(sounds):
     return not sounds or to_string(sounds) in ONSETS
@@ -124,8 +124,8 @@ def read_chords(file):
     with open(file) as f:
         chords = {}
         for line in f:
-            symbols, chord = line.strip().split()
-            chords[symbols] = Stroke(chord)
+            ipa, chord = line.strip().split()
+            chords[ipa] = Stroke(chord)
     return chords
 
 LEFT_CONSONANTS, VOWELS, RIGHT_CONSONANTS = (read_chords(f'chords/{stem}.txt')
@@ -171,7 +171,7 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
         # ...
         case [sound, *rest]:
             pool = [NON_RIGHT_SOUNDS, RIGHT_CONSONANTS][right]
-            chord = pool.get(sound.symbols)
+            chord = pool.get(sound.ipa)
             if chord is None:
                 return set()
             matches.append((chord, rest))
