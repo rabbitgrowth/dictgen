@@ -4,9 +4,6 @@ from chords import NON_RIGHT_CHORDS, RIGHT_CHORDS
 from clusters import ONSETS, CODAS
 from stroke import Stroke
 
-def divide(lst):
-    return [(lst[:i], lst[i:]) for i in range(len(lst)+1)]
-
 class Sound:
     __match_args__ = ('ipa', 'spelling')
 
@@ -50,6 +47,9 @@ def separate(sounds):
     if not vowels:
         raise ValueError('no vowel')
     return consonant_clusters, vowels
+
+def divide(sounds):
+    return [(sounds[:i], sounds[i:]) for i in range(len(sounds)+1)]
 
 def to_string(sounds):
     return ''.join(sound.ipa for sound in sounds)
