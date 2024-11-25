@@ -25,13 +25,13 @@ class TestDictgen(unittest.TestCase):
     def test_ccvcc(self):
         self.T('s c r i p t', 's k r ɪ́ p t', 'SKREUPT')
 
-    def test_consonants_out_of_steno_order(self):
-        self.T('G w e n', 'g w ɛ́ n', 'TKPWU/WEPB')
-        self.T('s e g u e', 's ɛ́ g w ɛj', 'SEG/WAEU')
-
     def test_compound_sounds(self):
         self.T('s l e d', 's l ɛ́ d', 'SHRED')
         self.T('sh r e d', 'ʃ r ɛ́ d', 'SKHRED SHU/RED')
+
+    def test_consonants_out_of_steno_order(self):
+        self.T('G w e n', 'g w ɛ́ n', 'TKPWU/WEPB')
+        self.T('s e g u e', 's ɛ́ g w ɛj', 'SEG/WAEU')
 
 if __name__ == '__main__':
     unittest.main()
