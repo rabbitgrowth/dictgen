@@ -32,7 +32,7 @@ class Sound:
         stress_mark = 'ˈ' if self.stressed else ''
         return stress_mark + self.ipa
 
-def separate(sounds):
+def group(sounds):
     consonant_clusters = []
     consonant_cluster = []
     vowels = []
@@ -67,7 +67,7 @@ def combine(parts):
     return products
 
 def syllabify(sounds):
-    consonant_clusters, vowels = separate(sounds)
+    consonant_clusters, vowels = group(sounds)
     parts = [[consonant_clusters.pop(0)]]
     prev = None
     for vowel, consonant_cluster in zip(vowels, consonant_clusters, strict=True):
