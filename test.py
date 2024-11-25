@@ -1,13 +1,17 @@
 import unittest
 
-from dictgen import Stroke, destress, gen
+from stroke import Stroke
+from dictgen import to_sounds, syllabify, gen
 
 class TestDictgen(unittest.TestCase):
     def T(self, word, pron, outlines):
-        letters = word.split()
-        symbols = destress(pron).split()
-        pairs = list(zip(letters, symbols, strict=True))
-        result = set(map(tuple, gen(pairs)))
+        pairs = zip(word.split(), pron.split(), strict=True)
+        sounds = to_sounds(pairs)
+        result = {
+            outline
+            for syllabification in syllabify(sounds)
+            for outline in gen(syllabification)
+        }
         expected = {
             tuple(map(Stroke, outline.strip().split('/')))
             for outline in outlines.split()
