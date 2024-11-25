@@ -147,6 +147,7 @@ def in_steno_order(a, b):
             and (a, b) not in ODD_CASES)
 
 def crosses_boundary(chord):
+    # TODO handle null chord from VOP
     last = Stroke(chord.last())
     return last & MID or last & RIGHT
 
