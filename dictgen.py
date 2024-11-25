@@ -21,9 +21,6 @@ class Sound:
     def stronger_than(self, other):
         return self.stressed and not other.stressed
 
-    def weaker_than(self, other):
-        return not self.stressed and other.stressed
-
     def __repr__(self):
         stress_mark = "'" if self.stressed else ''
         return stress_mark + self.ipa
@@ -91,7 +88,7 @@ def syllabify(sounds):
             divisions = divide(prev_consonant_cluster)
             if prev_vowel.stronger_than(vowel):
                 divisions.pop(0) # stronger left vowel attracts at least one consonant
-            elif prev_vowel.weaker_than(vowel):
+            elif vowel.stronger_than(prev_vowel):
                 divisions.pop() # stronger right vowel attracts at least one consonant
             parts.append([[*coda, None, *onset]
                           for coda, onset in divisions
