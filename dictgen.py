@@ -127,20 +127,18 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
                 matches.append((Stroke('OEUGT'), rest))
             case [Sound(), *rest]:
                 chord = NON_RIGHT_CHORDS.get(sound.ipa)
-                if chord is None:
-                    return set()
                 matches.append((chord, rest))
     else:
         match sounds:
             case [Sound(), *rest]:
                 chord = RIGHT_CHORDS.get(sound.ipa)
-                if chord is None:
-                    return set()
                 matches.append((chord, rest))
 
     results = set()
 
     for chord, rest in matches:
+        if chord is None:
+            return set()
         if crosses_boundary(chord):
             right = True
         if in_steno_order(stroke, chord):
