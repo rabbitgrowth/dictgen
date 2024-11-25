@@ -7,7 +7,7 @@ from stroke import Stroke
 VOWEL = re.compile(r'([aɑɛɪɔoɵʉʌə])(\u0301?)([ːjw]?)')
 
 class Sound:
-    __match_args__ = ('ipa', 'spelling')
+    __match_args__ = 'ipa', 'spelling'
 
     def __init__(self, ipa, spelling):
         vowel = VOWEL.match(ipa)
