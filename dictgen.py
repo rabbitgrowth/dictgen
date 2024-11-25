@@ -118,19 +118,25 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
 
     matches = []
 
-    match sounds:
-        case [Sound('ʃ'), Sound('r'), *rest]:
-            matches.append((Stroke('SKHR'), rest))
-
-    match sounds:
-        case [Sound('ɑj', 'igh'), Sound('t', 't'), *rest]:
-            matches.append((Stroke('OEUGT'), rest))
-        case [Sound(), *rest]:
-            chords = [NON_RIGHT_CHORDS, RIGHT_CHORDS][right]
-            chord = chords.get(sound.ipa)
-            if chord is None:
-                return set()
-            matches.append((chord, rest))
+    if not right:
+        match sounds:
+            case [Sound('ʃ'), Sound('r'), *rest]:
+                matches.append((Stroke('SKHR'), rest))
+        match sounds:
+            case [Sound('ɑj', 'igh'), Sound('t', 't'), *rest]:
+                matches.append((Stroke('OEUGT'), rest))
+            case [Sound(), *rest]:
+                chord = NON_RIGHT_CHORDS.get(sound.ipa)
+                if chord is None:
+                    return set()
+                matches.append((chord, rest))
+    else:
+        match sounds:
+            case [Sound(), *rest]:
+                chord = RIGHT_CHORDS.get(sound.ipa)
+                if chord is None:
+                    return set()
+                matches.append((chord, rest))
 
     results = set()
 
