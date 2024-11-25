@@ -9,8 +9,8 @@ class TestDictgen(unittest.TestCase):
         sounds = [Sound(ipa, spelling) for spelling, ipa in pairs]
         result = {
             outline
-            for syllabification in syllabify(sounds)
-            for outline in gen(syllabification)
+            for syllables in syllabify(sounds)
+            for outline in gen(syllables)
         }
         expected = {
             tuple(map(Stroke, outline.strip().split('/')))
