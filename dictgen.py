@@ -4,6 +4,7 @@ from functools import total_ordering
 
 from stroke import Stroke
 from chords import NON_RIGHT_CHORDS, RIGHT_CHORDS
+from clusters import ONSETS, CODAS
 
 def divide(lst):
     return [(lst[:i], lst[i:]) for i in range(len(lst)+1)]
@@ -70,13 +71,6 @@ def separate(sounds):
     if not vowels:
         raise ValueError('no vowel')
     return consonant_clusters, vowels
-
-def read_clusters(file):
-    with open(file) as f:
-        return set(map(str.strip, f))
-
-ONSETS, CODAS = (read_clusters(f'clusters/{stem}.txt')
-                 for stem in ['onsets', 'codas'])
 
 def to_string(sounds):
     return ''.join(sound.ipa for sound in sounds)
