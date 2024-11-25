@@ -113,10 +113,12 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
         return {tuple(outline+[stroke])}
 
     sound, *rest = sounds
+
     if sound is None:
         return gen(rest, False, NULL, outline+[stroke])
 
     matches = []
+
     if not right:
         match sounds:
             case [Sound('ʃ'), Sound('r'), *rest]:
@@ -125,7 +127,8 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
             case [Sound('ɑj', 'igh'), Sound('t', 't'), *rest]:
                 matches.append((Stroke('OEUGT'), rest))
             case [Sound(), *rest]:
-                matches.append((NON_RIGHT_CHORDS.get(sound.ipa), rest))
+                chord = NON_RIGHT_CHORDS.get(sound.ipa)
+                matches.append((chord, rest))
     else:
         match sounds:
             case [Sound('m'), Sound('p'), *rest]:
@@ -133,7 +136,8 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
             case [Sound('s'), Sound('t'), *rest]:
                 matches.append((Stroke('-SZ'), rest)) # TODO change to *S
             case [Sound(), *rest]:
-                matches.append((RIGHT_CHORDS.get(sound.ipa), rest))
+                chord = RIGHT_CHORDS.get(sound.ipa)
+                matches.append((chord, rest))
 
     results = set()
 
