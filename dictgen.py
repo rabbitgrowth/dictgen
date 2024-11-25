@@ -15,8 +15,8 @@ class Sound:
     stressed: bool
     length: int
 
-    def is_consonant(self):
-        return not(self.length)
+    def is_vowel(self):
+        return bool(self.length)
 
     def stronger_than(self, other):
         return self.stressed and not other.stressed
@@ -51,12 +51,12 @@ def separate(sounds):
     consonant_cluster = []
     vowels = []
     for sound in sounds:
-        if sound.is_consonant():
-            consonant_cluster.append(sound)
-        else:
+        if sound.is_vowel():
             consonant_clusters.append(consonant_cluster)
             consonant_cluster = []
             vowels.append(sound)
+        else:
+            consonant_cluster.append(sound)
     consonant_clusters.append(consonant_cluster)
     if not vowels:
         raise ValueError('no vowel')
