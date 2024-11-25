@@ -36,13 +36,13 @@ class Sound:
 VOWEL = re.compile(r'([aɑɛɪɔoɵʉʌə])(\u0301?)([ːjw]?)')
 
 def parse_ipa(ipa):
-    match = VOWEL.match(ipa)
-    if match: # vowel
-        first, stress, second = match.groups()
+    vowel = VOWEL.match(ipa)
+    if vowel:
+        first, stress, second = vowel.groups()
         ipa = first + second
         stressed = bool(stress)
         length = len(ipa)
-    else: # consonant
+    else:
         stressed = False
         length = 0
     return ipa, stressed, length
@@ -61,7 +61,7 @@ def separate(sounds):
     for sound in sounds:
         if sound.is_consonant():
             consonant_cluster.append(sound)
-        else: # vowel
+        else:
             consonant_clusters.append(consonant_cluster)
             consonant_cluster = []
             vowels.append(sound)
