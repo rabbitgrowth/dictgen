@@ -4,6 +4,8 @@ from chords import NON_RIGHT_CHORDS, RIGHT_CHORDS
 from clusters import ONSETS, CODAS
 from stroke import Stroke
 
+VOWEL = re.compile(r'([aɑɛɪɔoɵʉʌə])(\u0301?)([ːjw]?)')
+
 class Sound:
     __match_args__ = ('ipa', 'spelling')
 
@@ -29,8 +31,6 @@ class Sound:
     def __repr__(self):
         stress_mark = "'" if self.stressed else ''
         return stress_mark + self.ipa
-
-VOWEL = re.compile(r'([aɑɛɪɔoɵʉʌə])(\u0301?)([ːjw]?)')
 
 def separate(sounds):
     consonant_clusters = []
