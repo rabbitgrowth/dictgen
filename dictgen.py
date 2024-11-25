@@ -11,9 +11,9 @@ def divide(lst):
 @total_ordering
 class Sound:
     symbols: str
+    letters: str
     stressed: bool
     length: int
-    letters: str
 
     def is_consonant(self):
         return not(self.length)
@@ -47,7 +47,7 @@ def to_sounds(pairs):
         else: # consonant
             stressed = False
             length = 0
-        sounds.append(Sound(symbols, stressed, length, letters))
+        sounds.append(Sound(symbols, letters, stressed, length))
     return sounds
 
 def separate(sounds):
