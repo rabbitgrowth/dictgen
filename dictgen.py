@@ -113,7 +113,6 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
         return {tuple(outline+[stroke])}
 
     sound, *rest = sounds
-
     if sound is None:
         return gen(rest, False, NULL, outline+[stroke])
 
