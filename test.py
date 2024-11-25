@@ -1,12 +1,12 @@
 import unittest
 
 from stroke import Stroke
-from dictgen import to_sounds, syllabify, gen
+from dictgen import Sound, syllabify, gen
 
 class TestDictgen(unittest.TestCase):
     def T(self, word, pron, outlines):
         pairs = zip(word.split(), pron.split(), strict=True)
-        sounds = to_sounds(pairs)
+        sounds = [Sound(ipa, spelling) for spelling, ipa in pairs]
         result = {
             outline
             for syllabification in syllabify(sounds)

@@ -1,5 +1,4 @@
 import re
-from dataclasses import dataclass
 
 from chords import NON_RIGHT_CHORDS, RIGHT_CHORDS
 from clusters import ONSETS, CODAS
@@ -8,12 +7,21 @@ from stroke import Stroke
 def divide(lst):
     return [(lst[:i], lst[i:]) for i in range(len(lst)+1)]
 
-@dataclass
 class Sound:
-    ipa: str
-    spelling: str
-    stressed: bool
-    length: int
+    __match_args__ = ('ipa', 'spelling')
+
+    def __init__(self, ipa, spelling):
+        vowel = VOWEL.match(ipa)
+        if vowel:
+            first, stress, second = vowel.groups()
+            self.ipa = first + second
+            self.stressed = bool(stress)
+            self.length = len(ipa)
+        else:
+            self.ipa = ipa
+            self.stressed = False
+            self.length = 0
+        self.spelling = spelling
 
     def is_vowel(self):
         return bool(self.length)
@@ -26,25 +34,6 @@ class Sound:
         return stress_mark + self.ipa
 
 VOWEL = re.compile(r'([aɑɛɪɔoɵʉʌə])(\u0301?)([ːjw]?)')
-
-def parse_ipa(ipa):
-    vowel = VOWEL.match(ipa)
-    if vowel:
-        first, stress, second = vowel.groups()
-        ipa = first + second
-        stressed = bool(stress)
-        length = len(ipa)
-    else:
-        stressed = False
-        length = 0
-    return ipa, stressed, length
-
-def to_sounds(pairs):
-    sounds = []
-    for spelling, ipa in pairs:
-        ipa, stressed, length = parse_ipa(ipa)
-        sounds.append(Sound(ipa, spelling, stressed, length))
-    return sounds
 
 def separate(sounds):
     consonant_clusters = []
