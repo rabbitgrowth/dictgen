@@ -29,7 +29,7 @@ class Sound:
         return self.stressed and not other.stressed
 
     def __repr__(self):
-        stress_mark = "'" if self.stressed else ''
+        stress_mark = 'ˈ' if self.stressed else ''
         return stress_mark + self.ipa
 
 def separate(sounds):
