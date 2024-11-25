@@ -13,7 +13,7 @@ class TestDictgen(unittest.TestCase):
             for outline in gen(syllables)
         }
         expected = {
-            tuple(map(Stroke, outline.strip().split('/')))
+            tuple(map(Stroke, outline.split('/')))
             for outline in outlines.split()
         }
         self.assertEqual(result, expected)
