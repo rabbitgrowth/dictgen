@@ -29,6 +29,14 @@ class TestDictgen(unittest.TestCase):
         self.T('s l e d', 's l ɛ́ d', 'SHRED')
         self.T('sh r e d', 'ʃ r ɛ́ d', 'SKHRED SHU/RED')
 
+    def test_ight(self):
+        self.T('r i te',  'r ɑ́j t', 'RAOEUT')
+        self.T('r igh t', 'r ɑ́j t', 'ROEUGT')
+
+    @unittest.expectedFailure
+    def test_igh_t(self):
+        self.T('h igh # t ai l', 'h ɑ́j # t ɛj l', 'HAOEU/TAEUL')
+
     def test_consonants_out_of_steno_order(self):
         self.T('G w e n', 'g w ɛ́ n', 'TKPWU/WEPB')
         self.T('s e g u e', 's ɛ́ g w ɛj', 'SEG/WAEU')
