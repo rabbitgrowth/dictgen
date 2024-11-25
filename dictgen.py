@@ -35,18 +35,22 @@ class Sound:
 
 VOWEL = re.compile(r'([aɑɛɪɔoɵʉʌə])(\u0301?)([ːjw]?)')
 
+def parse_ipa(ipa):
+    match = VOWEL.match(ipa)
+    if match: # vowel
+        first, stress, second = match.groups()
+        ipa = first + second
+        stressed = bool(stress)
+        length = len(ipa)
+    else: # consonant
+        stressed = False
+        length = 0
+    return ipa, stressed, length
+
 def to_sounds(pairs):
     sounds = []
     for spelling, ipa in pairs:
-        match = VOWEL.match(ipa)
-        if match: # vowel
-            first, stress, second = match.groups()
-            ipa = first + second
-            stressed = bool(stress)
-            length = len(ipa)
-        else: # consonant
-            stressed = False
-            length = 0
+        ipa, stressed, length = parse_ipa(ipa)
         sounds.append(Sound(ipa, spelling, stressed, length))
     return sounds
 
