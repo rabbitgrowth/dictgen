@@ -1,6 +1,5 @@
 import re
 from dataclasses import dataclass
-from functools import total_ordering
 
 from chords import NON_RIGHT_CHORDS, RIGHT_CHORDS
 from clusters import ONSETS, CODAS
@@ -10,7 +9,6 @@ def divide(lst):
     return [(lst[:i], lst[i:]) for i in range(len(lst)+1)]
 
 @dataclass
-@total_ordering
 class Sound:
     ipa: str
     spelling: str
@@ -20,16 +18,11 @@ class Sound:
     def is_consonant(self):
         return not(self.length)
 
-    # TODO don't just check stress?
-    def __eq__(self, other):
-        if isinstance(other, Sound):
-            return self.stressed == other.stressed
-        return NotImplemented
+    def stronger_than(self, other):
+        return self.stressed and not other.stressed
 
-    def __lt__(self, other):
-        if isinstance(other, Sound):
-            return not self.stressed and other.stressed
-        return NotImplemented
+    def weaker_than(self, other):
+        return not self.stressed and other.stressed
 
     def __repr__(self):
         stress_mark = "'" if self.stressed else ''
@@ -96,9 +89,9 @@ def syllabify(sounds):
             prev_vowel, prev_consonant_cluster = prev
             parts.append([[prev_vowel]])
             divisions = divide(prev_consonant_cluster)
-            if prev_vowel > vowel:
+            if prev_vowel.stronger_than(vowel):
                 divisions.pop(0) # stronger left vowel attracts at least one consonant
-            elif prev_vowel < vowel:
+            elif prev_vowel.weaker_than(vowel):
                 divisions.pop() # stronger right vowel attracts at least one consonant
             parts.append([[*coda, None, *onset]
                           for coda, onset in divisions
