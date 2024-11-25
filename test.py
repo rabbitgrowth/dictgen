@@ -41,5 +41,11 @@ class TestDictgen(unittest.TestCase):
         self.T('G w e n', 'g w ɛ́ n', 'TKPWU/WEPB')
         self.T('s e g u e', 's ɛ́ g w ɛj', 'SEG/WAEU')
 
+    def test_left_vowel_attracts_consonant(self):
+        self.T('f o ll ow', 'f ɔ́ l əw', 'TPAUL/OE')
+
+    def test_right_vowel_attracts_consonant(self):
+        self.T('a b ou t', 'ə b áw t', 'U/PWOUT')
+
 if __name__ == '__main__':
     unittest.main()
