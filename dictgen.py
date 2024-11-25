@@ -2,7 +2,8 @@ import re
 from dataclasses import dataclass
 from functools import total_ordering
 
-from plover_stroke import BaseStroke
+from stroke import Stroke
+from chords import NON_RIGHT_CHORDS, RIGHT_CHORDS
 
 def divide(lst):
     return [(lst[:i], lst[i:]) for i in range(len(lst)+1)]
@@ -112,30 +113,9 @@ def syllabify(sounds):
     parts.extend([[[vowel]], [consonant_cluster]])
     return combine(parts)
 
-class Stroke(BaseStroke):
-    pass
-
-Stroke.setup(
-    '# S- T- K- P- W- H- R- A- O- * -E -U -F -R -P -B -L -G -T -S -D -Z'.split(),
-    'A- O- * -E -U'.split(),
-)
-
 NULL = Stroke('')
 
 LEFT, MID, RIGHT = map(Stroke, ['STKPWHR', 'AOEU', 'FRPBLGTSDZ'])
-
-def read_chords(file):
-    with open(file) as f:
-        chords = {}
-        for line in f:
-            ipa, chord = line.strip().split()
-            chords[ipa] = Stroke(chord)
-    return chords
-
-LEFT_CONSONANTS, VOWELS, RIGHT_CONSONANTS = (read_chords(f'chords/{stem}.txt')
-                                             for stem in ['left', 'mid', 'right'])
-
-NON_RIGHT_SOUNDS = LEFT_CONSONANTS | VOWELS
 
 ODD_CASES = {
     (Stroke('SH'), Stroke('R')),
@@ -174,8 +154,8 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
     match sounds:
         # ...
         case [sound, *rest]:
-            pool = [NON_RIGHT_SOUNDS, RIGHT_CONSONANTS][right]
-            chord = pool.get(sound.ipa)
+            chords = [NON_RIGHT_CHORDS, RIGHT_CHORDS][right]
+            chord = chords.get(sound.ipa)
             if chord is None:
                 return set()
             matches.append((chord, rest))
