@@ -37,8 +37,9 @@ class Sound:
         )
 
     def __repr__(self):
-        stress_mark = 'ˈ' if self.stressed else ''
-        return stress_mark + self.sound
+        stress   = 'ˈ'                  if self.stressed else ''
+        spelling = f'({self.spelling})' if self.spelling else ''
+        return stress + self.sound + spelling
 
 BREAK = Sound('.')
 
