@@ -10,8 +10,6 @@ class Sound:
     __match_args__ = 'sound', 'spelling'
 
     def __init__(self, sound, spelling=''):
-        if not sound:
-            raise ValueError('empty sound')
         vowel = VOWEL.match(sound)
         if vowel:
             first, stress, second = vowel.groups()
