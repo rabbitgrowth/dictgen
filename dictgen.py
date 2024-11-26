@@ -44,7 +44,7 @@ BREAK = Sound('.')
 
 def group(sounds):
     consonant_clusters = []
-    consonant_cluster = []
+    consonant_cluster  = []
     vowels = []
     for sound in sounds:
         if sound.is_vowel():
