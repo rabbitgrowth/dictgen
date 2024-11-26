@@ -47,8 +47,10 @@ class TestDictgen(unittest.TestCase):
     def test_igh_t(self):
         self.T('hightail', 'h ɑ́j:igh . t ɛj l', 'HAOEU/TAEUL')
 
-    def test_consonants_out_of_steno_order(self):
+    def test_initial_consonants_out_of_steno_order(self):
         self.T('Gwen', 'g w ɛ́ n', 'TKPWU/WEPB')
+
+    def test_medial_consonants_out_of_steno_order(self):
         self.T('segue', 's ɛ́ g w ɛj', 'SEG/WAEU')
 
     def test_left_vowel_attracts_consonant(self):
