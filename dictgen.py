@@ -7,17 +7,17 @@ from stroke import Stroke
 VOWEL = re.compile(r'([aɑɛɪɔoɵʉʌə])(\u0301?)([ːjw]?)')
 
 class Sound:
-    __match_args__ = 'ipa', 'spelling'
+    __match_args__ = 'sound', 'spelling'
 
-    def __init__(self, ipa, spelling=''):
-        vowel = VOWEL.match(ipa)
+    def __init__(self, sound, spelling=''):
+        vowel = VOWEL.match(sound)
         if vowel:
             first, stress, second = vowel.groups()
-            self.ipa = first + second
+            self.sound = first + second
             self.stressed = bool(stress)
-            self.length = len(ipa)
+            self.length = len(sound)
         else:
-            self.ipa = ipa
+            self.sound = sound
             self.stressed = False
             self.length = 0
         self.spelling = spelling
@@ -30,7 +30,7 @@ class Sound:
 
     def __eq__(self, other):
         return (
-            self.ipa == other.ipa
+            self.sound == other.sound
             and self.stressed == other.stressed
             and self.length   == other.length
             and self.spelling == other.spelling
@@ -38,13 +38,13 @@ class Sound:
 
     def __repr__(self):
         stress_mark = 'ˈ' if self.stressed else ''
-        return stress_mark + self.ipa
+        return stress_mark + self.sound
 
 BREAK = Sound('.')
 
 def remove_empty_sounds(sounds):
     for sound in sounds:
-        if sound.ipa:
+        if sound.sound:
             yield sound
 
 def group(sounds):
@@ -67,7 +67,7 @@ def divide(sounds):
     return [(sounds[:i], sounds[i:]) for i in range(len(sounds)+1)]
 
 def to_string(sounds):
-    return ''.join(sound.ipa for sound in sounds)
+    return ''.join(sound.sound for sound in sounds)
 
 def is_possible_onset(sounds):
     return not sounds or to_string(sounds) in ONSETS
@@ -149,7 +149,7 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
             case [Sound('ɑj', 'igh'), Sound('t', 't'), *rest]:
                 matches.append((Stroke('OEUGT'), rest))
             case [Sound(), *rest]:
-                chord = NON_RIGHT_CHORDS.get(sound.ipa)
+                chord = NON_RIGHT_CHORDS.get(sound.sound)
                 matches.append((chord, rest))
     else:
         match sounds:
@@ -158,7 +158,7 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
             case [Sound('s'), Sound('t'), *rest]:
                 matches.append((Stroke('-SZ'), rest)) # TODO change to *S
             case [Sound(), *rest]:
-                chord = RIGHT_CHORDS.get(sound.ipa)
+                chord = RIGHT_CHORDS.get(sound.sound)
                 matches.append((chord, rest))
 
     results = set()
