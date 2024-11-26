@@ -33,10 +33,12 @@ class TestDictgen(unittest.TestCase):
         self.T('ɛ́ː', 'AEUR')
 
     def test_wh_pronounced_w(self):
-        self.T('w:wh ɔ́ t', 'WHAUT')
+        self.T('w:wh ɪ́ ʧ', 'WHEUFP')
+        self.T('w ɪ́ ʧ', 'WEUFP')
 
     def test_wh_pronounced_h(self):
         self.T('h:wh ə́w l', 'WHOEL')
+        self.T('h ə́w l', 'HOEL')
 
     def test_ight(self):
         self.T('r ɑ́j t', 'RAOEUT')
