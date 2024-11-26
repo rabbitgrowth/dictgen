@@ -138,10 +138,8 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
     if not sounds:
         return {tuple(outline+[stroke])}
 
-    sound, *rest = sounds
-
-    if sound == BREAK:
-        return gen(rest, False, NULL, outline+[stroke])
+    if sounds[0] == BREAK:
+        return gen(sounds[1:], False, NULL, outline+[stroke])
 
     matches = []
 
@@ -156,7 +154,7 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
                 matches.append((Stroke('WH'), rest))
             case [Sound('ɑj', 'igh'), Sound('t'), *rest]:
                 matches.append((Stroke('OEUGT'), rest))
-            case [Sound(), *rest]:
+            case [sound, *rest]:
                 chord = NON_RIGHT_CHORDS.get(sound.sound)
                 matches.append((chord, rest))
     else:
@@ -165,7 +163,7 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
                 matches.append((Stroke('-FPL'), rest))
             case [Sound('s'), Sound('t'), *rest]:
                 matches.append((Stroke('-SZ'), rest)) # TODO change to *S
-            case [Sound(), *rest]:
+            case [sound, *rest]:
                 chord = RIGHT_CHORDS.get(sound.sound)
                 matches.append((chord, rest))
 
