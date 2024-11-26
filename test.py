@@ -24,9 +24,9 @@ class TestDictgen(unittest.TestCase):
     def test_consonants_vowel_consonants(self):
         self.T('script', 's k r ɪ́ p t', 'SKREUPT')
 
-    def test_compound_sounds(self):
-        self.T('sled',  's l ɛ́ d', 'SHRED')
+    def test_shr(self):
         self.T('shred', 'ʃ r ɛ́ d', 'SKHRED SHU/RED')
+        self.T('sled',  's l ɛ́ d', 'SHRED')
 
     def test_silent_h(self):
         self.T('heir', ':h ɛ́ː', 'HAEUR')
