@@ -57,7 +57,7 @@ class TestDictgen(unittest.TestCase):
         self.T('Gwen', 'g w ɛ́ n', 'TKPWU/WEPB')
 
     def test_medial_consonants_out_of_steno_order(self):
-        self.T('segue', 's ɛ́ g w ɛj', 'SEG/WAEU')
+        self.T('segue', 's ɛ́ g w ɛj', 'SEG/WAEU') # not SE/TKPWU/WAEU
 
     def test_left_vowel_attracts_consonant(self):
         self.T('follow', 'f ɔ́ l əw', 'TPAUL/OE')
