@@ -10,6 +10,8 @@ class Sound:
     __match_args__ = 'sound', 'spelling'
 
     def __init__(self, sound, spelling=''):
+        if not sound:
+            raise ValueError('empty sound')
         vowel = VOWEL.match(sound)
         if vowel:
             first, stress, second = vowel.groups()
@@ -37,9 +39,13 @@ class Sound:
         )
 
     def __repr__(self):
-        stress   = 'ˈ'                  if self.stressed else ''
-        spelling = f'({self.spelling})' if self.spelling else ''
-        return stress + self.sound + spelling
+        sound = (
+            (self.sound[0] + '\u0301' + self.sound[1:])
+            if self.stressed
+            else self.sound
+        )
+        spelling = ':' + self.spelling if self.spelling else ''
+        return sound + spelling
 
 BREAK = Sound('.')
 
