@@ -29,6 +29,17 @@ class TestDictgen(unittest.TestCase):
         self.T('s l e d', 's l ɛ́ d', 'SHRED')
         self.T('sh r e d', 'ʃ r ɛ́ d', 'SKHRED SHU/RED')
 
+    def test_silent_h(self):
+        self.T('h eir', ' ɛ́ː', 'HAEUR')
+        self.T('air', 'ɛ́ː', 'AEUR')
+
+    def test_wh_pronounced_w(self):
+        self.T('w h a t', 'w  ɔ́ t', 'WHAUT')
+
+    @unittest.expectedFailure
+    def test_wh_pronounced_h(self):
+        self.T('w h o le', ' h ə́w l', 'HOEL')
+
     def test_ight(self):
         self.T('r i te',  'r ɑ́j t', 'RAOEUT')
         self.T('r igh t', 'r ɑ́j t', 'ROEUGT')
