@@ -54,5 +54,8 @@ class TestDictgen(unittest.TestCase):
     def test_right_vowel_attracts_consonants(self):
         self.T('c o m p l e te', 'k ə m p l ɪ́j t', 'KUPL/PHRAOET KUFPL/HRAOET')
 
+    def test_not_start_with_impossible_onset(self):
+        self.T('a d m i t', 'ə d m ɪ́ t', 'UD/PHEUT') # not U/TKPHEUT
+
 if __name__ == '__main__':
     unittest.main()
