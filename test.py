@@ -5,7 +5,7 @@ from dictgen import Sound, syllabify, gen
 
 class TestDictgen(unittest.TestCase):
     def T(self, word, pron, outlines):
-        pairs = zip(word.split(), pron.split(), strict=True)
+        pairs = zip(word.split(' '), pron.split(' '), strict=True)
         sounds = [Sound(ipa, spelling) for spelling, ipa in pairs]
         result = {
             outline
@@ -33,9 +33,8 @@ class TestDictgen(unittest.TestCase):
         self.T('r i te',  'r ɑ́j t', 'RAOEUT')
         self.T('r igh t', 'r ɑ́j t', 'ROEUGT')
 
-    @unittest.expectedFailure
     def test_igh_t(self):
-        self.T('h igh # t ai l', 'h ɑ́j # t ɛj l', 'HAOEU/TAEUL')
+        self.T('h igh  t ai l', 'h ɑ́j . t ɛj l', 'HAOEU/TAEUL')
 
     def test_consonants_out_of_steno_order(self):
         self.T('G w e n', 'g w ɛ́ n', 'TKPWU/WEPB')

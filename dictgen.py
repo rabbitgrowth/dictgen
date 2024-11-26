@@ -9,7 +9,7 @@ VOWEL = re.compile(r'([aɑɛɪɔoɵʉʌə])(\u0301?)([ːjw]?)')
 class Sound:
     __match_args__ = 'ipa', 'spelling'
 
-    def __init__(self, ipa, spelling):
+    def __init__(self, ipa, spelling=''):
         vowel = VOWEL.match(ipa)
         if vowel:
             first, stress, second = vowel.groups()
@@ -28,9 +28,17 @@ class Sound:
     def stronger_than(self, other):
         return self.stressed and not other.stressed
 
+    def __eq__(self, other):
+        return (self.ipa == other.ipa
+                and self.stressed == other.stressed
+                and self.length   == other.length
+                and self.spelling == other.spelling)
+
     def __repr__(self):
         stress_mark = 'ˈ' if self.stressed else ''
         return stress_mark + self.ipa
+
+BREAK = Sound('.')
 
 def group(sounds):
     consonant_clusters = []
@@ -74,12 +82,15 @@ def syllabify(sounds):
         if prev is not None:
             prev_vowel, prev_consonant_cluster = prev
             parts.append([[prev_vowel]])
+            if BREAK in prev_consonant_cluster:
+                parts.append([prev_consonant_cluster])
+                continue
             divisions = divide(prev_consonant_cluster)
             if prev_vowel.stronger_than(vowel):
                 divisions.pop(0) # stronger left vowel attracts at least one consonant
             elif vowel.stronger_than(prev_vowel):
                 divisions.pop() # stronger right vowel attracts at least one consonant
-            parts.append([[*coda, None, *onset]
+            parts.append([[*coda, BREAK, *onset]
                           for coda, onset in divisions
                           if is_possible_coda(coda) and is_possible_onset(onset)])
         prev = vowel, consonant_cluster
@@ -114,7 +125,7 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
 
     sound, *rest = sounds
 
-    if sound is None:
+    if sound == BREAK:
         return gen(rest, False, NULL, outline+[stroke])
 
     matches = []
