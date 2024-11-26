@@ -29,22 +29,22 @@ class TestDictgen(unittest.TestCase):
         self.T('ʃ r ɛ́ d', 'SKHRED SHU/RED')
 
     def test_silent_h(self):
-        self.T('[h] ɛ́ː', 'HAEUR')
+        self.T(':h ɛ́ː', 'HAEUR')
         self.T('ɛ́ː', 'AEUR')
 
     def test_wh_pronounced_w(self):
-        self.T('w [h] ɔ́ t', 'WHAUT')
+        self.T('w :h ɔ́ t', 'WHAUT')
 
     @unittest.expectedFailure
     def test_wh_pronounced_h(self):
-        self.T('[w] h ə́w l', 'HOEL')
+        self.T(':w h ə́w l', 'HOEL')
 
     def test_ight(self):
         self.T('r ɑ́j t', 'RAOEUT')
-        self.T('r ɑ́j[igh] t', 'ROEUGT')
+        self.T('r ɑ́j:igh t', 'ROEUGT')
 
     def test_igh_t(self):
-        self.T('h ɑ́j[igh] . t ɛj l', 'HAOEU/TAEUL')
+        self.T('h ɑ́j:igh . t ɛj l', 'HAOEU/TAEUL')
 
     def test_consonants_out_of_steno_order(self):
         self.T('g w ɛ́ n', 'TKPWU/WEPB')
