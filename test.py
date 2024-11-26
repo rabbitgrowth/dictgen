@@ -45,8 +45,7 @@ class TestDictgen(unittest.TestCase):
 
     @unittest.expectedFailure
     def test_left_vowel_attracts_consonants(self):
-        # TODO te doesn't really correspond to t here
-        self.T('i n te r e s t', 'ɪ́ n t r ɛ s t', 'EUPB/TR*ES EUPBT/R*ES')
+        self.T('i n t e r e s t', 'ɪ́ n t  r ɛ s t', 'EUPB/TR*ES EUPBT/R*ES')
 
     def test_right_vowel_attracts_consonant(self):
         self.T('a b ou t', 'ə b áw t', 'U/PWOUT')
