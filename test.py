@@ -41,10 +41,10 @@ class TestDictgen(unittest.TestCase):
         self.T('hole',  'h    ə́w l', 'HOEL')
 
     def test_vowel_omission_principle(self):
-        self.T('title', 't ɑ́j t ə l', 'TAOEUT/-L')
+        self.T('title',    't ɑ́j t ə l',    'TAOEUT/-L')
         self.T('children', 'ʧ ɪ́ l d r ə n', 'KHEUL/TKR-PB KHEULD/R-PB')
-        self.T('visit', 'v ɪ́ z ɪ t', 'SREUZ/-T')
-        self.T('mountain', 'm áw n t ɪ n', 'PHOUPB/T-PB PHOUPBT/-PB')
+        self.T('visit',    'v ɪ́ z ɪ t',     'SREUZ/-T')
+        self.T('mountain', 'm áw n t ɪ n',  'PHOUPB/T-PB PHOUPBT/-PB')
 
     def test_ight(self):
         self.T('rite',  'r ɑ́j     t', 'RAOEUT')
