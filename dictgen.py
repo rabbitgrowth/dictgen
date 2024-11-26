@@ -29,10 +29,12 @@ class Sound:
         return self.stressed and not other.stressed
 
     def __eq__(self, other):
-        return (self.ipa == other.ipa
-                and self.stressed == other.stressed
-                and self.length   == other.length
-                and self.spelling == other.spelling)
+        return (
+            self.ipa == other.ipa
+            and self.stressed == other.stressed
+            and self.length   == other.length
+            and self.spelling == other.spelling
+        )
 
     def __repr__(self):
         stress_mark = 'ˈ' if self.stressed else ''
@@ -90,9 +92,11 @@ def syllabify(sounds):
                 divisions.pop(0) # stronger left vowel attracts at least one consonant
             elif vowel.stronger_than(prev_vowel):
                 divisions.pop() # stronger right vowel attracts at least one consonant
-            parts.append([[*coda, BREAK, *onset]
-                          for coda, onset in divisions
-                          if is_possible_coda(coda) and is_possible_onset(onset)])
+            parts.append([
+                [*coda, BREAK, *onset]
+                for coda, onset in divisions
+                if is_possible_coda(coda) and is_possible_onset(onset)
+            ])
         prev = vowel, consonant_cluster
     parts.extend([[[vowel]], [consonant_cluster]])
     return combine(parts)
@@ -111,8 +115,10 @@ def in_steno_order(a, b):
     # and don't feel right, like using SHR for shr-:
     # SHRED  "sled"
     # SKHRED "shred" (or SHU/RED)
-    return ((not a or not b or Stroke(a.last()) < Stroke(b.first()))
-            and (a, b) not in ODD_CASES)
+    return (
+        (not a or not b or Stroke(a.last()) < Stroke(b.first()))
+        and (a, b) not in ODD_CASES
+    )
 
 def crosses_boundary(chord):
     # TODO handle null chord from VOP
