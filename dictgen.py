@@ -7,7 +7,7 @@ from stroke import Stroke
 VOWEL = re.compile(r'([aɑɛɪɔoɵʉʌə])(\u0301?)([ːjw]?)')
 
 class Sound:
-    __match_args__ = 'sound', 'spelling'
+    __match_args__ = 'sound', 'spelling', 'stressed'
 
     def __init__(self, sound, spelling=''):
         vowel = VOWEL.match(sound)
@@ -130,7 +130,8 @@ def in_steno_order(a, b):
     )
 
 def crosses_boundary(chord):
-    # TODO handle null chord from VOP
+    if not chord:
+        return True
     last = Stroke(chord.last())
     return last & MID or last & RIGHT
 
@@ -152,6 +153,8 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
                 matches.append((Stroke('H'), rest))
             case [Sound('w'|'h', 'wh'), *rest]:
                 matches.append((Stroke('WH'), rest))
+            case [Sound('ə'|'ɪ', _, False), *rest] if outline:
+                matches.append((NULL, rest))
             case [Sound('ɑj', 'igh'), Sound('t'), *rest]:
                 matches.append((Stroke('OEUGT'), rest))
             case [sound, *rest]:
