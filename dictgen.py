@@ -42,11 +42,6 @@ class Sound:
 
 BREAK = Sound('.')
 
-def remove_empty_sounds(sounds):
-    for sound in sounds:
-        if sound.sound:
-            yield sound
-
 def group(sounds):
     consonant_clusters = []
     consonant_cluster  = []
@@ -82,7 +77,7 @@ def combine(parts):
     return products
 
 def syllabify(sounds):
-    consonant_clusters, vowels = group(remove_empty_sounds(sounds))
+    consonant_clusters, vowels = group(sounds)
     parts = [[consonant_clusters.pop(0)]]
     prev = None
     for vowel, consonant_cluster in zip(vowels, consonant_clusters, strict=True):
