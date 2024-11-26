@@ -39,8 +39,7 @@ class Sound:
     def __repr__(self):
         sound = (
             (self.sound[0] + '\u0301' + self.sound[1:])
-            if self.stressed
-            else self.sound
+            if self.stressed else self.sound
         )
         spelling = ':' + self.spelling if self.spelling else ''
         return sound + spelling
