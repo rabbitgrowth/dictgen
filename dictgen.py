@@ -43,11 +43,9 @@ class Sound:
 BREAK = Sound('.')
 
 def parse_pron(pron):
-    sounds = []
     for word in pron.split():
         sound, _, spelling = word.partition(':')
-        sounds.append(Sound(sound, spelling))
-    return sounds
+        yield Sound(sound, spelling)
 
 def group(sounds):
     consonant_clusters = []
