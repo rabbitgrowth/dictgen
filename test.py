@@ -18,11 +18,11 @@ class TestDictgen(unittest.TestCase):
         }
         self.assertEqual(result, expected)
 
-    def test_cvc(self):
+    def test_consonant_vowel_consonant(self):
         self.T('c a t', 'k á t', 'KAT')
         self.T('d o g', 'd ɔ́ g', 'TKAUG')
 
-    def test_ccvcc(self):
+    def test_consonants_vowel_consonants(self):
         self.T('s c r i p t', 's k r ɪ́ p t', 'SKREUPT')
 
     def test_compound_sounds(self):
