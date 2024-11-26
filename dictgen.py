@@ -143,7 +143,7 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
         match sounds:
             case [Sound('', 'h'), *rest]:
                 matches.append((Stroke('H'), rest))
-            case [Sound('ɑj', 'igh'), Sound('t', 't'), *rest]:
+            case [Sound('ɑj', 'igh'), Sound('t'), *rest]:
                 matches.append((Stroke('OEUGT'), rest))
             case [Sound(), *rest]:
                 chord = NON_RIGHT_CHORDS.get(sound.sound)
