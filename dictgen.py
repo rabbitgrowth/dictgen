@@ -156,7 +156,7 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
             case [Sound('w', 'wh'), *rest]:
                 matches.append((Stroke('WH'), rest))
             case [Sound('h', 'wh'), *rest]:
-                matches.append((Stroke('H'), rest))
+                matches.append((Stroke('WH'), rest))
             case [Sound('ɑj', 'igh'), Sound('t'), *rest]:
                 matches.append((Stroke('OEUGT'), rest))
             case [Sound(), *rest]:
