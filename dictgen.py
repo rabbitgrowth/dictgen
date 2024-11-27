@@ -151,6 +151,8 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
         match sounds:
             case Sound('ʃ'), Sound('r'), *rest:
                 chords = [Stroke('SKHR')]
+            case Sound('ə'|'ɪ', stressed=False), Sound('.'), *rest if stroke or outline:
+                chords = []
             case _:
                 chords = None
         if chords is not None:

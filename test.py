@@ -67,13 +67,16 @@ class TestDictgen(unittest.TestCase):
     def test_omit_weak_schwa(self):
         self.T('title',    't ɑ́j t ə l',    'TAOEUT/-L')
         self.T('children', 'ʧ ɪ́ l d r ə n', 'KHEUL/TKR-PB KHEULD/R-PB')
+        self.T('visit',    'v ɪ́ z ɪ t',     'SREUZ/-T')
+        self.T('mountain', 'm áw n t ɪ n',  'PHOUPB/T-PB PHOUPBT/-PB')
 
-    def test_omit_weak_schwi(self):
-        self.T('visit',    'v ɪ́ z ɪ t',    'SREUZ/-T')
-        self.T('mountain', 'm áw n t ɪ n', 'PHOUPB/T-PB PHOUPBT/-PB')
+    def test_omit_weak_schwa_at_syllable_end(self):
+        self.T('conference', 'k ɔ́ n f ə r ə n s',
+               'KAUPB/TPU/R-PBS KAUPB/TPR-PBS KAUPB/TP-R/-PBS') # not KAUPB/TP/R-PBS
 
-    def test_reject_left_only_strokes(self):
-        self.T('tambourine', 't á m b ə r ɪ́j n', 'TAPL/PWU/RAOEPB') # not TAPL/PW/RAOEPB
+    def test_not_omit_weak_initial_schwa(self):
+        self.T('about', 'ə b áw t', 'U/PWOUT')
+        self.T('bout',  'b áw t',   'PWOUT')
 
     def test_ight(self):
         self.T('rite',  'r ɑ́j     t', 'RAOEUT')
