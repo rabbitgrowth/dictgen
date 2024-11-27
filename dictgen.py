@@ -119,11 +119,11 @@ UNSTACKABLE = {
 STAR = Stroke('*')
 
 def stackable(a, b):
-    if (a, b) in UNSTACKABLE:
-        return False
-    if STAR in a and STAR in b:
-        return False
-    return in_steno_order(a - STAR, b - STAR)
+    return (
+        (a, b) not in UNSTACKABLE
+        and not (STAR in a and STAR in b)
+        and in_steno_order(a - STAR, b - STAR)
+    )
 
 MID_AND_RIGHT = Stroke('AOEUFRPBLGTSDZ')
 
