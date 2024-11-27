@@ -133,12 +133,12 @@ def crosses_boundary(chord):
     last = Stroke(chord.last())
     return last & MID or last & RIGHT
 
-def gen(sounds, right=False, stroke=Stroke(''), outline=[]):
+def gen(sounds, right=False, stroke=Stroke(''), outline=()):
     if not sounds:
-        return {tuple(outline+[stroke])}
+        return {outline+(stroke,)}
 
     if sounds[0] == Sound('.'):
-        return gen(sounds[1:], False, Stroke(''), outline+[stroke])
+        return gen(sounds[1:], False, Stroke(''), outline+(stroke,))
 
     matches = []
 
@@ -173,19 +173,19 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=[]):
     for chords, rest in matches:
         new_right   = right
         new_stroke  = stroke
-        new_outline = outline.copy()
+        new_outline = outline
         for i, chord in enumerate(chords):
             if crosses_boundary(chord):
                 new_right = True
             if i:
-                new_outline.append(new_stroke)
+                new_outline += (new_stroke,)
                 new_stroke = Stroke('')
             if in_steno_order(new_stroke, chord):
                 new_stroke |= chord
             else:
                 if not new_right:
                     new_stroke |= Stroke('U')
-                new_outline.append(new_stroke)
+                new_outline += (new_stroke,)
                 new_stroke = chord
         results |= gen(rest, new_right, new_stroke, new_outline)
 
