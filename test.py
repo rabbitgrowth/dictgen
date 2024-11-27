@@ -20,6 +20,7 @@ class TestStackable(unittest.TestCase):
         self.assertFalse(stackable(Stroke('S*'), Stroke('T*')))
 
     def test_exceptions(self):
+        self.assertTrue (stackable(Stroke('SP'), Stroke('R')))
         self.assertFalse(stackable(Stroke('SH'), Stroke('R')))
 
 class TestDictgen(unittest.TestCase):
