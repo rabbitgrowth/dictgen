@@ -123,15 +123,13 @@ def in_steno_order(a, b):
         and (a, b) not in ODD_CASES
     )
 
-LEFT  = Stroke('STKPWHR') # TODO unused
-MID   = Stroke('AOEU')
-RIGHT = Stroke('FRPBLGTSDZ')
+MID_AND_RIGHT = Stroke('AOEUFRPBLGTSDZ')
 
 def crosses_boundary(chord):
     if not chord:
         return True
     last = Stroke(chord.last())
-    return last & MID or last & RIGHT
+    return last & MID_AND_RIGHT
 
 def gen(sounds, right=False, stroke=Stroke(''), outline=()):
     if not sounds:
