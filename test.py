@@ -81,7 +81,6 @@ class TestDictgen(unittest.TestCase):
     def test_left_vowel_attracts_consonant(self):
         self.T('follow', 'f ɔ́ l əw', 'TPAUL/OE')
 
-    @unittest.expectedFailure
     def test_left_vowel_attracts_consonants(self):
         self.T('interest', 'ɪ́ n t r ɛ s t', 'EUPB/TR*ES EUPBT/R*ES')
 

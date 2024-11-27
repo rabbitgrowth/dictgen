@@ -165,7 +165,7 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
             case [Sound('m'), Sound('p'), *rest]:
                 matches.append(([Stroke('-FPL')], rest))
             case [Sound('s'), Sound('t'), *rest]:
-                matches.append(([Stroke('-SZ')], rest)) # TODO change to *S
+                matches.append(([Stroke('*S')], rest))
             case [sound, *rest]:
                 chord = RIGHT_CHORDS.get(sound.sound)
                 matches.append(([chord], rest))
