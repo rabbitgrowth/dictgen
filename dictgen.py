@@ -44,8 +44,6 @@ class Sound:
         spelling = ':' + self.spelling if self.spelling else ''
         return sound + spelling
 
-BREAK = Sound('.')
-
 def parse_pron(pron):
     for word in pron.split():
         sound, _, spelling = word.partition(':')
@@ -93,7 +91,7 @@ def syllabify(sounds):
         if prev is not None:
             prev_vowel, prev_consonant_cluster = prev
             parts.append([[prev_vowel]])
-            if BREAK in prev_consonant_cluster:
+            if Sound('.') in prev_consonant_cluster:
                 parts.append([prev_consonant_cluster])
                 continue
             divisions = divide(prev_consonant_cluster)
@@ -102,7 +100,7 @@ def syllabify(sounds):
             elif vowel.stronger_than(prev_vowel):
                 divisions.pop() # stronger right vowel attracts at least one consonant
             parts.append([
-                [*coda, BREAK, *onset]
+                [*coda, Sound('.'), *onset]
                 for coda, onset in divisions
                 if is_possible_coda(coda) and is_possible_onset(onset)
             ])
@@ -137,7 +135,7 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=[]):
     if not sounds:
         return {tuple(outline+[stroke])}
 
-    if sounds[0] == BREAK:
+    if sounds[0] == Sound('.'):
         return gen(sounds[1:], False, Stroke(''), outline+[stroke])
 
     matches = []
