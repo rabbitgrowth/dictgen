@@ -145,41 +145,48 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=[]):
     if not right:
         match sounds:
             case [Sound('ʃ'), Sound('r'), *rest]:
-                matches.append((Stroke('SKHR'), rest))
+                matches.append(([Stroke('SKHR')], rest))
         match sounds:
             case [Sound('', 'h'), *rest]:
-                matches.append((Stroke('H'), rest))
+                matches.append(([Stroke('H')], rest))
             case [Sound('w'|'h', 'wh'), *rest]:
-                matches.append((Stroke('WH'), rest))
+                matches.append(([Stroke('WH')], rest))
             case [Sound('ə'|'ɪ', _, False), *rest] if outline:
-                matches.append((Stroke(''), rest))
+                matches.append(([Stroke('')], rest))
             case [Sound('ɑj', 'igh'), Sound('t'), *rest]:
-                matches.append((Stroke('OEUGT'), rest))
+                matches.append(([Stroke('OEUGT')], rest))
             case [sound, *rest]:
                 chord = NON_RIGHT_CHORDS.get(sound.sound)
-                matches.append((chord, rest))
+                matches.append(([chord], rest))
     else:
         match sounds:
             case [Sound('m'), Sound('p'), *rest]:
-                matches.append((Stroke('-FPL'), rest))
+                matches.append(([Stroke('-FPL')], rest))
             case [Sound('s'), Sound('t'), *rest]:
-                matches.append((Stroke('-SZ'), rest)) # TODO change to *S
+                matches.append(([Stroke('-SZ')], rest)) # TODO change to *S
             case [sound, *rest]:
                 chord = RIGHT_CHORDS.get(sound.sound)
-                matches.append((chord, rest))
+                matches.append(([chord], rest))
 
     results = set()
 
-    for chord, rest in matches:
-        if chord is None:
-            return set()
-        if crosses_boundary(chord):
-            right = True
-        if in_steno_order(stroke, chord):
-            results |= gen(rest, right, stroke|chord, outline)
-        else:
-            if not right:
-                stroke |= Stroke('U')
-            results |= gen(rest, right, chord, outline+[stroke])
+    for chords, rest in matches:
+        new_right   = right
+        new_stroke  = stroke
+        new_outline = outline.copy()
+        for i, chord in enumerate(chords):
+            if i:
+                new_outline.append(new_stroke)
+                new_stroke = Stroke('')
+            if crosses_boundary(chord):
+                new_right = True
+            if in_steno_order(new_stroke, chord):
+                new_stroke |= chord
+            else:
+                if not new_right:
+                    new_stroke |= Stroke('U')
+                new_outline.append(new_stroke)
+                new_stroke = chord
+        results |= gen(rest, new_right, new_stroke, new_outline)
 
     return results
