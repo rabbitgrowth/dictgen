@@ -108,8 +108,6 @@ def syllabify(sounds):
     parts.extend([[[vowel]], [consonant_cluster]])
     return combine(parts)
 
-LEFT, MID, RIGHT = map(Stroke, ['STKPWHR', 'AOEU', 'FRPBLGTSDZ'])
-
 ODD_CASES = {
     (Stroke('SH'), Stroke('R')),
     # TODO add more cases like T + P and -P + -L?
@@ -124,6 +122,8 @@ def in_steno_order(a, b):
         (not a or not b or Stroke(a.last()) < Stroke(b.first()))
         and (a, b) not in ODD_CASES
     )
+
+LEFT, MID, RIGHT = map(Stroke, ['STKPWHR', 'AOEU', 'FRPBLGTSDZ'])
 
 def crosses_boundary(chord):
     if not chord:
