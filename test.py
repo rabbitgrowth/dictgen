@@ -93,10 +93,10 @@ class TestDictgen(unittest.TestCase):
         self.T('follow', 'f ɔ́ l əw', 'TPAUL/OE')
 
     def test_left_vowel_attracts_consonants(self):
-        self.T('interest', 'ɪ́ n t r ɛ s t', 'EUPB/TR*ES EUPBT/R*ES')
+        self.T('intro', 'ɪ́ n t r əw', 'EUPB/TROE EUPBT/ROE')
 
     def test_right_vowel_attracts_consonant(self):
-        self.T('about', 'ə b áw t', 'U/PWOUT')
+        self.T('machine', 'm ə ʃ ɪ́j n', 'PHU/SHAOEPB')
 
     def test_right_vowel_attracts_consonants(self):
         self.T('complete', 'k ə m p l ɪ́j t', 'KUPL/PHRAOET KUFPL/HRAOET')
