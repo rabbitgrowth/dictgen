@@ -108,20 +108,22 @@ def syllabify(sounds):
     parts.extend([[[vowel]], [consonant_cluster]])
     return combine(parts)
 
-ODD_CASES = {
+def in_steno_order(a, b):
+    return not a or not b or Stroke(a.last()) < Stroke(b.first())
+
+UNSTACKABLE = {
     (Stroke('SH'), Stroke('R')),
     # TODO add more cases like T + P and -P + -L?
 }
 
-def in_steno_order(a, b):
-    # Reject cases that are technically in steno order but cause conflicts
-    # and don't feel right, like using SHR for shr-:
-    # SHRED  "sled"
-    # SKHRED "shred" (or SHU/RED)
-    return (
-        (not a or not b or Stroke(a.last()) < Stroke(b.first()))
-        and (a, b) not in ODD_CASES
-    )
+STAR = Stroke('*')
+
+def stackable(a, b):
+    if (a, b) in UNSTACKABLE:
+        return False
+    if STAR in a and STAR in b:
+        return False
+    return in_steno_order(a - STAR, b - STAR)
 
 MID_AND_RIGHT = Stroke('AOEUFRPBLGTSDZ')
 
@@ -178,7 +180,7 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
             if i:
                 new_outline += (new_stroke,)
                 new_stroke = Stroke('')
-            if in_steno_order(new_stroke, chord):
+            if stackable(new_stroke, chord):
                 new_stroke |= chord
             else:
                 if not new_right:

@@ -1,7 +1,26 @@
 import unittest
 
 from stroke import Stroke
-from dictgen import parse_pron, syllabify, gen
+from dictgen import parse_pron, syllabify, stackable, gen
+
+class TestStackable(unittest.TestCase):
+    def test_simple_cases(self):
+        self.assertTrue (stackable(Stroke('S'), Stroke('T')))
+        self.assertFalse(stackable(Stroke('T'), Stroke('S')))
+
+    def test_empty_strokes(self):
+        self.assertTrue(stackable(Stroke(''),  Stroke('S')))
+        self.assertTrue(stackable(Stroke('S'), Stroke('')))
+
+    def test_with_star(self):
+        self.assertTrue (stackable(Stroke('S*'), Stroke('T')))
+        self.assertFalse(stackable(Stroke('T*'), Stroke('S')))
+        self.assertTrue (stackable(Stroke('S'),  Stroke('T*')))
+        self.assertFalse(stackable(Stroke('T'),  Stroke('S*')))
+        self.assertFalse(stackable(Stroke('S*'), Stroke('T*')))
+
+    def test_exceptions(self):
+        self.assertFalse(stackable(Stroke('SH'), Stroke('R')))
 
 class TestDictgen(unittest.TestCase):
     def T(self, word, pron, outlines):
