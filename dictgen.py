@@ -123,7 +123,9 @@ def in_steno_order(a, b):
         and (a, b) not in ODD_CASES
     )
 
-LEFT, MID, RIGHT = map(Stroke, ['STKPWHR', 'AOEU', 'FRPBLGTSDZ'])
+LEFT  = Stroke('STKPWHR') # TODO unused
+MID   = Stroke('AOEU')
+RIGHT = Stroke('FRPBLGTSDZ')
 
 def crosses_boundary(chord):
     if not chord:
