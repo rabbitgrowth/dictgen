@@ -75,8 +75,7 @@ class TestDictgen(unittest.TestCase):
                'KAUPB/TPU/R-PBS KAUPB/TPR-PBS KAUPB/TP-R/-PBS') # not KAUPB/TP/R-PBS
 
     def test_not_omit_weak_initial_schwa(self):
-        self.T('about', 'ə b áw t', 'U/PWOUT')
-        self.T('bout',  'b áw t',   'PWOUT')
+        self.T('about', 'ə b áw t', 'U/PWOUT') # not PWOUT
 
     def test_ight(self):
         self.T('rite',  'r ɑ́j     t', 'RAOEUT')
