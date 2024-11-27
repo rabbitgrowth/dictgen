@@ -112,13 +112,14 @@ def syllabify(sounds):
     parts.extend([[[vowel]], [consonant_cluster]])
     return combine(parts)
 
-MID_AND_RIGHT = Stroke('AOEUFRPBLGTSDZ')
+MID_BANK   = Stroke('AOEU')
+RIGHT_BANK = Stroke('FRPBLGTSDZ')
 
 def crosses_boundary(chord):
     if not chord:
         return True
     last = Stroke(chord.last())
-    return last & MID_AND_RIGHT
+    return last & MID_BANK or last & RIGHT_BANK
 
 def in_steno_order(a, b):
     return not a or not b or Stroke(a.last()) < Stroke(b.first())
@@ -168,7 +169,10 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
             case Sound('w'|'h', spelled='wh'), *rest:
                 chords = [Stroke('WH')]
             case Sound('ɪj'), *rest if not rest: # TODO handle inflections
-                chords = [Stroke('AE')]
+                chord = Stroke('AE')
+                if not stroke and outline and not(outline[-1] & MID_BANK):
+                    yield outline[:-1] + (outline[-1]|chord,)
+                chords = [chord]
             case Sound('ɑj', spelled='igh'), Sound('t'), *rest:
                 chords = [Stroke('OEUGT')]
             case Sound('ə'|'ɪ', stressed=False), *rest if outline and not at_break(rest):

@@ -68,6 +68,12 @@ class TestDictgen(unittest.TestCase):
         self.T('family',   'f á m l ɪj',    'TPAPL/HRAE')
         self.T('employee', 'ɛ́ m p l oj ɪ́j', 'EPL/PHROEU/AE EFPL/HROEU/AE')
 
+    def test_y_ending_foldable(self):
+        self.T('privacy', 'p r ɪ́ v ə s ɪj',
+               'PREUFB/U/SAE PREUFB/SAE PREUFB/-S/AE PREUFB/AES')
+        self.T('agency', 'ɛ́j ʤ ə n s ɪj',
+               'AEUPBLG/-PB/SAE AEUPBLG/-PBS/AE AEUPBLG/AEPBS')
+
     def test_ight(self):
         self.T('rite',  'r ɑ́j     t', 'RAOEUT')
         self.T('right', 'r ɑ́j:igh t', 'ROEUGT')
