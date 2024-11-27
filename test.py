@@ -82,7 +82,7 @@ class TestDictgen(unittest.TestCase):
         self.T('right', 'r ɑ́j:igh t', 'ROEUGT')
 
     def test_igh_t(self):
-        self.T('hightail', 'h ɑ́j:igh . t ɛj l', 'HAOEU/TAEUL')
+        self.T('hightail', 'h ɑ́j:igh . t ɛj l', 'HAOEU/TAEUL') # not HOEUGT/AEUL
 
     def test_silent_b(self):
         self.T('clime', 'k l ɑ́j m',    'KHRAOEUPL')
