@@ -133,6 +133,9 @@ def stackable(a, b):
         and in_steno_order(a - STAR, b - STAR)
     )
 
+def at_break(rest):
+    return not rest or rest[0] == Sound('.')
+
 def gen(sounds, right=False, stroke=Stroke(''), outline=()):
     if not sounds:
         yield outline+(stroke,)
@@ -158,7 +161,7 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
                 chords = [Stroke('H')]
             case Sound('w'|'h', spelled='wh'), *rest:
                 chords = [Stroke('WH')]
-            case Sound('ə'|'ɪ', stressed=False), *rest if outline:
+            case Sound('ə'|'ɪ', stressed=False), *rest if outline and not at_break(rest):
                 chords = [Stroke('')]
             case Sound('ɑj', spelled='igh'), Sound('t'), *rest:
                 chords = [Stroke('OEUGT')]

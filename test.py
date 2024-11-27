@@ -72,6 +72,9 @@ class TestDictgen(unittest.TestCase):
         self.T('visit',    'v ɪ́ z ɪ t',    'SREUZ/-T')
         self.T('mountain', 'm áw n t ɪ n', 'PHOUPB/T-PB PHOUPBT/-PB')
 
+    def test_reject_left_only_strokes(self):
+        self.T('tambourine', 't á m b ə r ɪ́j n', 'TAPL/PWU/RAOEPB') # not TAPL/PW/RAOEPB
+
     def test_ight(self):
         self.T('rite',  'r ɑ́j     t', 'RAOEUT')
         self.T('right', 'r ɑ́j:igh t', 'ROEUGT')
