@@ -108,6 +108,14 @@ def syllabify(sounds):
     parts.extend([[[vowel]], [consonant_cluster]])
     return combine(parts)
 
+MID_AND_RIGHT = Stroke('AOEUFRPBLGTSDZ')
+
+def crosses_boundary(chord):
+    if not chord:
+        return True
+    last = Stroke(chord.last())
+    return last & MID_AND_RIGHT
+
 def in_steno_order(a, b):
     return not a or not b or Stroke(a.last()) < Stroke(b.first())
 
@@ -124,14 +132,6 @@ def stackable(a, b):
         and not (STAR in a and STAR in b)
         and in_steno_order(a - STAR, b - STAR)
     )
-
-MID_AND_RIGHT = Stroke('AOEUFRPBLGTSDZ')
-
-def crosses_boundary(chord):
-    if not chord:
-        return True
-    last = Stroke(chord.last())
-    return last & MID_AND_RIGHT
 
 def gen(sounds, right=False, stroke=Stroke(''), outline=()):
     if not sounds:
