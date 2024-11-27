@@ -110,8 +110,6 @@ def syllabify(sounds):
     parts.extend([[[vowel]], [consonant_cluster]])
     return combine(parts)
 
-NULL = Stroke('')
-
 LEFT, MID, RIGHT = map(Stroke, ['STKPWHR', 'AOEU', 'FRPBLGTSDZ'])
 
 ODD_CASES = {
@@ -135,12 +133,12 @@ def crosses_boundary(chord):
     last = Stroke(chord.last())
     return last & MID or last & RIGHT
 
-def gen(sounds, right=False, stroke=NULL, outline=[]):
+def gen(sounds, right=False, stroke=Stroke(''), outline=[]):
     if not sounds:
         return {tuple(outline+[stroke])}
 
     if sounds[0] == BREAK:
-        return gen(sounds[1:], False, NULL, outline+[stroke])
+        return gen(sounds[1:], False, Stroke(''), outline+[stroke])
 
     matches = []
 
@@ -154,7 +152,7 @@ def gen(sounds, right=False, stroke=NULL, outline=[]):
             case [Sound('w'|'h', 'wh'), *rest]:
                 matches.append((Stroke('WH'), rest))
             case [Sound('ə'|'ɪ', _, False), *rest] if outline:
-                matches.append((NULL, rest))
+                matches.append((Stroke(''), rest))
             case [Sound('ɑj', 'igh'), Sound('t'), *rest]:
                 matches.append((Stroke('OEUGT'), rest))
             case [sound, *rest]:
