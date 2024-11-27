@@ -19,6 +19,10 @@ class TestStackable(unittest.TestCase):
         self.assertFalse(stackable(Stroke('T'),  Stroke('S*')))
         self.assertFalse(stackable(Stroke('S*'), Stroke('T*')))
 
+    def test_longer_strokes(self):
+        self.assertTrue (stackable(Stroke('STRAU'),    Stroke('-PBG')))
+        self.assertFalse(stackable(Stroke('STR*EPBG'), Stroke('-GT')))
+
     def test_exceptions(self):
         self.assertTrue (stackable(Stroke('SP'), Stroke('R')))
         self.assertFalse(stackable(Stroke('SH'), Stroke('R')))
