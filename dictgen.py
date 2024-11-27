@@ -175,11 +175,11 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=[]):
         new_stroke  = stroke
         new_outline = outline.copy()
         for i, chord in enumerate(chords):
+            if crosses_boundary(chord):
+                new_right = True
             if i:
                 new_outline.append(new_stroke)
                 new_stroke = Stroke('')
-            if crosses_boundary(chord):
-                new_right = True
             if in_steno_order(new_stroke, chord):
                 new_stroke |= chord
             else:
