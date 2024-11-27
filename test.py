@@ -64,6 +64,13 @@ class TestDictgen(unittest.TestCase):
         self.T('whole', 'h:wh ə́w l', 'WHOEL')
         self.T('hole',  'h    ə́w l', 'HOEL')
 
+    def test_ight(self):
+        self.T('rite',  'r ɑ́j     t', 'RAOEUT')
+        self.T('right', 'r ɑ́j:igh t', 'ROEUGT')
+
+    def test_igh_t(self):
+        self.T('hightail', 'h ɑ́j:igh . t ɛj l', 'HAOEU/TAEUL') # not HOEUGT/AEUL
+
     def test_omit_weak_schwa(self):
         self.T('title',    't ɑ́j t ə l',    'TAOEUT/-L')
         self.T('children', 'ʧ ɪ́ l d r ə n', 'KHEUL/TKR-PB KHEULD/R-PB')
@@ -76,13 +83,6 @@ class TestDictgen(unittest.TestCase):
 
     def test_not_omit_weak_initial_schwa(self):
         self.T('about', 'ə b áw t', 'U/PWOUT') # not PWOUT
-
-    def test_ight(self):
-        self.T('rite',  'r ɑ́j     t', 'RAOEUT')
-        self.T('right', 'r ɑ́j:igh t', 'ROEUGT')
-
-    def test_igh_t(self):
-        self.T('hightail', 'h ɑ́j:igh . t ɛj l', 'HAOEU/TAEUL') # not HOEUGT/AEUL
 
     def test_silent_b(self):
         self.T('clime', 'k l ɑ́j m',    'KHRAOEUPL')
