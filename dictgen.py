@@ -29,12 +29,14 @@ class Sound:
         return self.stressed and not other.stressed
 
     def __eq__(self, other):
-        return (
-            self.sound == other.sound
-            and self.stressed == other.stressed
-            and self.length   == other.length
-            and self.spelled  == other.spelled
-        )
+        if isinstance(other, Sound):
+            return (
+                self.sound == other.sound
+                and self.stressed == other.stressed
+                and self.length   == other.length
+                and self.spelled  == other.spelled
+            )
+        return NotImplemented
 
     def __repr__(self):
         sound = (
@@ -47,14 +49,14 @@ class Sound:
 def parse_pron(pron):
     for word in pron.split():
         sound, _, spelled = word.partition(':')
-        yield Sound(sound, spelled)
+        yield None if sound == '.' else Sound(sound, spelled)
 
 def group(sounds):
     consonant_clusters = []
     consonant_cluster  = []
     vowels = []
     for sound in sounds:
-        if sound.is_vowel():
+        if sound is not None and sound.is_vowel():
             consonant_clusters.append(consonant_cluster)
             consonant_cluster = []
             vowels.append(sound)
@@ -91,7 +93,7 @@ def syllabify(sounds):
         if prev is not None:
             prev_vowel, prev_consonant_cluster = prev
             parts.append([[prev_vowel]])
-            if Sound('.') in prev_consonant_cluster:
+            if None in prev_consonant_cluster:
                 parts.append([prev_consonant_cluster])
                 continue
             divisions = divide(prev_consonant_cluster)
@@ -100,7 +102,7 @@ def syllabify(sounds):
             elif vowel.stronger_than(prev_vowel):
                 divisions.pop() # stronger right vowel attracts at least one consonant
             parts.append([
-                [*coda, Sound('.'), *onset]
+                [*coda, None, *onset]
                 for coda, onset in divisions
                 if is_possible_coda(coda) and is_possible_onset(onset)
             ])
@@ -134,14 +136,14 @@ def stackable(a, b):
     )
 
 def at_break(rest):
-    return not rest or rest[0] == Sound('.')
+    return not rest or rest[0] is None
 
 def gen(sounds, right=False, stroke=Stroke(''), outline=()):
     if not sounds:
         yield outline+(stroke,)
         return
 
-    if sounds[0] == Sound('.'):
+    if sounds[0] is None:
         yield from gen(sounds[1:], False, Stroke(''), outline+(stroke,))
         return
 
@@ -151,7 +153,7 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
         match sounds:
             case Sound('ʃ'), Sound('r'), *rest:
                 chords = [Stroke('SKHR')]
-            case Sound('ə'|'ɪ', stressed=False), Sound('.'), *rest if stroke or outline:
+            case Sound('ə'|'ɪ', stressed=False), None, *rest if stroke or outline:
                 chords = []
             case _:
                 chords = None
