@@ -97,10 +97,11 @@ def syllabify(sounds):
                 parts.append([prev_consonant_cluster])
                 continue
             divisions = divide(prev_consonant_cluster)
+            # The stronger vowel attracts at least one consonant
             if prev_vowel.stronger_than(vowel):
-                divisions.pop(0) # stronger left vowel attracts at least one consonant
+                divisions.pop(0)
             elif vowel.stronger_than(prev_vowel):
-                divisions.pop() # stronger right vowel attracts at least one consonant
+                divisions.pop()
             parts.append([
                 [*coda, None, *onset]
                 for coda, onset in divisions
