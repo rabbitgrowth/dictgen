@@ -7,9 +7,9 @@ from stroke import Stroke
 VOWEL = re.compile(r'([aɑɛɪɔoɵʉʌə])(\u0301?)([ːjw]?)')
 
 class Sound:
-    __match_args__ = 'sound', 'spelling', 'stressed'
+    __match_args__ = 'sound',
 
-    def __init__(self, sound, spelling=''):
+    def __init__(self, sound, spelled=''):
         vowel = VOWEL.match(sound)
         if vowel:
             first, stress, second = vowel.groups()
@@ -20,7 +20,7 @@ class Sound:
             self.sound = sound
             self.stressed = False
             self.length = 0
-        self.spelling = spelling
+        self.spelled = spelled
 
     def is_vowel(self):
         return bool(self.length)
@@ -33,7 +33,7 @@ class Sound:
             self.sound == other.sound
             and self.stressed == other.stressed
             and self.length   == other.length
-            and self.spelling == other.spelling
+            and self.spelled  == other.spelled
         )
 
     def __repr__(self):
@@ -41,13 +41,13 @@ class Sound:
             self.sound[0] + '\u0301' + self.sound[1:]
             if self.stressed else self.sound
         )
-        spelling = ':' + self.spelling if self.spelling else ''
-        return sound + spelling
+        spelled = ':' + self.spelled if self.spelled else ''
+        return sound + spelled
 
 def parse_pron(pron):
     for word in pron.split():
-        sound, _, spelling = word.partition(':')
-        yield Sound(sound, spelling)
+        sound, _, spelled = word.partition(':')
+        yield Sound(sound, spelled)
 
 def group(sounds):
     consonant_clusters = []
@@ -154,13 +154,13 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
             matches.append((chords, rest))
 
         match sounds:
-            case Sound('', 'h'), *rest:
+            case Sound('', spelled='h'), *rest:
                 chords = [Stroke('H')]
-            case Sound('w'|'h', 'wh'), *rest:
+            case Sound('w'|'h', spelled='wh'), *rest:
                 chords = [Stroke('WH')]
-            case Sound('ə'|'ɪ', _, False), *rest if outline:
+            case Sound('ə'|'ɪ', stressed=False), *rest if outline:
                 chords = [Stroke('')]
-            case Sound('ɑj', 'igh'), Sound('t'), *rest:
+            case Sound('ɑj', spelled='igh'), Sound('t'), *rest:
                 chords = [Stroke('OEUGT')]
             case sound, *rest:
                 chords = [NON_RIGHT_CHORDS.get(sound.sound)]
@@ -170,7 +170,7 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
         match sounds:
             case Sound('m'), Sound('p'), *rest:
                 chords = [Stroke('-FPL')]
-            case Sound('m', 'mb'), *rest:
+            case Sound('m', spelled='mb'), *rest:
                 chords = [Stroke('-PL'), Stroke('-B')]
             case Sound('s'), Sound('t'), *rest:
                 chords = [Stroke('*S')]
