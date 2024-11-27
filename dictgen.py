@@ -170,6 +170,8 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
         match sounds:
             case Sound('m'), Sound('p'), *rest:
                 chords = [Stroke('-FPL')]
+            case Sound('m', 'mb'), *rest:
+                chords = [Stroke('-PL'), Stroke('-B')]
             case Sound('s'), Sound('t'), *rest:
                 chords = [Stroke('*S')]
             case sound, *rest:

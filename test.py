@@ -77,6 +77,10 @@ class TestDictgen(unittest.TestCase):
     def test_igh_t(self):
         self.T('hightail', 'h ɑ́j:igh . t ɛj l', 'HAOEU/TAEUL')
 
+    def test_silent_b(self):
+        self.T('clime', 'k l ɑ́j m',    'KHRAOEUPL')
+        self.T('climb', 'k l ɑ́j m:mb', 'KHRAOEUPL/-B')
+
     def test_initial_consonants_out_of_steno_order(self):
         self.T('Gwen', 'g w ɛ́ n', 'TKPWU/WEPB')
 
