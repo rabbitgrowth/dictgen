@@ -146,29 +146,35 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
 
     if not right:
         match sounds:
-            case [Sound('ʃ'), Sound('r'), *rest]:
-                matches.append(([Stroke('SKHR')], rest))
+            case Sound('ʃ'), Sound('r'), *rest:
+                chords = [Stroke('SKHR')]
+            case _:
+                chords = None
+        if chords is not None:
+            matches.append((chords, rest))
+
         match sounds:
-            case [Sound('', 'h'), *rest]:
-                matches.append(([Stroke('H')], rest))
-            case [Sound('w'|'h', 'wh'), *rest]:
-                matches.append(([Stroke('WH')], rest))
-            case [Sound('ə'|'ɪ', _, False), *rest] if outline:
-                matches.append(([Stroke('')], rest))
-            case [Sound('ɑj', 'igh'), Sound('t'), *rest]:
-                matches.append(([Stroke('OEUGT')], rest))
-            case [sound, *rest]:
-                chord = NON_RIGHT_CHORDS.get(sound.sound)
-                matches.append(([chord], rest))
+            case Sound('', 'h'), *rest:
+                chords = [Stroke('H')]
+            case Sound('w'|'h', 'wh'), *rest:
+                chords = [Stroke('WH')]
+            case Sound('ə'|'ɪ', _, False), *rest if outline:
+                chords = [Stroke('')]
+            case Sound('ɑj', 'igh'), Sound('t'), *rest:
+                chords = [Stroke('OEUGT')]
+            case sound, *rest:
+                chords = [NON_RIGHT_CHORDS.get(sound.sound)]
+        matches.append((chords, rest))
+
     else:
         match sounds:
-            case [Sound('m'), Sound('p'), *rest]:
-                matches.append(([Stroke('-FPL')], rest))
-            case [Sound('s'), Sound('t'), *rest]:
-                matches.append(([Stroke('*S')], rest))
-            case [sound, *rest]:
-                chord = RIGHT_CHORDS.get(sound.sound)
-                matches.append(([chord], rest))
+            case Sound('m'), Sound('p'), *rest:
+                chords = [Stroke('-FPL')]
+            case Sound('s'), Sound('t'), *rest:
+                chords = [Stroke('*S')]
+            case sound, *rest:
+                chords = [RIGHT_CHORDS.get(sound.sound)]
+        matches.append((chords, rest))
 
     for chords, rest in matches:
         new_right   = right
