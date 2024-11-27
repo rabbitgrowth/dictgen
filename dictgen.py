@@ -135,10 +135,12 @@ def crosses_boundary(chord):
 
 def gen(sounds, right=False, stroke=Stroke(''), outline=()):
     if not sounds:
-        return {outline+(stroke,)}
+        yield outline+(stroke,)
+        return
 
     if sounds[0] == Sound('.'):
-        return gen(sounds[1:], False, Stroke(''), outline+(stroke,))
+        yield from gen(sounds[1:], False, Stroke(''), outline+(stroke,))
+        return
 
     matches = []
 
@@ -168,8 +170,6 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
                 chord = RIGHT_CHORDS.get(sound.sound)
                 matches.append(([chord], rest))
 
-    results = set()
-
     for chords, rest in matches:
         new_right   = right
         new_stroke  = stroke
@@ -187,6 +187,4 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
                     new_stroke |= Stroke('U')
                 new_outline += (new_stroke,)
                 new_stroke = chord
-        results |= gen(rest, new_right, new_stroke, new_outline)
-
-    return results
+        yield from gen(rest, new_right, new_stroke, new_outline)
