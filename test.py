@@ -64,6 +64,9 @@ class TestDictgen(unittest.TestCase):
         self.T('whole', 'h:wh ə́w l', 'WHOEL')
         self.T('hole',  'h    ə́w l', 'HOEL')
 
+    def test_y_ending(self):
+        self.T('family', 'f á m l ɪj', 'TPAPL/HRAE')
+
     def test_ight(self):
         self.T('rite',  'r ɑ́j     t', 'RAOEUT')
         self.T('right', 'r ɑ́j:igh t', 'ROEUGT')
