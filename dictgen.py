@@ -154,9 +154,9 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
 
     if not right:
         match sounds:
-            case Sound('ʃ'), Sound('r'), *rest:
+            case [Sound('ʃ'), Sound('r'), *rest]:
                 chords = [Stroke('SKHR')]
-            case Sound('ə'|'ɪ', stressed=False), None, *rest if stroke or outline:
+            case [Sound('ə'|'ɪ', stressed=False), None, *rest] if stroke or outline:
                 chords = []
             case _:
                 chords = None
@@ -164,32 +164,32 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
             matches.append((chords, rest))
 
         match sounds:
-            case Sound('', spelled='h'), *rest:
+            case [Sound('', spelled='h'), *rest]:
                 chords = [Stroke('H')]
-            case Sound('w'|'h', spelled='wh'), *rest:
+            case [Sound('w'|'h', spelled='wh'), *rest]:
                 chords = [Stroke('WH')]
-            case Sound('ɪj'), *rest if not rest: # TODO handle inflections
+            case [Sound('ɪj'), *rest] if not rest: # TODO handle inflections
                 chord = Stroke('AE')
                 if not stroke and outline and not(outline[-1] & MID_BANK):
                     yield outline[:-1] + (outline[-1]|chord,)
                 chords = [chord]
-            case Sound('ɑj', spelled='igh'), Sound('t'), *rest:
+            case [Sound('ɑj', spelled='igh'), Sound('t'), *rest]:
                 chords = [Stroke('OEUGT')]
-            case Sound('ə'|'ɪ', stressed=False), *rest if outline and not at_break(rest):
+            case [Sound('ə'|'ɪ', stressed=False), *rest] if outline and not at_break(rest):
                 chords = [Stroke('')]
-            case sound, *rest:
+            case [sound, *rest]:
                 chords = [NON_RIGHT_CHORDS.get(sound.sound)]
         matches.append((chords, rest))
 
     else:
         match sounds:
-            case Sound('m'), Sound('p'), *rest:
+            case [Sound('m'), Sound('p'), *rest]:
                 chords = [Stroke('-FPL')]
-            case Sound('m', spelled='mb'), *rest:
+            case [Sound('m', spelled='mb'), *rest]:
                 chords = [Stroke('-PL'), Stroke('-B')]
-            case Sound('s'), Sound('t'), *rest:
+            case [Sound('s'), Sound('t'), *rest]:
                 chords = [Stroke('*S')]
-            case sound, *rest:
+            case [sound, *rest]:
                 chords = [RIGHT_CHORDS.get(sound.sound)]
         matches.append((chords, rest))
 
