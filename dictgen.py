@@ -165,11 +165,12 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
                 chords = [Stroke('H')]
             case [Sound('w'|'h', spelled='wh'), *rest]:
                 chords = [Stroke('WH')]
-            case [Sound('ɪj'), *rest] if not rest: # TODO handle inflections
+            case [Sound('ɪj')]: # TODO handle inflections
                 chord = Stroke('AE')
                 if not stroke and outline and not(outline[-1] & MID_BANK):
                     yield outline[:-1] + (outline[-1]|chord,)
                 chords = [chord]
+                rest = []
             case [Sound('ɑj', spelled='igh'), Sound('t'), *rest]:
                 chords = [Stroke('OEUGT')]
             case [Sound('ə'|'ɪ', stressed=False), Sound() as x, *ys] if outline:
