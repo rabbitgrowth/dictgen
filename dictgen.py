@@ -51,7 +51,7 @@ def parse_pron(pron):
         sound, _, spelled = word.partition(':')
         yield None if sound == '.' else Sound(sound, spelled)
 
-def group(sounds):
+def group_by_type(sounds):
     consonant_clusters = []
     consonant_cluster  = []
     vowels = []
@@ -86,7 +86,7 @@ def combine(parts):
     return products
 
 def syllabify(sounds):
-    consonant_clusters, vowels = group(sounds)
+    consonant_clusters, vowels = group_by_type(sounds)
     parts = [[consonant_clusters.pop(0)]]
     prev = None
     for vowel, consonant_cluster in zip(vowels, consonant_clusters, strict=True):
