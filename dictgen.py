@@ -82,7 +82,7 @@ def is_possible_coda(sounds):
 def combine(parts):
     products = [[]]
     for part in parts:
-        products = [product+branch for product in products for branch in part]
+        products = [product+choice for product in products for choice in part]
     return products
 
 def syllabify(sounds):
