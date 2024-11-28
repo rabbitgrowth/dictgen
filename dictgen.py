@@ -138,9 +138,6 @@ def stackable(a, b):
         and in_steno_order(a - STAR, b - STAR)
     )
 
-def at_break(rest):
-    return not rest or rest[0] is None
-
 def gen(sounds, right=False, stroke=Stroke(''), outline=()):
     if not sounds:
         yield outline+(stroke,)
@@ -195,6 +192,9 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
 
     for chords, rest in matches:
         yield from stack(chords, rest, right, stroke, outline)
+
+def at_break(rest):
+    return not rest or rest[0] is None
 
 def stack(chords, rest, right, stroke, outline):
     for i, chord in enumerate(chords):
