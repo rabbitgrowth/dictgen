@@ -87,7 +87,7 @@ class TestDictgen(unittest.TestCase):
         self.T('visit',    'v ɪ́ z ɪ t',     'SREUZ/-T')
         self.T('mountain', 'm áw n t ɪ n',  'PHOUPB/T-PB PHOUPBT/-PB')
 
-    def test_not_omit_weak_initial_schwa(self):
+    def test_not_omit_initial_weak_schwa(self):
         self.T('about', 'ə b áw t', 'U/PWOUT') # not PWOUT
 
     def test_omit_weak_schwa_at_syllable_end(self):
