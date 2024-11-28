@@ -194,22 +194,22 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
         matches.append((chords, rest))
 
     for chords, rest in matches:
-        new_right   = right
-        new_stroke  = stroke
-        new_outline = outline
-        for i, chord in enumerate(chords):
-            if i:
-                new_outline += (new_stroke,)
-                new_stroke = Stroke('')
-                new_right = False
-            if crosses_boundary(chord):
-                new_right = True
-            if stackable(new_stroke, chord):
-                new_stroke |= chord
-            else:
-                if not new_right:
-                    new_stroke |= Stroke('U')
-                new_outline += (new_stroke,)
-                new_stroke = chord
-                new_right = False
-        yield from gen(rest, new_right, new_stroke, new_outline)
+        yield from stack(chords, rest, right, stroke, outline)
+
+def stack(chords, rest, right, stroke, outline):
+    for i, chord in enumerate(chords):
+        if i:
+            outline += (stroke,)
+            stroke = Stroke('')
+            right = False
+        if crosses_boundary(chord):
+            right = True
+        if stackable(stroke, chord):
+            stroke |= chord
+        else:
+            if not right:
+                stroke |= Stroke('U')
+            outline += (stroke,)
+            stroke = chord
+            right = False
+    return gen(rest, right, stroke, outline)
