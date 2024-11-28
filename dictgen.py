@@ -198,11 +198,12 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
         new_stroke  = stroke
         new_outline = outline
         for i, chord in enumerate(chords):
-            if crosses_boundary(chord):
-                new_right = True
             if i:
                 new_outline += (new_stroke,)
                 new_stroke = Stroke('')
+                new_right = False
+            if crosses_boundary(chord):
+                new_right = True
             if stackable(new_stroke, chord):
                 new_stroke |= chord
             else:
@@ -210,4 +211,5 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
                     new_stroke |= Stroke('U')
                 new_outline += (new_stroke,)
                 new_stroke = chord
+                new_right = False
         yield from gen(rest, new_right, new_stroke, new_outline)
