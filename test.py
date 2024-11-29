@@ -65,7 +65,7 @@ class TestDictgen(unittest.TestCase):
         self.T('hole',  'h    ə́w l', 'HOEL')
 
     def test_y_ending(self):
-        self.T('family',   'f á m l ɪj',    'TPAPL/HRAE')
+        self.T('family', 'f á m l ɪj', 'TPAPL/HRAE')
         self.T('employee', 'ɛ́ m p l oj ɪ́j', 'EPL/PHROEU/AE EFPL/HROEU/AE')
 
     def test_y_ending_foldable(self):
@@ -82,13 +82,21 @@ class TestDictgen(unittest.TestCase):
         self.T('hightail', 'h ɑ́j:igh . t ɛj l', 'HAOEU/TAEUL') # not HOEUGT/AEUL
 
     def test_omit_weak_schwa(self):
-        self.T('title',    't ɑ́j t ə l',    'TAOEUT/-L')
+        self.T('title', 't ɑ́j t ə l', 'TAOEUT/-L')
         self.T('children', 'ʧ ɪ́ l d r ə n', 'KHEUL/TKR-PB KHEULD/R-PB')
-        self.T('visit',    'v ɪ́ z ɪ t',     'SREUZ/-T')
-        self.T('mountain', 'm áw n t ɪ n',  'PHOUPB/T-PB PHOUPBT/-PB')
+        self.T('visit', 'v ɪ́ z ɪ t', 'SREUZ/-T')
+        self.T('mountain', 'm áw n t ɪ n', 'PHOUPB/T-PB PHOUPBT/-PB')
 
     def test_not_omit_initial_weak_schwa(self):
-        self.T('about', 'ə b áw t', 'U/PWOUT') # not PWOUT
+        self.T('about', 'ə b áw t', 'U/PWOUT')
+
+    def test_not_omit_when_conflict_with_inflections(self):
+        self.T('rapid', 'r á p ɪ d', 'RAP/UD')
+        self.T('designate', 'd ɛ́ z ɪ g n ɛj t', 'TKEZ/UG/TPHAEUT')
+        self.T('talisman', 't á l ɪ z m ə n', 'TAL/UZ/PH-PB')
+
+    def test_omit_when_not_conflict_with_inflections(self):
+        self.T('rapids', 'r á p ɪ d z', 'RAP/-DZ')
 
     def test_omit_weak_schwa_at_syllable_end(self):
         self.T('conference', 'k ɔ́ n f ə r ə n s',

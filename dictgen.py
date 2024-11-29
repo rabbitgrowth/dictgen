@@ -173,9 +173,11 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
                 rest = []
             case [Sound('ɑj', spelled='igh'), Sound('t'), *rest]:
                 chords = [Stroke('OEUGT')]
-            case [Sound('ə'|'ɪ', stressed=False), Sound() as x, *ys] if outline:
+            case [Sound('ə'|'ɪ', stressed=False), Sound('d'|'g'|'z') as x, *y] if not stroke and at_break(y):
+                chords = [Stroke('U')]
+                rest = [x, *y]
+            case [Sound('ə'|'ɪ', stressed=False), *rest] if outline and not at_break(rest):
                 chords = [Stroke('')]
-                rest = [x, *ys]
             case [sound, *rest]:
                 chords = [NON_RIGHT_CHORDS.get(sound.sound)]
         matches.append((chords, rest))
@@ -194,6 +196,9 @@ def gen(sounds, right=False, stroke=Stroke(''), outline=()):
 
     for chords, rest in matches:
         yield from stack(chords, rest, right, stroke, outline)
+
+def at_break(rest):
+    return not rest or rest[0] is None
 
 def stack(chords, rest, right, stroke, outline):
     for i, chord in enumerate(chords):
