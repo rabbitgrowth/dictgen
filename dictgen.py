@@ -122,7 +122,7 @@ def stackable(a, b):
 
 def gen(sounds, past=[], right=False, stroke=Stroke(''), outline=[]):
     if not sounds:
-        yield outline
+        yield tuple(outline)
         return
 
     head, *tail = sounds
