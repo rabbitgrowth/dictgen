@@ -1,12 +1,9 @@
 import re
 
-from chords import LEFT_CHORDS, MID_CHORDS, RIGHT_CHORDS
 from clusters import ONSETS, CODAS
 from rules import RULES
 from sound import Sound
 from stroke import Stroke
-
-NON_RIGHT_CHORDS = LEFT_CHORDS | MID_CHORDS
 
 BREAK = Sound('.')
 
