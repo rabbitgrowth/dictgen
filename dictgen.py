@@ -17,16 +17,6 @@ def parse_ipa(ipa):
         stressed = False
     return Sound(ipa, stressed)
 
-def parse_pron(pron):
-    sounds = []
-    for word in pron.split():
-        ipa, _, spelled = word.partition(':')
-        sound = parse_ipa(ipa)
-        if spelled:
-            sound.spelled = spelled
-        sounds.append(sound)
-    return sounds
-
 def group_by_type(sounds):
     consonant_clusters = []
     consonant_cluster  = []
@@ -176,8 +166,7 @@ def match(rule, sounds, pos):
                 return False
     return True
 
-def generate(pron):
-    sounds = parse_pron(pron)
+def generate(sounds):
     sounds.append(BREAK)
     return {
         outline
