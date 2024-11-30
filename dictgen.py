@@ -115,27 +115,24 @@ def stackable(a, b):
         and in_steno_order(a - STAR, b - STAR)
     )
 
-def gen(sounds, past=[], right=False, stroke=Stroke(''), outline=[]):
-    if not sounds:
+def gen(sounds, pos=0, right=False, stroke=Stroke(''), outline=[]):
+    if pos == len(sounds):
         yield tuple(outline)
         return
 
-    head, *tail = sounds
-    if head == BREAK:
-        yield from gen(tail, past+[head], False, Stroke(''), outline+[stroke])
+    if sounds[pos] == BREAK:
+        yield from gen(sounds, pos+1, False, Stroke(''), outline+[stroke])
         return
 
     matches = []
 
     for rules in RULES[right]:
-        for before, pattern, after, chords in rules:
-            if match(before, pattern, after, past, sounds):
-                matches.append((chords, len(pattern)))
+        for rule in rules:
+            if match(rule, sounds, pos):
+                matches.append((rule.chords, len(rule.pattern)))
                 break
 
     for chords, length in matches:
-        new_sounds  = sounds[length:]
-        new_history = past + sounds[:length]
         new_right   = right
         new_stroke  = stroke
         new_outline = outline.copy()
@@ -154,29 +151,29 @@ def gen(sounds, past=[], right=False, stroke=Stroke(''), outline=[]):
                 new_outline.append(new_stroke)
                 new_stroke = chord
                 new_right = False
-        yield from gen(new_sounds, new_history, new_right, new_stroke, new_outline)
+        yield from gen(sounds, pos+length, new_right, new_stroke, new_outline)
 
-def match(before, pattern, after, past, sounds):
-    length = len(pattern)
-    now    = sounds[:length]
-    future = sounds[length:]
-    if pattern != now:
+def match(rule, sounds, pos):
+    end = pos + len(rule.pattern)
+    past   = sounds[:pos]
+    now    = sounds[pos:end]
+    future = sounds[end:]
+    if rule.pattern != now:
         return False
-    for tokens, sequence in [
-        (reversed(before), reversed(past)),
-        (after, iter(future))
+    for look, ahead, negative in [
+        (rule.lookahead,           True,  False),
+        (rule.lookbehind,          False, False),
+        (rule.negative_lookahead,  True,  True),
+        (rule.negative_lookbehind, False, True),
     ]:
-        for token in tokens:
-            if token is ...:
-                list(sequence)
-            else:
-                try:
-                    if token != next(sequence):
-                        return False
-                except StopIteration:
-                    return False
-        if list(sequence):
-            return False
+        if look is not None:
+            length = len(look)
+            sequence = future[:length] if ahead else past[-length:]
+            condition = look != sequence
+            if negative:
+                condition = not(condition)
+            if condition:
+                return False
     return True
 
 def generate(pron):
