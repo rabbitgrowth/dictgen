@@ -65,7 +65,7 @@ def syllabify(sounds):
     consonant_clusters, vowels = group_by_type(sounds)
     parts = [[consonant_clusters.pop(0)]]
     prev = None
-    for vowel, consonant_cluster in zip(vowels, consonant_clusters, strict=True):
+    for vowel, consonant_cluster in zip(vowels, consonant_clusters):
         if prev is not None:
             prev_vowel, prev_consonant_cluster = prev
             parts.append([[prev_vowel]])
