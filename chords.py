@@ -70,5 +70,3 @@ RIGHT_CHORDS = {
     'ʧ': Stroke('-FP'),
     'ʤ': Stroke('-PBLG'),
 }
-
-NON_RIGHT_CHORDS = LEFT_CHORDS | MID_CHORDS

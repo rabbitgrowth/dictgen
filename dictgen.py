@@ -1,62 +1,43 @@
 import re
 
-from chords import NON_RIGHT_CHORDS, RIGHT_CHORDS
+from chords import LEFT_CHORDS, MID_CHORDS, RIGHT_CHORDS
 from clusters import ONSETS, CODAS
+from rules import RULES
+from sound import Sound
 from stroke import Stroke
+
+NON_RIGHT_CHORDS = LEFT_CHORDS | MID_CHORDS
+
+BREAK = Sound('.')
 
 VOWEL = re.compile(r'([aɑɛɪɔoɵʉʌə])(\u0301?)([ːjw]?)')
 
-class Sound:
-    __match_args__ = 'sound',
-
-    def __init__(self, sound, spelled=''):
-        vowel = VOWEL.match(sound)
-        if vowel:
-            first, stress, second = vowel.groups()
-            self.sound = first + second
-            self.stressed = bool(stress)
-            self.length = len(sound)
-        else:
-            self.sound = sound
-            self.stressed = False
-            self.length = 0
-        self.spelled = spelled
-
-    def is_vowel(self):
-        return bool(self.length)
-
-    def stronger_than(self, other):
-        return self.stressed and not other.stressed
-
-    def __eq__(self, other):
-        if isinstance(other, Sound):
-            return (
-                self.sound == other.sound
-                and self.stressed == other.stressed
-                and self.length   == other.length
-                and self.spelled  == other.spelled
-            )
-        return NotImplemented
-
-    def __repr__(self):
-        sound = (
-            self.sound[0] + '\u0301' + self.sound[1:]
-            if self.stressed else self.sound
-        )
-        spelled = ':' + self.spelled if self.spelled else ''
-        return sound + spelled
+def parse_ipa(ipa):
+    vowel = VOWEL.match(ipa)
+    if vowel:
+        first, stress, second = vowel.groups()
+        ipa = first + second
+        stressed = bool(stress)
+    else:
+        stressed = False
+    return Sound(ipa, stressed)
 
 def parse_pron(pron):
+    sounds = []
     for word in pron.split():
-        sound, _, spelled = word.partition(':')
-        yield None if sound == '.' else Sound(sound, spelled)
+        ipa, _, spelled = word.partition(':')
+        sound = parse_ipa(ipa)
+        if spelled:
+            sound.spelled = spelled
+        sounds.append(sound)
+    return sounds
 
 def group_by_type(sounds):
     consonant_clusters = []
     consonant_cluster  = []
     vowels = []
     for sound in sounds:
-        if sound is not None and sound.is_vowel():
+        if sound.is_vowel():
             consonant_clusters.append(consonant_cluster)
             consonant_cluster = []
             vowels.append(sound)
@@ -71,7 +52,7 @@ def divide(sounds):
     return [(sounds[:i], sounds[i:]) for i in range(len(sounds)+1)]
 
 def to_string(sounds):
-    return ''.join(sound.sound for sound in sounds)
+    return ''.join(sound.ipa for sound in sounds)
 
 def is_possible_onset(sounds):
     return not sounds or to_string(sounds) in ONSETS
@@ -93,7 +74,7 @@ def syllabify(sounds):
         if prev is not None:
             prev_vowel, prev_consonant_cluster = prev
             parts.append([[prev_vowel]])
-            if None in prev_consonant_cluster:
+            if BREAK in prev_consonant_cluster:
                 parts.append([prev_consonant_cluster])
                 continue
             divisions = divide(prev_consonant_cluster)
@@ -104,7 +85,7 @@ def syllabify(sounds):
                 elif vowel.stronger_than(prev_vowel):
                     divisions.pop()
             parts.append([
-                [*coda, None, *onset]
+                [*coda, BREAK, *onset]
                 for coda, onset in divisions
                 if is_possible_coda(coda) and is_possible_onset(onset)
             ])
@@ -115,11 +96,12 @@ def syllabify(sounds):
 MID_BANK   = Stroke('AOEU')
 RIGHT_BANK = Stroke('FRPBLGTSDZ')
 
+MID_AND_RIGHT_BANKS = MID_BANK | RIGHT_BANK
+
 def crosses_boundary(chord):
     if not chord:
         return True
-    last = Stroke(chord.last())
-    return last & MID_BANK or last & RIGHT_BANK
+    return bool(Stroke(chord.last()) & MID_AND_RIGHT_BANKS)
 
 def in_steno_order(a, b):
     return not a or not b or Stroke(a.last()) < Stroke(b.first())
@@ -138,82 +120,46 @@ def stackable(a, b):
         and in_steno_order(a - STAR, b - STAR)
     )
 
-def gen(sounds, right=False, stroke=Stroke(''), outline=()):
+def gen(sounds, history=[], right=False, stroke=Stroke(''), outline=[]):
     if not sounds:
-        yield outline+(stroke,)
+        yield outline
         return
 
-    if sounds[0] is None:
-        yield from gen(sounds[1:], False, Stroke(''), outline+(stroke,))
+    head, *tail = sounds
+    if head == BREAK:
+        yield from gen(tail, history+[head], False, Stroke(''), outline+[stroke])
         return
 
     matches = []
 
-    if not right:
-        match sounds:
-            case [Sound('ʃ'), Sound('r'), *rest]:
-                chords = [Stroke('SKHR')]
-            case [Sound('ə'|'ɪ', stressed=False), None, *rest] if stroke or outline:
-                chords = []
-            case _:
-                chords = None
-        if chords is not None:
-            matches.append((chords, rest))
+    for rules in RULES[right]:
+        for before, pattern, after, chords in rules:
+            if match(before, pattern, after, history, sounds):
+                matches.append((chords, len(pattern)))
+                break
 
-        match sounds:
-            case [Sound('', spelled='h'), *rest]:
-                chords = [Stroke('H')]
-            case [Sound('w'|'h', spelled='wh'), *rest]:
-                chords = [Stroke('WH')]
-            case [Sound('ɪj')]: # TODO handle inflections
-                chord = Stroke('AE')
-                if not stroke and outline and not(outline[-1] & MID_BANK):
-                    yield outline[:-1] + (outline[-1]|chord,)
-                chords = [chord]
-                rest = []
-            case [Sound('ɑj', spelled='igh'), Sound('t'), *rest]:
-                chords = [Stroke('OEUGT')]
-            case [Sound('ə'|'ɪ', stressed=False), Sound('d'|'g'|'z') as x, *y] if not stroke and at_break(y):
-                chords = [Stroke('U')]
-                rest = [x, *y]
-            case [Sound('ə'|'ɪ', stressed=False), *rest] if outline and not at_break(rest):
-                chords = [Stroke('')]
-            case [sound, *rest]:
-                chords = [NON_RIGHT_CHORDS.get(sound.sound)]
-        matches.append((chords, rest))
+    for chords, length in matches:
+        new_sounds  = sounds[length:]
+        new_history = history + sounds[:length]
+        new_right   = right
+        new_stroke  = stroke
+        new_outline = outline.copy()
+        for i, chord in enumerate(chords):
+            if i:
+                new_outline.append(new_stroke)
+                new_stroke = Stroke('')
+                new_right = False
+            if crosses_boundary(chord):
+                new_right = True
+            if stackable(new_stroke, chord):
+                new_stroke |= chord
+            else:
+                if not new_right:
+                    new_stroke |= Stroke('U')
+                new_outline.append(new_stroke)
+                new_stroke = chord
+                new_right = False
+        yield from gen(new_sounds, new_history, new_right, new_stroke, new_outline)
 
-    else:
-        match sounds:
-            case [Sound('m'), Sound('p'), *rest]:
-                chords = [Stroke('-FPL')]
-            case [Sound('m', spelled='mb'), *rest]:
-                chords = [Stroke('-PL'), Stroke('-B')]
-            case [Sound('s'), Sound('t'), *rest]:
-                chords = [Stroke('*S')]
-            case [sound, *rest]:
-                chords = [RIGHT_CHORDS.get(sound.sound)]
-        matches.append((chords, rest))
-
-    for chords, rest in matches:
-        yield from stack(chords, rest, right, stroke, outline)
-
-def at_break(rest):
-    return not rest or rest[0] is None
-
-def stack(chords, rest, right, stroke, outline):
-    for i, chord in enumerate(chords):
-        if i:
-            outline += (stroke,)
-            stroke = Stroke('')
-            right = False
-        if crosses_boundary(chord):
-            right = True
-        if stackable(stroke, chord):
-            stroke |= chord
-        else:
-            if not right:
-                stroke |= Stroke('U')
-            outline += (stroke,)
-            stroke = chord
-            right = False
-    return gen(rest, right, stroke, outline)
+def match(before, pattern, after, history, sounds):
+    ...
