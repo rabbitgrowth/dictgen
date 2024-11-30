@@ -167,7 +167,10 @@ def match(before, pattern, after, past, sounds):
     future = sounds[length:]
     if pattern != now:
         return False
-    for tokens, sequence in [(before, reversed(past)), (after, iter(future))]:
+    for tokens, sequence in [
+        (reversed(before), reversed(past)),
+        (after, iter(future))
+    ]:
         for token in tokens:
             if token is ...:
                 list(sequence)
