@@ -120,27 +120,27 @@ def stackable(a, b):
         and in_steno_order(a - STAR, b - STAR)
     )
 
-def gen(sounds, history=[], right=False, stroke=Stroke(''), outline=[]):
+def gen(sounds, past=[], right=False, stroke=Stroke(''), outline=[]):
     if not sounds:
         yield outline
         return
 
     head, *tail = sounds
     if head == BREAK:
-        yield from gen(tail, history+[head], False, Stroke(''), outline+[stroke])
+        yield from gen(tail, past+[head], False, Stroke(''), outline+[stroke])
         return
 
     matches = []
 
     for rules in RULES[right]:
         for before, pattern, after, chords in rules:
-            if match(before, pattern, after, history, sounds):
+            if match(before, pattern, after, past, sounds):
                 matches.append((chords, len(pattern)))
                 break
 
     for chords, length in matches:
         new_sounds  = sounds[length:]
-        new_history = history + sounds[:length]
+        new_history = past + sounds[:length]
         new_right   = right
         new_stroke  = stroke
         new_outline = outline.copy()
@@ -161,5 +161,22 @@ def gen(sounds, history=[], right=False, stroke=Stroke(''), outline=[]):
                 new_right = False
         yield from gen(new_sounds, new_history, new_right, new_stroke, new_outline)
 
-def match(before, pattern, after, history, sounds):
-    ...
+def match(before, pattern, after, past, sounds):
+    length = len(pattern)
+    now    = sounds[:length]
+    future = sounds[length:]
+    if pattern != now:
+        return False
+    for tokens, sequence in [(before, reversed(past)), (after, iter(future))]:
+        for token in tokens:
+            if token is ...:
+                list(sequence)
+            else:
+                try:
+                    if token != next(sequence):
+                        return False
+                except StopIteration:
+                    return False
+        if list(sequence):
+            return False
+    return True
