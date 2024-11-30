@@ -1,7 +1,7 @@
 import unittest
 
 from stroke import Stroke
-from dictgen import parse_pron, syllabify, stackable, gen
+from dictgen import stackable, generate
 
 class TestStackable(unittest.TestCase):
     def test_simple_cases(self):
@@ -29,17 +29,11 @@ class TestStackable(unittest.TestCase):
 
 class TestDictgen(unittest.TestCase):
     def T(self, word, pron, outlines):
-        sounds = parse_pron(pron)
-        result = {
-            outline
-            for syllables in syllabify(sounds)
-            for outline in gen(syllables)
-        }
         expected = {
             tuple(map(Stroke, outline.split('/')))
             for outline in outlines.split()
         }
-        self.assertEqual(result, expected)
+        self.assertEqual(generate(pron), expected)
 
     def test_consonant_vowel_consonant(self):
         self.T('cat', 'k á t', 'KAT')

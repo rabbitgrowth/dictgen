@@ -180,3 +180,12 @@ def match(before, pattern, after, past, sounds):
         if list(sequence):
             return False
     return True
+
+def generate(pron):
+    sounds = parse_pron(pron)
+    sounds.append(BREAK)
+    return {
+        outline
+        for syllables in syllabify(sounds)
+        for outline in gen(syllables)
+    }
