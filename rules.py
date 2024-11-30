@@ -1,5 +1,5 @@
 from chords import LEFT_CHORDS, MID_CHORDS, RIGHT_CHORDS
-from sound import Sound
+from sound import Sound, BREAK
 from stroke import Stroke
 
 NON_RIGHT_CHORDS = LEFT_CHORDS | MID_CHORDS
@@ -11,7 +11,7 @@ NON_RIGHT_OPTIONAL_RULES = [
         [...], [Sound('ʃ'), Sound('r')], [...],
         [Stroke('SKHR')]
     ), (
-        [..., Sound()], [SCHWI, Sound('.')], [...],
+        [..., Sound()], [SCHWI, BREAK], [...],
         []
     ),
 ]
@@ -30,7 +30,7 @@ NON_RIGHT_RULES = [
         [...], [Sound('ɑj', spelled='igh'), Sound('t')], [...],
         [Stroke('OEUGT')]
     ), (
-        [..., Sound('.')], [SCHWI], [Sound({'d', 'g', 'z'}), Sound('.'), ...],
+        [..., BREAK], [SCHWI], [Sound({'d', 'g', 'z'}), BREAK, ...],
         [Stroke('U')]
     ),
 ]

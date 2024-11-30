@@ -2,10 +2,8 @@ import re
 
 from clusters import ONSETS, CODAS
 from rules import RULES
-from sound import Sound
+from sound import Sound, BREAK
 from stroke import Stroke
-
-BREAK = Sound('.')
 
 VOWEL = re.compile(r'([aɑɛɪɔoɵʉʌə])(\u0301?)([ːjw]?)')
 

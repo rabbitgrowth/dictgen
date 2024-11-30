@@ -36,3 +36,5 @@ class Sound:
 
     def __repr__(self):
         return f'Sound({self.ipa}, {self.stressed}, {self.spelled})'
+
+BREAK = Sound('.')
