@@ -85,7 +85,7 @@ NON_RIGHT_RULES = [
     Rule(
         [SCHWI],
         [Stroke('')],
-        outline = lambda outline: bool(outline), # subsquent stroke
+        outline = lambda outline: bool(outline), # subsequent stroke
         negative_lookahead = [BREAK],
     ),
     Rule(
