@@ -27,10 +27,14 @@ class TestStackable(unittest.TestCase):
         self.assertTrue (stackable(Stroke('SP'), Stroke('R')))
         self.assertFalse(stackable(Stroke('SH'), Stroke('R')))
 
+def split(string):
+    for word in string.split():
+        yield '' if word == '-' else word
+
 class TestDictgen(unittest.TestCase):
     def T(self, word, pron, outlines):
         sounds = []
-        for spelled, ipa in zip(word.split(' '), pron.split(' ')):
+        for spelled, ipa in zip(split(word), split(pron)):
             sound = parse_ipa(ipa)
             sound.spelled = spelled
             sounds.append(sound)
@@ -49,22 +53,22 @@ class TestDictgen(unittest.TestCase):
 
     def test_shr(self):
         self.T('sh r e d', 'ʃ r ɛ́ d', 'SKHRED SHU/RED')
-        self.T('s l e d',  's l ɛ́ d', 'SHRED')
+        self.T('s  l e d', 's l ɛ́ d', 'SHRED')
 
     def test_silent_h(self):
-        self.T('h eir', ' ɛ́ː', 'HAEUR')
-        self.T('air',   'ɛ́ː',  'AEUR')
+        self.T('h eir', '- ɛ́ː', 'HAEUR')
+        self.T('  air', '  ɛ́ː', 'AEUR')
 
     def test_wh_pronounced_w(self):
-        self.T('w h i ch', 'w  ɪ́ ʧ', 'WHEUFP')
-        self.T('w i tch',  'w ɪ́ ʧ',  'WEUFP')
+        self.T('w h i ch',  'w - ɪ́ ʧ', 'WHEUFP')
+        self.T('w   i tch', 'w   ɪ́ ʧ', 'WEUFP')
 
     def test_wh_pronounced_h(self):
-        self.T('w h o le', ' h ə́w l', 'WHOEL')
-        self.T('h o le',   'h ə́w l',  'HOEL')
+        self.T('w h o le', '- h ə́w l', 'WHOEL')
+        self.T('  h o le', '  h ə́w l', 'HOEL')
 
     def test_y_ending(self):
-        self.T('f a m i l y', 'f á m  l ɪj', 'TPAPL/HRAE')
+        self.T('f a m i l y', 'f á m - l ɪj', 'TPAPL/HRAE')
         self.T('e m p l oy ee', 'ɛ́ m p l oj ɪ́j', 'EPL/PHROEU/AE EFPL/HROEU/AE')
 
     def test_y_ending_foldable(self):
@@ -78,10 +82,10 @@ class TestDictgen(unittest.TestCase):
         self.T('r igh t', 'r ɑ́j t', 'ROEUGT')
 
     def test_igh_t(self):
-        self.T('h igh  t ai l', 'h ɑ́j:igh . t ɛj l', 'HAOEU/TAEUL') # not HOEUGT/AEUL
+        self.T('h igh - t ai l', 'h ɑ́j:igh . t ɛj l', 'HAOEU/TAEUL') # not HOEUGT/AEUL
 
     def test_omit_weak_schwa(self):
-        self.T('t i t  le', 't ɑ́j t ə l', 'TAOEUT/-L')
+        self.T('t i t - le', 't ɑ́j t ə l', 'TAOEUT/-L')
         self.T('ch i l d r e n', 'ʧ ɪ́ l d r ə n', 'KHEUL/TKR-PB KHEULD/R-PB')
         self.T('v i s i t', 'v ɪ́ z ɪ t', 'SREUZ/-T')
         self.T('m ou n t ai n', 'm áw n t ɪ n', 'PHOUPB/T-PB PHOUPBT/-PB')
