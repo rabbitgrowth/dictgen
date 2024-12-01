@@ -61,7 +61,13 @@ NON_RIGHT_RULES = [
         [SCHWI],
         [Stroke('U')],
         lookbehind = [BREAK],
-        lookahead  = [Sound({'d', 'g', 'z'}), BREAK],
+        lookahead = [Sound({'d', 'g', 'z'}), BREAK],
+    ),
+    Rule(
+        [SCHWI],
+        [Stroke('')],
+        outline = lambda outline: bool(outline), # subsquent stroke
+        negative_lookahead = [BREAK],
     ),
 ]
 

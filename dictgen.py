@@ -118,7 +118,7 @@ def gen(sounds, pos=0, right=False, stroke=Stroke(''), outline=[]):
 
     for rules in RULES[right]:
         for rule in rules:
-            if match(rule, sounds, pos):
+            if match(rule, sounds, pos, stroke, outline):
                 matches.append((rule.chords, len(rule.pattern)))
                 break
 
@@ -143,7 +143,7 @@ def gen(sounds, pos=0, right=False, stroke=Stroke(''), outline=[]):
                 new_right = False
         yield from gen(sounds, pos+length, new_right, new_stroke, new_outline)
 
-def match(rule, sounds, pos):
+def match(rule, sounds, pos, stroke, outline):
     end = pos + len(rule.pattern)
     past    = sounds[:pos]
     present = sounds[pos:end]
@@ -163,6 +163,10 @@ def match(rule, sounds, pos):
             if negative:
                 condition = not(condition)
             if condition:
+                return False
+    for test, obj in [(rule.stroke, stroke), (rule.outline, outline)]:
+        if test is not None:
+            if not test(obj):
                 return False
     return True
 
