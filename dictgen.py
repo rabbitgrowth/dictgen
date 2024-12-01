@@ -145,10 +145,10 @@ def gen(sounds, pos=0, right=False, stroke=Stroke(''), outline=[]):
 
 def match(rule, sounds, pos):
     end = pos + len(rule.pattern)
-    past   = sounds[:pos]
-    now    = sounds[pos:end]
-    future = sounds[end:]
-    if rule.pattern != now:
+    past    = sounds[:pos]
+    present = sounds[pos:end]
+    future  = sounds[end:]
+    if rule.pattern != present:
         return False
     for look, ahead, negative in [
         (rule.lookahead,           True,  False),
