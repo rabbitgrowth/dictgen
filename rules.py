@@ -72,8 +72,8 @@ NON_RIGHT_RULES = [
         [Stroke('H')],
     ),
     Rule(
-        [Sound({'w', 'h'}, spelled='wh')],
-        [Stroke('WH')],
+        [Sound('', spelled='w')],
+        [Stroke('W')],
     ),
     Rule(
         [Sound('ɪj')],

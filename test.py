@@ -56,12 +56,12 @@ class TestDictgen(unittest.TestCase):
         self.T('air',   'ɛ́ː',  'AEUR')
 
     def test_wh_pronounced_w(self):
-        self.T('wh i ch', 'w ɪ́ ʧ', 'WHEUFP')
-        self.T('w i tch', 'w ɪ́ ʧ', 'WEUFP')
+        self.T('w h i ch', 'w  ɪ́ ʧ', 'WHEUFP')
+        self.T('w i tch',  'w ɪ́ ʧ',  'WEUFP')
 
     def test_wh_pronounced_h(self):
-        self.T('wh o le', 'h ə́w l', 'WHOEL')
-        self.T('h o le',  'h ə́w l', 'HOEL')
+        self.T('w h o le', ' h ə́w l', 'WHOEL')
+        self.T('h o le',   'h ə́w l',  'HOEL')
 
     def test_y_ending(self):
         self.T('f a m i l y', 'f á m  l ɪj', 'TPAPL/HRAE')
