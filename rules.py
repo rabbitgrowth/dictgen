@@ -68,18 +68,6 @@ NON_RIGHT_OPTIONAL_RULES = [
 
 NON_RIGHT_RULES = [
     Rule(
-        [Sound('', spelled='h')],
-        [Stroke('H')],
-    ),
-    Rule(
-        [Sound('', spelled='w')],
-        [Stroke('W')],
-    ),
-    Rule(
-        [Sound('')],
-        [],
-    ),
-    Rule(
         [Sound('ɪj')],
         [Stroke('AE')],
         lookahead = [BREAK],
@@ -100,6 +88,18 @@ NON_RIGHT_RULES = [
         outline = lambda outline: bool(outline), # subsquent stroke
         negative_lookahead = [BREAK],
     ),
+    Rule(
+        [Sound('', spelled='h')],
+        [Stroke('H')],
+    ),
+    Rule(
+        [Sound('', spelled='w')],
+        [Stroke('W')],
+    ),
+    Rule(
+        [Sound('')],
+        [],
+    ),
 ]
 
 RIGHT_RULES = [
@@ -108,12 +108,12 @@ RIGHT_RULES = [
         [Stroke('-FPL')],
     ),
     Rule(
-        [Sound('', spelled='b')],
-        [Stroke('-B')],
-    ),
-    Rule(
         [Sound('s'), Sound('t')],
         [Stroke('*S')],
+    ),
+    Rule(
+        [Sound('', spelled='b')],
+        [Stroke('-B')],
     ),
 ]
 
