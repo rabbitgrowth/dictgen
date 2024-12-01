@@ -124,6 +124,7 @@ def gen(sounds, pos=0, right=False, stroke=Stroke(''), outline=[]):
                 break
 
     for chords, length in matches:
+        new_pos     = pos + length
         new_right   = right
         new_stroke  = stroke
         new_outline = outline.copy()
@@ -142,7 +143,7 @@ def gen(sounds, pos=0, right=False, stroke=Stroke(''), outline=[]):
                 new_outline.append(new_stroke)
                 new_stroke = chord
                 new_right = False
-        yield from gen(sounds, pos+length, new_right, new_stroke, new_outline)
+        yield from gen(sounds, new_pos, new_right, new_stroke, new_outline)
 
 def generate(sounds):
     sounds.append(BREAK)
