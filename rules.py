@@ -115,6 +115,10 @@ RIGHT_RULES = [
         [Sound('', spelled='b')],
         [Stroke('-B')],
     ),
+    Rule(
+        [Sound('')],
+        [],
+    ),
 ]
 
 for chords, rules in [

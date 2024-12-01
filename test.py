@@ -71,6 +71,11 @@ class TestDictgen(unittest.TestCase):
         self.T('c l i me',  'k l ɑ́j m  ', 'KHRAOEUPL')
         self.T('c l i m b', 'k l ɑ́j m -', 'KHRAOEUPL/-B')
 
+    def test_skip_other_silent_letters(self):
+        self.T('m n e m o n i c', '- n ɪ m ɔ́ n ɪ k', 'TPHU/PHAUPB/-BG TPHEU/PHAUPB/-BG')
+        self.T('y a ch t', 'j ɔ́ - t', 'KWRAUT')
+        self.T('r e s t au r a n t', 'r ɛ́ s t - r ɔ n t', 'RES/TRAUPBT R*ES/RAUPBT')
+
     def test_y_ending(self):
         self.T('f a m i l y', 'f á m - l ɪj', 'TPAPL/HRAE')
         self.T('e m p l oy ee', 'ɛ́ m p l oj ɪ́j', 'EPL/PHROEU/AE EFPL/HROEU/AE')
