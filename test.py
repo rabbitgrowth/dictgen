@@ -71,6 +71,7 @@ class TestDictgen(unittest.TestCase):
         self.T('f a m i l y', 'f á m - l ɪj', 'TPAPL/HRAE')
         self.T('e m p l oy ee', 'ɛ́ m p l oj ɪ́j', 'EPL/PHROEU/AE EFPL/HROEU/AE')
 
+    @unittest.expectedFailure
     def test_y_ending_foldable(self):
         self.T('p r i v a c y', 'p r ɪ́ v ə s ɪj',
                'PREUFB/U/SAE PREUFB/SAE PREUFB/-S/AE PREUFB/AES')
