@@ -150,16 +150,16 @@ def match(rule, sounds, pos, stroke, outline):
     future  = sounds[end:]
     if rule.pattern != present:
         return False
-    for look, ahead, negative in [
+    for lookaround, ahead, negative in [
         (rule.lookahead,           True,  False),
         (rule.lookbehind,          False, False),
         (rule.negative_lookahead,  True,  True),
         (rule.negative_lookbehind, False, True),
     ]:
-        if look is not None:
-            length = len(look)
+        if lookaround is not None:
+            length = len(lookaround)
             sequence = future[:length] if ahead else past[-length:]
-            condition = look != sequence
+            condition = lookaround != sequence
             if negative:
                 condition = not(condition)
             if condition:
