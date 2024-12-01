@@ -23,6 +23,33 @@ class Rule:
         self.stroke              = stroke
         self.outline             = outline
 
+    def match(self, sounds, pos, stroke, outline):
+        end = pos + len(self.pattern)
+        past    = sounds[:pos]
+        present = sounds[pos:end]
+        future  = sounds[end:]
+        if self.pattern != present:
+            return None
+        for lookaround, ahead, negative in [
+            (self.lookahead,           True,  False),
+            (self.lookbehind,          False, False),
+            (self.negative_lookahead,  True,  True),
+            (self.negative_lookbehind, False, True),
+        ]:
+            if lookaround is not None:
+                length = len(lookaround)
+                sequence = future[:length] if ahead else past[-length:]
+                condition = lookaround != sequence
+                if negative:
+                    condition = not(condition)
+                if condition:
+                    return None
+        for test, obj in [(self.stroke, stroke), (self.outline, outline)]:
+            if test is not None:
+                if not test(obj):
+                    return None
+        return self.chords, len(self.pattern)
+
 NON_RIGHT_CHORDS = LEFT_CHORDS | MID_CHORDS
 
 SCHWI = Sound({'ə', 'ɪ'}, stressed=False)
