@@ -108,8 +108,8 @@ RIGHT_RULES = [
         [Stroke('-FPL')],
     ),
     Rule(
-        [Sound('m', spelled='mb')],
-        [Stroke('-PL'), Stroke('-B')],
+        [Sound('', spelled='b')],
+        [Stroke('-B')],
     ),
     Rule(
         [Sound('s'), Sound('t')],

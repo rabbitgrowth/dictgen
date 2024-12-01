@@ -59,13 +59,17 @@ class TestDictgen(unittest.TestCase):
         self.T('h eir', '- ɛ́ː', 'HAEUR')
         self.T('  air', '  ɛ́ː', 'AEUR')
 
-    def test_wh_pronounced_w(self):
+    def test_silent_h_in_wh(self):
         self.T('w h i ch',  'w - ɪ́ ʧ', 'WHEUFP')
         self.T('w   i tch', 'w   ɪ́ ʧ', 'WEUFP')
 
-    def test_wh_pronounced_h(self):
+    def test_silent_w_in_wh(self):
         self.T('w h o le', '- h ə́w l', 'WHOEL')
         self.T('  h o le', '  h ə́w l', 'HOEL')
+
+    def test_silent_b(self):
+        self.T('c l i me',  'k l ɑ́j m  ', 'KHRAOEUPL')
+        self.T('c l i m b', 'k l ɑ́j m -', 'KHRAOEUPL/-B')
 
     def test_y_ending(self):
         self.T('f a m i l y', 'f á m - l ɪj', 'TPAPL/HRAE')
@@ -105,10 +109,6 @@ class TestDictgen(unittest.TestCase):
     def test_omit_weak_schwa_at_syllable_end(self):
         self.T('c o n f e r e n ce', 'k ɔ́ n f ə r ə n s',
                'KAUPB/TPU/R-PBS KAUPB/TPR-PBS KAUPB/TP-R/-PBS') # not KAUPB/TP/R-PBS
-
-    def test_silent_b(self):
-        self.T('c l i me', 'k l ɑ́j m', 'KHRAOEUPL')
-        self.T('c l i mb', 'k l ɑ́j m', 'KHRAOEUPL/-B')
 
     def test_initial_consonants_out_of_steno_order(self):
         self.T('G w e n', 'g w ɛ́ n', 'TKPWU/WEPB')
