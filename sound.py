@@ -1,4 +1,5 @@
 import re
+
 from chords import MID_CHORDS
 
 class Sound:
