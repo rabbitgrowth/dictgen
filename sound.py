@@ -1,12 +1,14 @@
 import re
+from dataclasses import dataclass
+from typing import Optional, Set, Union
 
 from chords import MID_CHORDS
 
+@dataclass
 class Sound:
-    def __init__(self, ipa=None, stressed=None, spelled=None):
-        self.ipa      = ipa
-        self.stressed = stressed
-        self.spelled  = spelled
+    ipa:      Optional[Union[str, Set[str]]] = None
+    stressed: Optional[bool]                 = None
+    spelled:  Optional[Union[str, Set[str]]] = None
 
     @classmethod
     def from_ipa(cls, ipa):
@@ -46,8 +48,5 @@ class Sound:
                     return False
         else:
             return True
-
-    def __repr__(self):
-        return f'Sound({self.ipa}, {self.stressed}, {self.spelled})'
 
 BREAK = Sound('.')
