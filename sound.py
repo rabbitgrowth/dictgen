@@ -1,8 +1,6 @@
 import re
 from chords import MID_CHORDS
 
-VOWEL = re.compile(r'([aɑɛɪɔoɵʉʌə])(\u0301?)([ːjw]?)')
-
 class Sound:
     def __init__(self, ipa=None, stressed=None, spelled=None):
         self.ipa      = ipa
@@ -11,7 +9,7 @@ class Sound:
 
     @classmethod
     def from_ipa(cls, ipa):
-        vowel = VOWEL.match(ipa)
+        vowel = re.match(r'([aɑɛɪɔoɵʉʌə])(\u0301?)([ːjw]?)', ipa)
         if vowel:
             first, stress, second = vowel.groups()
             ipa = first + second
