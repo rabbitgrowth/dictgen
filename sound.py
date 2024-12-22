@@ -1,10 +1,24 @@
+import re
 from chords import MID_CHORDS
+
+VOWEL = re.compile(r'([aɑɛɪɔoɵʉʌə])(\u0301?)([ːjw]?)')
 
 class Sound:
     def __init__(self, ipa=None, stressed=None, spelled=None):
         self.ipa      = ipa
         self.stressed = stressed
         self.spelled  = spelled
+
+    @classmethod
+    def from_ipa(cls, ipa):
+        vowel = VOWEL.match(ipa)
+        if vowel:
+            first, stress, second = vowel.groups()
+            ipa = first + second
+            stressed = bool(stress)
+        else:
+            stressed = False
+        return cls(ipa, stressed)
 
     def is_vowel(self):
         assert self.ipa is not None

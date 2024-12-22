@@ -1,7 +1,8 @@
 import unittest
 
+from sound import Sound
 from stroke import Stroke
-from dictgen import parse_ipa, stackable, generate
+from dictgen import stackable, generate
 
 class TestStackable(unittest.TestCase):
     def test_simple_cases(self):
@@ -35,7 +36,7 @@ class TestDictgen(unittest.TestCase):
     def T(self, word, pron, outlines):
         sounds = []
         for spelled, ipa in zip(split(word), split(pron)):
-            sound = parse_ipa(ipa)
+            sound = Sound.from_ipa(ipa)
             sound.spelled = spelled
             sounds.append(sound)
         expected = {

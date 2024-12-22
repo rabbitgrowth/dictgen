@@ -5,18 +5,6 @@ from rules import RULES
 from sound import Sound, BREAK
 from stroke import Stroke
 
-VOWEL = re.compile(r'([aɑɛɪɔoɵʉʌə])(\u0301?)([ːjw]?)')
-
-def parse_ipa(ipa):
-    vowel = VOWEL.match(ipa)
-    if vowel:
-        first, stress, second = vowel.groups()
-        ipa = first + second
-        stressed = bool(stress)
-    else:
-        stressed = False
-    return Sound(ipa, stressed)
-
 def group_by_type(sounds):
     consonant_clusters = []
     consonant_cluster  = []
