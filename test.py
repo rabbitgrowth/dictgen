@@ -69,7 +69,7 @@ class TestDictgen(unittest.TestCase):
         self.T('r igh t', 'r ɑ́j t', 'ROEUGT')
 
     def test_igh_t(self):
-        self.T('h igh - t ai l', 'h ɑ́j:igh . t ɛj l', 'HAOEU/TAEUL') # not HOEUGT/AEUL
+        self.T('h igh - t ai l', 'h ɑ́j . t ɛj l', 'HAOEU/TAEUL') # not HOEUGT/AEUL
 
     def test_omit_weak_schwa(self):
         self.T('t i t - le', 't ɑ́j t ə l', 'TAOEUT/-L')
