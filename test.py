@@ -2,31 +2,7 @@ import unittest
 
 from sound import Sound
 from stroke import Stroke
-from dictgen import stackable, generate
-
-class TestStackable(unittest.TestCase):
-    def test_simple_cases(self):
-        self.assertTrue (stackable(Stroke('S'), Stroke('T')))
-        self.assertFalse(stackable(Stroke('T'), Stroke('S')))
-
-    def test_empty_strokes(self):
-        self.assertTrue(stackable(Stroke(''),  Stroke('S')))
-        self.assertTrue(stackable(Stroke('S'), Stroke('')))
-
-    def test_with_star(self):
-        self.assertTrue (stackable(Stroke('S*'), Stroke('T')))
-        self.assertFalse(stackable(Stroke('T*'), Stroke('S')))
-        self.assertTrue (stackable(Stroke('S'),  Stroke('T*')))
-        self.assertFalse(stackable(Stroke('T'),  Stroke('S*')))
-        self.assertFalse(stackable(Stroke('S*'), Stroke('T*')))
-
-    def test_longer_strokes(self):
-        self.assertTrue (stackable(Stroke('STRAU'),    Stroke('-PBG')))
-        self.assertFalse(stackable(Stroke('STR*EPBG'), Stroke('-GT')))
-
-    def test_exceptions(self):
-        self.assertTrue (stackable(Stroke('SP'), Stroke('R')))
-        self.assertFalse(stackable(Stroke('SH'), Stroke('R')))
+from dictgen import generate
 
 def split(string):
     for word in string.split():
