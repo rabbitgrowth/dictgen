@@ -33,7 +33,7 @@ class Sound:
     def __eq__(self, other):
         if not isinstance(other, Sound):
             return NotImplemented
-        for attr in ['ipa', 'stressed', 'spelled']:
+        for attr in self.__annotations__:
             self_attr  = getattr(self,  attr)
             other_attr = getattr(other, attr)
             if self_attr is None or other_attr is None:
