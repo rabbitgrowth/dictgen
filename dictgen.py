@@ -28,10 +28,10 @@ def to_string(sounds):
     return ''.join(sound.ipa for sound in sounds)
 
 def is_possible_onset(sounds):
-    return not sounds or to_string(sounds) in ONSETS
+    return to_string(sounds) in ONSETS
 
 def is_possible_coda(sounds):
-    return not sounds or to_string(sounds) in CODAS
+    return to_string(sounds) in CODAS
 
 def combine(parts):
     products = [[]]
