@@ -7,8 +7,8 @@ from stroke import Stroke
 
 def syllabify(sounds):
     consonant_clusters, vowels = group_by_type(sounds)
-    parts = [[consonant_clusters.pop(0)]]
     prev = None
+    parts = [[consonant_clusters.pop(0)]]
     for vowel, consonant_cluster in zip(vowels, consonant_clusters):
         if prev is not None:
             prev_vowel, prev_consonant_cluster = prev
