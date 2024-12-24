@@ -19,5 +19,5 @@ with open('dict.tsv') as f, open('links.txt', 'w') as g:
         if i:
             g.write('\n')
         for items in reversed(list(zip(*pairs))):
-            g.write(' '.join(item.ljust(length) for item, length in zip(items, lengths)))
+            g.write(' '.join(item.ljust(length) for item, length in zip(items, lengths)).strip())
             g.write('\n')
