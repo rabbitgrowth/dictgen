@@ -5,6 +5,33 @@ from rules import RULES
 from sound import Sound, BREAK
 from stroke import Stroke
 
+def syllabify(sounds):
+    consonant_clusters, vowels = group_by_type(sounds)
+    parts = [[consonant_clusters.pop(0)]]
+    prev = None
+    for vowel, consonant_cluster in zip(vowels, consonant_clusters):
+        if prev is not None:
+            prev_vowel, prev_consonant_cluster = prev
+            parts.append([[prev_vowel]])
+            if BREAK in prev_consonant_cluster:
+                parts.append([prev_consonant_cluster])
+                continue
+            splits = split(prev_consonant_cluster)
+            if len(splits) > 1:
+                # The stronger vowel attracts at least one consonant
+                if prev_vowel.stronger_than(vowel):
+                    splits.pop(0)
+                elif vowel.stronger_than(prev_vowel):
+                    splits.pop()
+            parts.append([
+                [*coda, BREAK, *onset]
+                for coda, onset in splits
+                if is_possible_coda(coda) and is_possible_onset(onset)
+            ])
+        prev = vowel, consonant_cluster
+    parts.extend([[[vowel]], [consonant_cluster]])
+    return combine(parts)
+
 def group_by_type(sounds):
     consonant_clusters = []
     consonant_cluster  = []
@@ -38,33 +65,6 @@ def combine(parts):
     for part in parts:
         products = [product+choice for product in products for choice in part]
     return products
-
-def syllabify(sounds):
-    consonant_clusters, vowels = group_by_type(sounds)
-    parts = [[consonant_clusters.pop(0)]]
-    prev = None
-    for vowel, consonant_cluster in zip(vowels, consonant_clusters):
-        if prev is not None:
-            prev_vowel, prev_consonant_cluster = prev
-            parts.append([[prev_vowel]])
-            if BREAK in prev_consonant_cluster:
-                parts.append([prev_consonant_cluster])
-                continue
-            splits = split(prev_consonant_cluster)
-            if len(splits) > 1:
-                # The stronger vowel attracts at least one consonant
-                if prev_vowel.stronger_than(vowel):
-                    splits.pop(0)
-                elif vowel.stronger_than(prev_vowel):
-                    splits.pop()
-            parts.append([
-                [*coda, BREAK, *onset]
-                for coda, onset in splits
-                if is_possible_coda(coda) and is_possible_onset(onset)
-            ])
-        prev = vowel, consonant_cluster
-    parts.extend([[[vowel]], [consonant_cluster]])
-    return combine(parts)
 
 MID_BANK   = Stroke('AOEU')
 RIGHT_BANK = Stroke('FRPBLGTSDZ')
