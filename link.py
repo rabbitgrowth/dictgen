@@ -50,6 +50,7 @@ PAIRS = [
     ('r', [Sound('r')]),
     ('r', [Sound('ə')]),
     ('s', [Sound('s')]),
+    ('s', [Sound('z')]),
     ('sh', [Sound('ʃ')]),
     ('t', [Sound('t')]),
     ('ti', [Sound('ʃ')]),
