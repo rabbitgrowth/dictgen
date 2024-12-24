@@ -1,8 +1,6 @@
 from sound import Sound
 
 PAIRS = [
-    ('', [Sound('.')]),
-    ('', [Sound('ə')]),
     ('a', [Sound('a')]),
     ('a', [Sound('ə')]),
     ('a', [Sound('ɛj')]),
@@ -49,6 +47,8 @@ PAIRS = [
     ('y', [Sound('j')]),
     ('y', [Sound('ɪj')]),
     ('z', [Sound('z')]),
+    ('', [Sound('.')]),
+    ('', [Sound('ə')]),
 ]
 
 def link(word, pron):
