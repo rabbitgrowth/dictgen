@@ -61,10 +61,10 @@ def is_possible_coda(sounds):
     return to_string(sounds) in CODAS
 
 def combine(parts):
-    products = [[]]
+    results = [[]]
     for part in parts:
-        products = [product+choice for product in products for choice in part]
-    return products
+        results = [result + choice for result in results for choice in part]
+    return results
 
 MID_BANK   = Stroke('AOEU')
 RIGHT_BANK = Stroke('FRPBLGTSDZ')
@@ -137,6 +137,6 @@ def generate(sounds):
     sounds.append(BREAK)
     return {
         outline
-        for syllables in syllabify(sounds)
-        for outline in gen(syllables)
+        for syllabifications in syllabify(sounds)
+        for outline in gen(syllabifications)
     }
