@@ -1,6 +1,28 @@
 from sound import Sound
 
-PAIRS = []
+PAIRS = [
+    ('', [Sound('.')]),
+    ('a', [Sound('a')]),
+    ('b', [Sound('b')]),
+    ('bb', [Sound('b')]),
+    ('c', [Sound('k')]),
+    ('cc', [Sound('k')]),
+    ('c', []),
+    ('e', [Sound('ɛ')]),
+    ('e', [Sound('ɪ')]),
+    ('h', []),
+    ('i', [Sound('ɪ')]),
+    ('k', [Sound('k')]),
+    ('ou', [Sound('aw')]),
+    ('p', [Sound('p')]),
+    ('r', [Sound('r')]),
+    ('r', [Sound('ə')]),
+    ('s', [Sound('s')]),
+    ('sh', [Sound('ʃ')]),
+    ('t', [Sound('t')]),
+    ('u', [Sound('ʌ')]),
+    ('x', [Sound('k'), Sound('s')]),
+]
 
 def link(word, pron):
     sounds = list(map(Sound.from_ipa, pron.split()))
