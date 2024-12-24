@@ -21,7 +21,7 @@ def group_by_type(sounds):
         raise ValueError('no vowel')
     return consonant_clusters, vowels
 
-def divide(sounds):
+def split(sounds):
     return [(sounds[:i], sounds[i:]) for i in range(len(sounds)+1)]
 
 def to_string(sounds):
@@ -50,16 +50,16 @@ def syllabify(sounds):
             if BREAK in prev_consonant_cluster:
                 parts.append([prev_consonant_cluster])
                 continue
-            divisions = divide(prev_consonant_cluster)
-            if len(divisions) > 1:
+            splits = split(prev_consonant_cluster)
+            if len(splits) > 1:
                 # The stronger vowel attracts at least one consonant
                 if prev_vowel.stronger_than(vowel):
-                    divisions.pop(0)
+                    splits.pop(0)
                 elif vowel.stronger_than(prev_vowel):
-                    divisions.pop()
+                    splits.pop()
             parts.append([
                 [*coda, BREAK, *onset]
-                for coda, onset in divisions
+                for coda, onset in splits
                 if is_possible_coda(coda) and is_possible_onset(onset)
             ])
         prev = vowel, consonant_cluster
