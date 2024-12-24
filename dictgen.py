@@ -84,7 +84,7 @@ def in_steno_order(a, b):
 
 UNSTACKABLE = {
     (Stroke('SH'), Stroke('R')),
-    # TODO add more cases like T + P and -P + -L?
+    (Stroke('T'),  Stroke('P')),
 }
 
 STAR = Stroke('*')
