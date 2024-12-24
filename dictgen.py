@@ -1,4 +1,5 @@
 import re
+from itertools import pairwise
 
 from clusters import ONSETS, CODAS
 from rules import RULES
@@ -7,30 +8,32 @@ from stroke import Stroke
 
 def syllabify(sounds):
     consonant_clusters, vowels = group_by_type(sounds)
-    prev = None
+    if len(vowels) < 2:
+        return [sounds]
     parts = [[consonant_clusters.pop(0)]]
-    for vowel, consonant_cluster in zip(vowels, consonant_clusters):
-        if prev is not None:
-            prev_vowel, prev_consonant_cluster = prev
-            parts.append([[prev_vowel]])
-            if BREAK in prev_consonant_cluster:
-                # Use the pre-inserted break
-                parts.append([prev_consonant_cluster])
-                continue
-            splits = split(prev_consonant_cluster)
-            if len(splits) > 1:
-                # The stronger vowel attracts at least one consonant
-                if prev_vowel.stronger_than(vowel):
-                    splits.pop(0)
-                elif vowel.stronger_than(prev_vowel):
-                    splits.pop()
-            parts.append([
-                [*coda, BREAK, *onset]
-                for coda, onset in splits
-                if is_possible_coda(coda) and is_possible_onset(onset)
-            ])
-        prev = vowel, consonant_cluster
-    parts.extend([[[vowel]], [consonant_cluster]])
+    assert len(vowels) == len(consonant_clusters)
+    for (
+        (left_vowel,  left_consonant_cluster),
+        (right_vowel, right_consonant_cluster),
+    ) in pairwise(zip(vowels, consonant_clusters)):
+        parts.append([[left_vowel]])
+        if BREAK in left_consonant_cluster:
+            # Use the pre-inserted break
+            parts.append([left_consonant_cluster])
+            continue
+        splits = split(left_consonant_cluster)
+        if len(splits) > 1:
+            # The stronger vowel attracts at least one consonant
+            if left_vowel.stronger_than(right_vowel):
+                splits.pop(0)
+            elif right_vowel.stronger_than(left_vowel):
+                splits.pop()
+        parts.append([
+            [*coda, BREAK, *onset]
+            for coda, onset in splits
+            if is_possible_coda(coda) and is_possible_onset(onset)
+        ])
+    parts.extend([[[right_vowel]], [right_consonant_cluster]])
     return combine(parts)
 
 def group_by_type(sounds):
@@ -45,8 +48,7 @@ def group_by_type(sounds):
         else:
             consonant_cluster.append(sound)
     consonant_clusters.append(consonant_cluster)
-    if not vowels:
-        raise ValueError('no vowel')
+    assert len(consonant_clusters) == len(vowels) + 1
     return consonant_clusters, vowels
 
 def split(sounds):
