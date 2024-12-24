@@ -26,6 +26,7 @@ PAIRS = [
     ('c', []),
     ('ch', [Sound('ʧ')]),
     ('d', [Sound('d')]),
+    ('dg', [Sound('ʤ')]),
     ('e', [Sound('ə')]),
     ('e', [Sound('ɛ')]),
     ('e', [Sound('ɪ')]),
@@ -48,6 +49,7 @@ PAIRS = [
     ('o', [Sound('ʌ')]),
     ('oa', [Sound('oː')]),
     ('ou', [Sound('aw')]),
+    ('ow', [Sound('ɔ')]), # "knowledge"
     ('p', [Sound('p')]),
     ('r', [Sound('r')]),
     ('r', [Sound('ə')]),
