@@ -7,8 +7,11 @@ def show(sound):
         return sound.ipa[0] + STRESS + sound.ipa[1:]
     return sound.ipa
 
-def length(item):
+def width(item):
     return len(item.replace(STRESS, ''))
+
+def pad(string, width):
+    return string.ljust(width + string.count(STRESS))
 
 with open('dict.tsv') as f, open('links.txt', 'w') as g:
     def tee(string):
@@ -18,9 +21,9 @@ with open('dict.tsv') as f, open('links.txt', 'w') as g:
         word, pron = line.strip().split('\t')
         sounds = link(word, pron)
         pairs = [(show(sound), sound.spelled) for sound in sounds]
-        lengths = [max(map(length, pair)) for pair in pairs]
+        widths = [max(map(width, pair)) for pair in pairs]
         if i:
             tee('\n')
         for items in reversed(list(zip(*pairs))):
-            tee(' '.join(item.ljust(length) for item, length in zip(items, lengths)).strip())
+            tee(' '.join(pad(item, width) for item, width in zip(items, widths)).strip())
             tee('\n')
