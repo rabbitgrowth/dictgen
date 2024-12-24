@@ -37,8 +37,8 @@ class TestDictgen(unittest.TestCase):
         self.T('  air', '  ɛ́ː', 'AEUR')
 
     def test_silent_h_in_wh(self):
-        self.T('w h i ch',  'w - ɪ́ ʧ', 'WHEUFP')
-        self.T('w   i tch', 'w   ɪ́ ʧ', 'WEUFP')
+        self.T('w h i ch',  'w - ɪ́ tʃ', 'WHEUFP')
+        self.T('w   i tch', 'w   ɪ́ tʃ', 'WEUFP')
 
     def test_silent_w_in_wh(self):
         self.T('w h o le', '- h ə́w l', 'WHOEL')
@@ -61,7 +61,7 @@ class TestDictgen(unittest.TestCase):
     def test_y_ending_foldable(self):
         self.T('p r i v a c y', 'p r ɪ́ v ə s ɪj',
                'PREUFB/U/SAE PREUFB/SAE PREUFB/-S/AE PREUFB/AES')
-        self.T('a g e n c y', 'ɛ́j ʤ ə n s ɪj',
+        self.T('a g e n c y', 'ɛ́j dʒ ə n s ɪj',
                'AEUPBLG/-PB/SAE AEUPBLG/-PBS/AE AEUPBLG/AEPBS')
 
     def test_ight(self):
@@ -73,7 +73,7 @@ class TestDictgen(unittest.TestCase):
 
     def test_omit_weak_schwa(self):
         self.T('t i t - le', 't ɑ́j t ə l', 'TAOEUT/-L')
-        self.T('ch i l d r e n', 'ʧ ɪ́ l d r ə n', 'KHEUL/TKR-PB KHEULD/R-PB')
+        self.T('ch i l d r e n', 'tʃ ɪ́ l d r ə n', 'KHEUL/TKR-PB KHEULD/R-PB')
         self.T('v i s i t', 'v ɪ́ z ɪ t', 'SREUZ/-T')
         self.T('m ou n t ai n', 'm áw n t ɪ n', 'PHOUPB/T-PB PHOUPBT/-PB')
 
