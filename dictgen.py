@@ -14,6 +14,7 @@ def syllabify(sounds):
             prev_vowel, prev_consonant_cluster = prev
             parts.append([[prev_vowel]])
             if BREAK in prev_consonant_cluster:
+                # Use the pre-inserted break
                 parts.append([prev_consonant_cluster])
                 continue
             splits = split(prev_consonant_cluster)
