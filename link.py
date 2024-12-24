@@ -47,7 +47,7 @@ PAIRS = [
     ('o', [Sound('ʌ')]),
     ('oa', [Sound('oː')]),
     ('ou', [Sound('aw')]),
-    ('ow', [Sound('ɔ')]), # "knowledge"
+    ('ow', [Sound('ɔ')]), # kn[ow]ledge
     ('p', [Sound('p')]),
     ('q', [Sound('k')]),
     ('r', [Sound('r')]),
@@ -73,9 +73,10 @@ PAIRS = [
     ('h', []),
     ('r', []),
 
+    ('', [Sound('j')]), # b[]eauty
+    ('', [Sound('ə')]), # simp[]le
+
     ('', [Sound('.')]),
-    ('', [Sound('j')]),
-    ('', [Sound('ə')]),
 ]
 
 def link(word, pron):
