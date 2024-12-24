@@ -2,6 +2,7 @@ from sound import Sound
 
 PAIRS = [
     ('', [Sound('.')]),
+    ('', [Sound('ə')]),
     ('a', [Sound('a')]),
     ('a', [Sound('ə')]),
     ('a', [Sound('ɛj')]),
@@ -13,6 +14,7 @@ PAIRS = [
     ('d', [Sound('d')]),
     ('e', [Sound('ə')]),
     ('e', [Sound('ɛ')]),
+    ('e', []),
     ('e', [Sound('ɪ')]),
     ('f', [Sound('f')]),
     ('g', [Sound('g')]),
