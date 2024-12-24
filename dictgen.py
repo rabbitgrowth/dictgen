@@ -76,15 +76,15 @@ def crosses_boundary(chord):
         return True
     return bool(Stroke(chord.last()) & MID_AND_RIGHT_BANKS)
 
-def in_steno_order(a, b):
-    return not a or not b or Stroke(a.last()) < Stroke(b.first())
+STAR = Stroke('*')
 
 UNSTACKABLE = {
     (Stroke('SH'), Stroke('R')),
     (Stroke('T'),  Stroke('P')),
 }
 
-STAR = Stroke('*')
+def in_steno_order(a, b):
+    return not a or not b or Stroke(a.last()) < Stroke(b.first())
 
 def stackable(a, b):
     return (
