@@ -21,8 +21,8 @@ LEFT_CHORDS = {
     'ʃ': Stroke('SH'),
     'θ': Stroke('TH'),
     'ð': Stroke('TH'),
-    'ʧ': Stroke('KH'),
-    'ʤ': Stroke('SKWR'),
+    'tʃ': Stroke('KH'),
+    'dʒ': Stroke('SKWR'),
 }
 
 MID_CHORDS = {
@@ -67,6 +67,6 @@ RIGHT_CHORDS = {
     'ʃ': Stroke('-GS'),
     'θ': Stroke('-GT'),
     'ð': Stroke('-GT'),
-    'ʧ': Stroke('-FP'),
-    'ʤ': Stroke('-PBLG'),
+    'tʃ': Stroke('-FP'),
+    'dʒ': Stroke('-PBLG'),
 }
