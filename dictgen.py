@@ -69,10 +69,7 @@ def combine(parts):
         results = [result + choice for result in results for choice in part]
     return results
 
-MID_BANK   = Stroke('AOEU')
-RIGHT_BANK = Stroke('FRPBLGTSDZ')
-
-MID_AND_RIGHT_BANKS = MID_BANK | RIGHT_BANK
+MID_AND_RIGHT_BANKS = Stroke('AOEUFRPBLGTSDZ')
 
 def crosses_boundary(chord):
     if not chord:
