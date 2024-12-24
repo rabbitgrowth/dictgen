@@ -3,6 +3,8 @@ from sound import Sound
 PAIRS = [
     ('', [Sound('.')]),
     ('a', [Sound('a')]),
+    ('a', [Sound('ə')]),
+    ('a', [Sound('ɛj')]),
     ('b', [Sound('b')]),
     ('bb', [Sound('b')]),
     ('c', [Sound('k')]),
@@ -15,12 +17,14 @@ PAIRS = [
     ('g', [Sound('g')]),
     ('h', [Sound('h')]),
     ('h', []),
+    ('i', [Sound('ə')]),
     ('i', [Sound('ɪ')]),
     ('j', [Sound('ʤ')]),
     ('k', [Sound('k')]),
     ('l', [Sound('l')]),
     ('m', [Sound('m')]),
     ('n', [Sound('n')]),
+    ('o', [Sound('ə')]),
     ('o', [Sound('əw')]),
     ('ou', [Sound('aw')]),
     ('p', [Sound('p')]),
@@ -34,6 +38,7 @@ PAIRS = [
     ('w', [Sound('w')]),
     ('x', [Sound('k'), Sound('s')]),
     ('y', [Sound('j')]),
+    ('y', [Sound('ɪj')]),
     ('z', [Sound('z')]),
 ]
 
