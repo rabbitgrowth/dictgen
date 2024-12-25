@@ -18,7 +18,6 @@ PAIRS = [
     ('zz', [Sound('z')]),
 
     ('a', [Sound('a')]),
-    ('a', [Sound('ɑː')]),
     ('a', [Sound('ə')]),
     ('a', [Sound('ɛj')]),
     ('a', [Sound('ɪ')]),
@@ -85,6 +84,7 @@ PAIRS = [
     # special casing is needed for when the <r> is pronounced:
     # d ai r y
     # d ɛ́ː r ɪj
+    ('a', [Sound('ɑː')]),
     ('ai', [Sound('ɛː')]),
     ('e', [Sound('əː')]),
     ('o', [Sound('oː')]),
