@@ -18,6 +18,8 @@ PAIRS = [
     ('zz', [Sound('z')]),
 
     ('a', [Sound('a')]),
+    ('a', [Sound('oː')]), # "[a]ll"
+    ('a', [Sound('ɔ')]), # "[a]lter"
     ('a', [Sound('ɛj')]),
     ('a', [Sound('ɪ')]),
     ('ai', [Sound('ɛ')]), # "ag[ai]n"
@@ -51,6 +53,7 @@ PAIRS = [
     ('oa', [Sound('oː')]),
     ('oo', [Sound('ʉw')]),
     ('ou', [Sound('aw')]),
+    ('ow', [Sound('aw')]),
     ('ow', [Sound('ɔ')]), # "kn[ow]ledge"
     ('p', [Sound('p')]),
     ('q', [Sound('k')]),
