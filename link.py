@@ -69,16 +69,15 @@ PAIRS = [
     ('y', [Sound('ɪj')]),
     ('z', [Sound('z')]),
 
+    ('', [Sound('.')]),
+    ('', [Sound('j')]), # b[]eauty
+    ('', [Sound('ə')]), # simp[]le
+
     ('c', []), # ba[c]k
     ('e', []), # fac[e]
     ('h', []), # [h]our
     ('r', []), # pa[r]t
     ('u', []), # act[u]ally
-
-    ('', [Sound('j')]), # b[]eauty
-    ('', [Sound('ə')]), # simp[]le
-
-    ('', [Sound('.')]),
 ]
 
 def link(word, pron):
