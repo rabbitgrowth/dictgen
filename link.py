@@ -73,19 +73,25 @@ PAIRS = [
     ('y', [Sound('ɪj')]),
     ('z', [Sound('z')]),
 
-    ('air', [Sound('ɛː')]),
-    ('er', [Sound('əː')]),
-
     ('ed', [Sound('t')]),
 
     ('', [Sound('.')]),
     ('', [Sound('j')]), # "b[]eauty"
     ('', [Sound('ə')]), # "simp[]le"
 
+    # Don't analyze <r> as part of a vowel even though that might make
+    # more sense in cases like <ur> /əː/. This ensures that <r> is
+    # consistently matched as a standalone silent letter and that no
+    # special casing is needed for when the <r> is pronounced:
+    # d ai r y
+    # d ɛ́ː r ɪj
+    ('ai', [Sound('ɛː')]),
+    ('e', [Sound('əː')]),
+    ('r', []),
+
     ('c', []), # "ba[c]k"
     ('e', []), # "fac[e]"
     ('h', []), # "[h]our"
-    ('r', []), # "pa[r]t"
     ('u', []), # "act[u]ally"
 ]
 
