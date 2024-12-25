@@ -56,6 +56,7 @@ PAIRS = [
     ('s', [Sound('z')]),
     ('sh', [Sound('ʃ')]),
     ('t', [Sound('t')]),
+    ('t', [Sound('tʃ')]),
     ('ti', [Sound('ʃ')]),
     ('u', [Sound('w')]),
     ('u', [Sound('ə')]),
@@ -68,10 +69,11 @@ PAIRS = [
     ('y', [Sound('ɪj')]),
     ('z', [Sound('z')]),
 
-    ('c', []),
-    ('e', []),
-    ('h', []),
-    ('r', []),
+    ('c', []), # ba[c]k
+    ('e', []), # fac[e]
+    ('h', []), # [h]our
+    ('r', []), # pa[r]t
+    ('u', []), # act[u]ally
 
     ('', [Sound('j')]), # b[]eauty
     ('', [Sound('ə')]), # simp[]le
