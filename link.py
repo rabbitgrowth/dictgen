@@ -18,8 +18,10 @@ PAIRS = [
     ('zz', [Sound('z')]),
 
     ('a', [Sound('a')]),
+    ('a', [Sound('ɑː')]),
     ('a', [Sound('ə')]),
     ('a', [Sound('ɛj')]),
+    ('a', [Sound('ɪ')]),
     ('b', [Sound('b')]),
     ('c', [Sound('k')]),
     ('c', [Sound('s')]),
@@ -30,6 +32,7 @@ PAIRS = [
     ('e', [Sound('ɛ')]),
     ('e', [Sound('ɪ')]),
     ('f', [Sound('f')]),
+    ('g', [Sound('dʒ')]),
     ('g', [Sound('g')]),
     ('h', [Sound('h')]),
     ('i', [Sound('ɑj')]),
@@ -41,6 +44,7 @@ PAIRS = [
     ('l', [Sound('l')]),
     ('m', [Sound('m')]),
     ('n', [Sound('n')]),
+    ('ng', [Sound('ŋ')]),
     ('o', [Sound('ɔ')]),
     ('o', [Sound('ə')]),
     ('o', [Sound('əw')]),
@@ -68,6 +72,11 @@ PAIRS = [
     ('y', [Sound('j')]),
     ('y', [Sound('ɪj')]),
     ('z', [Sound('z')]),
+
+    ('air', [Sound('ɛː')]),
+    ('er', [Sound('əː')]),
+
+    ('ed', [Sound('t')]),
 
     ('', [Sound('.')]),
     ('', [Sound('j')]), # b[]eauty
