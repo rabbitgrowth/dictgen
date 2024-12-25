@@ -47,7 +47,7 @@ PAIRS = [
     ('o', [Sound('ɔ')]),
     ('o', [Sound('ə')]),
     ('o', [Sound('əw')]),
-    ('o', [Sound('ʌ')]),
+    ('o', [Sound('ʌ')]), # "l[o]ve"
     ('oa', [Sound('oː')]),
     ('ou', [Sound('aw')]),
     ('ow', [Sound('ɔ')]), # "kn[ow]ledge"
