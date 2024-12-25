@@ -20,6 +20,8 @@ PAIRS = [
     ('a', [Sound('a')]),
     ('a', [Sound('ɛj')]),
     ('a', [Sound('ɪ')]),
+    ('ai', [Sound('ɛ')]), # "ag[ai]n"
+    ('ai', [Sound('ɛj')]),
     ('b', [Sound('b')]),
     ('c', [Sound('k')]),
     ('c', [Sound('s')]),
@@ -28,6 +30,8 @@ PAIRS = [
     ('dg', [Sound('dʒ')]),
     ('e', [Sound('ɛ')]),
     ('e', [Sound('ɪ')]),
+    ('ea', [Sound('ɛ')]),
+    ('ee', [Sound('ɪj')]),
     ('f', [Sound('f')]),
     ('g', [Sound('dʒ')]),
     ('g', [Sound('g')]),
@@ -45,6 +49,7 @@ PAIRS = [
     ('o', [Sound('əw')]),
     ('o', [Sound('ʌ')]), # "l[o]ve"
     ('oa', [Sound('oː')]),
+    ('oo', [Sound('ʉw')]),
     ('ou', [Sound('aw')]),
     ('ow', [Sound('ɔ')]), # "kn[ow]ledge"
     ('p', [Sound('p')]),
