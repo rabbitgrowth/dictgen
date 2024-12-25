@@ -18,7 +18,6 @@ PAIRS = [
     ('zz', [Sound('z')]),
 
     ('a', [Sound('a')]),
-    ('a', [Sound('ə')]),
     ('a', [Sound('ɛj')]),
     ('a', [Sound('ɪ')]),
     ('b', [Sound('b')]),
@@ -27,7 +26,6 @@ PAIRS = [
     ('ch', [Sound('tʃ')]),
     ('d', [Sound('d')]),
     ('dg', [Sound('dʒ')]),
-    ('e', [Sound('ə')]),
     ('e', [Sound('ɛ')]),
     ('e', [Sound('ɪ')]),
     ('f', [Sound('f')]),
@@ -35,7 +33,6 @@ PAIRS = [
     ('g', [Sound('g')]),
     ('h', [Sound('h')]),
     ('i', [Sound('ɑj')]),
-    ('i', [Sound('ə')]),
     ('i', [Sound('ɪ')]),
     ('ie', [Sound('ɪj')]),
     ('j', [Sound('dʒ')]),
@@ -45,7 +42,6 @@ PAIRS = [
     ('n', [Sound('n')]),
     ('ng', [Sound('ŋ')]),
     ('o', [Sound('ɔ')]),
-    ('o', [Sound('ə')]),
     ('o', [Sound('əw')]),
     ('o', [Sound('ʌ')]), # "l[o]ve"
     ('oa', [Sound('oː')]),
@@ -54,7 +50,6 @@ PAIRS = [
     ('p', [Sound('p')]),
     ('q', [Sound('k')]),
     ('r', [Sound('r')]),
-    ('r', [Sound('ə')]),
     ('s', [Sound('s')]),
     ('s', [Sound('z')]),
     ('sh', [Sound('ʃ')]),
@@ -62,7 +57,6 @@ PAIRS = [
     ('t', [Sound('tʃ')]),
     ('ti', [Sound('ʃ')]),
     ('u', [Sound('w')]),
-    ('u', [Sound('ə')]),
     ('u', [Sound('ʉw')]),
     ('u', [Sound('ʌ')]),
     ('v', [Sound('v')]),
@@ -71,6 +65,13 @@ PAIRS = [
     ('y', [Sound('j')]),
     ('y', [Sound('ɪj')]),
     ('z', [Sound('z')]),
+
+    ('a', [Sound('ə')]),
+    ('e', [Sound('ə')]),
+    ('i', [Sound('ə')]),
+    ('o', [Sound('ə')]),
+    ('u', [Sound('ə')]),
+    ('r', [Sound('ə')]),
 
     ('ed', [Sound('t')]),
 
