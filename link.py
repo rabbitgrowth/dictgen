@@ -29,6 +29,7 @@ PAIRS = [
     ('c', [Sound('s')]),
     ('ch', [Sound('tʃ')]),
     ('d', [Sound('d')]),
+    ('d', [Sound('t')]), # "face[d]"
     ('dg', [Sound('dʒ')]),
     ('e', [Sound('ɛ')]),
     ('e', [Sound('ɪ')]),
@@ -80,8 +81,6 @@ PAIRS = [
     ('o', [Sound('ə')]),
     ('u', [Sound('ə')]),
     ('r', [Sound('ə')]),
-
-    ('d', [Sound('t')]),
 
     ('', [Sound('.')]),
     ('', [Sound('j')]), # "b[]eauty"
