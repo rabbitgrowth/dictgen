@@ -127,7 +127,7 @@ def link(word, pron):
         raise ValueError(f'Failed to link "{word}" to "{pron}"')
     for spell, sequence in pairs:
         if not sequence:
-            yield Sound('', spelled=spell)
+            yield Sound('', stressed=False, spelled=spell, cont=False)
         else:
             for i, sound in enumerate(sequence):
                 if not i:
