@@ -24,6 +24,7 @@ PAIRS = [
     ('a', [Sound('ɪ')]),
     ('ai', [Sound('ɛ')]), # "ag[ai]n"
     ('ai', [Sound('ɛj')]),
+    ('ay', [Sound('ɛj')]),
     ('b', [Sound('b')]),
     ('c', [Sound('k')]),
     ('c', [Sound('s')]),
