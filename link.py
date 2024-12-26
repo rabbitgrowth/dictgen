@@ -9,10 +9,12 @@ PAIRS = [
     ('ch', [Sound('tʃ')]),
     ('dg', [Sound('dʒ')]),
     ('ea', [Sound('ɛ')]),
+    ('ea', [Sound('ɪj')]),
     ('ee', [Sound('ɪj')]),
     ('ie', [Sound('ɪj')]),
     ('ng', [Sound('ŋ')]),
     ('oa', [Sound('oː')]),
+    ('oi', [Sound('oj')]),
     ('oo', [Sound('ʉw')]),
     ('ou', [Sound('aw')]),
     ('ou', [Sound('ə')]), # "fam[ou]s"
@@ -48,6 +50,7 @@ PAIRS = [
     ('a', [Sound('oː')]), # "[a]ll"
     ('a', [Sound('ɔ')]), # "[a]lter"
     ('a', [Sound('ə')]),
+    ('a', [Sound('ɛ')]), # "[a]ny"
     ('a', [Sound('ɛj')]),
     ('a', [Sound('ɪ')]),
     ('b', [Sound('b')]),
@@ -75,6 +78,7 @@ PAIRS = [
     ('o', [Sound('ə')]),
     ('o', [Sound('əw')]),
     ('o', [Sound('ʌ')]), # "l[o]ve"
+    ('o', [Sound('w'), Sound('ʌ')]), # "[o]ne"
     ('p', [Sound('p')]),
     ('q', [Sound('k')]),
     ('r', [Sound('r')]),
@@ -105,6 +109,8 @@ PAIRS = [
     ('a', [Sound('ɑː')]),
     ('ai', [Sound('ɛː')]),
     ('e', [Sound('əː')]),
+    ('e', [Sound('ɛː')]),
+    ('ea', [Sound('ɪː')]),
     ('o', [Sound('oː')]),
     ('r', []),
 
