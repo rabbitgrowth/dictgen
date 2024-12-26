@@ -52,6 +52,7 @@ PAIRS = [
     ('l', [Sound('l')]),
     ('m', [Sound('m')]),
     ('n', [Sound('n')]),
+    ('n', [Sound('ŋ')]), # "a[n]ger"
     ('ng', [Sound('ŋ')]),
     ('o', [Sound('ɔ')]),
     ('o', [Sound('ə')]),
@@ -64,6 +65,7 @@ PAIRS = [
     ('ou', [Sound('əw')]), # "s[ou]l"
     ('ow', [Sound('aw')]),
     ('ow', [Sound('ɔ')]), # "kn[ow]ledge"
+    ('oy', [Sound('oj')]),
     ('p', [Sound('p')]),
     ('q', [Sound('k')]),
     ('r', [Sound('r')]),
@@ -109,6 +111,7 @@ PAIRS = [
     ('e', []), # "fac[e]"
     ('gh', []), # "thou[gh]"
     ('h', []), # "[h]our"
+    ('w', []), # "s[w]ord"
 ]
 
 def link(word, pron):
