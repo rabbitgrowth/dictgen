@@ -105,7 +105,6 @@ PAIRS = [
     ('e', []), # "fac[e]"
     ('gh', []), # "thou[gh]"
     ('h', []), # "[h]our"
-    ('u', []), # "act[u]ally"
 ]
 
 def link(word, pron):
