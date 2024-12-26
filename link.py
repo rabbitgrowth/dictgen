@@ -81,7 +81,7 @@ PAIRS = [
     ('u', [Sound('ə')]),
     ('r', [Sound('ə')]),
 
-    ('ed', [Sound('t')]),
+    ('d', [Sound('t')]),
 
     ('', [Sound('.')]),
     ('', [Sound('j')]), # "b[]eauty"
