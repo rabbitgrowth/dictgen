@@ -78,11 +78,11 @@ PAIRS = [
     ('m', [Sound('m')]),
     ('n', [Sound('n')]),
     ('n', [Sound('ŋ')]), # "a[n]ger"
+    ('o', [Sound('w'), Sound('ʌ')]), # "[o]ne"
     ('o', [Sound('ɔ')]),
     ('o', [Sound('ə')]),
     ('o', [Sound('əw')]),
     ('o', [Sound('ʌ')]), # "l[o]ve"
-    ('o', [Sound('w'), Sound('ʌ')]), # "[o]ne"
     ('p', [Sound('p')]),
     ('q', [Sound('k')]),
     ('r', [Sound('r')]),
