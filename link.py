@@ -85,7 +85,7 @@ PAIRS = [
     ('x', [Sound('k'), Sound('s')]),
     ('y', [Sound('j')]),
     ('y', [Sound('ɑj')]),
-    ('y', [Sound('ə')]),
+    ('y', [Sound('ə')]), # "anal[y]sis"
     ('y', [Sound('ɪj')]),
     ('z', [Sound('z')]),
 
