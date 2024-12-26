@@ -9,7 +9,7 @@ def show_ipa(sound):
 
 def show_spell(sound):
     if sound.cont:
-        return '…'
+        return '-'
     return sound.spelled
 
 def width(item):
