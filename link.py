@@ -82,6 +82,7 @@ PAIRS = [
     ('o', [Sound('ɔ')]),
     ('o', [Sound('ə')]),
     ('o', [Sound('əw')]),
+    ('o', [Sound('ʉw')]), # "pr[o]ve"
     ('o', [Sound('ʌ')]), # "l[o]ve"
     ('p', [Sound('p')]),
     ('q', [Sound('k')]),
