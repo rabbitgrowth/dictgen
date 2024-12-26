@@ -1,6 +1,8 @@
 from sound import Sound
 
 PAIRS = [
+    # Order matters here; what is listed first gets matched first.
+
     ('ai', [Sound('ɛ')]), # "ag[ai]n"
     ('ai', [Sound('ɛj')]),
     ('ay', [Sound('ɛj')]),
