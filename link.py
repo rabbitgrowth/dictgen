@@ -17,6 +17,8 @@ PAIRS = [
     ('vv', [Sound('v')]),
     ('zz', [Sound('z')]),
 
+    ('ow', [Sound('ɔ')]), # "kn[ow]ledge"
+
     ('a', [Sound('a')]),
     ('a', [Sound('oː')]), # "[a]ll"
     ('a', [Sound('ɔ')]), # "[a]lter"
@@ -64,7 +66,6 @@ PAIRS = [
     ('ou', [Sound('ə')]), # "fam[ou]s"
     ('ou', [Sound('əw')]), # "s[ou]l"
     ('ow', [Sound('aw')]),
-    ('ow', [Sound('ɔ')]), # "kn[ow]ledge"
     ('oy', [Sound('oj')]),
     ('p', [Sound('p')]),
     ('q', [Sound('k')]),
