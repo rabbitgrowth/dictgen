@@ -9,6 +9,7 @@ class Sound:
     ipa:      Optional[Union[str, Set[str]]] = None
     stressed: Optional[bool]                 = None
     spelled:  Optional[Union[str, Set[str]]] = None
+    cont:     Optional[bool]                 = None
 
     @classmethod
     def from_ipa(cls, ipa):

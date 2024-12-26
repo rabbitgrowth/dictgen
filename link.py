@@ -132,6 +132,7 @@ def link(word, pron):
                     sound.spelled = spell
                     sound.cont = False
                 else:
+                    sound.spelled = ''
                     sound.cont = True
                 yield sound
 
