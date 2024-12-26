@@ -20,6 +20,7 @@ PAIRS = [
     ('a', [Sound('a')]),
     ('a', [Sound('oː')]), # "[a]ll"
     ('a', [Sound('ɔ')]), # "[a]lter"
+    ('a', [Sound('ə')]),
     ('a', [Sound('ɛj')]),
     ('a', [Sound('ɪ')]),
     ('ai', [Sound('ɛ')]), # "ag[ai]n"
@@ -32,6 +33,7 @@ PAIRS = [
     ('d', [Sound('d')]),
     ('d', [Sound('t')]), # "face[d]"
     ('dg', [Sound('dʒ')]),
+    ('e', [Sound('ə')]),
     ('e', [Sound('ɛ')]),
     ('e', [Sound('ɪ')]),
     ('ea', [Sound('ɛ')]),
@@ -41,6 +43,7 @@ PAIRS = [
     ('g', [Sound('g')]),
     ('h', [Sound('h')]),
     ('i', [Sound('ɑj')]),
+    ('i', [Sound('ə')]),
     ('i', [Sound('ɪ')]),
     ('ie', [Sound('ɪj')]),
     ('j', [Sound('dʒ')]),
@@ -50,6 +53,7 @@ PAIRS = [
     ('n', [Sound('n')]),
     ('ng', [Sound('ŋ')]),
     ('o', [Sound('ɔ')]),
+    ('o', [Sound('ə')]),
     ('o', [Sound('əw')]),
     ('o', [Sound('ʌ')]), # "l[o]ve"
     ('oa', [Sound('oː')]),
@@ -61,6 +65,7 @@ PAIRS = [
     ('p', [Sound('p')]),
     ('q', [Sound('k')]),
     ('r', [Sound('r')]),
+    ('r', [Sound('ə')]),
     ('s', [Sound('s')]),
     ('s', [Sound('z')]),
     ('sh', [Sound('ʃ')]),
@@ -70,6 +75,7 @@ PAIRS = [
     ('th', [Sound('θ')]),
     ('ti', [Sound('ʃ')]),
     ('u', [Sound('w')]),
+    ('u', [Sound('ə')]),
     ('u', [Sound('ʉw')]),
     ('u', [Sound('ʌ')]),
     ('v', [Sound('v')]),
@@ -78,13 +84,6 @@ PAIRS = [
     ('y', [Sound('j')]),
     ('y', [Sound('ɪj')]),
     ('z', [Sound('z')]),
-
-    ('a', [Sound('ə')]),
-    ('e', [Sound('ə')]),
-    ('i', [Sound('ə')]),
-    ('o', [Sound('ə')]),
-    ('u', [Sound('ə')]),
-    ('r', [Sound('ə')]),
 
     ('', [Sound('.')]),
     ('', [Sound('j')]), # "b[]eauty"
