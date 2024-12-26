@@ -91,10 +91,6 @@ PAIRS = [
     ('y', [Sound('ɪj')]),
     ('z', [Sound('z')]),
 
-    ('', [Sound('.')]),
-    ('', [Sound('j')]), # "b[]eauty"
-    ('', [Sound('ə')]), # "simp[]le"
-
     # Don't analyze <r> as part of a vowel even though that might make
     # more sense in cases like <ur> /əː/. This ensures that <r> is
     # consistently matched as a standalone silent letter and that no
@@ -112,6 +108,10 @@ PAIRS = [
     ('gh', []), # "thou[gh]"
     ('h', []), # "[h]our"
     ('w', []), # "s[w]ord"
+
+    ('', [Sound('.')]),
+    ('', [Sound('j')]), # "b[]eauty"
+    ('', [Sound('ə')]), # "simp[]le"
 ]
 
 def link(word, pron):
