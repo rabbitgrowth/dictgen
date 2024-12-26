@@ -13,7 +13,7 @@ PAIRS = [
     ('ee', [Sound('ɪj')]),
     ('ie', [Sound('ɪj')]),
     ('ng', [Sound('ŋ')]),
-    ('oa', [Sound('oː')]),
+    ('oa', [Sound('oː')]), # "br[oa]d"
     ('oi', [Sound('oj')]),
     ('oo', [Sound('ʉw')]),
     ('ou', [Sound('aw')]),
