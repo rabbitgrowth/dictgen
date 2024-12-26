@@ -7,7 +7,6 @@ PAIRS = [
     ('ai', [Sound('ɛj')]),
     ('ay', [Sound('ɛj')]),
     ('ch', [Sound('tʃ')]),
-    ('ci', [Sound('ʃ')]), # "spe[ci]al"
     ('dg', [Sound('dʒ')]),
     ('ea', [Sound('ɛ')]),
     ('ee', [Sound('ɪj')]),
@@ -24,7 +23,10 @@ PAIRS = [
     ('sh', [Sound('ʃ')]),
     ('th', [Sound('ð')]),
     ('th', [Sound('θ')]),
+
+    ('ci', [Sound('ʃ')]), # "spe[ci]al"
     ('ti', [Sound('ʃ')]), # "ac[ti]on"
+    ('xi', [Sound('k'), Sound('ʃ')]), # "an[xi]ous"
 
     ('bb', [Sound('b')]),
     ('cc', [Sound('k')]),
