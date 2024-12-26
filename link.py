@@ -30,6 +30,7 @@ PAIRS = [
     ('c', [Sound('k')]),
     ('c', [Sound('s')]),
     ('ch', [Sound('tʃ')]),
+    ('ci', [Sound('ʃ')]), # "spe[ci]al"
     ('d', [Sound('d')]),
     ('d', [Sound('t')]), # "face[d]"
     ('dg', [Sound('dʒ')]),
@@ -59,6 +60,7 @@ PAIRS = [
     ('oa', [Sound('oː')]),
     ('oo', [Sound('ʉw')]),
     ('ou', [Sound('aw')]),
+    ('ou', [Sound('ə')]), # "fam[ou]s"
     ('ou', [Sound('əw')]), # "s[ou]l"
     ('ow', [Sound('aw')]),
     ('ow', [Sound('ɔ')]), # "kn[ow]ledge"
@@ -73,7 +75,7 @@ PAIRS = [
     ('t', [Sound('tʃ')]),
     ('th', [Sound('ð')]),
     ('th', [Sound('θ')]),
-    ('ti', [Sound('ʃ')]),
+    ('ti', [Sound('ʃ')]), # "ac[ti]on"
     ('u', [Sound('w')]),
     ('u', [Sound('ə')]),
     ('u', [Sound('ʉw')]),
@@ -82,6 +84,8 @@ PAIRS = [
     ('w', [Sound('w')]),
     ('x', [Sound('k'), Sound('s')]),
     ('y', [Sound('j')]),
+    ('y', [Sound('ɑj')]),
+    ('y', [Sound('ə')]),
     ('y', [Sound('ɪj')]),
     ('z', [Sound('z')]),
 
