@@ -1,6 +1,29 @@
 from sound import Sound
 
 PAIRS = [
+    ('ai', [Sound('ɛ')]), # "ag[ai]n"
+    ('ai', [Sound('ɛj')]),
+    ('ay', [Sound('ɛj')]),
+    ('ch', [Sound('tʃ')]),
+    ('ci', [Sound('ʃ')]), # "spe[ci]al"
+    ('dg', [Sound('dʒ')]),
+    ('ea', [Sound('ɛ')]),
+    ('ee', [Sound('ɪj')]),
+    ('ie', [Sound('ɪj')]),
+    ('ng', [Sound('ŋ')]),
+    ('oa', [Sound('oː')]),
+    ('oo', [Sound('ʉw')]),
+    ('ou', [Sound('aw')]),
+    ('ou', [Sound('ə')]), # "fam[ou]s"
+    ('ou', [Sound('əw')]), # "s[ou]l"
+    ('ow', [Sound('aw')]),
+    ('ow', [Sound('ɔ')]), # "kn[ow]ledge"; not <o> /ɔ/, <w> /∅/
+    ('oy', [Sound('oj')]),
+    ('sh', [Sound('ʃ')]),
+    ('th', [Sound('ð')]),
+    ('th', [Sound('θ')]),
+    ('ti', [Sound('ʃ')]), # "ac[ti]on"
+
     ('bb', [Sound('b')]),
     ('cc', [Sound('k')]),
     ('dd', [Sound('d')]),
@@ -17,30 +40,20 @@ PAIRS = [
     ('vv', [Sound('v')]),
     ('zz', [Sound('z')]),
 
-    ('ow', [Sound('ɔ')]), # "kn[ow]ledge"
-
     ('a', [Sound('a')]),
     ('a', [Sound('oː')]), # "[a]ll"
     ('a', [Sound('ɔ')]), # "[a]lter"
     ('a', [Sound('ə')]),
     ('a', [Sound('ɛj')]),
     ('a', [Sound('ɪ')]),
-    ('ai', [Sound('ɛ')]), # "ag[ai]n"
-    ('ai', [Sound('ɛj')]),
-    ('ay', [Sound('ɛj')]),
     ('b', [Sound('b')]),
     ('c', [Sound('k')]),
     ('c', [Sound('s')]),
-    ('ch', [Sound('tʃ')]),
-    ('ci', [Sound('ʃ')]), # "spe[ci]al"
     ('d', [Sound('d')]),
     ('d', [Sound('t')]), # "face[d]"
-    ('dg', [Sound('dʒ')]),
     ('e', [Sound('ə')]),
     ('e', [Sound('ɛ')]),
     ('e', [Sound('ɪ')]),
-    ('ea', [Sound('ɛ')]),
-    ('ee', [Sound('ɪj')]),
     ('f', [Sound('f')]),
     ('g', [Sound('dʒ')]),
     ('g', [Sound('g')]),
@@ -48,37 +61,24 @@ PAIRS = [
     ('i', [Sound('ɑj')]),
     ('i', [Sound('ə')]),
     ('i', [Sound('ɪ')]),
-    ('ie', [Sound('ɪj')]),
     ('j', [Sound('dʒ')]),
     ('k', [Sound('k')]),
     ('l', [Sound('l')]),
     ('m', [Sound('m')]),
     ('n', [Sound('n')]),
     ('n', [Sound('ŋ')]), # "a[n]ger"
-    ('ng', [Sound('ŋ')]),
     ('o', [Sound('ɔ')]),
     ('o', [Sound('ə')]),
     ('o', [Sound('əw')]),
     ('o', [Sound('ʌ')]), # "l[o]ve"
-    ('oa', [Sound('oː')]),
-    ('oo', [Sound('ʉw')]),
-    ('ou', [Sound('aw')]),
-    ('ou', [Sound('ə')]), # "fam[ou]s"
-    ('ou', [Sound('əw')]), # "s[ou]l"
-    ('ow', [Sound('aw')]),
-    ('oy', [Sound('oj')]),
     ('p', [Sound('p')]),
     ('q', [Sound('k')]),
     ('r', [Sound('r')]),
     ('r', [Sound('ə')]),
     ('s', [Sound('s')]),
     ('s', [Sound('z')]),
-    ('sh', [Sound('ʃ')]),
     ('t', [Sound('t')]),
     ('t', [Sound('tʃ')]),
-    ('th', [Sound('ð')]),
-    ('th', [Sound('θ')]),
-    ('ti', [Sound('ʃ')]), # "ac[ti]on"
     ('u', [Sound('w')]),
     ('u', [Sound('ə')]),
     ('u', [Sound('ʉw')]),
