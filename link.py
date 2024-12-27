@@ -9,6 +9,7 @@ PAIRS = [
 
     ('ai', [Sound('ɛ')]), # "ag[ai]n"
     ('ai', [Sound('ɛj')]),
+    ('au', [Sound('oː')]),
     ('ay', [Sound('ɛj')]),
     ('ch', [Sound('k')]),
     ('ch', [Sound('tʃ')]),
@@ -26,6 +27,7 @@ PAIRS = [
     ('ou', [Sound('əw')]), # "s[ou]l"
     ('ow', [Sound('aw')]),
     ('oy', [Sound('oj')]),
+    ('ph', [Sound('f')]),
     ('sh', [Sound('ʃ')]),
     ('th', [Sound('ð')]),
     ('th', [Sound('θ')]),
@@ -128,6 +130,7 @@ PAIRS = [
     ('ai', [Sound('ɛː')]),
     ('e', [Sound('əː')]),
     ('e', [Sound('ɛː')]),
+    ('e', [Sound('ɪː')]),
     ('ea', [Sound('ɪː')]),
     ('o', [Sound('oː')]),
     ('r', []),
@@ -135,6 +138,7 @@ PAIRS = [
     ('c', []), # "ba[c]k"
     ('e', []), # "fac[e]"
     ('gh', []), # "thou[gh]"
+    ('g', []), # "si[g]n"
     ('h', []), # "[h]our"
     ('k', []), # "[k]now"
     ('w', []), # "s[w]ord"
