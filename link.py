@@ -3,61 +3,6 @@ from collections import defaultdict
 from sound import Sound
 
 PAIRS = [
-    # Order matters here; what is listed first gets matched first.
-
-    # <k n ow l e dg e> not <k n o w l e dg e>
-    # /  n ɔ́  l ɪ dʒ  /     /  n ɔ́   l ɪ dʒ  /
-    ('ow', [Sound('ɔ')]),
-
-    ('ai', [Sound('ɛ')]), # "ag[ai]n"
-    ('ai', [Sound('ɛj')]),
-    ('au', [Sound('oː')]),
-    ('ay', [Sound('ɛj')]),
-    ('ch', [Sound('k')]),
-    ('ch', [Sound('tʃ')]),
-    ('dg', [Sound('dʒ')]),
-    ('ea', [Sound('ɛ')]),
-    ('ee', [Sound('ɪj')]),
-    ('ie', [Sound('ɪj')]),
-    ('ng', [Sound('ŋ')]),
-    ('oa', [Sound('oː')]), # "br[oa]d"
-    ('oa', [Sound('əw')]),
-    ('oi', [Sound('oj')]),
-    ('oo', [Sound('ʉw')]),
-    ('ou', [Sound('aw')]),
-    ('ou', [Sound('ə')]), # "fam[ou]s"
-    ('ou', [Sound('əw')]), # "s[ou]l"
-    ('ow', [Sound('aw')]),
-    ('oy', [Sound('oj')]),
-    ('ph', [Sound('f')]),
-    ('sh', [Sound('ʃ')]),
-    ('th', [Sound('ð')]),
-    ('th', [Sound('θ')]),
-    ('ue', [Sound('ʉw')]),
-
-    ('ci', [Sound('ʃ')]), # "spe[ci]al"
-    ('ti', [Sound('ʃ')]), # "ac[ti]on"
-    ('xi', [Sound('k'), Sound('ʃ')]), # "an[xi]ous"
-
-    # Consonant doubling
-    # <a cc ou n t> not <a c c ou n t>
-    # /ə k  áw n t/     /ə k   áw n t/
-    ('bb', [Sound('b')]),
-    ('cc', [Sound('k')]),
-    ('dd', [Sound('d')]),
-    ('ff', [Sound('f')]),
-    ('gg', [Sound('g')]),
-    ('kk', [Sound('k')]),
-    ('ll', [Sound('l')]),
-    ('mm', [Sound('m')]),
-    ('nn', [Sound('n')]),
-    ('pp', [Sound('p')]),
-    ('rr', [Sound('r')]),
-    ('ss', [Sound('s')]),
-    ('tt', [Sound('t')]),
-    ('vv', [Sound('v')]),
-    ('zz', [Sound('z')]),
-
     ('a', [Sound('a')]),
     ('a', [Sound('oː')]), # "[a]ll"
     ('a', [Sound('ɔ')]), # "[a]lter"
@@ -66,60 +11,101 @@ PAIRS = [
     ('a', [Sound('ɛj')]),
     ('a', [Sound('ɛː')]), # "[a]rea"
     ('a', [Sound('ɪ')]),
+    ('ai', [Sound('ɛ')]), # "ag[ai]n"
+    ('ai', [Sound('ɛj')]),
+    ('au', [Sound('oː')]),
+    ('ay', [Sound('ɛj')]),
     ('b', [Sound('b')]),
+    ('bb', [Sound('b')]),
     ('c', [Sound('k')]),
     ('c', [Sound('s')]),
     ('c', [Sound('ʃ')]), # "appre[c]iate"
+    ('cc', [Sound('k')]),
+    ('ch', [Sound('k')]),
+    ('ch', [Sound('tʃ')]),
+    ('ci', [Sound('ʃ')]), # "spe[ci]al"
     ('d', [Sound('d')]),
     ('d', [Sound('t')]), # "face[d]"
+    ('dd', [Sound('d')]),
+    ('dg', [Sound('dʒ')]),
     ('e', [Sound('ə')]),
     ('e', [Sound('ɛ')]),
     ('e', [Sound('ɪ')]),
     ('e', [Sound('ɪj')]),
+    ('ea', [Sound('ɛ')]),
+    ('ea', [Sound('ɪj')]),
+    ('ee', [Sound('ɪj')]),
     ('f', [Sound('f')]),
+    ('ff', [Sound('f')]),
     ('g', [Sound('dʒ')]),
     ('g', [Sound('g')]),
+    ('gg', [Sound('g')]),
     ('h', [Sound('h')]),
     ('i', [Sound('ɑj')]),
     ('i', [Sound('ə')]),
     ('i', [Sound('ɪ')]),
     ('i', [Sound('ɪj')]),
+    ('ie', [Sound('ɪj')]),
     ('j', [Sound('dʒ')]),
     ('k', [Sound('k')]),
+    ('kk', [Sound('k')]),
     ('l', [Sound('l')]),
+    ('ll', [Sound('l')]),
     ('m', [Sound('m')]),
+    ('mm', [Sound('m')]),
     ('n', [Sound('n')]),
     ('n', [Sound('ŋ')]), # "a[n]ger"
+    ('ng', [Sound('ŋ')]),
+    ('nn', [Sound('n')]),
     ('o', [Sound('w'), Sound('ʌ')]), # "[o]ne"
     ('o', [Sound('ɔ')]),
     ('o', [Sound('ə')]),
     ('o', [Sound('əw')]),
     ('o', [Sound('ʉw')]), # "pr[o]ve"
     ('o', [Sound('ʌ')]), # "l[o]ve"
+    ('oa', [Sound('oː')]), # "br[oa]d"
+    ('oa', [Sound('əw')]),
+    ('oi', [Sound('oj')]),
+    ('oo', [Sound('ʉw')]),
+    ('ou', [Sound('aw')]),
+    ('ou', [Sound('ə')]), # "fam[ou]s"
+    ('ou', [Sound('əw')]), # "s[ou]l"
+    ('ow', [Sound('aw')]),
+    ('ow', [Sound('ɔ')]),
+    ('oy', [Sound('oj')]),
     ('p', [Sound('p')]),
+    ('ph', [Sound('f')]),
+    ('pp', [Sound('p')]),
     ('q', [Sound('k')]),
     ('r', [Sound('r')]),
     ('r', [Sound('ə')]),
+    ('rr', [Sound('r')]),
     ('s', [Sound('s')]),
     ('s', [Sound('z')]),
+    ('sh', [Sound('ʃ')]),
+    ('ss', [Sound('s')]),
     ('t', [Sound('t')]),
     ('t', [Sound('tʃ')]), # "atti[t]ude"
+    ('th', [Sound('ð')]),
+    ('th', [Sound('θ')]),
+    ('ti', [Sound('ʃ')]), # "ac[ti]on"
+    ('tt', [Sound('t')]),
     ('u', [Sound('w')]),
     ('u', [Sound('ə')]),
     ('u', [Sound('ʉw')]),
     ('u', [Sound('ʌ')]),
+    ('ue', [Sound('ʉw')]),
     ('v', [Sound('v')]),
+    ('vv', [Sound('v')]),
     ('w', [Sound('w')]),
     ('x', [Sound('k'), Sound('s')]),
+    ('xi', [Sound('k'), Sound('ʃ')]), # "an[xi]ous"
     ('y', [Sound('j')]),
     ('y', [Sound('ɑj')]),
     ('y', [Sound('ə')]), # "anal[y]sis"
     ('y', [Sound('ɪj')]),
     ('z', [Sound('z')]),
-
-    # <a  r e  a> not <a  r ea  >
-    # /ɛ́ː r ɪj ə/     /ɛ́ː r ɪj ə/
-    ('ea', [Sound('ɪj')]),
+    ('zz', [Sound('z')]),
 
     # Non-rhoticity
     # Don't analyze <r> as part of a vowel even though that might make
@@ -176,6 +162,15 @@ def pair(word, pron, pairs=[], score=0):
         yield pairs, score
         return
     for spell, sounds in PAIRS:
+        # Penalize inserted sounds and silent letters to avoid incorrect
+        # "lazy" pairings:
+        # <a  r e  a> not <a  r ea  >
+        # /ɛ́ː r ɪj ə/     /ɛ́ː r ɪj ə/
+        # <a cc ou n t> not <a c c ou n t>
+        # /ə k  áw n t/     /ə k   áw n t/
+        # <k n ow l e dg e> not <k n o w l e dg e>
+        # /  n ɔ́  l ɪ dʒ  /     /  n ɔ́   l ɪ dʒ  /
+        penalty = (not spell) + (not sounds)
         if word.lower().startswith(spell) and sounds == pron[:len(sounds)]:
             yield from pair(
                 word[len(spell) :],
@@ -184,5 +179,5 @@ def pair(word, pron, pairs=[], score=0):
                     word[:len(spell) ],
                     pron[:len(sounds)]
                 )],
-                score + (not spell)
+                score + penalty
             )
