@@ -143,6 +143,7 @@ PAIRS = [
     ('n', []), # "autum[n]"
     ('u', []), # "act[u]ally"
     ('w', []), # "s[w]ord"
+    ('y', []), # "be[y]ond"
 
     ('', [Sound('.')]),
     ('', [Sound('j')]), # "b[]eauty"
