@@ -8,6 +8,14 @@ PAIRS = [
     ('c', []),
     ('c', [Sound('k')]),
 
+    # <n a  t  u r e> not <n a  t  u r e>
+    # /n ɛ́j tʃ ə    /     /n ɛ́j tʃ   ə  /
+    # <b u i l d> not <b u i l d>
+    # /b   ɪ́ l d/     /b ɪ́   l d/
+    ('u', [Sound('ə')]),
+    ('u', []),
+    ('u', [Sound('ɪ')]), # "b[u]siness"
+
     ('a', [Sound('a')]),
     ('a', [Sound('oː')]), # "[a]ll"
     ('a', [Sound('ɔ')]), # "[a]lter"
@@ -103,9 +111,7 @@ PAIRS = [
     ('ti', [Sound('ʃ')]), # "ac[ti]on"
     ('tt', [Sound('t')]),
     ('u', [Sound('w')]),
-    ('u', [Sound('ə')]),
     ('u', [Sound('ɛ')]), # "b[u]ry"
-    ('u', [Sound('ɪ')]),
     ('u', [Sound('ɵ')]),
     ('u', [Sound('ʉw')]),
     ('u', [Sound('ʌ')]),
