@@ -149,6 +149,7 @@ PAIRS = [
     ('u', [Sound('əː')]),
     ('r', []),
 
+    # Silent letters
     ('a', []), # "basic[a]lly"
     ('b', []), # "bom[b]"
     ('e', []), # "fac[e]"
@@ -161,6 +162,7 @@ PAIRS = [
     ('w', []), # "s[w]ord"
     ('y', []), # "be[y]ond"
 
+    # Unspelled sounds
     ('', [Sound('.')]),
     ('', [Sound('j')]), # "b[]eauty"
     ('', [Sound('ə')]), # "simp[]le"
