@@ -186,6 +186,7 @@ PAIRS = [
     # Unspelled sounds
     ('', [Sound('.')]),
     ('', [Sound('j')]), # "b[]eauty"
+    ('', [Sound('r')]), # "draw[]ing"
     ('', [Sound('ə')]), # "simp[]le"
 ]
 
