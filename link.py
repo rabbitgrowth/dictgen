@@ -27,6 +27,7 @@ PAIRS = [
     ('sh', [Sound('ʃ')]),
     ('th', [Sound('ð')]),
     ('th', [Sound('θ')]),
+    ('ue', [Sound('ʉw')]),
 
     ('ci', [Sound('ʃ')]), # "spe[ci]al"
     ('ti', [Sound('ʃ')]), # "ac[ti]on"
