@@ -30,5 +30,5 @@ with open('dict.tsv') as f, open('links.txt', 'w') as g:
         if i:
             tee('\n')
         for items in reversed(list(zip(*pairs))):
-            tee(' '.join(pad(item, width) for item, width in zip(items, widths)).strip())
+            tee(' '.join(pad(item, width) for item, width in zip(items, widths)).rstrip())
             tee('\n')
