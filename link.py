@@ -112,6 +112,7 @@ PAIRS = [
     ('y', [Sound('j')]),
     ('y', [Sound('ɑj')]),
     ('y', [Sound('ə')]), # "anal[y]sis"
+    ('y', [Sound('ɪ')]),
     ('y', [Sound('ɪj')]),
     ('z', [Sound('z')]),
     ('zz', [Sound('z')]),
