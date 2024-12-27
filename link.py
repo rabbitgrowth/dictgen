@@ -44,6 +44,7 @@ PAIRS = [
     ('ch', [Sound('ʃ')]),
     ('ci', [Sound('ʃ')]), # "spe[ci]al"
     ('d', [Sound('d')]),
+    ('d', [Sound('dʒ')]), # "[d]ue"
     ('d', [Sound('t')]), # "face[d]"
     ('dd', [Sound('d')]),
     ('dg', [Sound('dʒ')]),
@@ -128,6 +129,7 @@ PAIRS = [
     ('u', [Sound('w')]),
     ('u', [Sound('ɛ')]), # "b[u]ry"
     ('u', [Sound('ɵ')]),
+    ('u', [Sound('ɵː')]), # "d[u]ring"
     ('u', [Sound('ʉw')]),
     ('u', [Sound('ʌ')]),
     ('ue', [Sound('ʉw')]),
