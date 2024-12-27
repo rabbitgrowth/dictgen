@@ -35,6 +35,9 @@ PAIRS = [
     ('ti', [Sound('ʃ')]), # "ac[ti]on"
     ('xi', [Sound('k'), Sound('ʃ')]), # "an[xi]ous"
 
+    # Consonant doubling
+    # <a cc ou n t> not <a c c ou n t>
+    # /ə k  áw n t/ not /ə k   áw n t/
     ('bb', [Sound('b')]),
     ('cc', [Sound('k')]),
     ('dd', [Sound('d')]),
@@ -114,6 +117,7 @@ PAIRS = [
     # /ɛ́ː r ɪj ə/     /ɛ́ː r ɪj ə/
     ('ea', [Sound('ɪj')]),
 
+    # Non-rhoticity
     # Don't analyze <r> as part of a vowel even though that might make
     # more sense in cases like <ur> /əː/. This ensures that <r> can
     # consistently be matched as a standalone silent letter and that
