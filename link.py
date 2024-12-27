@@ -39,7 +39,7 @@ PAIRS = [
 
     # Consonant doubling
     # <a cc ou n t> not <a c c ou n t>
-    # /ə k  áw n t/ not /ə k   áw n t/
+    # /ə k  áw n t/     /ə k   áw n t/
     ('bb', [Sound('b')]),
     ('cc', [Sound('k')]),
     ('dd', [Sound('d')]),
