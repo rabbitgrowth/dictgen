@@ -24,6 +24,7 @@ PAIRS = [
     ('a', [Sound('ɛj')]),
     ('a', [Sound('ɛː')]), # "[a]rea"
     ('a', [Sound('ɪ')]),
+    ('ai', [Sound('ə')]), # "cert[ai]n"
     ('ai', [Sound('ɛ')]), # "ag[ai]n"
     ('ai', [Sound('ɛj')]),
     ('ai', [Sound('ɪ')]), # "capt[ai]n"
@@ -39,6 +40,7 @@ PAIRS = [
     ('cc', [Sound('k')]),
     ('ch', [Sound('k')]),
     ('ch', [Sound('tʃ')]),
+    ('ch', [Sound('ʃ')]),
     ('ci', [Sound('ʃ')]), # "spe[ci]al"
     ('d', [Sound('d')]),
     ('d', [Sound('t')]), # "face[d]"
@@ -52,6 +54,7 @@ PAIRS = [
     ('ea', [Sound('ɪj')]),
     ('eau', [Sound('ʉw')]), # "b[eau]ty"
     ('ee', [Sound('ɪj')]),
+    ('ei', [Sound('ɪj')]),
     ('f', [Sound('f')]),
     ('ff', [Sound('f')]),
     ('g', [Sound('dʒ')]),
