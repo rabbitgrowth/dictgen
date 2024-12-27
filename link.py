@@ -104,6 +104,7 @@ PAIRS = [
     ('tt', [Sound('t')]),
     ('u', [Sound('w')]),
     ('u', [Sound('ə')]),
+    ('u', [Sound('ɵ')]),
     ('u', [Sound('ʉw')]),
     ('u', [Sound('ʌ')]),
     ('ue', [Sound('ʉw')]),
