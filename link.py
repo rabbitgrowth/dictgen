@@ -145,6 +145,7 @@ PAIRS = [
     ('g', []), # "si[g]n"
     ('gh', []), # "thou[gh]"
     ('h', []), # "[h]our"
+    ('i', []), # "fr[i]end"
     ('k', []), # "[k]now"
     ('n', []), # "autum[n]"
     ('u', []), # "act[u]ally"
