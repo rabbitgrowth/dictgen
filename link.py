@@ -54,6 +54,7 @@ PAIRS = [
     ('a', [Sound('ə')]),
     ('a', [Sound('ɛ')]), # "[a]ny"
     ('a', [Sound('ɛj')]),
+    ('a', [Sound('ɛː')]), # "[a]rea"
     ('a', [Sound('ɪ')]),
     ('b', [Sound('b')]),
     ('c', [Sound('k')]),
