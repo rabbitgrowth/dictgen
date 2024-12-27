@@ -117,8 +117,8 @@ PAIRS = [
     # more sense in cases like <ur> /əː/. This ensures that <r> can
     # consistently be matched as a standalone silent letter and that
     # no extra rules are needed for when the <r> is pronounced:
-    # d ai r y
-    # d ɛ́ː r ɪj
+    # <d ai r y >
+    # /d ɛ́ː r ɪj/
     ('a', [Sound('ɑː')]),
     ('ai', [Sound('ɛː')]),
     ('e', [Sound('əː')]),
