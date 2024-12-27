@@ -91,7 +91,6 @@ PAIRS = [
     ('oo', [Sound('ʉw')]),
     ('oo', [Sound('ʌ')]),
     ('ou', [Sound('aw')]),
-    ('ou', [Sound('oː')]), # "t[ou]r"
     ('ou', [Sound('ə')]), # "fam[ou]s"
     ('ou', [Sound('əw')]), # "s[ou]l"
     ('ou', [Sound('ɵ')]), # "sh[ou]ld"
@@ -157,6 +156,7 @@ PAIRS = [
     ('ee', [Sound('ɪː')]),
     ('i', [Sound('əː')]),
     ('o', [Sound('oː')]),
+    ('ou', [Sound('oː')]),
     ('u', [Sound('əː')]),
     ('r', []),
 
