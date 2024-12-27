@@ -86,6 +86,7 @@ PAIRS = [
     ('o', [Sound('ʉw')]), # "pr[o]ve"
     ('o', [Sound('ʌ')]), # "l[o]ve"
     ('oa', [Sound('oː')]), # "br[oa]d"
+    ('oa', [Sound('ə')]), # "cupb[oa]rd"
     ('oa', [Sound('əw')]),
     ('oi', [Sound('oj')]),
     ('oo', [Sound('ɵ')]),
@@ -172,6 +173,7 @@ PAIRS = [
     ('l', []), # "ca[l]m"
     ('n', []), # "autum[n]"
     ('o', []), # "choc[o]late"
+    ('p', []), # "cu[p]board"
     ('t', []), # "cas[t]le"
     ('u', []), # "b[u]ild"
     ('w', []), # "s[w]ord"
