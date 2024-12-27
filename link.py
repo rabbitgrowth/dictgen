@@ -154,7 +154,7 @@ def pair(word, pron, pairs=[]):
         yield pairs
         return
     for spell, sounds in PAIRS:
-        if word.startswith(spell) and sounds == pron[:len(sounds)]:
+        if word.lower().startswith(spell) and sounds == pron[:len(sounds)]:
             yield from pair(
                 word[len(spell) :],
                 pron[len(sounds):],
