@@ -3,6 +3,10 @@ from sound import Sound
 PAIRS = [
     # Order matters here; what is listed first gets matched first.
 
+    # <k n ow l e dg e> not <k n o w l e dg e>
+    # /  n ɔ́  l ɪ dʒ  /     /  n ɔ́   l ɪ dʒ  /
+    ('ow', [Sound('ɔ')]),
+
     ('ai', [Sound('ɛ')]), # "ag[ai]n"
     ('ai', [Sound('ɛj')]),
     ('ay', [Sound('ɛj')]),
@@ -10,7 +14,6 @@ PAIRS = [
     ('ch', [Sound('tʃ')]),
     ('dg', [Sound('dʒ')]),
     ('ea', [Sound('ɛ')]),
-    ('ea', [Sound('ɪj')]),
     ('ee', [Sound('ɪj')]),
     ('ie', [Sound('ɪj')]),
     ('ng', [Sound('ŋ')]),
@@ -22,7 +25,6 @@ PAIRS = [
     ('ou', [Sound('ə')]), # "fam[ou]s"
     ('ou', [Sound('əw')]), # "s[ou]l"
     ('ow', [Sound('aw')]),
-    ('ow', [Sound('ɔ')]), # "kn[ow]ledge"; not <o> /ɔ/, <w> /∅/
     ('oy', [Sound('oj')]),
     ('sh', [Sound('ʃ')]),
     ('th', [Sound('ð')]),
@@ -107,6 +109,10 @@ PAIRS = [
     ('y', [Sound('ə')]), # "anal[y]sis"
     ('y', [Sound('ɪj')]),
     ('z', [Sound('z')]),
+
+    # <a  r e  a> not <a  r ea  >
+    # /ɛ́ː r ɪj ə/     /ɛ́ː r ɪj ə/
+    ('ea', [Sound('ɪj')]),
 
     # Don't analyze <r> as part of a vowel even though that might make
     # more sense in cases like <ur> /əː/. This ensures that <r> can
