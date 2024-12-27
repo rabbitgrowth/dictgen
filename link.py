@@ -128,6 +128,7 @@ PAIRS = [
     ('o', [Sound('oː')]),
     ('r', []),
 
+    ('a', []), # "basic[a]lly"
     ('e', []), # "fac[e]"
     ('g', []), # "si[g]n"
     ('gh', []), # "thou[gh]"
