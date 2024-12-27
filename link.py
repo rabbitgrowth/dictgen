@@ -107,6 +107,7 @@ PAIRS = [
     ('ss', [Sound('s')]),
     ('t', [Sound('t')]),
     ('t', [Sound('tʃ')]), # "atti[t]ude"
+    ('tch', [Sound('tʃ')]),
     ('th', [Sound('ð')]),
     ('th', [Sound('θ')]),
     ('ti', [Sound('ʃ')]), # "ac[ti]on"
