@@ -55,7 +55,7 @@ PAIRS = [
     ('m', [Sound('m')]),
     ('mm', [Sound('m')]),
     ('n', [Sound('n')]),
-    ('n', [Sound('ŋ')]), # "a[n]ger"
+    ('n', [Sound('ŋ')]), # "ba[n]k"
     ('ng', [Sound('ŋ')]),
     ('nn', [Sound('n')]),
     ('o', [Sound('w'), Sound('ʌ')]), # "[o]ne"
