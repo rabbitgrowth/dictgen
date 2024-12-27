@@ -162,8 +162,8 @@ def pair(word, pron, pairs=[], score=0):
         yield pairs, score
         return
     for spell, sounds in PAIRS:
-        # Penalize inserted sounds and silent letters to avoid incorrect
-        # "lazy" pairings:
+        # Penalize unspelled sounds and silent letters to avoid
+        # incorrect "lazy" pairings:
         # <a  r e  a> not <a  r ea  >
         # /ɛ́ː r ɪj ə/     /ɛ́ː r ɪj ə/
         # <a cc ou n t> not <a c c ou n t>
