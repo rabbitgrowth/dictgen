@@ -82,6 +82,7 @@ PAIRS = [
     ('ou', [Sound('əw')]), # "s[ou]l"
     ('ow', [Sound('aw')]),
     ('ow', [Sound('ɔ')]),
+    ('ow', [Sound('əw')]),
     ('oy', [Sound('oj')]),
     ('p', [Sound('p')]),
     ('ph', [Sound('f')]),
