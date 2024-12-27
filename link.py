@@ -1,3 +1,5 @@
+from collections import defaultdict
+
 from sound import Sound
 
 PAIRS = [
@@ -150,10 +152,12 @@ PAIRS = [
 
 def link(word, ipa):
     pron = list(map(Sound.from_ipa, ipa.split()))
-    try:
-        pairs = next(pair(word, pron))
-    except StopIteration:
+    scores = defaultdict(list)
+    for pairs, score in pair(word, pron):
+        scores[score].append(pairs)
+    if not scores:
         raise ValueError(f'Failed to link "{word}" to "{ipa}"')
+    pairs = scores[min(scores)][0]
     for spell, sounds in pairs:
         if not sounds:
             yield Sound('', stressed=False, spelled=spell, cont=False)
@@ -167,9 +171,9 @@ def link(word, ipa):
                     sound.cont = True
                 yield sound
 
-def pair(word, pron, pairs=[]):
+def pair(word, pron, pairs=[], score=0):
     if not word and not pron:
-        yield pairs
+        yield pairs, score
         return
     for spell, sounds in PAIRS:
         if word.lower().startswith(spell) and sounds == pron[:len(sounds)]:
@@ -179,5 +183,6 @@ def pair(word, pron, pairs=[]):
                 pairs + [(
                     word[:len(spell) ],
                     pron[:len(sounds)]
-                )]
+                )],
+                score + (not spell)
             )
