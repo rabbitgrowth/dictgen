@@ -49,7 +49,7 @@ PAIRS = [
     ('g', [Sound('g')]),
     ('gg', [Sound('g')]),
     ('h', [Sound('h')]),
-    ('i', [Sound('j')]), # "behav[i]our"
+    ('i', [Sound('j')]), # "bill[i]on"
     ('i', [Sound('ɑj')]),
     ('i', [Sound('ə')]),
     ('i', [Sound('ɪ')]),
