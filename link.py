@@ -158,8 +158,8 @@ PAIRS = [
     ('ee', [Sound('ɪː')]),
     ('i', [Sound('əː')]),
     ('o', [Sound('oː')]),
-    ('ou', [Sound('oː')]),
-    ('u', [Sound('oː')]),
+    ('ou', [Sound('oː')]), # "t[ou]r"
+    ('u', [Sound('oː')]), # "c[u]re"
     ('u', [Sound('əː')]),
     ('r', []),
 
