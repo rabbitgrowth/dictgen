@@ -106,6 +106,7 @@ PAIRS = [
     ('rr', [Sound('r')]),
     ('s', [Sound('s')]),
     ('s', [Sound('z')]),
+    ('sci', [Sound('ʃ')]),
     ('sh', [Sound('ʃ')]),
     ('si', [Sound('ʒ')]),
     ('ss', [Sound('s')]),

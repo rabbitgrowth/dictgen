@@ -1686,3 +1686,231 @@ k ə n  ɛ́ k t ɪ d
 
 c o nn e c ti o n
 k ə n  ɛ́ k ʃ  ə n
+
+c o n sci ou s
+k ɔ́ n ʃ   ə  s
+
+c o n s e q u e n c e
+k ɔ́ n s ɪ k w ə n s
+
+c o n s e  r v a t i v e
+k ə n s ə́ː   v ə t ɪ v
+
+c o n s i d e r
+k ə n s ɪ́ d ə
+
+c o n s i d e r a  ti o n
+k ə n s ɪ́ d ə r ɛ́j ʃ  ə n
+
+c o n s i s t
+k ə n s ɪ́ s t
+
+c o n s i s t e n t
+k ə n s ɪ́ s t ə n t
+
+c o n s t a n t
+k ɔ́ n s t ə n t
+
+c o n s t a n t l y
+k ɔ́ n s t ə n t l ɪj
+
+c o n s t r u c t
+k ɔ́ n s t r ʌ k t
+
+c o n s t r u c t
+k ə n s t r ʌ́ k t
+
+c o n s t r u c ti o n
+k ə n s t r ʌ́ k ʃ  ə n
+
+c o n s   u  m e
+k ə n s j ʉ́w m
+
+c o n s   u  m e r
+k ə n s j ʉ́w m ə
+
+c o n t a c t
+k ɔ́ n t a k t
+
+c o n t ai n
+k ə n t ɛ́j n
+
+c o n t ai n e r
+k ə n t ɛ́j n ə
+
+c o n t e m p o r a r y
+k ə n t ɛ́ m p   r ə r ɪj
+
+c o n t e n t
+k ɔ́ n t ɛ n t
+
+c o n t e n t
+k ə n t ɛ́ n t
+
+c o n t e s t
+k ɔ́ n t ɛ s t
+
+c o n t e s t
+k ə n t ɛ́ s t
+
+c o n t e x - t
+k ɔ́ n t ɛ k s t
+
+c o n t i n e n t
+k ɔ́ n t ɪ n ə n t
+
+c o n t i n   ue
+k ə n t ɪ́ n j ʉw
+
+c o n t i n   u  ou s
+k ə n t ɪ́ n j ʉw ə  s
+
+c o n t r a c t
+k ɔ́ n t r a k t
+
+c o n t r a c t
+k ə n t r á k t
+
+c o n t r a  s t
+k ɔ́ n t r ɑː s t
+
+c o n t r a  s t
+k ə n t r ɑ́ː s t
+
+c o n t r i b   u  t e
+k ə n t r ɪ́ b j ʉw t
+
+c o n t r i b   u  ti o n
+k ɔ́ n t r ɪ b j ʉ́w ʃ  ə n
+
+c o n t r o  l
+k ə n t r ə́w l
+
+c o n v e  n i  e n t
+k ə n v ɪ́j n ɪj ə n t
+
+c o n v e r s a  ti o n
+k ɔ́ n v ə   s ɛ́j ʃ  ə n
+
+c o n v e  r t
+k ɔ́ n v əː   t
+
+c o n v e  r t
+k ə n v ə́ː   t
+
+c o n v i n c e
+k ə n v ɪ́ n s
+
+c o n v i n c e d
+k ə n v ɪ́ n s   t
+
+c oo k
+k ɵ́  k
+
+c oo k e r
+k ɵ́  k ə
+
+c oo k i ng
+k ɵ́  k ɪ ŋ
+
+c oo l
+k ʉ́w l
+
+c o p y
+k ɔ́ p ɪj
+
+c o  r e
+k óː
+
+c o  r n e r
+k óː   n ə
+
+c o  r p o r a t e
+k óː   p ə r ə t
+
+c o rr e c t
+k ə r  ɛ́ k t
+
+c o rr e c t l y
+k ə r  ɛ́ k t l ɪj
+
+c o s t
+k ɔ́ s t
+
+c o s t  u  m e
+k ɔ́ s tʃ ʉw m
+
+c o tt a g  e
+k ɔ́ t  ɪ dʒ
+
+c o tt o n
+k ɔ́ t  ə n
+
+c o u l d
+k   ɵ́   d
+
+c ou l d
+k ə    d
+
+c ou n c i l
+k áw n s ə l
+
+c ou n t
+k áw n t
+
+c o u n t r y
+k ʌ́   n t r ɪj
+
+c o u n t r y  s i  d e
+k ʌ́   n t r ɪj s ɑj d
+
+c ou n t y
+k áw n t ɪj
+
+c o u p   l e
+k ʌ́   p ə l
+
+c o u r a g  e
+k ʌ́   r ɪ dʒ
+
+c o  u r s e
+k óː     s
+
+c o  u r t
+k óː     t
+
+c o u s i n
+k ʌ́   z ə n
+
+c o v e r
+k ʌ́ v ə
+
+c o v e r e d
+k ʌ́ v ə     d
+
+c ow
+k áw
+
+c r a sh
+k r á ʃ
+
+c r a  z y
+k r ɛ́j z ɪj
+
+c r ea m
+k r ɪ́j m
+
+c r e  a  t e
+k r ɪj ɛ́j t
+
+c r e  a  ti o n
+k r ɪj ɛ́j ʃ  ə n
+
+c r e  a  t i v e
+k r ɪj ɛ́j t ɪ v
+
+c r ea t  u r e
+k r ɪ́j tʃ ə
+
+c r e d i t
+k r ɛ́ d ɪ t
