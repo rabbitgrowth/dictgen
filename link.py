@@ -26,6 +26,7 @@ PAIRS = [
     ('a', [Sound('ɪ')]),
     ('ai', [Sound('ɛ')]), # "ag[ai]n"
     ('ai', [Sound('ɛj')]),
+    ('ai', [Sound('ɪ')]), # "capt[ai]n"
     ('au', [Sound('oː')]),
     ('au', [Sound('ɑː')]),
     ('au', [Sound('ɔ')]), # "bec[au]se"
