@@ -76,6 +76,7 @@ PAIRS = [
     ('oa', [Sound('əw')]),
     ('oi', [Sound('oj')]),
     ('oo', [Sound('ʉw')]),
+    ('oo', [Sound('ɵ')]),
     ('oo', [Sound('ʌ')]),
     ('ou', [Sound('aw')]),
     ('ou', [Sound('ə')]), # "fam[ou]s"
