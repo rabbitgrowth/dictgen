@@ -32,6 +32,7 @@ PAIRS = [
     ('au', [Sound('ɑː')]),
     ('au', [Sound('ɔ')]), # "bec[au]se"
     ('au', [Sound('ə')]), # "bec[au]se"
+    ('aw', [Sound('oː')]),
     ('ay', [Sound('ɛj')]),
     ('b', [Sound('b')]),
     ('bb', [Sound('b')]),
@@ -67,6 +68,7 @@ PAIRS = [
     ('i', [Sound('ə')]),
     ('i', [Sound('ɪ')]),
     ('i', [Sound('ɪj')]),
+    ('ie', [Sound('ɑj')]),
     ('ie', [Sound('ɪj')]),
     ('j', [Sound('dʒ')]),
     ('k', [Sound('k')]),
@@ -89,6 +91,7 @@ PAIRS = [
     ('oa', [Sound('ə')]), # "cupb[oa]rd"
     ('oa', [Sound('əw')]),
     ('oi', [Sound('oj')]),
+    ('oo', [Sound('oː')]), # "d[oo]r"
     ('oo', [Sound('ɵ')]),
     ('oo', [Sound('ʉw')]),
     ('oo', [Sound('ʌ')]),
