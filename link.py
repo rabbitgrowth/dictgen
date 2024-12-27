@@ -158,6 +158,7 @@ PAIRS = [
     ('e', [Sound('əː')]),
     ('e', [Sound('ɛː')]),
     ('e', [Sound('ɪː')]),
+    ('ea', [Sound('əː')]),
     ('ea', [Sound('ɛː')]),
     ('ea', [Sound('ɪː')]),
     ('ee', [Sound('ɪː')]),
