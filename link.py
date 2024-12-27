@@ -14,6 +14,7 @@ PAIRS = [
     ('ai', [Sound('ɛ')]), # "ag[ai]n"
     ('ai', [Sound('ɛj')]),
     ('au', [Sound('oː')]),
+    ('au', [Sound('ɑː')]),
     ('ay', [Sound('ɛj')]),
     ('b', [Sound('b')]),
     ('bb', [Sound('b')]),
@@ -129,6 +130,7 @@ PAIRS = [
     ('gh', []), # "thou[gh]"
     ('h', []), # "[h]our"
     ('k', []), # "[k]now"
+    ('n', []), # "autum[n]"
     ('w', []), # "s[w]ord"
 
     ('', [Sound('.')]),
