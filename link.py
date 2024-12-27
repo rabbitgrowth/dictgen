@@ -138,6 +138,7 @@ PAIRS = [
     ('ee', [Sound('ɪː')]),
     ('i', [Sound('əː')]),
     ('o', [Sound('oː')]),
+    ('u', [Sound('əː')]),
     ('r', []),
 
     ('a', []), # "basic[a]lly"
