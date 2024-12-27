@@ -6,6 +6,7 @@ PAIRS = [
     ('ai', [Sound('ɛ')]), # "ag[ai]n"
     ('ai', [Sound('ɛj')]),
     ('ay', [Sound('ɛj')]),
+    ('ch', [Sound('k')]),
     ('ch', [Sound('tʃ')]),
     ('dg', [Sound('dʒ')]),
     ('ea', [Sound('ɛ')]),
