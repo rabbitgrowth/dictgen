@@ -148,7 +148,7 @@ PAIRS = [
     ('i', []), # "fr[i]end"
     ('k', []), # "[k]now"
     ('n', []), # "autum[n]"
-    ('u', []), # "act[u]ally"
+    ('u', []), # "b[u]ild"
     ('w', []), # "s[w]ord"
     ('y', []), # "be[y]ond"
 
