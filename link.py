@@ -160,6 +160,7 @@ PAIRS = [
     ('k', []), # "[k]now"
     ('l', []), # "ca[l]m"
     ('n', []), # "autum[n]"
+    ('t', []), # "cas[t]le"
     ('u', []), # "b[u]ild"
     ('w', []), # "s[w]ord"
     ('y', []), # "be[y]ond"
