@@ -14,7 +14,7 @@ PAIRS = [
     # /b   ɪ́ l d/     /b ɪ́   l d/
     ('u', [Sound('ə')]),
     ('u', []),
-    ('u', [Sound('ɪ')]), # "b[u]siness"
+    ('u', [Sound('ɪ')]), # "b[u]sy"
 
     ('a', [Sound('a')]),
     ('a', [Sound('oː')]), # "[a]ll"
