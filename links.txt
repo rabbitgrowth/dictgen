@@ -65,7 +65,7 @@ a ch ie v e m e n t
 ə tʃ ɪ́j v   m ə n t
 
 a c k n ow l e dg e
-ə k   n ɔ́  l ɪ dʒ
+ə   k n ɔ́  l ɪ dʒ
 
 a c q u i  r e
 ə   k w ɑ́j ə
@@ -578,7 +578,7 @@ a tt a ch
 ə t  á tʃ
 
 a tt a c k
-ə t  á k
+ə t  á   k
 
 a tt e m p t
 ə t  ɛ́ m p t
@@ -644,13 +644,13 @@ b a  b y
 b ɛ́j b ɪj
 
 b a c k
-b á k
+b á   k
 
 b a c k g r ou n d
-b á k   g r aw n d
+b á   k g r aw n d
 
 b a c k w a r d s
-b á k   w ə   d z
+b á   k w ə   d z
 
 b a c t e  r i  a
 b a k t ɪ́ː r ɪj ə

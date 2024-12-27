@@ -3,6 +3,11 @@ from collections import defaultdict
 from sound import Sound
 
 PAIRS = [
+    # <b a c k> not <b a c k>
+    # /b á   k/     /b á k  /
+    ('c', []),
+    ('c', [Sound('k')]),
+
     ('a', [Sound('a')]),
     ('a', [Sound('oː')]), # "[a]ll"
     ('a', [Sound('ɔ')]), # "[a]lter"
@@ -18,7 +23,6 @@ PAIRS = [
     ('ay', [Sound('ɛj')]),
     ('b', [Sound('b')]),
     ('bb', [Sound('b')]),
-    ('c', [Sound('k')]),
     ('c', [Sound('s')]),
     ('c', [Sound('ʃ')]), # "appre[c]iate"
     ('cc', [Sound('k')]),
@@ -124,7 +128,6 @@ PAIRS = [
     ('o', [Sound('oː')]),
     ('r', []),
 
-    ('c', []), # "ba[c]k"
     ('e', []), # "fac[e]"
     ('g', []), # "si[g]n"
     ('gh', []), # "thou[gh]"
