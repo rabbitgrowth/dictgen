@@ -130,17 +130,17 @@ PAIRS = [
     ('', [Sound('ə')]), # "simp[]le"
 ]
 
-def link(word, pron):
-    sounds = list(map(Sound.from_ipa, pron.split()))
+def link(word, ipa):
+    pron = list(map(Sound.from_ipa, ipa.split()))
     try:
-        pairs = next(pair(word, sounds))
+        pairs = next(pair(word, pron))
     except StopIteration:
-        raise ValueError(f'Failed to link "{word}" to "{pron}"')
-    for spell, sequence in pairs:
-        if not sequence:
+        raise ValueError(f'Failed to link "{word}" to "{ipa}"')
+    for spell, sounds in pairs:
+        if not sounds:
             yield Sound('', stressed=False, spelled=spell, cont=False)
         else:
-            for i, sound in enumerate(sequence):
+            for i, sound in enumerate(sounds):
                 if not i:
                     sound.spelled = spell
                     sound.cont = False
@@ -149,15 +149,17 @@ def link(word, pron):
                     sound.cont = True
                 yield sound
 
-def pair(word, sounds, pairs=[]):
-    if not word and not sounds:
+def pair(word, pron, pairs=[]):
+    if not word and not pron:
         yield pairs
         return
-    for spell, pattern in PAIRS:
-        sequence = sounds[:len(pattern)]
-        if word.startswith(spell) and pattern == sequence:
+    for spell, sounds in PAIRS:
+        if word.startswith(spell) and sounds == pron[:len(sounds)]:
             yield from pair(
-                word  [len(spell)  :],
-                sounds[len(pattern):],
-                pairs + [(spell, sequence)]
+                word[len(spell) :],
+                pron[len(sounds):],
+                pairs + [(
+                    word[:len(spell) ],
+                    pron[:len(sounds)]
+                )]
             )
