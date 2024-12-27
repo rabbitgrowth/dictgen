@@ -105,6 +105,7 @@ PAIRS = [
     ('u', [Sound('w')]),
     ('u', [Sound('ə')]),
     ('u', [Sound('ɛ')]), # "b[u]ry"
+    ('u', [Sound('ɪ')]),
     ('u', [Sound('ɵ')]),
     ('u', [Sound('ʉw')]),
     ('u', [Sound('ʌ')]),
