@@ -56,6 +56,7 @@ PAIRS = [
     ('ea', [Sound('ɪj')]),
     ('eau', [Sound('ʉw')]), # "b[eau]ty"
     ('ee', [Sound('ɪj')]),
+    ('ei', [Sound('ɛj')]), # "[ei]ght"
     ('ei', [Sound('ɪj')]),
     ('ew', [Sound('ʉw')]),
     ('f', [Sound('f')]),
