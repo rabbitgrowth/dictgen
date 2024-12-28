@@ -63,6 +63,7 @@ PAIRS = [
     ('eu', [Sound('ɵː')]), # "[eu]ro"
     ('ew', [Sound('ʉw')]),
     ('ey', [Sound('ɑj')]), # "[ey]e"
+    ('ey', [Sound('ɛj')]), # "gr[ey]"
     ('f', [Sound('f')]),
     ('ff', [Sound('f')]),
     ('g', [Sound('dʒ')]),
