@@ -3,7 +3,7 @@ from math import inf
 from sound import Sound
 from trie import Trie
 
-PAIRS = [
+PAIRS = Trie([
     # <b a c k> not <b a c k>
     # /b á   k/     /b á k  /
     ('c', []),
@@ -194,12 +194,7 @@ PAIRS = [
     ('', [Sound('j')]), # "b[]eauty"
     ('', [Sound('r')]), # "draw[]ing"
     ('', [Sound('ə')]), # "simp[]le"
-]
-
-TRIE = Trie()
-
-for spell, pattern in PAIRS:
-    TRIE.insert(spell, pattern)
+])
 
 def link(word, ipa):
     pron = list(map(Sound.from_ipa, ipa.split()))
@@ -223,7 +218,7 @@ def pair(word, pron, pairs=[], score=0):
     if not word and not pron:
         yield pairs, score
         return
-    for length, patterns in reversed(list(enumerate(TRIE.lookup(word.lower())))):
+    for length, patterns in reversed(list(enumerate(PAIRS.lookup(word.lower())))):
         for pattern in patterns:
             # Penalize unspelled sounds and silent letters to avoid
             # incorrect "lazy" pairings:
