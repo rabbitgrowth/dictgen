@@ -4,19 +4,6 @@ from sound import Sound
 from trie import Trie
 
 PAIRS = [
-    # <b a c k> not <b a c k>
-    # /b á   k/     /b á k  /
-    ('c', []),
-    ('c', [Sound('k')]),
-
-    # <n a  t  u r e> not <n a  t  u r e>
-    # /n ɛ́j tʃ ə    /     /n ɛ́j tʃ   ə  /
-    # <b u i l d> not <b u i l d>
-    # /b   ɪ́ l d/     /b ɪ́   l d/
-    ('u', [Sound('ə')]),
-    ('u', []),
-    ('u', [Sound('ɪ')]), # "b[u]sy"
-
     ('a', [Sound('a')]),
     ('a', [Sound('oː')]), # "[a]ll"
     ('a', [Sound('ɑː')]),
@@ -39,6 +26,7 @@ PAIRS = [
     ('ay', [Sound('ɛj')]),
     ('b', [Sound('b')]),
     ('bb', [Sound('b')]),
+    ('c', [Sound('k')], 1), # "be[c]ome"; not "ba[c]k"
     ('c', [Sound('s')]),
     ('c', [Sound('ʃ')]), # "appre[c]iate"
     ('cc', [Sound('k')]),
@@ -51,7 +39,7 @@ PAIRS = [
     ('d', [Sound('t')]), # "face[d]"
     ('dd', [Sound('d')]),
     ('dg', [Sound('dʒ')]),
-    ('e', [Sound('ɔ')], 1), # "g[e]nre"
+    ('e', [Sound('ɔ')], 1), # "g[e]nre"; not "g[e]ography"
     ('e', [Sound('ə')]),
     ('e', [Sound('əː')]), # "conc[e]rn"
     ('e', [Sound('ɛ')]),
@@ -152,8 +140,10 @@ PAIRS = [
     ('tt', [Sound('t')]),
     ('u', [Sound('oː')]), # "c[u]re"
     ('u', [Sound('w')]),
+    ('u', [Sound('ə')]),
     ('u', [Sound('əː')]), # "t[u]rn"
     ('u', [Sound('ɛ')]), # "b[u]ry"
+    ('u', [Sound('ɪ')], 1), # "b[u]sy"; not "b[u]ild"
     ('u', [Sound('ɵ')]),
     ('u', [Sound('ɵː')]), # "d[u]ring"
     ('u', [Sound('ʉw')]),
@@ -177,6 +167,7 @@ PAIRS = [
     # Silent letters
     ('a', []), # "basic[a]lly"
     ('b', []), # "bom[b]"
+    ('c', []), # "ba[c]k"
     ('e', []), # "fac[e]"
     ('g', []), # "si[g]n"
     ('h', []), # "[h]our"
