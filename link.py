@@ -66,6 +66,7 @@ PAIRS = Trie([
     ('g', [Sound('dʒ')]),
     ('g', [Sound('g')]),
     ('gg', [Sound('g')]),
+    ('gh', [Sound('f')]),
     ('h', [Sound('h')]),
     ('i', [Sound('j')]), # "bill[i]on"
     ('i', [Sound('ɑj')]),
