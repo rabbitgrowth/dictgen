@@ -973,8 +973,8 @@ b ɔ́ k s
 b oy
 b ój
 
-b oy f r i e n d
-b ój f r   ɛ n d
+b oy f r ie n d
+b ój f r ɛ  n d
 
 b r ai n
 b r ɛ́j n
@@ -3025,8 +3025,8 @@ e x - t r e  m e
 e x - t r e  m e l y
 ɪ k s t r ɪ́j m   l ɪj
 
-e y  e
-  ɑ́j
+ey e
+ɑ́j
 
 f a  c e
 f ɛ́j s
@@ -3097,11 +3097,11 @@ f ɑ́ː   m ɪ ŋ
 f a s c i n a  t i ng
 f á s   ɪ n ɛj t ɪ ŋ
 
-f a sh i o n
-f á ʃ  ə   n
+f a shi o n
+f á ʃ   ə n
 
-f a sh i o n a b   l e
-f á ʃ      n ə b ə l
+f a shi o n a b   l e
+f á ʃ     n ə b ə l
 
 f a  s t
 f ɑ́ː s t
@@ -3340,8 +3340,8 @@ f ə
 f o  r c e
 f óː   s
 
-f o r e i g n
-f ɔ́ r ə     n
+f o r ei g n
+f ɔ́ r ə    n
 
 f o r e s t
 f ɔ́ r ɪ s t
@@ -3418,14 +3418,14 @@ f r ɑ́j d ɛj
 f r i dg e
 f r ɪ́ dʒ
 
-f r i e n d
-f r   ɛ́ n d
+f r ie n d
+f r ɛ́  n d
 
-f r i e n d l y
-f r   ɛ́ n d l ɪj
+f r ie n d l y
+f r ɛ́  n d l ɪj
 
-f r i e n d sh i p
-f r   ɛ́ n d ʃ  ɪ p
+f r ie n d sh i p
+f r ɛ́  n d ʃ  ɪ p
 
 f r i  g h t e n
 f r ɑ́j     t ə n
@@ -3451,8 +3451,8 @@ f r ʌ́ n t
 f r o  z e n
 f r ə́w z ə n
 
-f r u  i t
-f r ʉ́w   t
+f r ui t
+f r ʉ́w t
 
 f r y
 f r ɑ́j

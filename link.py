@@ -67,10 +67,12 @@ PAIRS = Trie([
     ('ee', [Sound('ɪj')]),
     ('ee', [Sound('ɪː')]),
     ('ei', [Sound('ɑj')]), # "[ei]ther"
+    ('ei', [Sound('ə')]), # "for[ei]gn"
     ('ei', [Sound('ɛj')]), # "[ei]ght"
     ('ei', [Sound('ɪj')]),
     ('eu', [Sound('ɵː')]), # "[eu]ro"
     ('ew', [Sound('ʉw')]),
+    ('ey', [Sound('ɑj')]), # "[ey]e"
     ('f', [Sound('f')]),
     ('ff', [Sound('f')]),
     ('g', [Sound('dʒ')]),
@@ -85,6 +87,7 @@ PAIRS = Trie([
     ('i', [Sound('ɪ')]),
     ('i', [Sound('ɪj')]),
     ('ie', [Sound('ɑj')]),
+    ('ie', [Sound('ɛ')]), # "fr[ie]nd"
     ('ie', [Sound('ɪj')]),
     ('j', [Sound('dʒ')]),
     ('k', [Sound('k')]),
@@ -134,6 +137,7 @@ PAIRS = Trie([
     ('s', [Sound('ʃ')]), # "[s]ure"
     ('sci', [Sound('ʃ')]),
     ('sh', [Sound('ʃ')]),
+    ('shi', [Sound('ʃ')]), # "fa[shi]on"
     ('si', [Sound('ʒ')]),
     ('ss', [Sound('s')]),
     ('ssi', [Sound('ʃ')]),
@@ -153,6 +157,7 @@ PAIRS = Trie([
     ('u', [Sound('ʉw')]),
     ('u', [Sound('ʌ')]),
     ('ue', [Sound('ʉw')]),
+    ('ui', [Sound('ʉw')]), # "fr[ui]t"
     ('v', [Sound('v')]),
     ('vv', [Sound('v')]),
     ('w', [Sound('w')]),
