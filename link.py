@@ -216,7 +216,7 @@ def link(word, ipa):
                     sound.cont = True
                 yield sound
 
-def pair(word, pron, pairs=[], score=0):
+def pair(word, pron, pairs=[], score=0, prev_length=None):
     if not word and not pron:
         yield pairs, score
         return
@@ -230,13 +230,22 @@ def pair(word, pron, pairs=[], score=0):
             # /ə k  áw n t/     /ə k   áw n t/
             # <k n ow l e dg e> not <k n o w l e dg e>
             # /  n ɔ́  l ɪ dʒ  /     /  n ɔ́   l ɪ dʒ  /
-            penalty = (not length) + (not pattern)
+            # Additionally penalize an unspelled sound immediately
+            # followed by a silent letter:
+            # <c a  s t   l e> not <c a  s   t l e>
+            # /k ɑ́ː s   ə l  /     /k ɑ́ː s ə   l  /
+            penalty = (
+                  (not length)
+                + (not pattern)
+                + (not prev_length and not pattern)
+            )
             if pattern == pron[:len(pattern)]:
                 yield from pair(
                     word[length:],
                     pron[len(pattern):],
                     pairs + [(word[:length], pron[:len(pattern)])],
-                    score + penalty
+                    score + penalty,
+                    length
                 )
 
 def get_best_pairs(word, pron):
