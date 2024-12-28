@@ -223,7 +223,7 @@ def pair(word, pron, pairs=[], score=0):
     if not word and not pron:
         yield pairs, score
         return
-    for length, patterns in enumerate(TRIE.lookup(word.lower())):
+    for length, patterns in reversed(list(enumerate(TRIE.lookup(word.lower())))):
         for pattern in patterns:
             # Penalize unspelled sounds and silent letters to avoid
             # incorrect "lazy" pairings:
