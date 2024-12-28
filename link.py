@@ -51,6 +51,7 @@ PAIRS = Trie([
     ('d', [Sound('t')]), # "face[d]"
     ('dd', [Sound('d')]),
     ('dg', [Sound('dʒ')]),
+    ('e', [Sound('ɔ')]), # "g[e]nre"
     ('e', [Sound('ə')]),
     ('e', [Sound('əː')]), # "conc[e]rn"
     ('e', [Sound('ɛ')]),
@@ -77,6 +78,7 @@ PAIRS = Trie([
     ('ff', [Sound('f')]),
     ('g', [Sound('dʒ')]),
     ('g', [Sound('g')]),
+    ('g', [Sound('ʒ')]), # "[g]enre"
     ('gg', [Sound('g')]),
     ('gh', [Sound('f')]),
     ('h', [Sound('h')]),
