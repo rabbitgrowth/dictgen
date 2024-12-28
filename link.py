@@ -19,6 +19,7 @@ PAIRS = Trie([
 
     ('a', [Sound('a')]),
     ('a', [Sound('oː')]), # "[a]ll"
+    ('a', [Sound('ɑː')]),
     ('a', [Sound('ɔ')]), # "[a]lter"
     ('a', [Sound('ə')]),
     ('a', [Sound('ɛ')]), # "[a]ny"
@@ -28,6 +29,7 @@ PAIRS = Trie([
     ('ai', [Sound('ə')]), # "cert[ai]n"
     ('ai', [Sound('ɛ')]), # "ag[ai]n"
     ('ai', [Sound('ɛj')]),
+    ('ai', [Sound('ɛː')]),
     ('ai', [Sound('ɪ')]), # "capt[ai]n"
     ('au', [Sound('oː')]),
     ('au', [Sound('ɑː')]),
@@ -50,13 +52,20 @@ PAIRS = Trie([
     ('dd', [Sound('d')]),
     ('dg', [Sound('dʒ')]),
     ('e', [Sound('ə')]),
+    ('e', [Sound('əː')]), # "conc[e]rn"
     ('e', [Sound('ɛ')]),
+    ('e', [Sound('ɛː')]),
     ('e', [Sound('ɪ')]),
     ('e', [Sound('ɪj')]),
+    ('e', [Sound('ɪː')]),
+    ('ea', [Sound('əː')]), # "[ea]rn"
     ('ea', [Sound('ɛ')]),
+    ('ea', [Sound('ɛː')]),
     ('ea', [Sound('ɪj')]),
+    ('ea', [Sound('ɪː')]),
     ('eau', [Sound('ʉw')]), # "b[eau]ty"
     ('ee', [Sound('ɪj')]),
+    ('ee', [Sound('ɪː')]),
     ('ei', [Sound('ɑj')]), # "[ei]ther"
     ('ei', [Sound('ɛj')]), # "[ei]ght"
     ('ei', [Sound('ɪj')]),
@@ -71,6 +80,7 @@ PAIRS = Trie([
     ('i', [Sound('j')]), # "bill[i]on"
     ('i', [Sound('ɑj')]),
     ('i', [Sound('ə')]),
+    ('i', [Sound('əː')]), # "b[i]rd"
     ('i', [Sound('ɪ')]),
     ('i', [Sound('ɪj')]),
     ('ie', [Sound('ɑj')]),
@@ -86,6 +96,7 @@ PAIRS = Trie([
     ('n', [Sound('ŋ')]), # "ba[n]k"
     ('ng', [Sound('ŋ')]),
     ('nn', [Sound('n')]),
+    ('o', [Sound('oː')]),
     ('o', [Sound('w'), Sound('ʌ')]), # "[o]ne"
     ('o', [Sound('ɔ')]),
     ('o', [Sound('ə')]),
@@ -101,6 +112,7 @@ PAIRS = Trie([
     ('oo', [Sound('ʉw')]),
     ('oo', [Sound('ʌ')]),
     ('ou', [Sound('aw')]),
+    ('ou', [Sound('oː')]), # "t[ou]r"
     ('ou', [Sound('ə')]), # "fam[ou]s"
     ('ou', [Sound('əw')]), # "s[ou]l"
     ('ou', [Sound('ɵ')]), # "sh[ou]ld"
@@ -130,7 +142,9 @@ PAIRS = Trie([
     ('th', [Sound('θ')]),
     ('ti', [Sound('ʃ')]), # "ac[ti]on"
     ('tt', [Sound('t')]),
+    ('u', [Sound('oː')]), # "c[u]re"
     ('u', [Sound('w')]),
+    ('u', [Sound('əː')]), # "t[u]rn"
     ('u', [Sound('ɛ')]), # "b[u]ry"
     ('u', [Sound('ɵ')]),
     ('u', [Sound('ɵː')]), # "d[u]ring"
@@ -150,30 +164,13 @@ PAIRS = Trie([
     ('z', [Sound('z')]),
     ('zz', [Sound('z')]),
 
-    # Non-rhoticity
+    # Silent letters
     # Don't analyze <r> as part of a vowel even though that might make
     # more sense in cases like <ur> /əː/. This ensures that <r> can
     # consistently be matched as a standalone silent letter and that
     # no extra rules are needed for when the <r> is pronounced:
     # <d ai r y >
     # /d ɛ́ː r ɪj/
-    ('a', [Sound('ɑː')]),
-    ('ai', [Sound('ɛː')]),
-    ('e', [Sound('əː')]),
-    ('e', [Sound('ɛː')]),
-    ('e', [Sound('ɪː')]),
-    ('ea', [Sound('əː')]),
-    ('ea', [Sound('ɛː')]),
-    ('ea', [Sound('ɪː')]),
-    ('ee', [Sound('ɪː')]),
-    ('i', [Sound('əː')]),
-    ('o', [Sound('oː')]),
-    ('ou', [Sound('oː')]), # "t[ou]r"
-    ('u', [Sound('oː')]), # "c[u]re"
-    ('u', [Sound('əː')]),
-    ('r', []),
-
-    # Silent letters
     ('a', []), # "basic[a]lly"
     ('b', []), # "bom[b]"
     ('e', []), # "fac[e]"
@@ -185,6 +182,7 @@ PAIRS = Trie([
     ('n', []), # "autum[n]"
     ('o', []), # "choc[o]late"
     ('p', []), # "cu[p]board"
+    ('r', []), # "pa[r]t"
     ('t', []), # "cas[t]le"
     ('u', []), # "b[u]ild"
     ('w', []), # "s[w]ord"
