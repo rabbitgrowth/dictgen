@@ -104,7 +104,7 @@ PAIRS = Trie([
     ('ou', [Sound('ə')]), # "fam[ou]s"
     ('ou', [Sound('əw')]), # "s[ou]l"
     ('ou', [Sound('ɵ')]), # "sh[ou]ld"
-    ('ou', [Sound('ʌ')]), # "c[ou]ntry"
+    ('ou', [Sound('ʌ')]), # "en[ou]gh"
     ('ow', [Sound('aw')]),
     ('ow', [Sound('ɔ')]),
     ('ow', [Sound('əw')]),
