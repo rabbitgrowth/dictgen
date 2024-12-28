@@ -200,7 +200,11 @@ PAIRS = [
 TRIE = Trie()
 
 for spell, *args in PAIRS:
-    pattern, rarity = (*args, 0) if len(args) == 1 else args
+    if len(args) == 1:
+        pattern, = args
+        rarity = 0
+    else:
+        pattern, rarity = args
     TRIE.insert(spell, (pattern, rarity))
 
 def link(word, ipa):
