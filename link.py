@@ -201,11 +201,11 @@ TRIE = Trie()
 
 for spell, *args in PAIRS:
     if len(args) == 1:
-        pattern, = args
+        sounds, = args
         rarity = 0
     else:
-        pattern, rarity = args
-    TRIE.insert(spell, (pattern, rarity))
+        sounds, rarity = args
+    TRIE.insert(spell, (sounds, rarity))
 
 def link(word, ipa):
     pron = list(map(Sound.from_ipa, ipa.split()))
@@ -229,8 +229,8 @@ def pair(word, pron, pairs=[], score=0, prev_length=None):
     if not word and not pron:
         yield pairs, score
         return
-    for length, patterns in enumerate(TRIE.lookup(word.lower())):
-        for pattern, rarity in patterns:
+    for length, group in enumerate(TRIE.lookup(word.lower())):
+        for sounds, rarity in group:
             # Penalize unspelled sounds and silent letters to avoid
             # incorrect "lazy" pairings:
             # <a  r e  a> not <a  r ea  >
@@ -246,14 +246,14 @@ def pair(word, pron, pairs=[], score=0, prev_length=None):
             penalty = (
                 rarity
                 + (not length)
-                + (not pattern)
-                + (not prev_length and not pattern)
+                + (not sounds)
+                + (not prev_length and not sounds)
             )
-            if pattern == pron[:len(pattern)]:
+            if sounds == pron[:len(sounds)]:
                 yield from pair(
                     word[length:],
-                    pron[len(pattern):],
-                    pairs + [(word[:length], pron[:len(pattern)])],
+                    pron[len(sounds):],
+                    pairs + [(word[:length], pron[:len(sounds)])],
                     score + penalty,
                     length
                 )
