@@ -49,6 +49,7 @@ PAIRS = [
     ('e', [Sound('ɪː')]),
     ('ea', [Sound('əː')]), # "[ea]rn"
     ('ea', [Sound('ɛ')]),
+    ('ea', [Sound('ɛj')]), # "gr[ea]t"
     ('ea', [Sound('ɛː')]),
     ('ea', [Sound('ɪj')]),
     ('ea', [Sound('ɪː')]),
