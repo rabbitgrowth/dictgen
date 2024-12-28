@@ -197,7 +197,7 @@ PAIRS = [
 
 def link(word, ipa):
     pron = list(map(Sound.from_ipa, ipa.split()))
-    pairs = best_pairs(word, pron)
+    pairs = get_best_pairs(word, pron)
     if pairs is None:
         raise ValueError(f'Failed to link "{word}" to "{ipa}"')
     for spell, sounds in pairs:
@@ -238,13 +238,13 @@ def pair(word, pron, pairs=[], score=0):
                 score + penalty
             )
 
-def best_pairs(word, pron):
-    best = {}
+def get_best_pairs(word, pron):
+    best_pairs = None
     best_score = inf
     for pairs, score in pair(word, pron):
         if not score:
             return pairs
-        best_score = min(best_score, score)
-        if best_score not in best:
-            best[best_score] = pairs
-    return best.get(best_score)
+        if score < best_score:
+            best_pairs = pairs
+            best_score = score
+    return best_pairs
