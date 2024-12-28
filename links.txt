@@ -832,8 +832,8 @@ b ɛ́ t  ə
 b e t w ee n
 b ə t w ɪ́j n
 
-b e  y o n d
-b ɪj   ɔ́ n d
+b ey o n d
+b ɪj ɔ́ n d
 
 b i  c y c   l e
 b ɑ́j s ɪ k ə l
@@ -3673,8 +3673,8 @@ g r ɛ́j
 g r ou n d
 g r áw n d
 
-g r o  u p
-g r ʉ́w   p
+g r ou p
+g r ʉ́w p
 
 g r ow
 g r ə́w
@@ -3689,10 +3689,10 @@ g u a  r d
 g   ɑ́ː   d
 
 g u e ss
-g ɛ́   s
+g   ɛ́ s
 
 g u e s t
-g ɛ́   s t
+g   ɛ́ s t
 
 g u i  d e
 g   ɑ́j d
@@ -3793,8 +3793,8 @@ h ɪ́ː
 h ea r i ng
 h ɪ́ː r ɪ ŋ
 
-h e a  r t
-h   ɑ́ː   t
+h ea r t
+h ɑ́ː   t
 
 h ea t
 h ɪ́j t
@@ -3907,7 +3907,7 @@ h ɪ́ t
 h o bb y
 h ɔ́ b  ɪj
 
-h o c k e  y
+h o c k ey
 h ɔ́   k ɪj
 
 h o  l d
