@@ -187,7 +187,6 @@ PAIRS = [
     ('t', []), # "cas[t]le"
     ('u', []), # "b[u]ild"
     ('w', []), # "s[w]ord"
-    ('y', []), # "be[y]ond"
 
     # Don't analyze <r> as part of a vowel even though that might make
     # more sense in cases like <ur> /əː/. This ensures that <r> can
