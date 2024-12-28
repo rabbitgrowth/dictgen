@@ -99,6 +99,7 @@ PAIRS = [
     ('o', [Sound('ɔ')]),
     ('o', [Sound('ə')]),
     ('o', [Sound('əw')]),
+    ('o', [Sound('əː')]), # "w[o]rk"
     ('o', [Sound('ʉw')]), # "pr[o]ve"
     ('o', [Sound('ʌ')]), # "l[o]ve"
     ('oa', [Sound('oː')]), # "br[oa]d"
