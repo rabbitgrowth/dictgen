@@ -156,6 +156,7 @@ PAIRS = Trie([
     ('v', [Sound('v')]),
     ('vv', [Sound('v')]),
     ('w', [Sound('w')]),
+    ('x', [Sound('g'), Sound('z')]), # "e[x]act"
     ('x', [Sound('k'), Sound('s')]),
     ('xi', [Sound('k'), Sound('ʃ')]), # "an[xi]ous"
     ('y', [Sound('j')]),
