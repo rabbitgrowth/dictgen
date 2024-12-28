@@ -5,7 +5,7 @@ from trie import Trie
 
 PAIRS = [
     ('a', [Sound('a')]),
-    ('a', [Sound('oː')]), # "[a]ll"
+    ('a', [Sound('oː')], 1), # "[a]ll"; not "extr[a]ordinary"
     ('a', [Sound('ɑː')]),
     ('a', [Sound('ɔ')]), # "[a]lter"
     ('a', [Sound('ə')]),
@@ -189,10 +189,6 @@ PAIRS = [
     # <d ai r y >
     # /d ɛ́ː r ɪj/
     ('r', []),
-
-    # This would not be necessary if <or>, instead of just <o>, were
-    # mapped to /oː/.
-    ('ao', [Sound('oː')]), # "extr[ao]rdinary"
 
     # Unspelled sounds
     ('', [Sound('.')]),
