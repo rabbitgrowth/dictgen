@@ -69,6 +69,7 @@ PAIRS = Trie([
     ('ei', [Sound('ɑj')]), # "[ei]ther"
     ('ei', [Sound('ɛj')]), # "[ei]ght"
     ('ei', [Sound('ɪj')]),
+    ('eu', [Sound('ɵː')]), # "[eu]ro"
     ('ew', [Sound('ʉw')]),
     ('f', [Sound('f')]),
     ('ff', [Sound('f')]),
