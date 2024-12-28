@@ -135,7 +135,7 @@ PAIRS = Trie([
     ('s', [Sound('s')]),
     ('s', [Sound('z')]),
     ('s', [Sound('ʃ')]), # "[s]ure"
-    ('sci', [Sound('ʃ')]),
+    ('sci', [Sound('ʃ')]), # "con[sci]ous"
     ('sh', [Sound('ʃ')]),
     ('shi', [Sound('ʃ')]), # "fa[shi]on"
     ('si', [Sound('ʒ')]),
