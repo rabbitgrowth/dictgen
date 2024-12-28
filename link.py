@@ -130,6 +130,7 @@ PAIRS = Trie([
     ('rr', [Sound('r')]),
     ('s', [Sound('s')]),
     ('s', [Sound('z')]),
+    ('s', [Sound('ʃ')]), # "[s]ure"
     ('sci', [Sound('ʃ')]),
     ('sh', [Sound('ʃ')]),
     ('si', [Sound('ʒ')]),
