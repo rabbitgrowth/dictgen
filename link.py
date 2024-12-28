@@ -168,12 +168,6 @@ PAIRS = Trie([
     ('zz', [Sound('z')]),
 
     # Silent letters
-    # Don't analyze <r> as part of a vowel even though that might make
-    # more sense in cases like <ur> /əː/. This ensures that <r> can
-    # consistently be matched as a standalone silent letter and that
-    # no extra rules are needed for when the <r> is pronounced:
-    # <d ai r y >
-    # /d ɛ́ː r ɪj/
     ('a', []), # "basic[a]lly"
     ('b', []), # "bom[b]"
     ('e', []), # "fac[e]"
@@ -185,11 +179,22 @@ PAIRS = Trie([
     ('n', []), # "autum[n]"
     ('o', []), # "choc[o]late"
     ('p', []), # "cu[p]board"
-    ('r', []), # "pa[r]t"
     ('t', []), # "cas[t]le"
     ('u', []), # "b[u]ild"
     ('w', []), # "s[w]ord"
     ('y', []), # "be[y]ond"
+
+    # Don't analyze <r> as part of a vowel even though that might make
+    # more sense in cases like <ur> /əː/. This ensures that <r> can
+    # consistently be matched as a standalone silent letter and that
+    # no extra rules are needed for when the <r> is pronounced:
+    # <d ai r y >
+    # /d ɛ́ː r ɪj/
+    ('r', []),
+
+    # This would not be necessary if <or>, instead of just <o>, were
+    # mapped to /oː/.
+    ('ao', [Sound('oː')]), # "extr[ao]rdinary"
 
     # Unspelled sounds
     ('', [Sound('.')]),
