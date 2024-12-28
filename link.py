@@ -1,6 +1,7 @@
 from math import inf
 
 from sound import Sound
+from trie import Trie
 
 PAIRS = [
     # <b a c k> not <b a c k>
@@ -195,6 +196,11 @@ PAIRS = [
     ('', [Sound('ə')]), # "simp[]le"
 ]
 
+TRIE = Trie()
+
+for spell, pattern in PAIRS:
+    TRIE.insert(spell, pattern)
+
 def link(word, ipa):
     pron = list(map(Sound.from_ipa, ipa.split()))
     pairs = get_best_pairs(word, pron)
@@ -217,26 +223,24 @@ def pair(word, pron, pairs=[], score=0):
     if not word and not pron:
         yield pairs, score
         return
-    for spell, sounds in PAIRS:
-        # Penalize unspelled sounds and silent letters to avoid
-        # incorrect "lazy" pairings:
-        # <a  r e  a> not <a  r ea  >
-        # /ɛ́ː r ɪj ə/     /ɛ́ː r ɪj ə/
-        # <a cc ou n t> not <a c c ou n t>
-        # /ə k  áw n t/     /ə k   áw n t/
-        # <k n ow l e dg e> not <k n o w l e dg e>
-        # /  n ɔ́  l ɪ dʒ  /     /  n ɔ́   l ɪ dʒ  /
-        penalty = (not spell) + (not sounds)
-        if word.lower().startswith(spell) and sounds == pron[:len(sounds)]:
-            yield from pair(
-                word[len(spell) :],
-                pron[len(sounds):],
-                pairs + [(
-                    word[:len(spell) ],
-                    pron[:len(sounds)]
-                )],
-                score + penalty
-            )
+    for length, patterns in enumerate(TRIE.lookup(word.lower())):
+        for pattern in patterns:
+            # Penalize unspelled sounds and silent letters to avoid
+            # incorrect "lazy" pairings:
+            # <a  r e  a> not <a  r ea  >
+            # /ɛ́ː r ɪj ə/     /ɛ́ː r ɪj ə/
+            # <a cc ou n t> not <a c c ou n t>
+            # /ə k  áw n t/     /ə k   áw n t/
+            # <k n ow l e dg e> not <k n o w l e dg e>
+            # /  n ɔ́  l ɪ dʒ  /     /  n ɔ́   l ɪ dʒ  /
+            penalty = (not length) + (not pattern)
+            if pattern == pron[:len(pattern)]:
+                yield from pair(
+                    word[length:],
+                    pron[len(pattern):],
+                    pairs + [(word[:length], pron[:len(pattern)])],
+                    score + penalty
+                )
 
 def get_best_pairs(word, pron):
     best_pairs = None
