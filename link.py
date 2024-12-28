@@ -242,7 +242,7 @@ def get_best_pairs(word, pron):
     best_pairs = None
     best_score = inf
     for pairs, score in pair(word, pron):
-        if not score:
+        if not score: # best possible score
             return pairs
         if score < best_score:
             best_pairs = pairs
