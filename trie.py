@@ -1,13 +1,14 @@
 from collections import defaultdict
 
 class Trie:
-    def __init__(self, pairs):
+    def __init__(self):
         self.root = Node()
-        for key, value in pairs:
-            node = self.root
-            for char in key:
-                node = node.children[char]
-            node.values.append(value)
+
+    def insert(self, key, value):
+        node = self.root
+        for char in key:
+            node = node.children[char]
+        node.values.append(value)
 
     def lookup(self, word):
         node = self.root

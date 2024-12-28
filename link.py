@@ -3,7 +3,7 @@ from math import inf
 from sound import Sound
 from trie import Trie
 
-PAIRS = Trie([
+PAIRS = [
     # <b a c k> not <b a c k>
     # /b á   k/     /b á k  /
     ('c', []),
@@ -51,7 +51,7 @@ PAIRS = Trie([
     ('d', [Sound('t')]), # "face[d]"
     ('dd', [Sound('d')]),
     ('dg', [Sound('dʒ')]),
-    ('e', [Sound('ɔ')]), # "g[e]nre"
+    ('e', [Sound('ɔ')], 1), # "g[e]nre"
     ('e', [Sound('ə')]),
     ('e', [Sound('əː')]), # "conc[e]rn"
     ('e', [Sound('ɛ')]),
@@ -208,7 +208,13 @@ PAIRS = Trie([
     ('', [Sound('j')]), # "b[]eauty"
     ('', [Sound('r')]), # "draw[]ing"
     ('', [Sound('ə')]), # "simp[]le"
-])
+]
+
+TRIE = Trie()
+
+for spell, *args in PAIRS:
+    pattern, rarity = (*args, 0) if len(args) == 1 else args
+    TRIE.insert(spell, (pattern, rarity))
 
 def link(word, ipa):
     pron = list(map(Sound.from_ipa, ipa.split()))
@@ -232,8 +238,8 @@ def pair(word, pron, pairs=[], score=0, prev_length=None):
     if not word and not pron:
         yield pairs, score
         return
-    for length, patterns in enumerate(PAIRS.lookup(word.lower())):
-        for pattern in patterns:
+    for length, patterns in enumerate(TRIE.lookup(word.lower())):
+        for pattern, rarity in patterns:
             # Penalize unspelled sounds and silent letters to avoid
             # incorrect "lazy" pairings:
             # <a  r e  a> not <a  r ea  >
@@ -247,7 +253,8 @@ def pair(word, pron, pairs=[], score=0, prev_length=None):
             # <c a  s t   l e> not <c a  s   t l e>
             # /k ɑ́ː s   ə l  /     /k ɑ́ː s ə   l  /
             penalty = (
-                  (not length)
+                rarity
+                + (not length)
                 + (not pattern)
                 + (not prev_length and not pattern)
             )
