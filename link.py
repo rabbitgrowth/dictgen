@@ -121,6 +121,7 @@ PAIRS = [
     ('shi', [Sound('ʃ')]), # "fa[shi]on"
     ('si', [Sound('ʒ')]),
     ('ss', [Sound('s')]),
+    ('ss', [Sound('ʃ')]), # "i[ss]ue"
     ('ssi', [Sound('ʃ')]),
     ('t', [Sound('t')]),
     ('t', [Sound('tʃ')]), # "atti[t]ude"
@@ -202,6 +203,7 @@ PAIRS = [
     ('n', []), # "autum[n]"
     ('o', []), # "choc[o]late"
     ('p', []), # "cu[p]board"
+    ('s', []), # "i[s]land"
     ('t', []), # "cas[t]le"
     ('u', []), # "b[u]ild"
     ('w', []), # "s[w]ord"
