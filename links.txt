@@ -652,7 +652,7 @@ b á   k g r aw n d
 b a c k w ar d s
 b á   k w ə  d z
 
-b a c t er   i  a
+b a c t e  r i  a
 b a k t ɪ́ː r ɪj ə
 
 b a d
@@ -1927,7 +1927,7 @@ k r ɪ́ m ɪ n ə l
 c r i  s i s
 k r ɑ́j s ɪ s
 
-c r i  t er   i  o n
+c r i  t e  r i  o n
 k r ɑj t ɪ́ː r ɪj ə n
 
 c r i t i c
@@ -2734,8 +2734,8 @@ e n g  i n e
 e n g  i n eer
 ɛ́ n dʒ ɪ n ɪ́ː
 
-e n g  i n eer   i ng
-ɛ́ n dʒ ɪ n ɪ́ː  r ɪ ŋ
+e n g  i n ee r i ng
+ɛ́ n dʒ ɪ n ɪ́ː r ɪ ŋ
 
 e n h a  n c e
 ɪ n h ɑ́ː n s
@@ -2959,10 +2959,10 @@ e x - p e n s e
 e x - p e n s i v e
 ɪ k s p ɛ́ n s ɪ v
 
-e x - p er   i  e n c e
+e x - p e  r i  e n c e
 ɪ k s p ɪ́ː r ɪj ə n s
 
-e x - p er   i  e n c e d
+e x - p e  r i  e n c e d
 ɪ k s p ɪ́ː r ɪj ə n s   t
 
 e x - p e r i m e n t
@@ -3841,7 +3841,7 @@ h ə́ː
 h er e
 h ɪ́ː
 
-h er   o
+h e  r o
 h ɪ́ː r əw
 
 h er s

@@ -182,6 +182,9 @@ PAIRS = [
     ('ur', [Sound('əː')]),
     ('ur', [Sound('ɵː')]), # "sec[ur]e"
 
+    ('e', [Sound('ɪː')]),
+    ('ee', [Sound('ɪː')]),
+
     # Silent letters
     ('a', []), # "basic[a]lly"
     ('b', []), # "bom[b]"
