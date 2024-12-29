@@ -135,7 +135,6 @@ PAIRS = [
     ('u', [Sound('ɛ')], 1), # "b[u]ry"; not "g[u]ess"
     ('u', [Sound('ɪ')], 1), # "b[u]sy"; not "b[u]ild"
     ('u', [Sound('ɵ')]),
-    ('u', [Sound('ɵː')]), # "d[u]ring"
     ('u', [Sound('ʉw')]),
     ('u', [Sound('ʌ')]),
     ('ue', [Sound('ʉw')]),
@@ -184,6 +183,7 @@ PAIRS = [
 
     ('e', [Sound('ɪː')]),
     ('ee', [Sound('ɪː')]),
+    ('u', [Sound('ɵː')]),
 
     # Silent letters
     ('a', []), # "basic[a]lly"
