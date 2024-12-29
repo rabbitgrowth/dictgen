@@ -192,7 +192,7 @@ PAIRS = [
     ('a', []), # "basic[a]lly"
     ('b', []), # "bom[b]"
     ('c', []), # "ba[c]k"
-    ('d', []), # "gran[d]father"
+    ('d', []), # "san[d]wich"
     ('e', []), # "fac[e]"
     ('g', []), # "si[g]n"
     ('h', []), # "[h]our"
