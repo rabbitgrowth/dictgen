@@ -177,6 +177,7 @@ PAIRS = [
     ('or', []), # "comf[or]table"
     ('our', [Sound('oː')]),
     ('our', [Sound('ə')]),
+    ('our', [Sound('əː')]),
     ('rr', [Sound('r')]),
     ('ur', [Sound('oː')]), # "c[ur]e"
     ('ur', [Sound('ə')]),
