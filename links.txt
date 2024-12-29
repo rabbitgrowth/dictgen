@@ -784,8 +784,8 @@ b ə g ɪ́ n  ɪ ŋ
 b e h a  v e
 b ə h ɛ́j v
 
-b e h a  v i o ur
-b ə h ɛ́j v j   ə
+b e h a  v i our
+b ə h ɛ́j v j ə
 
 b e h i  n d
 b ə h ɑ́j n d
@@ -940,7 +940,7 @@ b óː d ə
 b or e d
 b óː   d
 
-b or   i ng
+b o  r i ng
 b óː r ɪ ŋ
 
 b or n
@@ -1504,11 +1504,11 @@ k ə l  ɛ́ k ʃ  ə n
 c o ll e g  e
 k ɔ́ l  ɪ dʒ
 
-c o l o ur
-k ʌ́ l   ə
+c o l our
+k ʌ́ l ə
 
-c o l o ur e d
-k ʌ́ l   ə    d
+c o l our e d
+k ʌ́ l ə     d
 
 c o l u m n
 k ɔ́ l ə m
@@ -1972,8 +1972,8 @@ k ʌ́ l tʃ ə
 c u p
 k ʌ́ p
 
-c u p b o ar d
-k ʌ́   b   ə  d
+c u p b oar d
+k ʌ́   b ə   d
 
 c   ur e
 k j óː
@@ -3118,8 +3118,8 @@ f ɑ́ː ð  ə
 f au l t
 f ɔ́  l t
 
-f a  v o ur
-f ɛ́j v   ə
+f a  v our
+f ɛ́j v ə
 
 f a  v o u r i t e
 f ɛ́j v     r ɪ t
@@ -3934,8 +3934,8 @@ h ə́w m   w əː k
 h o n e s t
   ɔ́ n ɪ s t
 
-h o n o ur
-  ɔ́ n   ə
+h o n our
+  ɔ́ n ə
 
 h o  p e
 h ə́w p
@@ -3991,8 +3991,8 @@ h j ʉ́w m ə n
 h   u  m o r ou s
 h j ʉ́w m ə r ə  s
 
-h   u  m o ur
-h j ʉ́w m   ə
+h   u  m our
+h j ʉ́w m ə
 
 h u n d r e d
 h ʌ́ n d r ə d
@@ -4282,7 +4282,7 @@ i n s t r u c t or
 i n s t r u m e n t
 ɪ́ n s t r ə m ə n t
 
-i n s ur   a n c e
+i n s u  r a n c e
 ɪ n ʃ óː r ə n s
 
 i n t e ll i g  e n c e

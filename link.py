@@ -92,7 +92,6 @@ PAIRS = [
     ('o', [Sound('ʉw')]), # "pr[o]ve"
     ('o', [Sound('ʌ')]), # "l[o]ve"
     ('oa', [Sound('oː')]), # "br[oa]d"
-    ('oa', [Sound('ə')]), # "cupb[oa]rd"
     ('oa', [Sound('əw')]),
     ('oi', [Sound('oj')]),
     ('oo', [Sound('ɵ')]),
@@ -169,12 +168,14 @@ PAIRS = [
     ('er', [Sound('ɪː')]),
     ('ir', [Sound('əː')]),
     ('oar', [Sound('oː')]),
+    ('oar', [Sound('ə')]), # "cupb[oar]d"
     ('oor', [Sound('oː')]),
     ('or', [Sound('oː')]),
     ('or', [Sound('ə')]),
     ('or', [Sound('əː')]),
     ('or', []), # "comf[or]table"
     ('our', [Sound('oː')]),
+    ('our', [Sound('ə')]),
     ('rr', [Sound('r')]),
     ('ur', [Sound('oː')]), # "c[ur]e"
     ('ur', [Sound('ə')]),
@@ -183,6 +184,8 @@ PAIRS = [
 
     ('e', [Sound('ɪː')]),
     ('ee', [Sound('ɪː')]),
+    ('o', [Sound('oː')]),
+    ('u', [Sound('oː')]),
     ('u', [Sound('ɵː')]),
 
     # Silent letters
