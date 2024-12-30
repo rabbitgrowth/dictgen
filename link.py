@@ -22,6 +22,7 @@ PAIRS = [
     ('au', [Sound('ɔ')]), # "bec[au]se"
     ('au', [Sound('ə')]), # "bec[au]se"
     ('aw', [Sound('oː')]),
+    ('awy', [Sound('oj')]), # "l[awy]er"
     ('ay', [Sound('ɛj')]),
     ('b', [Sound('b')]),
     ('bb', [Sound('b')]),
