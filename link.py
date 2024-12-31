@@ -60,6 +60,7 @@ PAIRS = [
     ('ee', [Sound('ɪː')]),
     ('ei', [Sound('ɑj')]), # "[ei]ther"
     ('ei', [Sound('ə')]), # "for[ei]gn"
+    ('ei', [Sound('ɛ')]), # "l[ei]sure"
     ('ei', [Sound('ɛj')]), # "[ei]ght"
     ('ei', [Sound('ɪj')]),
     ('eu', [Sound('ɵː')]), # "[eu]ro"
@@ -133,6 +134,7 @@ PAIRS = [
     ('s', [Sound('s')]),
     ('s', [Sound('z')]),
     ('s', [Sound('ʃ')]), # "[s]ure"
+    ('s', [Sound('ʒ')]), # "lei[s]ure"
     ('sci', [Sound('ʃ')]), # "con[sci]ous"
     ('sh', [Sound('ʃ')]),
     ('shi', [Sound('ʃ')]), # "fa[shi]on"
