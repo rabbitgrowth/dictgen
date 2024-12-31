@@ -155,41 +155,37 @@ PAIRS = [
     ('z', [Sound('z')]),
     ('zz', [Sound('z')]),
 
-    ('air', [Sound('ɛː')]),
-    ('ar', [Sound('oː')]),
-    ('ar', [Sound('ɑː')]),
-    ('ar', [Sound('ə')]),
-    ('ar', [Sound('ɛː')]),
-    ('ear', [Sound('ɑː')]), # "h[ear]t"
-    ('ear', [Sound('əː')]),
-    ('ear', [Sound('ɛː')]),
-    ('ear', [Sound('ɪː')]),
-    ('eer', [Sound('ɪː')]),
-    ('er', [Sound('ə')]),
-    ('er', [Sound('əː')]),
-    ('er', [Sound('ɛː')]),
-    ('er', [Sound('ɪː')]),
-    ('ir', [Sound('əː')]),
-    ('oar', [Sound('oː')]),
-    ('oar', [Sound('ə')]), # "cupb[oar]d"
-    ('oor', [Sound('oː')]),
-    ('or', [Sound('oː')]),
-    ('or', [Sound('ə')]),
-    ('or', [Sound('əː')]),
-    ('or', []), # "comf[or]table"
-    ('our', [Sound('oː')]),
-    ('our', [Sound('ə')]),
-    ('our', [Sound('əː')]),
-    ('ur', [Sound('oː')]), # "c[ur]e"
-    ('ur', [Sound('ə')]),
-    ('ur', [Sound('əː')]),
-    ('ur', [Sound('ɵː')]), # "sec[ur]e"
-
-    ('e', [Sound('ɪː')]),
+    ('ai', [Sound('ɛː')]),
+    ('a', [Sound('oː')]),
+    ('a', [Sound('ɑː')]),
+    ('a', [Sound('ə')]),
+    ('a', [Sound('ɛː')]),
+    ('ea', [Sound('ɑː')]), # "h[ear]t"
+    ('ea', [Sound('əː')]),
+    ('ea', [Sound('ɛː')]),
+    ('ea', [Sound('ɪː')]),
     ('ee', [Sound('ɪː')]),
+    ('e', [Sound('ə')]),
+    ('e', [Sound('əː')]),
+    ('e', [Sound('ɛː')]),
+    ('e', [Sound('ɪː')]),
+    ('i', [Sound('əː')]),
+    ('oa', [Sound('oː')]),
+    ('oa', [Sound('ə')]), # "cupb[oar]d"
+    ('oo', [Sound('oː')]),
     ('o', [Sound('oː')]),
-    ('u', [Sound('oː')]),
-    ('u', [Sound('ɵː')]),
+    ('o', [Sound('ə')]),
+    ('o', [Sound('əː')]),
+    ('o', []), # "comf[or]table"
+    ('ou', [Sound('oː')]),
+    ('ou', [Sound('ə')]),
+    ('ou', [Sound('əː')]),
+    ('u', [Sound('oː')]), # "c[ur]e"
+    ('u', [Sound('ə')]),
+    ('u', [Sound('əː')]),
+    ('u', [Sound('ɵː')]), # "sec[ur]e"
+
+    ('r', []),
 
     # Silent letters
     ('a', []), # "basic[a]lly"
