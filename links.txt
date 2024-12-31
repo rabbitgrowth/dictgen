@@ -1369,8 +1369,8 @@ s ɪ́ g ə r ɛ́ t
 c i n e m a
 s ɪ́ n ə m ɑː
 
-c i  r c   l e
-s ə́ː   k ə l
+c i    r c l e
+s ə́ː k ə   l
 
 c i  r c u m s t a n c e
 s ə́ː   k ə m s t a n s
@@ -4659,3 +4659,126 @@ l ɛ́ m ə n
 
 l e n d
 l ɛ́ n d
+
+l e ng   th
+l ɛ́ ŋ  k θ
+
+l e ss
+l ɛ́ s
+
+l e ss o n
+l ɛ́ s  ə n
+
+l e t
+l ɛ́ t
+
+l e tt e r
+l ɛ́ t  ə
+
+l e v e l
+l ɛ́ v ə l
+
+l i  b r a r y
+l ɑ́j b r ə r ɪj
+
+l i  c e n c e
+l ɑ́j s ə n s
+
+l ie
+l ɑ́j
+
+l i  f e
+l ɑ́j f
+
+l i  f e s t y  l e
+l ɑ́j f   s t ɑj l
+
+l i f t
+l ɪ́ f t
+
+l i  g h t
+l ɑ́j     t
+
+l i  k e
+l ɑ́j k
+
+l i  k e l y
+l ɑ́j k   l ɪj
+
+l i m i t
+l ɪ́ m ɪ t
+
+l i m i t e d
+l ɪ́ m ɪ t ɪ d
+
+l i  n e
+l ɑ́j n
+
+l i n k
+l ɪ́ ŋ k
+
+l i  o n
+l ɑ́j ə n
+
+l i p
+l ɪ́ p
+
+l i q u i d
+l ɪ́ k w ɪ d
+
+l i s t
+l ɪ́ s t
+
+l i s t e n
+l ɪ́ s   ə n
+
+l i s t e n e r
+l ɪ́ s     n ə
+
+l i t e r a t  u r e
+l ɪ́ t   r ə tʃ ə
+
+l i tt   l e
+l ɪ́ t  ə l
+
+l i  v e
+l ɑ́j v
+
+l i v e
+l ɪ́ v
+
+l i  v e l y
+l ɑ́j v   l ɪj
+
+l i v i ng
+l ɪ́ v ɪ ŋ
+
+l oa d
+l ə́w d
+
+l oa n
+l ə́w n
+
+l o  c a l
+l ə́w k ə l
+
+l o  c a  t e
+l əw k ɛ́j t
+
+l o  c a  t e d
+l əw k ɛ́j t ɪ d
+
+l o  c a  ti o n
+l əw k ɛ́j ʃ  ə n
+
+l o c k
+l ɔ́   k
+
+l o g  i c a l
+l ɔ́ dʒ ɪ k ə l
+
+l o  n e l y
+l ə́w n   l ɪj
+
+l o ng
+l ɔ́ ŋ
