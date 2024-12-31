@@ -114,6 +114,7 @@ PAIRS = [
     ('q', [Sound('k')]),
     ('r', [Sound('r')]),
     ('r', [Sound('ə')]),
+    ('rr', [Sound('r')]),
     ('s', [Sound('s')]),
     ('s', [Sound('z')]),
     ('s', [Sound('ʃ')]), # "[s]ure"
@@ -179,7 +180,6 @@ PAIRS = [
     ('our', [Sound('oː')]),
     ('our', [Sound('ə')]),
     ('our', [Sound('əː')]),
-    ('rr', [Sound('r')]),
     ('ur', [Sound('oː')]), # "c[ur]e"
     ('ur', [Sound('ə')]),
     ('ur', [Sound('əː')]),
