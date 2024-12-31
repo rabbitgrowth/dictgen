@@ -198,7 +198,7 @@ PAIRS = [
     # Unspelled sounds
     ('', [Sound('.')]),
     ('', [Sound('j')]), # "b[]eauty"
-    ('', [Sound('k')]), # "leng[]th"
+    ('', [Sound('k')], 2), # "leng[]th"; not "ci[]rcle"
     ('', [Sound('r')]), # "draw[]ing"
     ('', [Sound('ə')]), # "simp[]le"
 ]
