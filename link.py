@@ -7,15 +7,19 @@ PAIRS = [
     ('a', [Sound('a')]),
     ('a', [Sound('oː')], 1), # "[a]ll"; not "extr[a]ordinary"
     ('a', [Sound('ɑː')]),
+    ('a', [Sound('ɑː')]),
     ('a', [Sound('ɔ')]), # "[a]lter"
+    ('a', [Sound('ə')]),
     ('a', [Sound('ə')]),
     ('a', [Sound('ɛ')]), # "[a]ny"
     ('a', [Sound('ɛj')]),
+    ('a', [Sound('ɛː')]),
     ('a', [Sound('ɛː')]), # "[a]rea"
     ('a', [Sound('ɪ')]),
     ('ai', [Sound('ə')]), # "cert[ai]n"
     ('ai', [Sound('ɛ')]), # "ag[ai]n"
     ('ai', [Sound('ɛj')]),
+    ('ai', [Sound('ɛː')]),
     ('ai', [Sound('ɪ')]), # "capt[ai]n"
     ('au', [Sound('oː')]),
     ('au', [Sound('ɑː')]),
@@ -41,15 +45,24 @@ PAIRS = [
     ('dg', [Sound('dʒ')]),
     ('e', [Sound('ɔ')], 1), # "g[e]nre"; not "g[e]ography"
     ('e', [Sound('ə')]),
+    ('e', [Sound('ə')]),
+    ('e', [Sound('əː')]),
     ('e', [Sound('ɛ')]),
+    ('e', [Sound('ɛː')]),
     ('e', [Sound('ɪ')]),
     ('e', [Sound('ɪj')]),
+    ('e', [Sound('ɪː')]),
+    ('ea', [Sound('ɑː')]), # "h[ea]rt"
+    ('ea', [Sound('əː')]),
     ('ea', [Sound('ɛ')]),
     ('ea', [Sound('ɛj')]), # "gr[ea]t"
+    ('ea', [Sound('ɛː')]),
     ('ea', [Sound('ɪj')]),
+    ('ea', [Sound('ɪː')]),
     ('ea', [Sound('ɪː')]), # "id[ea]"
     ('eau', [Sound('ʉw')]), # "b[eau]ty"
     ('ee', [Sound('ɪj')]),
+    ('ee', [Sound('ɪː')]),
     ('ei', [Sound('ɑj')]), # "[ei]ther"
     ('ei', [Sound('ə')]), # "for[ei]gn"
     ('ei', [Sound('ɛj')]), # "[ei]ght"
@@ -70,6 +83,7 @@ PAIRS = [
     ('i', [Sound('j')]), # "bill[i]on"
     ('i', [Sound('ɑj')]),
     ('i', [Sound('ə')]),
+    ('i', [Sound('əː')]),
     ('i', [Sound('ɪ')]),
     ('i', [Sound('ɪj')]),
     ('ie', [Sound('ɑj')]),
@@ -86,21 +100,30 @@ PAIRS = [
     ('n', [Sound('ŋ')]), # "ba[n]k"
     ('ng', [Sound('ŋ')]),
     ('nn', [Sound('n')]),
+    ('o', [Sound('oː')]),
     ('o', [Sound('w'), Sound('ʌ')]), # "[o]ne"
     ('o', [Sound('ɔ')]),
     ('o', [Sound('ə')]),
+    ('o', [Sound('ə')]),
     ('o', [Sound('əw')]),
+    ('o', [Sound('əː')]),
     ('o', [Sound('ʉw')]), # "pr[o]ve"
     ('o', [Sound('ʌ')]), # "l[o]ve"
+    ('oa', [Sound('oː')]),
     ('oa', [Sound('oː')]), # "br[oa]d"
+    ('oa', [Sound('ə')]), # "cupb[oa]rd"
     ('oa', [Sound('əw')]),
     ('oi', [Sound('oj')]),
+    ('oo', [Sound('oː')]),
     ('oo', [Sound('ɵ')]),
     ('oo', [Sound('ʉw')]),
     ('oo', [Sound('ʌ')]),
     ('ou', [Sound('aw')]),
+    ('ou', [Sound('oː')]),
+    ('ou', [Sound('ə')]),
     ('ou', [Sound('ə')]), # "fam[ou]s"
     ('ou', [Sound('əw')]), # "s[ou]l"
+    ('ou', [Sound('əː')]),
     ('ou', [Sound('ɵ')]), # "sh[ou]ld"
     ('ou', [Sound('ʉw')]), # "gr[ou]p"
     ('ou', [Sound('ʌ')]), # "en[ou]gh"
@@ -132,11 +155,15 @@ PAIRS = [
     ('th', [Sound('θ')]),
     ('ti', [Sound('ʃ')]), # "ac[ti]on"
     ('tt', [Sound('t')]),
+    ('u', [Sound('oː')]), # "c[u]re"
     ('u', [Sound('w')]),
     ('u', [Sound('ə')]),
+    ('u', [Sound('ə')]),
+    ('u', [Sound('əː')]),
     ('u', [Sound('ɛ')], 1), # "b[u]ry"; not "g[u]ess"
     ('u', [Sound('ɪ')], 1), # "b[u]sy"; not "b[u]ild"
     ('u', [Sound('ɵ')]),
+    ('u', [Sound('ɵː')]), # "sec[u]re"
     ('u', [Sound('ʉw')]),
     ('u', [Sound('ʌ')]),
     ('ue', [Sound('ʉw')]),
@@ -155,37 +182,6 @@ PAIRS = [
     ('z', [Sound('z')]),
     ('zz', [Sound('z')]),
 
-    ('ai', [Sound('ɛː')]),
-    ('a', [Sound('ɑː')]),
-    ('a', [Sound('ə')]),
-    ('a', [Sound('ɛː')]),
-    ('ea', [Sound('ɑː')]), # "h[ear]t"
-    ('ea', [Sound('əː')]),
-    ('ea', [Sound('ɛː')]),
-    ('ea', [Sound('ɪː')]),
-    ('ee', [Sound('ɪː')]),
-    ('e', [Sound('ə')]),
-    ('e', [Sound('əː')]),
-    ('e', [Sound('ɛː')]),
-    ('e', [Sound('ɪː')]),
-    ('i', [Sound('əː')]),
-    ('oa', [Sound('oː')]),
-    ('oa', [Sound('ə')]), # "cupb[oar]d"
-    ('oo', [Sound('oː')]),
-    ('o', [Sound('oː')]),
-    ('o', [Sound('ə')]),
-    ('o', [Sound('əː')]),
-    ('o', []), # "comf[or]table"
-    ('ou', [Sound('oː')]),
-    ('ou', [Sound('ə')]),
-    ('ou', [Sound('əː')]),
-    ('u', [Sound('oː')]), # "c[ur]e"
-    ('u', [Sound('ə')]),
-    ('u', [Sound('əː')]),
-    ('u', [Sound('ɵː')]), # "sec[ur]e"
-
-    ('r', []),
-
     # Silent letters
     ('a', []), # "basic[a]lly"
     ('b', []), # "bom[b]"
@@ -200,6 +196,7 @@ PAIRS = [
     ('n', []), # "autum[n]"
     ('o', []), # "choc[o]late"
     ('p', []), # "cu[p]board"
+    ('r', []), # "pa[r]t"
     ('s', []), # "i[s]land"
     ('t', []), # "cas[t]le"
     ('u', []), # "b[u]ild"
