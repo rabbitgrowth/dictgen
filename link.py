@@ -217,7 +217,7 @@ def link(word, ipa):
     pron = parse_ipa(ipa)
     pairs = get_best_pairs(word, pron)
     if pairs is None:
-        raise ValueError(f'Failed to link "{word}" to "{ipa}"')
+        raise ValueError(f'Failed to link <{word}> to /{ipa}/')
     for spell, sounds in pairs:
         if not sounds:
             yield Sound('', stressed=False, spelled=spell, cont=False)
