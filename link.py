@@ -7,9 +7,7 @@ PAIRS = [
     ('a', [Sound('a')]),
     ('a', [Sound('oː')], 1), # "[a]ll"; not "extr[a]ordinary"
     ('a', [Sound('ɑː')]),
-    ('a', [Sound('ɑː')]),
     ('a', [Sound('ɔ')]), # "[a]lter"
-    ('a', [Sound('ə')]),
     ('a', [Sound('ə')]),
     ('a', [Sound('ɛ')]), # "[a]ny"
     ('a', [Sound('ɛj')]),
@@ -44,7 +42,6 @@ PAIRS = [
     ('dd', [Sound('d')]),
     ('dg', [Sound('dʒ')]),
     ('e', [Sound('ɔ')], 1), # "g[e]nre"; not "g[e]ography"
-    ('e', [Sound('ə')]),
     ('e', [Sound('ə')]),
     ('e', [Sound('əː')]),
     ('e', [Sound('ɛ')]),
@@ -104,7 +101,6 @@ PAIRS = [
     ('o', [Sound('w'), Sound('ʌ')]), # "[o]ne"
     ('o', [Sound('ɔ')]),
     ('o', [Sound('ə')]),
-    ('o', [Sound('ə')]),
     ('o', [Sound('əw')]),
     ('o', [Sound('əː')]),
     ('o', [Sound('ʉw')]), # "pr[o]ve"
@@ -157,7 +153,6 @@ PAIRS = [
     ('tt', [Sound('t')]),
     ('u', [Sound('oː')]), # "c[u]re"
     ('u', [Sound('w')]),
-    ('u', [Sound('ə')]),
     ('u', [Sound('ə')]),
     ('u', [Sound('əː')]),
     ('u', [Sound('ɛ')], 1), # "b[u]ry"; not "g[u]ess"
