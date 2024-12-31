@@ -11,8 +11,7 @@ PAIRS = [
     ('a', [Sound('ə')]),
     ('a', [Sound('ɛ')]), # "[a]ny"
     ('a', [Sound('ɛj')]),
-    ('a', [Sound('ɛː')]),
-    ('a', [Sound('ɛː')]), # "[a]rea"
+    ('a', [Sound('ɛː')]), # "[a]rea", "aw[a]re"
     ('a', [Sound('ɪ')]),
     ('ai', [Sound('ə')]), # "cert[ai]n"
     ('ai', [Sound('ɛ')]), # "ag[ai]n"
@@ -55,8 +54,7 @@ PAIRS = [
     ('ea', [Sound('ɛj')]), # "gr[ea]t"
     ('ea', [Sound('ɛː')]),
     ('ea', [Sound('ɪj')]),
-    ('ea', [Sound('ɪː')]),
-    ('ea', [Sound('ɪː')]), # "id[ea]"
+    ('ea', [Sound('ɪː')]), # "id[ea]", "d[ea]r"
     ('eau', [Sound('ʉw')]), # "b[eau]ty"
     ('ee', [Sound('ɪj')]),
     ('ee', [Sound('ɪː')]),
@@ -105,8 +103,7 @@ PAIRS = [
     ('o', [Sound('əː')]), # "w[o]rse"
     ('o', [Sound('ʉw')]), # "pr[o]ve"
     ('o', [Sound('ʌ')]), # "l[o]ve"
-    ('oa', [Sound('oː')]),
-    ('oa', [Sound('oː')]), # "br[oa]d"
+    ('oa', [Sound('oː')]), # "br[oa]d", "b[oa]rd"
     ('oa', [Sound('ə')]), # "cupb[oa]rd"
     ('oa', [Sound('əw')]),
     ('oi', [Sound('oj')]),
@@ -116,8 +113,7 @@ PAIRS = [
     ('oo', [Sound('ʌ')]), # "bl[oo]d"
     ('ou', [Sound('aw')]),
     ('ou', [Sound('oː')]), # "f[ou]r"
-    ('ou', [Sound('ə')]),
-    ('ou', [Sound('ə')]), # "fam[ou]s"
+    ('ou', [Sound('ə')]), # "fam[ou]s", "fav[ou]r"
     ('ou', [Sound('əw')]), # "s[ou]l"
     ('ou', [Sound('əː')]), # "j[ou]rney"
     ('ou', [Sound('ɵ')]), # "sh[ou]ld"
