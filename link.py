@@ -156,7 +156,6 @@ PAIRS = [
     ('zz', [Sound('z')]),
 
     ('ai', [Sound('ɛː')]),
-    ('a', [Sound('oː')]),
     ('a', [Sound('ɑː')]),
     ('a', [Sound('ə')]),
     ('a', [Sound('ɛː')]),
