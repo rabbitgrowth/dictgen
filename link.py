@@ -214,8 +214,11 @@ for spell, *args in PAIRS:
         sounds, rarity = args
     TRIE.insert(spell, (sounds, rarity))
 
+def parse_ipa(ipa):
+    return list(map(Sound.from_ipa, ipa.split()))
+
 def link(word, ipa):
-    pron = list(map(Sound.from_ipa, ipa.split()))
+    pron = parse_ipa(ipa)
     pairs = get_best_pairs(word, pron)
     if pairs is None:
         raise ValueError(f'Failed to link "{word}" to "{ipa}"')
