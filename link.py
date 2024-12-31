@@ -43,14 +43,14 @@ PAIRS = [
     ('dg', [Sound('dʒ')]),
     ('e', [Sound('ɔ')], 1), # "g[e]nre"; not "g[e]ography"
     ('e', [Sound('ə')]),
-    ('e', [Sound('əː')]),
+    ('e', [Sound('əː')]), # "conc[e]rn"
     ('e', [Sound('ɛ')]),
     ('e', [Sound('ɛː')]),
     ('e', [Sound('ɪ')]),
     ('e', [Sound('ɪj')]),
     ('e', [Sound('ɪː')]),
     ('ea', [Sound('ɑː')]), # "h[ea]rt"
-    ('ea', [Sound('əː')]),
+    ('ea', [Sound('əː')]), # "[ea]rn"
     ('ea', [Sound('ɛ')]),
     ('ea', [Sound('ɛj')]), # "gr[ea]t"
     ('ea', [Sound('ɛː')]),
@@ -80,7 +80,7 @@ PAIRS = [
     ('i', [Sound('j')]), # "bill[i]on"
     ('i', [Sound('ɑj')]),
     ('i', [Sound('ə')]),
-    ('i', [Sound('əː')]),
+    ('i', [Sound('əː')]), # "b[i]rd"
     ('i', [Sound('ɪ')]),
     ('i', [Sound('ɪj')]),
     ('ie', [Sound('ɑj')]),
@@ -97,12 +97,12 @@ PAIRS = [
     ('n', [Sound('ŋ')]), # "ba[n]k"
     ('ng', [Sound('ŋ')]),
     ('nn', [Sound('n')]),
-    ('o', [Sound('oː')]),
+    ('o', [Sound('oː')]), # "b[o]rn"
     ('o', [Sound('w'), Sound('ʌ')]), # "[o]ne"
     ('o', [Sound('ɔ')]),
     ('o', [Sound('ə')]),
     ('o', [Sound('əw')]),
-    ('o', [Sound('əː')]),
+    ('o', [Sound('əː')]), # "w[o]rse"
     ('o', [Sound('ʉw')]), # "pr[o]ve"
     ('o', [Sound('ʌ')]), # "l[o]ve"
     ('oa', [Sound('oː')]),
@@ -110,16 +110,16 @@ PAIRS = [
     ('oa', [Sound('ə')]), # "cupb[oa]rd"
     ('oa', [Sound('əw')]),
     ('oi', [Sound('oj')]),
-    ('oo', [Sound('oː')]),
-    ('oo', [Sound('ɵ')]),
+    ('oo', [Sound('oː')]), # "d[oo]r"
+    ('oo', [Sound('ɵ')]), # "f[oo]t"
     ('oo', [Sound('ʉw')]),
-    ('oo', [Sound('ʌ')]),
+    ('oo', [Sound('ʌ')]), # "bl[oo]d"
     ('ou', [Sound('aw')]),
-    ('ou', [Sound('oː')]),
+    ('ou', [Sound('oː')]), # "f[ou]r"
     ('ou', [Sound('ə')]),
     ('ou', [Sound('ə')]), # "fam[ou]s"
     ('ou', [Sound('əw')]), # "s[ou]l"
-    ('ou', [Sound('əː')]),
+    ('ou', [Sound('əː')]), # "j[ou]rney"
     ('ou', [Sound('ɵ')]), # "sh[ou]ld"
     ('ou', [Sound('ʉw')]), # "gr[ou]p"
     ('ou', [Sound('ʌ')]), # "en[ou]gh"
@@ -154,7 +154,7 @@ PAIRS = [
     ('u', [Sound('oː')]), # "c[u]re"
     ('u', [Sound('w')]),
     ('u', [Sound('ə')]),
-    ('u', [Sound('əː')]),
+    ('u', [Sound('əː')]), # "t[u]rn"
     ('u', [Sound('ɛ')], 1), # "b[u]ry"; not "g[u]ess"
     ('u', [Sound('ɪ')], 1), # "b[u]sy"; not "b[u]ild"
     ('u', [Sound('ɵ')]),
