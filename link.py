@@ -202,12 +202,12 @@ PAIRS = [
 
 TRIE = Trie()
 
-for spell, *args in PAIRS:
-    if len(args) == 1:
-        sounds, = args
+for spell, *items in PAIRS:
+    if len(items) == 1:
+        sounds, = items
         rarity = 0
     else:
-        sounds, rarity = args
+        sounds, rarity = items
     TRIE.insert(spell, (sounds, rarity))
 
 def parse_ipa(ipa):
