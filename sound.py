@@ -7,8 +7,8 @@ from chords import MID_CHORDS
 @dataclass
 class Sound:
     ipa:      Optional[Union[str, Set[str]]] = None
-    stressed: Optional[bool]                 = None
     spelled:  Optional[Union[str, Set[str]]] = None
+    stressed: Optional[bool]                 = None
     cont:     Optional[bool]                 = None
 
     @classmethod
@@ -20,7 +20,7 @@ class Sound:
             stressed = bool(stress)
         else:
             stressed = False
-        return cls(ipa, stressed)
+        return cls(ipa, stressed=stressed)
 
     def is_vowel(self):
         assert self.ipa is not None
