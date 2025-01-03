@@ -27,9 +27,10 @@ PATTERNS = [
     [('ay', [Sound('ɛj')])],
     [('b', [Sound('b')])],
     [('bb', [Sound('b')])],
-    [('c', [Sound('k')])], # "be[c]ome"; not "ba[c]k"
+    [('c', [Sound('k')])],
     [('c', [Sound('s')])],
     [('c', [Sound('ʃ')])], # "appre[c]iate"
+    [('c', []), ('k', [Sound('k')])],
     [('cc', [Sound('k')])],
     [('ch', [Sound('k')])],
     [('ch', [Sound('tʃ')])],
