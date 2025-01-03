@@ -159,6 +159,7 @@ PATTERNS = [
     [('w', [Sound('w')])],
     [('x', [Sound('g'), Sound('z')])], # "e[x]act"
     [('x', [Sound('k'), Sound('s')])],
+    [('x', [Sound('k'), Sound('ʃ')])], # "lu[x]ury"
     [('xi', [Sound('k'), Sound('ʃ')])], # "an[xi]ous"
     [('y', [Sound('j')])],
     [('y', [Sound('ɑj')])],
