@@ -866,7 +866,7 @@ b i  r th d ay
 b ə́ː   θ  d ɛj
 
 b i s c u i t
-b ɪ́ s k ɪ   t
+b ɪ́ s k   ɪ t
 
 b i t
 b ɪ́ t
@@ -1052,10 +1052,10 @@ b u dg e t
 b ʌ́ dʒ ɪ t
 
 b u i l d
-b ɪ́   l d
+b   ɪ́ l d
 
 b u i l d i ng
-b ɪ́   l d ɪ ŋ
+b   ɪ́ l d ɪ ŋ
 
 b u ll e t
 b ɵ́ l  ɪ t
@@ -3698,10 +3698,10 @@ g u i  d e
 g   ɑ́j d
 
 g u i l t y
-g ɪ́   l t ɪj
+g   ɪ́ l t ɪj
 
 g u i t a  r
-g ɪ   t ɑ́ː
+g   ɪ t ɑ́ː
 
 g u n
 g ʌ́ n

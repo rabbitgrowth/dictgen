@@ -155,11 +155,12 @@ PATTERNS = [
     [('u', [Sound('ə')])],
     [('u', [Sound('əː')])], # "t[u]rn"
     [('u', [Sound('ɛ')])], # "b[u]ry"; not "g[u]ess"
-    [('u', [Sound('ɪ')])], # "b[u]sy"; not "b[u]ild"
+    [('u', [Sound('ɪ')])], # "b[u]sy"
     [('u', [Sound('ɵ')])],
     [('u', [Sound('ɵː')])], # "sec[u]re"
     [('u', [Sound('ʉw')])],
     [('u', [Sound('ʌ')])],
+    [('u', []), ('i', [Sound('ɪ')])], # not "b[u]ild"
     [('ue', [Sound('ʉw')])],
     [('ui', [Sound('ʉw')])], # "fr[ui]t"
     [('v', [Sound('v')])],
