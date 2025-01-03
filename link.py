@@ -160,7 +160,7 @@ PATTERNS = [
     [('u', [Sound('ɵː')])], # "sec[u]re"
     [('u', [Sound('ʉw')])],
     [('u', [Sound('ʌ')])],
-    [('u', []), ('i', [Sound('ɪ')])], # not "b[u]ild"
+    [('u', []), ('i', [Sound('ɪ')])], # "b[ui]ld"
     [('ue', [Sound('ʉw')])],
     [('ui', [Sound('ʉw')])], # "fr[ui]t"
     [('v', [Sound('v')])],
