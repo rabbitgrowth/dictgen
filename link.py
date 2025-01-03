@@ -5,7 +5,6 @@ from trie import Trie
 
 PATTERNS = [
     [('a', [Sound('a')])],
-    [('a', [Sound('oː')])], # "[a]ll"; not "extr[a]ordinary"
     [('a', [Sound('ɑː')])],
     [('a', [Sound('ɔ')])], # "[a]lter"
     [('a', [Sound('ə')])],
@@ -172,6 +171,9 @@ PATTERNS = [
     [('y', [Sound('ɪj')])],
     [('z', [Sound('z')])],
     [('zz', [Sound('z')])],
+
+    [('a', [Sound('oː')])], # "[a]ll"
+    [('a', []), ('o', [Sound('oː')])], # "extr[ao]rdinary"
 
     [('c', [Sound('k')])],
     [('c', []), ('k', [Sound('k')])],
