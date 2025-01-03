@@ -175,8 +175,8 @@ PATTERNS = [
     [('a', [Sound('oː')])], # "[a]ll"
     [('a', []), ('o', [Sound('oː')])], # "extr[ao]rdinary"
 
-    [('c', [Sound('k')])],
-    [('c', []), ('k', [Sound('k')])],
+    [('c', [Sound('k')])], # "be[c]ome"
+    [('c', []), ('k', [Sound('k')])], # "ba[ck]"
 
     [('u', [Sound('ɪ')])], # "b[u]sy"
     [('u', []), ('i', [Sound('ɪ')])], # "b[ui]ld"
