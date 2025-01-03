@@ -253,7 +253,7 @@ def match(word, pron, pairs, pattern):
         word_tail = word[ len(spell ):]
         pron_head = pron[:len(sounds) ]
         pron_tail = pron[ len(sounds):]
-        if spell != word_head.lower() or sounds != pron_head:
+        if sounds != pron_head:
             return None
         matched.append((word_head, pron_head))
         word = word_tail
