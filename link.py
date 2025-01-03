@@ -232,7 +232,6 @@ def link(word, ipa):
                 sound.cont = True
             yield sound
 
-
 def pair(word, pron):
     count = 0
     queue = [(0, 0, word, pron, [])]
