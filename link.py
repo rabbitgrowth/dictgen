@@ -79,6 +79,7 @@ PATTERNS = [
     [('i', [Sound('əː')])], # "b[i]rd"
     [('i', [Sound('ɪ')])],
     [('i', [Sound('ɪj')])],
+    [('ia', [Sound('ɪ')])], # "marr[ia]ge"
     [('ie', [Sound('ɑj')])],
     [('ie', [Sound('ɛ')])], # "fr[ie]nd"
     [('j', [Sound('dʒ')])],
