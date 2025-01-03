@@ -66,6 +66,7 @@ PATTERNS = [
     [('ey', [Sound('ɛj')])], # "gr[ey]"
     [('ey', [Sound('ɪj')])],
     [('f', [Sound('f')])],
+    [('f', [Sound('v')])], # "o[f]"
     [('ff', [Sound('f')])],
     [('g', [Sound('dʒ')])],
     [('g', [Sound('g')])],
