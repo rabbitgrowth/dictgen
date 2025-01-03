@@ -38,7 +38,6 @@ PATTERNS = [
     [('d', [Sound('t')])], # "face[d]"
     [('dd', [Sound('d')])],
     [('dg', [Sound('dʒ')])],
-    [('e', [Sound('ɔ')])], # "g[e]nre"; not "g[e]ography"
     [('e', [Sound('ə')])],
     [('e', [Sound('əː')])], # "conc[e]rn"
     [('e', [Sound('ɛ')])],
@@ -177,6 +176,9 @@ PATTERNS = [
 
     [('c', [Sound('k')])], # "be[c]ome"
     [('c', []), ('k', [Sound('k')])], # "ba[ck]"
+
+    [('e', [Sound('ɔ')])], # "g[e]nre"
+    [('e', []), ('o', [Sound('ɔ')])], # "g[eo]graphy"
 
     [('u', [Sound('ɪ')])], # "b[u]sy"
     [('u', []), ('i', [Sound('ɪ')])], # "b[ui]ld"
