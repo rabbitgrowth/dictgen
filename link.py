@@ -81,7 +81,6 @@ PATTERNS = [
     [('i', [Sound('ɪj')])],
     [('ie', [Sound('ɑj')])],
     [('ie', [Sound('ɛ')])], # "fr[ie]nd"
-    [('ie', [Sound('ɪj')])],
     [('j', [Sound('dʒ')])],
     [('k', [Sound('k')])],
     [('kk', [Sound('k')])],
@@ -178,6 +177,9 @@ PATTERNS = [
 
     [('e', [Sound('ɔ')])], # "g[e]nre"
     [('e', []), ('o', [Sound('ɔ')])], # "g[eo]graphy"
+
+    [('ie', [Sound('ɪj')])], # "mov[ie]"
+    [('i', [Sound('ɪj')]), ('e', [Sound('ə')]), ('r', [])], # "earl[ier]"
 
     [('u', [Sound('ɛ')])], # "b[u]ry"
     [('u', []), ('e', [Sound('ɛ')])], # "g[ue]ss"
