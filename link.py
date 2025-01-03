@@ -240,7 +240,7 @@ def pair(word, pron):
         score, _, word, pron, pairs = heappop(queue)
         if not word and not pron:
             return pairs
-        for patterns in reversed(list(TRIE.lookup(word))):
+        for patterns in reversed(list(TRIE.lookup(word.lower()))):
             for pattern, penalty in patterns:
                 count += 1
                 result = match(word, pron, pairs, pattern)
@@ -254,7 +254,7 @@ def match(word, pron, pairs, pattern):
         word_tail = word[ len(spell ):]
         pron_head = pron[:len(sounds) ]
         pron_tail = pron[ len(sounds):]
-        if spell != word_head or sounds != pron_head:
+        if spell != word_head.lower() or sounds != pron_head:
             return None
         matched.append((word_head, pron_head))
         word = word_tail
