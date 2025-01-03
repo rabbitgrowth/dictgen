@@ -223,16 +223,15 @@ def link(word, ipa):
         raise ValueError(f'Failed to link <{word}> to /{ipa}/')
     for spell, sounds in pairs:
         if not sounds:
-            yield Sound('', stressed=False, spelled=spell, cont=False)
-        else:
-            for i, sound in enumerate(sounds):
-                if not i:
-                    sound.spelled = spell
-                    sound.cont = False
-                else:
-                    sound.spelled = ''
-                    sound.cont = True
-                yield sound
+            sounds = [Sound.from_ipa('')]
+        for i, sound in enumerate(sounds):
+            if not i:
+                sound.spelled = spell
+                sound.cont = False
+            else:
+                sound.spelled = ''
+                sound.cont = True
+            yield sound
 
 def pair(word, pron, pairs=[], score=0, prev_unspelled=False):
     if not word and not pron:
