@@ -191,6 +191,13 @@ PATTERNS = [
 ]
 
 PENALIZED_PATTERNS = [
+    # Penalize unspelled sounds and silent letters to discourage
+    # overly "lazy" pairings:
+    # <a  r e  a> not <a  r ea  >
+    # /ɛ́ː r ɪj ə/     /ɛ́ː r ɪj ə/
+    # <a cc ou n t> not <a c c ou n t>
+    # /ə k  áw n t/     /ə k   áw n t/
+
     # Silent letters
     [('a', [])], # "basic[a]lly"
     [('b', [])], # "bom[b]"
