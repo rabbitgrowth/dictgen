@@ -112,6 +112,7 @@ PATTERNS = [
     [('oo', [Sound('ʌ')])], # "bl[oo]d"
     [('ou', [Sound('aw')])],
     [('ou', [Sound('oː')])], # "f[ou]r"
+    [('ou', [Sound('ɑː')])], # "[ou]r"
     [('ou', [Sound('ə')])], # "fam[ou]s", "fav[ou]r"
     [('ou', [Sound('əw')])], # "s[ou]l"
     [('ou', [Sound('əː')])], # "j[ou]rney"
