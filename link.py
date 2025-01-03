@@ -10,7 +10,7 @@ PATTERNS = [
     [('a', [Sound('ə')])],
     [('a', [Sound('ɛ')])], # "[a]ny"
     [('a', [Sound('ɛj')])],
-    [('a', [Sound('ɛː')])], # "[a]rea", "aw[a]re"
+    [('a', [Sound('ɛː')])], # "[a]rea"
     [('a', [Sound('ɪ')])],
     [('ai', [Sound('ə')])], # "cert[ai]n"
     [('ai', [Sound('ɛ')])], # "ag[ai]n"
