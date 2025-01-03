@@ -191,12 +191,19 @@ PATTERNS = [
 ]
 
 PENALIZED_PATTERNS = [
-    # Penalize unspelled sounds and silent letters to discourage
-    # overly "lazy" pairings:
+    # Penalize unspelled sounds and silent letters to speed things up
+    # and discourage overly "lazy" pairings:
     # <a  r e  a> not <a  r ea  >
     # /ɛ́ː r ɪj ə/     /ɛ́ː r ɪj ə/
     # <a cc ou n t> not <a c c ou n t>
     # /ə k  áw n t/     /ə k   áw n t/
+    # Actually, "account" would be correct even without the penalty
+    # because longer spellings are matched first, but it seems more
+    # robust to not rely on that.
+    # More importantly, unspelled sounds and silent letters need to be
+    # penalized by the same amount to get cases like this right:
+    # <f ai l   u r e> not <f ai l u r   e>
+    # /f ɛ́j l j ə    /     /f ɛ́j l     j ə/
 
     # Silent letters
     [('a', [])], # "basic[a]lly"
