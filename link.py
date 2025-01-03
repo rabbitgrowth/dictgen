@@ -27,10 +27,8 @@ PATTERNS = [
     [('ay', [Sound('ɛj')])],
     [('b', [Sound('b')])],
     [('bb', [Sound('b')])],
-    [('c', [Sound('k')])],
     [('c', [Sound('s')])],
     [('c', [Sound('ʃ')])], # "appre[c]iate"
-    [('c', []), ('k', [Sound('k')])],
     [('cc', [Sound('k')])],
     [('ch', [Sound('k')])],
     [('ch', [Sound('tʃ')])],
@@ -155,12 +153,10 @@ PATTERNS = [
     [('u', [Sound('ə')])],
     [('u', [Sound('əː')])], # "t[u]rn"
     [('u', [Sound('ɛ')])], # "b[u]ry"; not "g[u]ess"
-    [('u', [Sound('ɪ')])], # "b[u]sy"
     [('u', [Sound('ɵ')])],
     [('u', [Sound('ɵː')])], # "sec[u]re"
     [('u', [Sound('ʉw')])],
     [('u', [Sound('ʌ')])],
-    [('u', []), ('i', [Sound('ɪ')])], # "b[ui]ld"
     [('ue', [Sound('ʉw')])],
     [('ui', [Sound('ʉw')])], # "fr[ui]t"
     [('v', [Sound('v')])],
@@ -176,6 +172,12 @@ PATTERNS = [
     [('y', [Sound('ɪj')])],
     [('z', [Sound('z')])],
     [('zz', [Sound('z')])],
+
+    [('c', [Sound('k')])],
+    [('c', []), ('k', [Sound('k')])],
+
+    [('u', [Sound('ɪ')])], # "b[u]sy"
+    [('u', []), ('i', [Sound('ɪ')])], # "b[ui]ld"
 ]
 
 PENALIZED_PATTERNS = [
