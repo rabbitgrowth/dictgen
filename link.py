@@ -125,7 +125,6 @@ PATTERNS = [
     [('pp', [Sound('p')])],
     [('q', [Sound('k')])],
     [('r', [Sound('r')])],
-    [('r', [Sound('ə')])],
     [('rr', [Sound('r')])],
     [('s', [Sound('s')])],
     [('s', [Sound('z')])],
@@ -180,6 +179,9 @@ PATTERNS = [
 
     [('ie', [Sound('ɪj')])], # "mov[ie]"
     [('i', [Sound('ɪj')]), ('e', [Sound('ə')]), ('r', [])], # "earl[ier]"
+
+    [('r', [Sound('ə')])], # "fi[r]e"
+    [('r', []), ('o', [Sound('ə')])], # "i[ro]n"
 
     [('u', [Sound('ɛ')])], # "b[u]ry"
     [('u', []), ('e', [Sound('ɛ')])], # "g[ue]ss"
