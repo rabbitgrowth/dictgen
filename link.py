@@ -150,7 +150,6 @@ PATTERNS = [
     [('u', [Sound('w')])],
     [('u', [Sound('ə')])],
     [('u', [Sound('əː')])], # "t[u]rn"
-    [('u', [Sound('ɛ')])], # "b[u]ry"; not "g[u]ess"
     [('u', [Sound('ɵ')])],
     [('u', [Sound('ɵː')])], # "sec[u]re"
     [('u', [Sound('ʉw')])],
@@ -179,6 +178,9 @@ PATTERNS = [
 
     [('e', [Sound('ɔ')])], # "g[e]nre"
     [('e', []), ('o', [Sound('ɔ')])], # "g[eo]graphy"
+
+    [('u', [Sound('ɛ')])], # "b[u]ry"
+    [('u', []), ('e', [Sound('ɛ')])], # "g[ue]ss"
 
     [('u', [Sound('ɪ')])], # "b[u]sy"
     [('u', []), ('i', [Sound('ɪ')])], # "b[ui]ld"
