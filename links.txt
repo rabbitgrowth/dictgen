@@ -5746,8 +5746,8 @@ p ɑ́ː   k
 p a  r k i ng
 p ɑ́ː   k ɪ ŋ
 
-p a  r l i a m e n t
-p ɑ́ː   l ə   m ə n t
+p a  r l ia m e n t
+p ɑ́ː   l ə  m ə n t
 
 p a  r t
 p ɑ́ː   t
@@ -5821,14 +5821,14 @@ p ɛ́ n s ə l
 p e nn y
 p ɛ́ n  ɪj
 
-p e n s i o n
-p ɛ́ n ʃ ə   n
+p e n si o n
+p ɛ́ n ʃ  ə n
 
 p e n s i  o n
 p ɔ́ n s ɪj ɔ n
 
-p e  o p   l e
-p ɪ́j   p ə l
+p eo p   l e
+p ɪ́j p ə l
 
 p e pp e r
 p ɛ́ p  ə
@@ -6106,11 +6106,11 @@ p ə z ɪ́ ʃ  ə n
 p o s i t i v e
 p ɔ́ z ə t ɪ v
 
-p o s s e ss
-p ə z   ɛ́ s
+p o ss e ss
+p ə z  ɛ́ s
 
-p o s s e ssi o n
-p ə z   ɛ́ ʃ   ə n
+p o ss e ssi o n
+p ə z  ɛ́ ʃ   ə n
 
 p o ss i b i l i t y
 p ɔ́ s  ə b ɪ́ l ə t ɪj

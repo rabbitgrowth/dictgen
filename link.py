@@ -60,6 +60,7 @@ PATTERNS = [
     [('ei', [Sound('ɛ')])], # "l[ei]sure"
     [('ei', [Sound('ɛj')])], # "[ei]ght"
     [('ei', [Sound('ɪj')])],
+    [('eo', [Sound('ɪj')])], # "p[eo]ple"
     [('eu', [Sound('ɵː')])], # "[eu]ro"
     [('ew', [Sound('ʉw')])],
     [('ey', [Sound('ɑj')])], # "[ey]e"
@@ -80,6 +81,7 @@ PATTERNS = [
     [('i', [Sound('əː')])], # "b[i]rd"
     [('i', [Sound('ɪ')])],
     [('i', [Sound('ɪj')])],
+    [('ia', [Sound('ə')])], # "parl[ia]ment"
     [('ia', [Sound('ɪ')])], # "marr[ia]ge"
     [('ie', [Sound('ɑj')])],
     [('ie', [Sound('ɛ')])], # "fr[ie]nd"
@@ -136,8 +138,10 @@ PATTERNS = [
     [('sci', [Sound('ʃ')])], # "con[sci]ous"
     [('sh', [Sound('ʃ')])],
     [('shi', [Sound('ʃ')])], # "fa[shi]on"
+    [('si', [Sound('ʃ')])], # "pen[si]on"
     [('si', [Sound('ʒ')])],
     [('ss', [Sound('s')])],
+    [('ss', [Sound('z')])], # "po[ss]ess"
     [('ss', [Sound('ʃ')])], # "i[ss]ue"
     [('ssi', [Sound('ʃ')])],
     [('t', [Sound('t')])],
