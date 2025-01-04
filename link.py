@@ -150,6 +150,7 @@ PATTERNS = [
     [('tch', [Sound('tʃ')])],
     [('th', [Sound('ð')])],
     [('th', [Sound('θ')])],
+    [('ti', [Sound('tʃ')])], # "ques[ti]on"
     [('ti', [Sound('ʃ')])], # "ac[ti]on"
     [('tt', [Sound('t')])],
     [('u', [Sound('oː')])], # "c[u]re"
