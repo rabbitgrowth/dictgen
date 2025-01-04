@@ -6165,3 +6165,405 @@ p r ɛ́j z
 
 p r ay
 p r ɛ́j
+
+p r aye r
+p r ɛ́ː
+
+p r e d i c t
+p r ɪ d ɪ́ k t
+
+p r e d i c ti o n
+p r ɪ d ɪ́ k ʃ  ə n
+
+p r e f e  r
+p r ɪ f ə́ː
+
+p r e g n a n t
+p r ɛ́ g n ə n t
+
+p r e p a r a  ti o n
+p r ɛ́ p ə r ɛ́j ʃ  ə n
+
+p r e p a  r e
+p r ɪ p ɛ́ː
+
+p r e p a  r e d
+p r ɪ p ɛ́ː     d
+
+p r e s e n c e
+p r ɛ́ z ə n s
+
+p r e s e n t
+p r ɛ́ z ə n t
+
+p r e s e n t
+p r ɪ z ɛ́ n t
+
+p r e s e n t a  ti o n
+p r ɛ́ z ə n t ɛ́j ʃ  ə n
+
+p r e s e  r v e
+p r ɪ z ə́ː   v
+
+p r e s i d e n t
+p r ɛ́ z ɪ d ə n t
+
+p r e ss
+p r ɛ́ s
+
+p r e ss u r e
+p r ɛ́ ʃ  ə
+
+p r e t e n d
+p r ɪ t ɛ́ n d
+
+p r e tt y
+p r ɪ́ t  ɪj
+
+p r e v e n t
+p r ɪ v ɛ́ n t
+
+p r e  v i  ou s
+p r ɪ́j v ɪj ə  s
+
+p r e  v i  ou s l y
+p r ɪ́j v ɪj ə  s l ɪj
+
+p r i  c e
+p r ɑ́j s
+
+p r ie s t
+p r ɪ́j s t
+
+p r i  m a r y
+p r ɑ́j m ə r ɪj
+
+p r i  m e
+p r ɑ́j m
+
+p r i n c e
+p r ɪ́ n s
+
+p r i n c e ss
+p r ɪ́ n s ɛ́ s
+
+p r i n c i p   l e
+p r ɪ́ n s ə p ə l
+
+p r i n t
+p r ɪ́ n t
+
+p r i n t e r
+p r ɪ́ n t ə
+
+p r i n t i ng
+p r ɪ́ n t ɪ ŋ
+
+p r i  o r i t y
+p r ɑj ɔ́ r ə t ɪj
+
+p r i s o n
+p r ɪ́ z ə n
+
+p r i s o n e r
+p r ɪ́ z ə n ə
+
+p r i v a c y
+p r ɪ́ v ə s ɪj
+
+p r i  v a t e
+p r ɑ́j v ɪ t
+
+p r i  z e
+p r ɑ́j z
+
+p r o b a b l y
+p r ɔ́ b ə b l ɪj
+
+p r o b l e m
+p r ɔ́ b l ə m
+
+p r o c e  d  u r e
+p r ə s ɪ́j dʒ ə
+
+p r o c e ss
+p r ə s ɛ́ s
+
+p r o  c e ss
+p r ə́w s ɛ s
+
+p r o d  u  c e
+p r ɔ́ dʒ ʉw s
+
+p r o d  u  c e
+p r ə dʒ ʉ́w s
+
+p r o d  u  c e r
+p r ə dʒ ʉ́w s ə
+
+p r o d u c t
+p r ɔ́ d ʌ k t
+
+p r o d u c ti o n
+p r ə d ʌ́ k ʃ  ə n
+
+p r o f e ssi o n
+p r ə f ɛ́ ʃ   ə n
+
+p r o f e ssi o n a l
+p r ə f ɛ́ ʃ     n ə l
+
+p r o f e ss o r
+p r ə f ɛ́ s  ə
+
+p r o  f i  l e
+p r ə́w f ɑj l
+
+p r o f i t
+p r ɔ́ f ɪ t
+
+p r o  g r a m
+p r ə́w g r a m
+
+p r o  g r a mm e
+p r ə́w g r a m
+
+p r o g r e ss
+p r ə g r ɛ́ s
+
+p r o  g r e ss
+p r ə́w g r ɛ s
+
+p r o j  e c t
+p r ɔ́ dʒ ɛ k t
+
+p r o j  e c t
+p r ə dʒ ɛ́ k t
+
+p r o m i s e
+p r ɔ́ m ɪ s
+
+p r o m o  t e
+p r ə m ə́w t
+
+p r o n ou n c e
+p r ə n áw n s
+
+p r oo f
+p r ʉ́w f
+
+p r o p e r
+p r ɔ́ p ə
+
+p r o p e r l y
+p r ɔ́ p ə   l ɪj
+
+p r o p e r t y
+p r ɔ́ p ə   t ɪj
+
+p r o p o  s a l
+p r ə p ə́w z ə l
+
+p r o p o  s e
+p r ə p ə́w z
+
+p r o s p e c t
+p r ɔ́ s p ɛ k t
+
+p r o s p e c t
+p r ə s p ɛ́ k t
+
+p r o t e c t
+p r ə t ɛ́ k t
+
+p r o t e c ti o n
+p r ə t ɛ́ k ʃ  ə n
+
+p r o t e s t
+p r ə t ɛ́ s t
+
+p r o  t e s t
+p r ə́w t ɛ s t
+
+p r ou d
+p r áw d
+
+p r o  v e
+p r ʉ́w v
+
+p r o v i  d e
+p r ə v ɑ́j d
+
+p s y  ch o l o g  i s t
+  s ɑj k  ɔ́ l ə dʒ ɪ s t
+
+p s y  ch o l o g  y
+  s ɑj k  ɔ́ l ə dʒ ɪj
+
+p u b
+p ʌ́ b
+
+p u b l i c
+p ʌ́ b l ɪ k
+
+p u b l i c a  ti o n
+p ʌ́ b l ɪ k ɛ́j ʃ  ə n
+
+p u b l i sh
+p ʌ́ b l ɪ ʃ
+
+p u ll
+p ɵ́ l
+
+p u n i sh
+p ʌ́ n ɪ ʃ
+
+p u n i sh m e n t
+p ʌ́ n ɪ ʃ  m ə n t
+
+p   u  p i l
+p j ʉ́w p ə l
+
+p u  r ch a s e
+p ə́ː   tʃ ə s
+
+p   u  r e
+p j óː
+
+p u  r p   l e
+p ə́ː   p ə l
+
+p u  r p o s e
+p ə́ː   p ə s
+
+p u r s   ue
+p ə   s j ʉ́w
+
+p u sh
+p ɵ́ ʃ
+
+p u t
+p ɵ́ t
+
+p u t
+p ʌ́ t
+
+q u a l i f i c a  ti o n
+k w ɔ́ l ɪ f ɪ k ɛ́j ʃ  ə n
+
+q u a l i f ie d
+k w ɔ́ l ɪ f ɑj d
+
+q u a l i f y
+k w ɔ́ l ɪ f ɑj
+
+q u a l i t y
+k w ɔ́ l ə t ɪj
+
+q u a n t i t y
+k w ɔ́ n t ə t ɪj
+
+q u a  r t e r
+k w óː   t ə
+
+q u ee n
+k w ɪ́j n
+
+q u e s t  i o n
+k w ɛ́ s tʃ ə   n
+
+q   ue u e
+k j ʉ́w
+
+q u i c k
+k w ɪ́   k
+
+q u i c k l y
+k w ɪ́   k l ɪj
+
+q u i  e t
+k w ɑ́j ə t
+
+q u i  e t l y
+k w ɑ́j ə t l ɪj
+
+q u i t
+k w ɪ́ t
+
+q u i  t e
+k w ɑ́j t
+
+q u o  t a  ti o n
+k w əw t ɛ́j ʃ  ə n
+
+q u o  t e
+k w ə́w t
+
+r a  c e
+r ɛ́j s
+
+r a  c i ng
+r ɛ́j s ɪ ŋ
+
+r a  d i  o
+r ɛ́j d ɪj əw
+
+r ai l w ay
+r ɛ́j l w ɛj
+
+r ai n
+r ɛ́j n
+
+r ai s e
+r ɛ́j z
+
+r a  n g  e
+r ɛ́j n dʒ
+
+r a n k
+r á ŋ k
+
+r a p i d
+r á p ɪ d
+
+r a p i d l y
+r á p ɪ d l ɪj
+
+r a  r e
+r ɛ́ː
+
+r a  r e l y
+r ɛ́ː     l ɪj
+
+r a  t e
+r ɛ́j t
+
+r a  th e r
+r ɑ́ː ð  ə
+
+r aw
+r óː
+
+r ea ch
+r ɪ́j tʃ
+
+r e  a c t
+r ɪj á k t
+
+r e  a c ti o n
+r ɪj á k ʃ  ə n
+
+r ea d
+r ɛ́  d
+
+r ea d
+r ɪ́j d
+
+r ea d e r
+r ɪ́j d ə
+
+r ea d i ng
+r ɪ́j d ɪ ŋ
+
+r ea d y
+r ɛ́  d ɪj

@@ -24,6 +24,7 @@ PATTERNS = [
     [('aw', [Sound('oː')])],
     [('awy', [Sound('oj')])], # "l[awy]er"
     [('ay', [Sound('ɛj')])],
+    [('aye', [Sound('ɛː')])], # "pr[aye]r"
     [('b', [Sound('b')])],
     [('bb', [Sound('b')])],
     [('c', [Sound('s')])],
