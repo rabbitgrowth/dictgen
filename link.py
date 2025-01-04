@@ -33,7 +33,6 @@ PATTERNS = [
     [('ch', [Sound('k')])],
     [('ch', [Sound('tʃ')])],
     [('ch', [Sound('ʃ')])],
-    [('ci', [Sound('ʃ')])], # "spe[ci]al"
     [('d', [Sound('d')])],
     [('d', [Sound('dʒ')])], # "[d]ue"
     [('d', [Sound('t')])], # "face[d]"
@@ -136,22 +135,15 @@ PATTERNS = [
     [('s', [Sound('z')])],
     [('s', [Sound('ʃ')])], # "[s]ure"
     [('s', [Sound('ʒ')])], # "lei[s]ure"
-    [('sci', [Sound('ʃ')])], # "con[sci]ous"
     [('sh', [Sound('ʃ')])],
-    [('shi', [Sound('ʃ')])], # "fa[shi]on"
-    [('si', [Sound('ʃ')])], # "pen[si]on"
-    [('si', [Sound('ʒ')])],
     [('ss', [Sound('s')])],
     [('ss', [Sound('z')])], # "po[ss]ess"
     [('ss', [Sound('ʃ')])], # "i[ss]ue"
-    [('ssi', [Sound('ʃ')])],
     [('t', [Sound('t')])],
     [('t', [Sound('tʃ')])], # "atti[t]ude"
     [('tch', [Sound('tʃ')])],
     [('th', [Sound('ð')])],
     [('th', [Sound('θ')])],
-    [('ti', [Sound('tʃ')])], # "ques[ti]on"
-    [('ti', [Sound('ʃ')])], # "ac[ti]on"
     [('tt', [Sound('t')])],
     [('u', [Sound('oː')])], # "c[u]re"
     [('u', [Sound('w')])],
@@ -169,7 +161,6 @@ PATTERNS = [
     [('x', [Sound('g'), Sound('z')])], # "e[x]act"
     [('x', [Sound('k'), Sound('s')])],
     [('x', [Sound('k'), Sound('ʃ')])], # "lu[x]ury"
-    [('xi', [Sound('k'), Sound('ʃ')])], # "an[xi]ous"
     [('y', [Sound('j')])],
     [('y', [Sound('ɑj')])],
     [('y', [Sound('ə')])], # "anal[y]sis"
@@ -177,6 +168,16 @@ PATTERNS = [
     [('y', [Sound('ɪj')])],
     [('z', [Sound('z')])],
     [('zz', [Sound('z')])],
+
+    [('ci', [Sound('ʃ')])], # "spe[ci]al"
+    [('sci', [Sound('ʃ')])], # "con[sci]ous"
+    [('shi', [Sound('ʃ')])], # "fa[shi]on"
+    [('si', [Sound('ʃ')])], # "pen[si]on"
+    [('si', [Sound('ʒ')])], # "ver[si]on"
+    [('ssi', [Sound('ʃ')])], # "mi[ssi]on"
+    [('ti', [Sound('tʃ')])], # "ques[ti]on"
+    [('ti', [Sound('ʃ')])], # "ac[ti]on"
+    [('xi', [Sound('k'), Sound('ʃ')])], # "an[xi]ous"
 
     [('a', [Sound('oː')])], # "[a]ll"
     [('a', []), ('o', [Sound('oː')])], # "extr[ao]rdinary"
