@@ -169,6 +169,7 @@ PATTERNS = [
     [('zz', [Sound('z')])],
 
     [('ci', [Sound('ʃ')])], # "spe[ci]al"
+    [('gi', [Sound('dʒ')])], # "re[gi]on"
     [('sci', [Sound('ʃ')])], # "con[sci]ous"
     [('shi', [Sound('ʃ')])], # "fa[shi]on"
     [('si', [Sound('ʃ')])], # "pen[si]on"
@@ -220,6 +221,7 @@ PENALIZED_PATTERNS = [
 
     # Silent letters
     [('a', [])], # "basic[a]lly"
+    [('au', [])], # "rest[au]rant"
     [('b', [])], # "bom[b]"
     [('c', [])], # "ba[c]k"
     [('d', [])], # "san[d]wich"

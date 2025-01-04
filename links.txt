@@ -6661,11 +6661,11 @@ r ɪ f j ʉ́w z
 r e g a  r d
 r ɪ g ɑ́ː   d
 
-r e  g  i o n
-r ɪ́j dʒ ə   n
+r e  gi o n
+r ɪ́j dʒ ə n
 
-r e  g  i o n a l
-r ɪ́j dʒ ə   n ə l
+r e  gi o n a l
+r ɪ́j dʒ ə n ə l
 
 r e g  i s t e r
 r ɛ́ dʒ ɪ s t ə
@@ -6727,11 +6727,11 @@ r ɪ l ɑ́j ə b ə l
 r e l ie f
 r ɪ l ɪ́j f
 
-r e l i g  i o n
-r ɪ l ɪ́ dʒ ə   n
+r e l i gi o n
+r ɪ l ɪ́ dʒ ə n
 
-r e l i g  i ou s
-r ɪ l ɪ́ dʒ   ə  s
+r e l i gi ou s
+r ɪ l ɪ́ dʒ ə  s
 
 r e l y
 r ɪ l ɑ́j
@@ -6844,8 +6844,8 @@ r ɪ s p ɔ́ n s ə b ə l
 r e s t
 r ɛ́ s t
 
-r e s t a u r a n t
-r ɛ́ s t     r ɔ n t
+r e s t au r a n t
+r ɛ́ s t    r ɔ n t
 
 r e s u l t
 r ɪ z ʌ́ l t
