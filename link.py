@@ -243,7 +243,7 @@ PENALIZED_PATTERNS = [
     # Unspelled sounds
     [('', [Sound('.')])],
     [('', [Sound('j')])], # "b[]eauty"
-    [('', [Sound('k')])], # "leng[]th"; not "ci[]rcle"
+    [('', [Sound('k')])], # "leng[]th"
     [('', [Sound('r')])], # "draw[]ing"
     [('', [Sound('ə')])], # "simp[]le"
 ]
