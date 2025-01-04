@@ -24,17 +24,14 @@ PATTERNS = [
     [('aw', [Sound('oː')])],
     [('ay', [Sound('ɛj')])],
     [('b', [Sound('b')])],
-    [('bb', [Sound('b')])],
     [('c', [Sound('s')])],
     [('c', [Sound('ʃ')])], # "appre[c]iate"
-    [('cc', [Sound('k')])],
     [('ch', [Sound('k')])],
     [('ch', [Sound('tʃ')])],
     [('ch', [Sound('ʃ')])],
     [('d', [Sound('d')])],
     [('d', [Sound('dʒ')])], # "[d]ue"
     [('d', [Sound('t')])], # "face[d]"
-    [('dd', [Sound('d')])],
     [('dg', [Sound('dʒ')])],
     [('e', [Sound('ə')])],
     [('e', [Sound('əː')])], # "conc[e]rn"
@@ -66,11 +63,9 @@ PATTERNS = [
     [('ey', [Sound('ɪj')])],
     [('f', [Sound('f')])],
     [('f', [Sound('v')])], # "o[f]"
-    [('ff', [Sound('f')])],
     [('g', [Sound('dʒ')])],
     [('g', [Sound('g')])],
     [('g', [Sound('ʒ')])], # "[g]enre"
-    [('gg', [Sound('g')])],
     [('gh', [Sound('f')])],
     [('h', [Sound('h')])],
     [('i', [Sound('j')])], # "bill[i]on"
@@ -85,15 +80,11 @@ PATTERNS = [
     [('ie', [Sound('ɛ')])], # "fr[ie]nd"
     [('j', [Sound('dʒ')])],
     [('k', [Sound('k')])],
-    [('kk', [Sound('k')])],
     [('l', [Sound('l')])],
-    [('ll', [Sound('l')])],
     [('m', [Sound('m')])],
-    [('mm', [Sound('m')])],
     [('n', [Sound('n')])],
     [('n', [Sound('ŋ')])], # "ba[n]k"
     [('ng', [Sound('ŋ')])],
-    [('nn', [Sound('n')])],
     [('o', [Sound('oː')])], # "b[o]rn"
     [('o', [Sound('w'), Sound('ʌ')])], # "[o]ne"
     [('o', [Sound('ɔ')])],
@@ -125,24 +116,18 @@ PATTERNS = [
     [('oy', [Sound('oj')])],
     [('p', [Sound('p')])],
     [('ph', [Sound('f')])],
-    [('pp', [Sound('p')])],
     [('q', [Sound('k')])],
     [('r', [Sound('r')])],
-    [('rr', [Sound('r')])],
     [('s', [Sound('s')])],
     [('s', [Sound('z')])],
     [('s', [Sound('ʃ')])], # "[s]ure"
     [('s', [Sound('ʒ')])], # "lei[s]ure"
     [('sh', [Sound('ʃ')])],
-    [('ss', [Sound('s')])],
-    [('ss', [Sound('z')])], # "po[ss]ess"
-    [('ss', [Sound('ʃ')])], # "i[ss]ue"
     [('t', [Sound('t')])],
     [('t', [Sound('tʃ')])], # "atti[t]ude"
     [('tch', [Sound('tʃ')])],
     [('th', [Sound('ð')])],
     [('th', [Sound('θ')])],
-    [('tt', [Sound('t')])],
     [('u', [Sound('oː')])], # "c[u]re"
     [('u', [Sound('w')])],
     [('u', [Sound('ə')])],
@@ -154,7 +139,6 @@ PATTERNS = [
     [('ue', [Sound('ʉw')])],
     [('ui', [Sound('ʉw')])], # "fr[ui]t"
     [('v', [Sound('v')])],
-    [('vv', [Sound('v')])],
     [('w', [Sound('w')])],
     [('x', [Sound('g'), Sound('z')])], # "e[x]act"
     [('x', [Sound('k'), Sound('s')])],
@@ -165,6 +149,23 @@ PATTERNS = [
     [('y', [Sound('ɪ')])],
     [('y', [Sound('ɪj')])],
     [('z', [Sound('z')])],
+
+    [('bb', [Sound('b')])],
+    [('cc', [Sound('k')])],
+    [('dd', [Sound('d')])],
+    [('ff', [Sound('f')])],
+    [('gg', [Sound('g')])],
+    [('kk', [Sound('k')])],
+    [('ll', [Sound('l')])],
+    [('mm', [Sound('m')])],
+    [('nn', [Sound('n')])],
+    [('pp', [Sound('p')])],
+    [('rr', [Sound('r')])],
+    [('ss', [Sound('s')])],
+    [('ss', [Sound('z')])], # "po[ss]ess"
+    [('ss', [Sound('ʃ')])], # "i[ss]ue"
+    [('tt', [Sound('t')])],
+    [('vv', [Sound('v')])],
     [('zz', [Sound('z')])],
 
     [('ci', [Sound('ʃ')])], # "spe[ci]al"
