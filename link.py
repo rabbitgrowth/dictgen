@@ -22,9 +22,7 @@ PATTERNS = [
     [('au', [Sound('ɔ')])], # "bec[au]se"
     [('au', [Sound('ə')])], # "bec[au]se"
     [('aw', [Sound('oː')])],
-    [('awy', [Sound('oj')])], # "l[awy]er"
     [('ay', [Sound('ɛj')])],
-    [('aye', [Sound('ɛː')])], # "pr[aye]r"
     [('b', [Sound('b')])],
     [('bb', [Sound('b')])],
     [('c', [Sound('s')])],
@@ -178,6 +176,9 @@ PATTERNS = [
     [('ti', [Sound('tʃ')])], # "ques[ti]on"
     [('ti', [Sound('ʃ')])], # "ac[ti]on"
     [('xi', [Sound('k'), Sound('ʃ')])], # "an[xi]ous"
+
+    [('awy', [Sound('oj')])], # "l[awy]er"
+    [('aye', [Sound('ɛː')])], # "pr[aye]r"
 
     [('a', [Sound('oː')])], # "[a]ll"
     [('a', []), ('o', [Sound('oː')])], # "extr[ao]rdinary"
