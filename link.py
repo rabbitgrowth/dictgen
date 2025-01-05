@@ -55,6 +55,7 @@ PATTERNS = [
     [('ei', [Sound('ə')])], # "for[ei]gn"
     [('ei', [Sound('ɛ')])], # "l[ei]sure"
     [('ei', [Sound('ɛj')])], # "[ei]ght"
+    [('ei', [Sound('ɛː')])], # "th[ei]r"
     [('ei', [Sound('ɪj')])],
     [('eo', [Sound('ɪj')])], # "p[eo]ple"
     [('eu', [Sound('ɵː')])], # "[eu]ro"
