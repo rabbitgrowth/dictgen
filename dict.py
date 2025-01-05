@@ -19,9 +19,10 @@ def pad(string, width):
     return string.ljust(width + string.count(STRESS))
 
 with open('dict.tsv') as f, open('links.txt', 'w') as g:
-    def tee(string):
-        print(string, end='')
+    def tee(string=''):
+        print(string)
         g.write(string)
+        g.write('\n')
     for i, line in enumerate(f):
         word, ipa = line.strip().split('\t')
         sounds = link(word, ipa)
@@ -29,8 +30,7 @@ with open('dict.tsv') as f, open('links.txt', 'w') as g:
         widths = [max(map(width, pair)) for pair in pairs]
         ipas, spells = zip(*pairs)
         if i:
-            tee('\n')
+            tee()
         for items in [spells, ipas]:
             line = ' '.join(pad(item, width) for item, width in zip(items, widths))
             tee(line.rstrip())
-            tee('\n')
