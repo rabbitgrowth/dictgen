@@ -269,8 +269,12 @@ TRIE = Trie()
 
 for patterns, penalty in [(PATTERNS, 0), (PENALIZED_PATTERNS, 1)]:
     for pattern in patterns:
-        key = [char for spell, _ in pattern for char in spell]
-        TRIE.insert(key, (pattern, penalty))
+        key   = []
+        value = []
+        for spell, sounds in pattern:
+            key.extend(spell)
+            value.append((len(spell), sounds))
+        TRIE.insert(key, (value, penalty))
 
 def parse_ipa(ipa):
     return list(map(Sound.from_ipa, ipa.split()))
@@ -308,9 +312,9 @@ def pair(word, pron):
 
 def match(word, pron, pairs, pattern):
     matched = []
-    for spell, sounds in pattern:
-        word_head = word[:len(spell ) ]
-        word_tail = word[ len(spell ):]
+    for length, sounds in pattern:
+        word_head = word[:length ]
+        word_tail = word[ length:]
         pron_head = pron[:len(sounds) ]
         pron_tail = pron[ len(sounds):]
         if sounds != pron_head:
