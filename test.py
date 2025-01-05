@@ -11,9 +11,9 @@ def split(string):
 class TestDictgen(unittest.TestCase):
     def T(self, word, pron, outlines):
         sounds = []
-        for spelled, ipa in zip(split(word), split(pron)):
+        for spell, ipa in zip(split(word), split(pron)):
             sound = Sound.from_ipa(ipa)
-            sound.spelled = spelled
+            sound.spell = spell
             sounds.append(sound)
         expected = sorted(
             tuple(map(Stroke, outline.split('/')))

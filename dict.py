@@ -11,7 +11,7 @@ def show_ipa(sound):
 def show_spell(sound):
     if sound.cont:
         return '-'
-    return sound.spelled
+    return sound.spell
 
 def width(item):
     return len(item.replace(STRESS, ''))

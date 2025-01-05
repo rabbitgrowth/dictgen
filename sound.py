@@ -7,7 +7,7 @@ from chords import MID_CHORDS
 @dataclass
 class Sound:
     ipa:      Optional[Union[str, Set[str]]] = None
-    spelled:  Optional[Union[str, Set[str]]] = None
+    spell:    Optional[Union[str, Set[str]]] = None
     stressed: Optional[bool]                 = None
     cont:     Optional[bool]                 = None
 

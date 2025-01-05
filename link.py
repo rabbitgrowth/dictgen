@@ -295,10 +295,10 @@ def link(word, ipa):
             sounds = [Sound.from_ipa('')]
         for i, sound in enumerate(sounds):
             if not i:
-                sound.spelled = spell
+                sound.spell = spell
                 sound.cont = False
             else:
-                sound.spelled = ''
+                sound.spell = ''
                 sound.cont = True
             result.append(sound)
     return result
