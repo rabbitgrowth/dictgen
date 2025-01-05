@@ -252,8 +252,8 @@ PENALIZED_PATTERNS = [
 
     # Don't analyze <r> as part of a vowel even though that might make
     # more sense in cases like <ir> /əː/. This ensures that <r> can
-    # consistently be matched as a standalone silent letter and that no
-    # extra rules are needed for when the <r> is pronounced:
+    # consistently be matched as a standalone silent letter and that
+    # no extra rules are needed for when the <r> is pronounced:
     # <f ai r y >
     # /f ɛ́ː r ɪj/
     [('r', [])],
