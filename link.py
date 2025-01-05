@@ -123,6 +123,7 @@ PATTERNS = [
     [('s', [Sound('z')])],
     [('s', [Sound('ʃ')])], # "[s]ure"
     [('s', [Sound('ʒ')])], # "lei[s]ure"
+    [('sch', [Sound('ʃ')])], # "[sch]edule"
     [('sh', [Sound('ʃ')])],
     [('t', [Sound('t')])],
     [('t', [Sound('tʃ')])], # "atti[t]ude"
