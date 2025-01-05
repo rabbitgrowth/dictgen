@@ -77,6 +77,11 @@ NON_RIGHT_RULES = [
         [Stroke('OEUGT')],
     ),
     Rule(
+        [SCHWI, BREAK],
+        [],
+        lookbehind = [BREAK],
+    ),
+    Rule(
         [SCHWI],
         [Stroke('U')],
         lookbehind = [BREAK],
@@ -86,7 +91,7 @@ NON_RIGHT_RULES = [
         [SCHWI],
         [Stroke('')],
         negative_lookahead = [BREAK],
-        outline = lambda outline: bool(outline), # subsequent stroke
+        outline = lambda outline: bool(outline),
     ),
     Rule(
         [Sound('', spelled='h')],
