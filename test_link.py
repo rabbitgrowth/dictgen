@@ -9,11 +9,40 @@ class TestLink(unittest.TestCase):
         self.assertEqual(result, expected)
 
     def test_silent_letter(self):
+        self.T('know', 'n ə́w', [
+            Sound('', 'k'),
+            Sound('n', 'n'),
+            Sound('əw', 'ow', stressed=True),
+        ])
+        self.T('island', 'ɑ́j l ə n d', [
+            Sound('ɑj', 'i', stressed=True),
+            Sound('', 's'),
+            Sound('l', 'l'),
+            Sound('ə', 'a'),
+            Sound('n', 'n'),
+            Sound('d', 'd'),
+        ])
+        self.T('climb', 'k l ɑ́j m', [
+            Sound('k', 'c'),
+            Sound('l', 'l'),
+            Sound('ɑj', 'i', stressed=True),
+            Sound('m', 'm'),
+            Sound('', 'b'),
+        ])
+
+    def test_silent_letter_in_specific_position(self):
         self.T('back', 'b á k', [
             Sound('b', 'b'),
             Sound('a', 'a', stressed=True),
-            Sound('', 'c'),
+            Sound('', 'c'), # not /k/
             Sound('k', 'k'),
+        ])
+        self.T('build', 'b ɪ́ l d', [
+            Sound('b', 'b'),
+            Sound('', 'u'), # not /ɪ/ as in "busy"
+            Sound('ɪ', 'i', stressed=True),
+            Sound('l', 'l'),
+            Sound('d', 'd'),
         ])
 
     def test_unspelled_sound(self):
@@ -32,6 +61,17 @@ class TestLink(unittest.TestCase):
             Sound('m', 'm'),
             Sound('p', 'p'),
             Sound('ə', ''),
+            Sound('l', 'l'),
+            Sound('', 'e'),
+        ])
+
+    def test_silent_letter_before_unspelled_sound(self):
+        self.T('castle', 'k ɑ́ː s ə l', [
+            Sound('k', 'c'),
+            Sound('ɑː', 'a', stressed=True),
+            Sound('s', 's'),
+            Sound('', 't'), # order matters here
+            Sound('ə', ''), # order matters here
             Sound('l', 'l'),
             Sound('', 'e'),
         ])
