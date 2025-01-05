@@ -135,8 +135,8 @@ def gen(sounds, pos=0, right=False, stroke=Stroke(''), outline=[]):
 
 def generate(sounds):
     sounds.append(BREAK)
-    return sorted(set(
+    return sorted({
         outline
         for syllabifications in syllabify(sounds)
         for outline in gen(syllabifications)
-    ))
+    })
