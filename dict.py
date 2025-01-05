@@ -27,8 +27,9 @@ with open('dict.tsv') as f, open('links.txt', 'w') as g:
         sounds = link(word, ipa)
         pairs = [(show_ipa(sound), show_spell(sound)) for sound in sounds]
         widths = [max(map(width, pair)) for pair in pairs]
+        ipas, spells = zip(*pairs)
         if i:
             tee('\n')
-        for items in reversed(list(zip(*pairs))):
+        for items in [spells, ipas]:
             tee(' '.join(pad(item, width) for item, width in zip(items, widths)).rstrip())
             tee('\n')
