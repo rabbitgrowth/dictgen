@@ -250,11 +250,11 @@ PENALIZED_PATTERNS = [
     [('w', [])], # "s[w]ord"
 
     # Don't analyze <r> as part of a vowel even though that might make
-    # more sense in cases like <ur> /əː/. This ensures that <r> can
+    # more sense in cases like <ir> /əː/. This ensures that <r> can
     # consistently be matched as a standalone silent letter and that no
     # extra rules are needed for when the <r> is pronounced:
-    # <d ai r y >
-    # /d ɛ́ː r ɪj/
+    # <f ai r y >
+    # /f ɛ́ː r ɪj/
     [('r', [])],
 
     # Unspelled sounds
