@@ -44,6 +44,16 @@ class TestLink(unittest.TestCase):
             Sound('ə', 'a'),
         ])
 
+    def test_override_avoidance_of_silent_letter(self):
+        self.T('barrier', 'b á r ɪj ə', [
+            Sound('b', 'b'),
+            Sound('a', 'a', stressed=True),
+            Sound('r', 'rr'),
+            Sound('ɪj', 'i'), # not <ie>
+            Sound('ə', 'e'),
+            Sound('', 'r'),
+        ])
+
     def test_capital_letter_preserved(self):
         self.T('April', 'ɛ́j p r ɪ l', [
             Sound('ɛj', 'A', stressed=True),
