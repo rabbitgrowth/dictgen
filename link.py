@@ -303,7 +303,7 @@ def link(word, ipa):
 
 def pair(word, pron):
     count = 0
-    queue = [(0, 0, word, pron, [])]
+    queue = [(0, count, word, pron, [])]
     while queue:
         score, _, word, pron, pairs = heappop(queue)
         if not word and not pron:
