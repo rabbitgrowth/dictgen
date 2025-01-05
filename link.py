@@ -26,6 +26,7 @@ PATTERNS = [
     [('b', [Sound('b')])],
     [('c', [Sound('s')])],
     [('c', [Sound('ʃ')])], # "appre[c]iate"
+    [('ch', [Sound('dʒ')])], # "sandwi[ch]"
     [('ch', [Sound('k')])],
     [('ch', [Sound('tʃ')])],
     [('ch', [Sound('ʃ')])],
