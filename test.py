@@ -8,7 +8,7 @@ def split(string):
     for word in string.split():
         yield '' if word == '-' else word
 
-class TestDictgen(unittest.TestCase):
+class TestGenerate(unittest.TestCase):
     def T(self, word, pron, outlines):
         sounds = []
         for spell, ipa in zip(split(word), split(pron)):
