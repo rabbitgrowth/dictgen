@@ -244,11 +244,18 @@ PENALIZED_PATTERNS = [
     [('n', [])], # "autum[n]"
     [('o', [])], # "choc[o]late"
     [('p', [])], # "cu[p]board"
-    [('r', [])], # "pa[r]t"
     [('s', [])], # "i[s]land"
     [('t', [])], # "cas[t]le"
     [('u', [])], # "b[u]ild"
     [('w', [])], # "s[w]ord"
+
+    # Don't analyze <r> as part of a vowel even though that might make
+    # more sense in cases like <ur> /əː/. This ensures that <r> can
+    # consistently be matched as a standalone silent letter and that no
+    # extra rules are needed for when the <r> is pronounced:
+    # <d ai r y >
+    # /d ɛ́ː r ɪj/
+    [('r', [])],
 
     # Unspelled sounds
     [('', [Sound('.')])],
