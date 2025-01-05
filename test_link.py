@@ -95,7 +95,7 @@ class TestLink(unittest.TestCase):
             Sound('s', '', cont=True),
         ])
 
-    def test_discourage_runs_of_penalized_patterns(self):
+    def test_avoid_runs_of_penalized_patterns(self):
         self.T('failure', 'f ɛ́j l j ə', [
             Sound('f', 'f'),
             Sound('ɛj', 'ai', stressed=True),
