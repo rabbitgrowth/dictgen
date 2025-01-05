@@ -73,7 +73,7 @@ NON_RIGHT_RULES = [
         lookahead = [BREAK],
     ),
     Rule(
-        [Sound('ɑj', 'igh'), Sound('t')],
+        [Sound('ɑj', 'i'), Sound('', 'gh'), Sound('t')],
         [Stroke('OEUGT')],
     ),
     Rule(

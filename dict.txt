@@ -1526,7 +1526,7 @@ PWRAOEF
 
 b r i  gh t
 b r ɑ́j    t
-PWRAOEUT
+PWROEUGT
 
 b r i ll i a n t
 b r ɪ́ l  j ə n t
@@ -3264,13 +3264,13 @@ TKHREUGS/-S
 
 d e l i  gh t
 d ə l ɑ́j    t
-TKU/HRAOEUT
-TKHRAOEUT
+TKU/HROEUGT
+TKHROEUGT
 
 d e l i  gh t e d
 d ə l ɑ́j    t ɪ d
-TKU/HRAOEUT/UD
-TKHRAOEUT/UD
+TKU/HROEUGT/UD
+TKHROEUGT/UD
 TKU/HRAOEU/T-D
 TKHRAOEU/T-D
 
@@ -4944,11 +4944,11 @@ TPEUFT/AE
 
 f i  gh t
 f ɑ́j    t
-TPAOEUT
+TPOEUGT
 
 f i  gh t i ng
 f ɑ́j    t ɪ ŋ
-TPAOEUT/-PBG
+TPOEUGT/-PBG
 TPAOEU/T-PBG
 
 f i g u r e
@@ -5076,7 +5076,7 @@ TPHREBGS/PW-L
 
 f l i  gh t
 f l ɑ́j    t
-TPHRAOEUT
+TPHROEUGT
 
 f l oa t
 f l ə́w t
@@ -5292,16 +5292,16 @@ TPREPBD/SH-P
 f r i  gh t e n
 f r ɑ́j    t ə n
 TPRAOEU/T-PB
-TPRAOEUT/-PB
+TPROEUGT/-PB
 
 f r i  gh t e n e d
 f r ɑ́j    t ə n   d
 TPRAOEU/T-PBD
-TPRAOEUT/-PBD
+TPROEUGT/-PBD
 
 f r i  gh t e n i ng
 f r ɑ́j    t   n ɪ ŋ
-TPRAOEUT/TPH-PBG
+TPROEUGT/TPH-PBG
 
 f r o g
 f r ɔ́ g
@@ -5917,8 +5917,8 @@ HAOEU
 
 h i  gh l i  gh t
 h ɑ́j    l ɑj    t
-HAOEU/HRAOEUT
-HAOEUL/AOEUT
+HAOEU/HROEUGT
+HAOEUL/OEUGT
 
 h i  gh l y
 h ɑ́j    l ɪj
@@ -6521,8 +6521,8 @@ EUPB/SAOEUD
 
 i n s i  gh t
 ɪ́ n s ɑj    t
-EUPBS/AOEUT
-EUPB/SAOEUT
+EUPBS/OEUGT
+EUPB/SOEUGT
 
 i n s i s t
 ɪ n s ɪ́ s t
@@ -7203,7 +7203,7 @@ HREUFT
 
 l i  gh t
 l ɑ́j    t
-HRAOEUT
+HROEUGT
 
 l i  k e
 l ɑ́j k
@@ -7681,11 +7681,11 @@ PHEUD/-L
 
 m i d n i  gh t
 m ɪ́ d n ɑj    t
-PHEUD/TPHAOEUT
+PHEUD/TPHOEUGT
 
 m i  gh t
 m ɑ́j    t
-PHAOEUT
+PHOEUGT
 
 m i  l d
 m ɑ́j l d
@@ -8139,11 +8139,11 @@ TPHAOEUS
 
 n i  gh t
 n ɑ́j    t
-TPHAOEUT
+TPHOEUGT
 
 n i  gh t m a  r e
 n ɑ́j    t m ɛː
-TPHAOEUT/PHAEUR
+TPHOEUGT/PHAEUR
 
 n i  n e
 n ɑ́j n
@@ -10543,7 +10543,7 @@ RAOEUD
 
 r i  gh t
 r ɑ́j    t
-RAOEUT
+ROEUGT
 
 r i ng
 r ɪ́ ŋ
@@ -11227,7 +11227,7 @@ SAOEUD
 
 s i  gh t
 s ɑ́j    t
-SAOEUT
+SOEUGT
 
 s i  g n
 s ɑ́j   n
@@ -11409,11 +11409,11 @@ SHRAOEUD
 
 s l i  gh t
 s l ɑ́j    t
-SHRAOEUT
+SHROEUGT
 
 s l i  gh t l y
 s l ɑ́j    t l ɪj
-SHRAOEUT/HRAE
+SHROEUGT/HRAE
 
 s l i p
 s l ɪ́ p
@@ -12585,7 +12585,7 @@ TAOEU
 
 t i  gh t
 t ɑ́j    t
-TAOEUT
+TOEUGT
 
 t i ll
 t ɪ́ l
@@ -12660,7 +12660,7 @@ TUPBG
 
 t o n i  gh t
 t ə n ɑ́j    t
-TU/TPHAOEUT
+TU/TPHOEUGT
 
 t oo
 t ʉ́w
