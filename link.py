@@ -285,6 +285,7 @@ def parse_ipa(ipa):
     return list(map(Sound.from_ipa, ipa.split()))
 
 def link(word, ipa):
+    result = []
     pron = parse_ipa(ipa)
     pairs = pair(word, pron)
     if pairs is None:
@@ -299,7 +300,8 @@ def link(word, ipa):
             else:
                 sound.spelled = ''
                 sound.cont = True
-            yield sound
+            result.append(sound)
+    return result
 
 def pair(word, pron):
     count = 0
