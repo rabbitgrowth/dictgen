@@ -62,7 +62,7 @@ class TestLink(unittest.TestCase):
             Sound('t', 't'),
         ])
 
-    def test_r_not_part_of_vowel_even_if_r_is_important(self):
+    def test_r_not_part_of_vowel_against_intuition(self):
         self.T('first', 'f ə́ː s t', [
             Sound('f', 'f'),
             Sound('əː', 'i', stressed=True),
