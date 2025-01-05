@@ -54,6 +54,39 @@ class TestLink(unittest.TestCase):
             Sound('', 'r'),
         ])
 
+    def test_r_not_part_of_vowel(self):
+        self.T('part', 'p ɑ́ː t', [
+            Sound('p', 'p'),
+            Sound('ɑː', 'a', stressed=True),
+            Sound('', 'r'),
+            Sound('t', 't'),
+        ])
+
+    def test_r_not_part_of_vowel_even_if_r_is_important(self):
+        self.T('first', 'f ə́ː s t', [
+            Sound('f', 'f'),
+            Sound('əː', 'i', stressed=True),
+            Sound('', 'r'),
+            Sound('s', 's'),
+            Sound('t', 't'),
+        ])
+
+    def test_r_not_even_part_of_silent_vowel(self):
+        self.T('comfortable', 'k ʌ́ m f t ə b ə l', [
+            Sound('k', 'c'),
+            Sound('ʌ', 'o', stressed=True),
+            Sound('m', 'm'),
+            Sound('f', 'f'),
+            Sound('', 'o'),
+            Sound('', 'r'),
+            Sound('t', 't'),
+            Sound('ə', 'a'),
+            Sound('b', 'b'),
+            Sound('ə', ''),
+            Sound('l', 'l'),
+            Sound('', 'e'),
+        ])
+
     def test_capital_letter_preserved(self):
         self.T('April', 'ɛ́j p r ɪ l', [
             Sound('ɛj', 'A', stressed=True),
