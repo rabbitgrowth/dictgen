@@ -232,7 +232,7 @@ PENALIZED_PATTERNS = [
     # Silent letters
     [('a', [])], # "basic[a]lly"
     [('au', [])], # "rest[au]rant"
-    [('b', [])], # "bom[b]"
+    [('b', [])], # "clim[b]"
     [('c', [])], # "ba[c]k"
     [('d', [])], # "san[d]wich"
     [('e', [])], # "mak[e]"
