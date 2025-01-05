@@ -73,7 +73,7 @@ NON_RIGHT_RULES = [
         lookahead = [BREAK],
     ),
     Rule(
-        [Sound('ɑj', spelled='igh'), Sound('t')],
+        [Sound('ɑj', 'igh'), Sound('t')],
         [Stroke('OEUGT')],
     ),
     Rule(
@@ -94,11 +94,11 @@ NON_RIGHT_RULES = [
         outline = lambda outline: bool(outline),
     ),
     Rule(
-        [Sound('', spelled='h')],
+        [Sound('', 'h')],
         [Stroke('H')],
     ),
     Rule(
-        [Sound('', spelled='w')],
+        [Sound('', 'w')],
         [Stroke('W')],
     ),
     Rule(
@@ -121,7 +121,7 @@ RIGHT_RULES = [
         [Stroke('-GZ')],
     ),
     Rule(
-        [Sound('', spelled='b')],
+        [Sound('', 'b')],
         [Stroke('-B')],
     ),
     Rule(
