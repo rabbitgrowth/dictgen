@@ -158,6 +158,7 @@ PATTERNS = [
     [('cc', [Sound('k')])],
     [('dd', [Sound('d')])],
     [('ff', [Sound('f')])],
+    [('gg', [Sound('dʒ')])], # "su[gg]est"
     [('gg', [Sound('g')])],
     [('kk', [Sound('k')])],
     [('ll', [Sound('l')])],
