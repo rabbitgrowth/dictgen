@@ -31,5 +31,6 @@ with open('dict.tsv') as f, open('links.txt', 'w') as g:
         if i:
             tee('\n')
         for items in [spells, ipas]:
-            tee(' '.join(pad(item, width) for item, width in zip(items, widths)).rstrip())
+            line = ' '.join(pad(item, width) for item, width in zip(items, widths))
+            tee(line.rstrip())
             tee('\n')
