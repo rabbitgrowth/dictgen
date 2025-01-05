@@ -100,7 +100,7 @@ class TestLink(unittest.TestCase):
             #     /f ɛ́j l     j ə/
         ])
 
-    def test_capital_letter_preserved(self):
+    def test_preserve_capital_letter(self):
         self.T('April', 'ɛ́j p r ɪ l', [
             Sound('ɛj', 'A', stressed=True),
             Sound('p', 'p'),
