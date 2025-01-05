@@ -173,6 +173,7 @@ PATTERNS = [
     [('zz', [Sound('z')])],
 
     [('ci', [Sound('ʃ')])], # "spe[ci]al"
+    [('c', [Sound('ʃ')]), ('ie', [Sound('ɪj')])], # "spe[cie]s"
     [('gi', [Sound('dʒ')])], # "re[gi]on"
     [('sci', [Sound('ʃ')])], # "con[sci]ous"
     [('shi', [Sound('ʃ')])], # "fa[shi]on"
