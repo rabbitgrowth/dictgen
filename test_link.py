@@ -44,5 +44,22 @@ class TestLink(unittest.TestCase):
             Sound('ə', 'a'),
         ])
 
+    def test_capital_letter_preserved(self):
+        self.T('April', 'ɛ́j p r ɪ l', [
+            Sound('ɛj', 'A', stressed=True),
+            Sound('p', 'p'),
+            Sound('r', 'r'),
+            Sound('ɪ', 'i'),
+            Sound('l', 'l'),
+        ])
+        self.T('Thursday', 'θ ə́ː z d ɛj', [
+            Sound('θ', 'Th'),
+            Sound('əː', 'u', stressed=True),
+            Sound('', 'r'),
+            Sound('z', 's'),
+            Sound('d', 'd'),
+            Sound('ɛj', 'ay'),
+        ])
+
 if __name__ == '__main__':
     unittest.main()
