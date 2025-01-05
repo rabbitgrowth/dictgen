@@ -87,6 +87,14 @@ class TestLink(unittest.TestCase):
             Sound('', 'e'),
         ])
 
+    def test_letter_with_multiple_sounds(self):
+        self.T('box', 'b ɔ́ k s', [
+            Sound('b', 'b'),
+            Sound('ɔ', 'o'),
+            Sound('k', 'x'),
+            Sound('s', '', cont=True),
+        ])
+
     def test_discourage_runs_of_penalized_patterns(self):
         self.T('failure', 'f ɛ́j l j ə', [
             Sound('f', 'f'),
