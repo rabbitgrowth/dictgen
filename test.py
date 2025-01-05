@@ -1,8 +1,8 @@
 import unittest
 
+from generate import generate
 from sound import Sound
 from stroke import Stroke
-from dictgen import generate
 
 def split(string):
     for word in string.split():
