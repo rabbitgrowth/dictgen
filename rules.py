@@ -52,7 +52,7 @@ class Rule:
 
 NON_RIGHT_CHORDS = LEFT_CHORDS | MID_CHORDS
 
-SCHWI = Sound({'ə', 'ɪ'}, stressed=False)
+SCHWA = Sound({'ə', 'ɪ'}, stressed=False)
 
 NON_RIGHT_OPTIONAL_RULES = [
     Rule(
@@ -60,7 +60,7 @@ NON_RIGHT_OPTIONAL_RULES = [
         [Stroke('SKHR')],
     ),
     Rule(
-        [SCHWI, BREAK],
+        [SCHWA, BREAK],
         [],
         lookbehind = [Sound()],
     ),
@@ -77,18 +77,18 @@ NON_RIGHT_RULES = [
         [Stroke('OEUGT')],
     ),
     Rule(
-        [SCHWI, BREAK],
+        [SCHWA, BREAK],
         [],
         lookbehind = [BREAK],
     ),
     Rule(
-        [SCHWI],
+        [SCHWA],
         [Stroke('U')],
         lookbehind = [BREAK],
         lookahead = [Sound({'d', 'g', 'z'}), BREAK],
     ),
     Rule(
-        [SCHWI],
+        [SCHWA],
         [Stroke('')],
         negative_lookahead = [BREAK],
         outline = lambda outline: bool(outline),
