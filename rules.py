@@ -117,6 +117,10 @@ RIGHT_RULES = [
         [Stroke('*S')],
     ),
     Rule(
+        [Sound('ʃ'), BREAK, Sound('ə'), Sound('n')],
+        [Stroke('-GZ')],
+    ),
+    Rule(
         [Sound('', spelled='b')],
         [Stroke('-B')],
     ),
