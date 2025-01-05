@@ -1,3 +1,4 @@
+from generate import generate
 from link import link
 
 STRESS = '\u0301'
@@ -34,3 +35,5 @@ with open('dict.tsv') as f, open('dict.txt', 'w') as g:
         for items in [spells, ipas]:
             line = ' '.join(pad(item, width) for item, width in zip(items, widths))
             tee(line.rstrip())
+        for outline in generate(sounds):
+            tee('/'.join(map(str, outline)))
