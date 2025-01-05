@@ -97,6 +97,8 @@ PATTERNS = [
     [('oa', [Sound('oː')])], # "br[oa]d", "b[oa]rd"
     [('oa', [Sound('ə')])], # "cupb[oa]rd"
     [('oa', [Sound('əw')])],
+    [('oe', [Sound('əw')])], # "t[oe]"
+    [('oe', [Sound('ʉw')])], # "sh[oe]"
     [('oi', [Sound('oj')])],
     [('oo', [Sound('oː')])], # "d[oo]r"
     [('oo', [Sound('ɵ')])], # "f[oo]t"
