@@ -203,7 +203,7 @@ U/TKAUPT
 
 a d u l t
 á d ʌ l t
-AD/ULT
+AD/-LT
 
 a d v a  n c e
 ə d v ɑ́ː n s
@@ -594,7 +594,7 @@ EPB/AOEB/AU/TKAE
 
 a n y  o - n e
 ɛ́ n ɪj w ʌ n
-EPB/AE/WUPB
+EPB/AE/W-PB
 
 a n y  th i ng
 ɛ́ n ɪj θ  ɪ ŋ
@@ -2490,8 +2490,8 @@ KUPB/TKEUGS/-PB
 
 c o n d u c t
 k ɔ́ n d ʌ k t
-KAUPB/TKUBGT
-KAUPBD/UBGT
+KAUPB/TK-BGT
+KAUPBD/-BGT
 
 c o n d u c t
 k ə n d ʌ́ k t
@@ -2600,8 +2600,8 @@ KAUPB/ST-PBT/HRAE
 
 c o n s t r u c t
 k ɔ́ n s t r ʌ k t
-KAUPB/STRUBGT
-KAUPBS/TRUBGT
+KAUPBS/TR-BGT
+KAUPB/STR-BGT
 
 c o n s t r u c t
 k ə n s t r ʌ́ k t
@@ -4428,7 +4428,7 @@ EFB/RAOED/AEU
 
 e v e r y  o - n e
 ɛ́ v   r ɪj w ʌ n
-EFB/RAE/WUPB
+EFB/RAE/W-PB
 
 e v e r y  th i ng
 ɛ́ v   r ɪj θ  ɪ ŋ
@@ -5607,7 +5607,7 @@ TKPWRAPB/TPAUGT/
 
 g r a n d m o th e r
 g r á n   m ʌ ð  ə
-TKPWRAPB/PHUGT/
+TKPWRAPB/PH-GT/
 TKPWRAPB/PHU/TH
 
 g r a n d p a  r e n t
@@ -6357,8 +6357,8 @@ EUPB/KHRAOUD/-PBG
 
 i n c o m e
 ɪ́ ŋ k ʌ m
-EUPBG/-BG/UPL
-EUPBG/KUPL
+EUPBG/K-PL
+EUPBG/-BG/-PL
 
 i n c r ea s e
 ɪ n k r ɪ́j s
@@ -8582,7 +8582,7 @@ OUT
 
 ou t c o m e
 áw t k ʌ m
-OUT/KUPL
+OUT/K-PL
 
 ou t d oo r
 áw t d oː
@@ -9578,7 +9578,7 @@ PRU/SKWRAOUS/
 
 p r o d u c t
 p r ɔ́ d ʌ k t
-PRAUD/UBGT
+PRAUD/-BGT
 
 p r o d u c ti o n
 p r ə d ʌ́ k ʃ  ə n
@@ -11542,7 +11542,7 @@ SUPL/PWU/TKAE
 
 s o m e o - n e
 s ʌ́ m   w ʌ n
-SUPL/WUPB
+SUPL/W-PB
 
 s o m e th i ng
 s ʌ́ m   θ  ɪ ŋ

@@ -52,7 +52,7 @@ class Rule:
 
 NON_RIGHT_CHORDS = LEFT_CHORDS | MID_CHORDS
 
-SCHWA = Sound({'ə', 'ɪ'}, stressed=False)
+SCHWA = Sound({'ə', 'ɪ', 'ʌ'}, stressed=False)
 
 NON_RIGHT_OPTIONAL_RULES = [
     Rule(
