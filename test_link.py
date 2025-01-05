@@ -90,7 +90,7 @@ class TestLink(unittest.TestCase):
     def test_letter_with_multiple_sounds(self):
         self.T('box', 'b ɔ́ k s', [
             Sound('b', 'b'),
-            Sound('ɔ', 'o'),
+            Sound('ɔ', 'o', stressed=True),
             Sound('k', 'x'),
             Sound('s', '', cont=True),
         ])
