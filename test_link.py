@@ -87,6 +87,19 @@ class TestLink(unittest.TestCase):
             Sound('', 'e'),
         ])
 
+    def test_discourage_runs_of_penalized_patterns(self):
+        self.T('failure', 'f ɛ́j l j ə', [
+            Sound('f', 'f'),
+            Sound('ɛj', 'ai', stressed=True),
+            Sound('l', 'l'),
+            Sound('j', ''),
+            Sound('ə', 'u'),
+            Sound('', 'r'),
+            Sound('', 'e'),
+            # not <f ai l u r   e>
+            #     /f ɛ́j l     j ə/
+        ])
+
     def test_capital_letter_preserved(self):
         self.T('April', 'ɛ́j p r ɪ l', [
             Sound('ɛj', 'A', stressed=True),
