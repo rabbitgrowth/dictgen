@@ -23,8 +23,8 @@ with open('dict.tsv') as f, open('links.txt', 'w') as g:
         print(string, end='')
         g.write(string)
     for i, line in enumerate(f):
-        word, pron = line.strip().split('\t')
-        sounds = link(word, pron)
+        word, ipa = line.strip().split('\t')
+        sounds = link(word, ipa)
         pairs = [(show_ipa(sound), show_spell(sound)) for sound in sounds]
         widths = [max(map(width, pair)) for pair in pairs]
         if i:
