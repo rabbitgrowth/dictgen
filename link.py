@@ -4,213 +4,213 @@ from sound import Sound
 from trie import Trie
 
 PATTERNS = [
-    [('a', [Sound('a')])],
-    [('a', [Sound('ɑː')])],
-    [('a', [Sound('ɔ')])], # "[a]lter"
-    [('a', [Sound('ə')])],
-    [('a', [Sound('ɛ')])], # "[a]ny"
-    [('a', [Sound('ɛj')])],
-    [('a', [Sound('ɛː')])], # "[a]rea"
-    [('a', [Sound('ɪ')])],
-    [('ai', [Sound('ə')])], # "cert[ai]n"
-    [('ai', [Sound('ɛ')])], # "ag[ai]n"
-    [('ai', [Sound('ɛj')])],
-    [('ai', [Sound('ɛː')])],
-    [('ai', [Sound('ɪ')])], # "capt[ai]n"
-    [('au', [Sound('oː')])],
-    [('au', [Sound('ɑː')])],
-    [('au', [Sound('ɔ')])], # "bec[au]se"
-    [('au', [Sound('ə')])], # "bec[au]se"
-    [('aw', [Sound('oː')])],
-    [('ay', [Sound('ɛj')])],
-    [('b', [Sound('b')])],
-    [('c', [Sound('s')])],
-    [('c', [Sound('ʃ')])], # "appre[c]iate"
-    [('ch', [Sound('dʒ')])], # "sandwi[ch]"
-    [('ch', [Sound('k')])],
-    [('ch', [Sound('tʃ')])],
-    [('ch', [Sound('ʃ')])],
-    [('d', [Sound('d')])],
-    [('d', [Sound('dʒ')])], # "[d]ue"
-    [('d', [Sound('t')])], # "face[d]"
-    [('dg', [Sound('dʒ')])],
-    [('e', [Sound('ə')])],
-    [('e', [Sound('əː')])], # "conc[e]rn"
-    [('e', [Sound('ɛ')])],
-    [('e', [Sound('ɛː')])],
-    [('e', [Sound('ɪ')])],
-    [('e', [Sound('ɪj')])],
-    [('e', [Sound('ɪː')])],
-    [('ea', [Sound('ɑː')])], # "h[ea]rt"
-    [('ea', [Sound('əː')])], # "[ea]rn"
-    [('ea', [Sound('ɛ')])],
-    [('ea', [Sound('ɛj')])], # "gr[ea]t"
-    [('ea', [Sound('ɛː')])],
-    [('ea', [Sound('ɪj')])],
-    [('ea', [Sound('ɪː')])], # "id[ea]", "d[ea]r"
-    [('eau', [Sound('ʉw')])], # "b[eau]ty"
-    [('ee', [Sound('ɪj')])],
-    [('ee', [Sound('ɪː')])],
-    [('ei', [Sound('ɑj')])], # "[ei]ther"
-    [('ei', [Sound('ə')])], # "for[ei]gn"
-    [('ei', [Sound('ɛ')])], # "l[ei]sure"
-    [('ei', [Sound('ɛj')])], # "[ei]ght"
-    [('ei', [Sound('ɛː')])], # "th[ei]r"
-    [('ei', [Sound('ɪj')])],
-    [('eo', [Sound('ɪj')])], # "p[eo]ple"
-    [('eu', [Sound('ɵː')])], # "[eu]ro"
-    [('ew', [Sound('ʉw')])],
-    [('ey', [Sound('ɑj')])], # "[ey]e"
-    [('ey', [Sound('ɛj')])], # "gr[ey]"
-    [('ey', [Sound('ɪj')])],
-    [('f', [Sound('f')])],
-    [('f', [Sound('v')])], # "o[f]"
-    [('g', [Sound('dʒ')])],
-    [('g', [Sound('g')])],
-    [('g', [Sound('ʒ')])], # "[g]enre"
-    [('gh', [Sound('f')])],
-    [('h', [Sound('h')])],
-    [('i', [Sound('j')])], # "bill[i]on"
-    [('i', [Sound('ɑj')])],
-    [('i', [Sound('ə')])],
-    [('i', [Sound('əː')])], # "b[i]rd"
-    [('i', [Sound('ɪ')])],
-    [('i', [Sound('ɪj')])],
-    [('ia', [Sound('ə')])], # "parl[ia]ment"
-    [('ia', [Sound('ɪ')])], # "marr[ia]ge"
-    [('ie', [Sound('ɑj')])],
-    [('ie', [Sound('ɛ')])], # "fr[ie]nd"
-    [('j', [Sound('dʒ')])],
-    [('k', [Sound('k')])],
-    [('l', [Sound('l')])],
-    [('m', [Sound('m')])],
-    [('n', [Sound('n')])],
-    [('n', [Sound('ŋ')])], # "ba[n]k"
-    [('ng', [Sound('ŋ')])],
-    [('o', [Sound('oː')])], # "b[o]rn"
-    [('o', [Sound('w'), Sound('ʌ')])], # "[o]ne"
-    [('o', [Sound('ɔ')])],
-    [('o', [Sound('ə')])],
-    [('o', [Sound('əw')])],
-    [('o', [Sound('əː')])], # "w[o]rse"
-    [('o', [Sound('ʉw')])], # "pr[o]ve"
-    [('o', [Sound('ʌ')])], # "l[o]ve"
-    [('oa', [Sound('oː')])], # "br[oa]d", "b[oa]rd"
-    [('oa', [Sound('ə')])], # "cupb[oa]rd"
-    [('oa', [Sound('əw')])],
-    [('oe', [Sound('əw')])], # "t[oe]"
-    [('oe', [Sound('ʉw')])], # "sh[oe]"
-    [('oi', [Sound('oj')])],
-    [('oo', [Sound('oː')])], # "d[oo]r"
-    [('oo', [Sound('ɵ')])], # "f[oo]t"
-    [('oo', [Sound('ʉw')])],
-    [('oo', [Sound('ʌ')])], # "bl[oo]d"
-    [('ou', [Sound('aw')])],
-    [('ou', [Sound('oː')])], # "p[ou]r"
-    [('ou', [Sound('ɑː')])], # "[ou]r"
-    [('ou', [Sound('ə')])], # "fam[ou]s", "fav[ou]r"
-    [('ou', [Sound('əw')])], # "s[ou]l"
-    [('ou', [Sound('əː')])], # "j[ou]rney"
-    [('ou', [Sound('ɵ')])], # "sh[ou]ld"
-    [('ou', [Sound('ʉw')])], # "gr[ou]p"
-    [('ou', [Sound('ʌ')])], # "en[ou]gh"
-    [('ow', [Sound('aw')])],
-    [('ow', [Sound('ɔ')])],
-    [('ow', [Sound('əw')])],
-    [('oy', [Sound('oj')])],
-    [('p', [Sound('p')])],
-    [('ph', [Sound('f')])],
-    [('q', [Sound('k')])],
-    [('r', [Sound('r')])],
-    [('s', [Sound('s')])],
-    [('s', [Sound('z')])],
-    [('s', [Sound('ʃ')])], # "[s]ure"
-    [('s', [Sound('ʒ')])], # "lei[s]ure"
-    [('sch', [Sound('ʃ')])], # "[sch]edule"
-    [('sh', [Sound('ʃ')])],
-    [('t', [Sound('t')])],
-    [('t', [Sound('tʃ')])], # "atti[t]ude"
-    [('tch', [Sound('tʃ')])],
-    [('th', [Sound('ð')])],
-    [('th', [Sound('θ')])],
-    [('u', [Sound('oː')])], # "c[u]re"
-    [('u', [Sound('w')])],
-    [('u', [Sound('əː')])], # "t[u]rn"
-    [('u', [Sound('ɵ')])],
-    [('u', [Sound('ɵː')])], # "sec[u]re"
-    [('u', [Sound('ʉw')])],
-    [('u', [Sound('ʌ')])],
-    [('ue', [Sound('ʉw')])],
-    [('ui', [Sound('ʉw')])], # "fr[ui]t"
-    [('v', [Sound('v')])],
-    [('w', [Sound('w')])],
-    [('x', [Sound('g'), Sound('z')])], # "e[x]act"
-    [('x', [Sound('k'), Sound('s')])],
-    [('x', [Sound('k'), Sound('ʃ')])], # "lu[x]ury"
-    [('y', [Sound('j')])],
-    [('y', [Sound('ɑj')])],
-    [('y', [Sound('ə')])], # "anal[y]sis"
-    [('y', [Sound('ɪ')])],
-    [('y', [Sound('ɪj')])],
-    [('z', [Sound('z')])],
+    [('a', ['a'])],
+    [('a', ['ɑː'])],
+    [('a', ['ɔ'])], # "[a]lter"
+    [('a', ['ə'])],
+    [('a', ['ɛ'])], # "[a]ny"
+    [('a', ['ɛj'])],
+    [('a', ['ɛː'])], # "[a]rea"
+    [('a', ['ɪ'])],
+    [('ai', ['ə'])], # "cert[ai]n"
+    [('ai', ['ɛ'])], # "ag[ai]n"
+    [('ai', ['ɛj'])],
+    [('ai', ['ɛː'])],
+    [('ai', ['ɪ'])], # "capt[ai]n"
+    [('au', ['oː'])],
+    [('au', ['ɑː'])],
+    [('au', ['ɔ'])], # "bec[au]se"
+    [('au', ['ə'])], # "bec[au]se"
+    [('aw', ['oː'])],
+    [('ay', ['ɛj'])],
+    [('b', ['b'])],
+    [('c', ['s'])],
+    [('c', ['ʃ'])], # "appre[c]iate"
+    [('ch', ['dʒ'])], # "sandwi[ch]"
+    [('ch', ['k'])],
+    [('ch', ['tʃ'])],
+    [('ch', ['ʃ'])],
+    [('d', ['d'])],
+    [('d', ['dʒ'])], # "[d]ue"
+    [('d', ['t'])], # "face[d]"
+    [('dg', ['dʒ'])],
+    [('e', ['ə'])],
+    [('e', ['əː'])], # "conc[e]rn"
+    [('e', ['ɛ'])],
+    [('e', ['ɛː'])],
+    [('e', ['ɪ'])],
+    [('e', ['ɪj'])],
+    [('e', ['ɪː'])],
+    [('ea', ['ɑː'])], # "h[ea]rt"
+    [('ea', ['əː'])], # "[ea]rn"
+    [('ea', ['ɛ'])],
+    [('ea', ['ɛj'])], # "gr[ea]t"
+    [('ea', ['ɛː'])],
+    [('ea', ['ɪj'])],
+    [('ea', ['ɪː'])], # "id[ea]", "d[ea]r"
+    [('eau', ['ʉw'])], # "b[eau]ty"
+    [('ee', ['ɪj'])],
+    [('ee', ['ɪː'])],
+    [('ei', ['ɑj'])], # "[ei]ther"
+    [('ei', ['ə'])], # "for[ei]gn"
+    [('ei', ['ɛ'])], # "l[ei]sure"
+    [('ei', ['ɛj'])], # "[ei]ght"
+    [('ei', ['ɛː'])], # "th[ei]r"
+    [('ei', ['ɪj'])],
+    [('eo', ['ɪj'])], # "p[eo]ple"
+    [('eu', ['ɵː'])], # "[eu]ro"
+    [('ew', ['ʉw'])],
+    [('ey', ['ɑj'])], # "[ey]e"
+    [('ey', ['ɛj'])], # "gr[ey]"
+    [('ey', ['ɪj'])],
+    [('f', ['f'])],
+    [('f', ['v'])], # "o[f]"
+    [('g', ['dʒ'])],
+    [('g', ['g'])],
+    [('g', ['ʒ'])], # "[g]enre"
+    [('gh', ['f'])],
+    [('h', ['h'])],
+    [('i', ['j'])], # "bill[i]on"
+    [('i', ['ɑj'])],
+    [('i', ['ə'])],
+    [('i', ['əː'])], # "b[i]rd"
+    [('i', ['ɪ'])],
+    [('i', ['ɪj'])],
+    [('ia', ['ə'])], # "parl[ia]ment"
+    [('ia', ['ɪ'])], # "marr[ia]ge"
+    [('ie', ['ɑj'])],
+    [('ie', ['ɛ'])], # "fr[ie]nd"
+    [('j', ['dʒ'])],
+    [('k', ['k'])],
+    [('l', ['l'])],
+    [('m', ['m'])],
+    [('n', ['n'])],
+    [('n', ['ŋ'])], # "ba[n]k"
+    [('ng', ['ŋ'])],
+    [('o', ['oː'])], # "b[o]rn"
+    [('o', ['w', 'ʌ'])], # "[o]ne"
+    [('o', ['ɔ'])],
+    [('o', ['ə'])],
+    [('o', ['əw'])],
+    [('o', ['əː'])], # "w[o]rse"
+    [('o', ['ʉw'])], # "pr[o]ve"
+    [('o', ['ʌ'])], # "l[o]ve"
+    [('oa', ['oː'])], # "br[oa]d", "b[oa]rd"
+    [('oa', ['ə'])], # "cupb[oa]rd"
+    [('oa', ['əw'])],
+    [('oe', ['əw'])], # "t[oe]"
+    [('oe', ['ʉw'])], # "sh[oe]"
+    [('oi', ['oj'])],
+    [('oo', ['oː'])], # "d[oo]r"
+    [('oo', ['ɵ'])], # "f[oo]t"
+    [('oo', ['ʉw'])],
+    [('oo', ['ʌ'])], # "bl[oo]d"
+    [('ou', ['aw'])],
+    [('ou', ['oː'])], # "p[ou]r"
+    [('ou', ['ɑː'])], # "[ou]r"
+    [('ou', ['ə'])], # "fam[ou]s", "fav[ou]r"
+    [('ou', ['əw'])], # "s[ou]l"
+    [('ou', ['əː'])], # "j[ou]rney"
+    [('ou', ['ɵ'])], # "sh[ou]ld"
+    [('ou', ['ʉw'])], # "gr[ou]p"
+    [('ou', ['ʌ'])], # "en[ou]gh"
+    [('ow', ['aw'])],
+    [('ow', ['ɔ'])],
+    [('ow', ['əw'])],
+    [('oy', ['oj'])],
+    [('p', ['p'])],
+    [('ph', ['f'])],
+    [('q', ['k'])],
+    [('r', ['r'])],
+    [('s', ['s'])],
+    [('s', ['z'])],
+    [('s', ['ʃ'])], # "[s]ure"
+    [('s', ['ʒ'])], # "lei[s]ure"
+    [('sch', ['ʃ'])], # "[sch]edule"
+    [('sh', ['ʃ'])],
+    [('t', ['t'])],
+    [('t', ['tʃ'])], # "atti[t]ude"
+    [('tch', ['tʃ'])],
+    [('th', ['ð'])],
+    [('th', ['θ'])],
+    [('u', ['oː'])], # "c[u]re"
+    [('u', ['w'])],
+    [('u', ['əː'])], # "t[u]rn"
+    [('u', ['ɵ'])],
+    [('u', ['ɵː'])], # "sec[u]re"
+    [('u', ['ʉw'])],
+    [('u', ['ʌ'])],
+    [('ue', ['ʉw'])],
+    [('ui', ['ʉw'])], # "fr[ui]t"
+    [('v', ['v'])],
+    [('w', ['w'])],
+    [('x', ['g', 'z'])], # "e[x]act"
+    [('x', ['k', 's'])],
+    [('x', ['k', 'ʃ'])], # "lu[x]ury"
+    [('y', ['j'])],
+    [('y', ['ɑj'])],
+    [('y', ['ə'])], # "anal[y]sis"
+    [('y', ['ɪ'])],
+    [('y', ['ɪj'])],
+    [('z', ['z'])],
 
-    [('bb', [Sound('b')])],
-    [('cc', [Sound('k')])],
-    [('dd', [Sound('d')])],
-    [('ff', [Sound('f')])],
-    [('gg', [Sound('dʒ')])], # "su[gg]est"
-    [('gg', [Sound('g')])],
-    [('kk', [Sound('k')])],
-    [('ll', [Sound('l')])],
-    [('mm', [Sound('m')])],
-    [('nn', [Sound('n')])],
-    [('pp', [Sound('p')])],
-    [('rr', [Sound('r')])],
-    [('ss', [Sound('s')])],
-    [('ss', [Sound('z')])], # "po[ss]ess"
-    [('ss', [Sound('ʃ')])], # "i[ss]ue"
-    [('tt', [Sound('t')])],
-    [('vv', [Sound('v')])],
-    [('zz', [Sound('z')])],
+    [('bb', ['b'])],
+    [('cc', ['k'])],
+    [('dd', ['d'])],
+    [('ff', ['f'])],
+    [('gg', ['dʒ'])], # "su[gg]est"
+    [('gg', ['g'])],
+    [('kk', ['k'])],
+    [('ll', ['l'])],
+    [('mm', ['m'])],
+    [('nn', ['n'])],
+    [('pp', ['p'])],
+    [('rr', ['r'])],
+    [('ss', ['s'])],
+    [('ss', ['z'])], # "po[ss]ess"
+    [('ss', ['ʃ'])], # "i[ss]ue"
+    [('tt', ['t'])],
+    [('vv', ['v'])],
+    [('zz', ['z'])],
 
-    [('ci', [Sound('ʃ')])], # "spe[ci]al"
-    [('c', [Sound('ʃ')]), ('ie', [Sound('ɪj')])], # "spe[cie]s"
-    [('gi', [Sound('dʒ')])], # "re[gi]on"
-    [('sci', [Sound('ʃ')])], # "con[sci]ous"
-    [('shi', [Sound('ʃ')])], # "fa[shi]on"
-    [('si', [Sound('ʃ')])], # "pen[si]on"
-    [('si', [Sound('ʒ')])], # "ver[si]on"
-    [('ssi', [Sound('ʃ')])], # "mi[ssi]on"
-    [('ti', [Sound('tʃ')])], # "ques[ti]on"
-    [('ti', [Sound('ʃ')])], # "ac[ti]on"
-    [('xi', [Sound('k'), Sound('ʃ')])], # "an[xi]ous"
+    [('ci', ['ʃ'])], # "spe[ci]al"
+    [('c', ['ʃ']), ('ie', ['ɪj'])], # "spe[cie]s"
+    [('gi', ['dʒ'])], # "re[gi]on"
+    [('sci', ['ʃ'])], # "con[sci]ous"
+    [('shi', ['ʃ'])], # "fa[shi]on"
+    [('si', ['ʃ'])], # "pen[si]on"
+    [('si', ['ʒ'])], # "ver[si]on"
+    [('ssi', ['ʃ'])], # "mi[ssi]on"
+    [('ti', ['tʃ'])], # "ques[ti]on"
+    [('ti', ['ʃ'])], # "ac[ti]on"
+    [('xi', ['k', 'ʃ'])], # "an[xi]ous"
 
-    [('awy', [Sound('oj')])], # "l[awy]er"
-    [('aye', [Sound('ɛː')])], # "pr[aye]r"
+    [('awy', ['oj'])], # "l[awy]er"
+    [('aye', ['ɛː'])], # "pr[aye]r"
 
-    [('a', [Sound('oː')])], # "[a]ll"
-    [('a', []), ('o', [Sound('oː')])], # "extr[ao]rdinary"
+    [('a', ['oː'])], # "[a]ll"
+    [('a', []), ('o', ['oː'])], # "extr[ao]rdinary"
 
-    [('c', [Sound('k')])], # "be[c]ome"
-    [('c', []), ('k', [Sound('k')])], # "ba[ck]"
+    [('c', ['k'])], # "be[c]ome"
+    [('c', []), ('k', ['k'])], # "ba[ck]"
 
-    [('e', [Sound('ɔ')])], # "g[e]nre"
-    [('e', []), ('o', [Sound('ɔ')])], # "g[eo]graphy"
+    [('e', ['ɔ'])], # "g[e]nre"
+    [('e', []), ('o', ['ɔ'])], # "g[eo]graphy"
 
-    [('ie', [Sound('ɪj')])], # "mov[ie]"
-    [('i', [Sound('ɪj')]), ('e', [Sound('ə')]), ('r', [])], # "earl[ier]"
+    [('ie', ['ɪj'])], # "mov[ie]"
+    [('i', ['ɪj']), ('e', ['ə']), ('r', [])], # "earl[ier]"
 
-    [('r', [Sound('ə')])], # "fi[r]e"
-    [('r', []), ('o', [Sound('ə')])], # "i[ro]n"
+    [('r', ['ə'])], # "fi[r]e"
+    [('r', []), ('o', ['ə'])], # "i[ro]n"
 
-    [('u', [Sound('ə')])], # "acc[u]rate"
-    [('u', []), ('a', [Sound('ə')])], # "act[ua]lly"
+    [('u', ['ə'])], # "acc[u]rate"
+    [('u', []), ('a', ['ə'])], # "act[ua]lly"
 
-    [('u', [Sound('ɛ')])], # "b[u]ry"
-    [('u', []), ('e', [Sound('ɛ')])], # "g[ue]ss"
+    [('u', ['ɛ'])], # "b[u]ry"
+    [('u', []), ('e', ['ɛ'])], # "g[ue]ss"
 
-    [('u', [Sound('ɪ')])], # "b[u]sy"
-    [('u', []), ('i', [Sound('ɪ')])], # "b[ui]ld"
+    [('u', ['ɪ'])], # "b[u]sy"
+    [('u', []), ('i', ['ɪ'])], # "b[ui]ld"
 ]
 
 PENALIZED_PATTERNS = [
@@ -258,23 +258,28 @@ PENALIZED_PATTERNS = [
     [('r', [])],
 
     # Unspelled sounds
-    [('', [Sound('.')])],
-    [('', [Sound('j')])], # "b[]eauty"
-    [('', [Sound('k')])], # "leng[]th"
-    [('', [Sound('r')])], # "draw[]ing"
-    [('', [Sound('ə')])], # "simp[]le"
+    [('', ['.'])],
+    [('', ['j'])], # "b[]eauty"
+    [('', ['k'])], # "leng[]th"
+    [('', ['r'])], # "draw[]ing"
+    [('', ['ə'])], # "simp[]le"
 ]
 
-TRIE = Trie()
+TRIE = Trie(Trie)
 
 for patterns, penalty in [(PATTERNS, 0), (PENALIZED_PATTERNS, 1)]:
     for pattern in patterns:
-        key   = []
-        value = []
+        spell_key = []
+        sound_key = []
+        lengths   = []
         for spell, sounds in pattern:
-            key.extend(spell)
-            value.append((len(spell), sounds))
-        TRIE.insert(key, (value, penalty))
+            spell_key.extend(spell)
+            sound_key.extend(sounds)
+            lengths.append((len(spell), len(sounds)))
+        TRIE[spell_key][sound_key] = lengths, penalty
+
+def split(lst, i):
+    return lst[:i], lst[i:]
 
 def parse_ipa(ipa):
     return list(map(Sound.from_ipa, ipa.split()))
@@ -303,23 +308,20 @@ def pair(word, pron):
         score, _, word, pron, pairs = heappop(queue)
         if not word and not pron:
             return pairs
-        for patterns in reversed(list(TRIE.lookup(word.lower()))):
-            for pattern, penalty in patterns:
+        for trie in reversed(list(TRIE.lookup_prefixes(word.lower()))):
+            for lengths, penalty in trie.lookup_prefixes(sound.ipa for sound in pron):
                 count += 1
-                result = match(word, pron, pairs, pattern)
-                if result is not None:
-                    heappush(queue, (score + penalty, count, *result))
-
-def match(word, pron, pairs, pattern):
-    matched = []
-    for length, sounds in pattern:
-        word_head = word[:length ]
-        word_tail = word[ length:]
-        pron_head = pron[:len(sounds) ]
-        pron_tail = pron[ len(sounds):]
-        if sounds != pron_head:
-            return None
-        matched.append((word_head, pron_head))
-        word = word_tail
-        pron = pron_tail
-    return word, pron, pairs + matched
+                new_word = word
+                new_pron = pron
+                new_pairs = []
+                for word_length, pron_length in lengths:
+                    word_head, new_word = split(new_word, word_length)
+                    pron_head, new_pron = split(new_pron, pron_length)
+                    new_pairs.append((word_head, pron_head))
+                heappush(queue, (
+                    score + penalty,
+                    count,
+                    new_word,
+                    new_pron,
+                    pairs + new_pairs
+                ))
