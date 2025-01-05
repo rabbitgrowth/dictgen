@@ -231,6 +231,7 @@ PENALIZED_PATTERNS = [
     [('d', [])], # "san[d]wich"
     [('e', [])], # "mak[e]"
     [('g', [])], # "si[g]n"
+    [('gh', [])], # "li[gh]t"
     [('h', [])], # "[h]our", "o[h]"
     [('i', [])], # "bus[i]ness"
     [('k', [])], # "[k]now"

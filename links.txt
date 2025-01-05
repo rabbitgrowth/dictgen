@@ -280,7 +280,7 @@ a l t e r
 a l t e  r n a t i v e
 ɔ l t ə́ː   n ə t ɪ v
 
-a  l th ou g h
+a  l th ou gh
 oː l ð  ə́w
 
 a  l w ay s
@@ -1018,8 +1018,8 @@ b r ɪ́ dʒ
 b r ie f
 b r ɪ́j f
 
-b r i  g h t
-b r ɑ́j     t
+b r i  gh t
+b r ɑ́j    t
 
 b r i ll i a n t
 b r ɪ́ l  j ə n t
@@ -2044,8 +2044,8 @@ d ɛ́j t ə
 d a  t e
 d ɛ́j t
 
-d au g h t e r
-d óː     t ə
+d au gh t e r
+d óː    t ə
 
 d ay
 d ɛ́j
@@ -2146,11 +2146,11 @@ d ə l ɪ́ b ə r ə t   l ɪj
 d e l i ci ou s
 d ə l ɪ́ ʃ  ə  s
 
-d e l i  g h t
-d ə l ɑ́j     t
+d e l i  gh t
+d ə l ɑ́j    t
 
-d e l i  g h t e d
-d ə l ɑ́j     t ɪ d
+d e l i  gh t e d
+d ə l ɑ́j    t ɪ d
 
 d e l i v e r
 d ə l ɪ́ v ə
@@ -2611,14 +2611,14 @@ e ff o r t
 e gg
 ɛ́ g
 
-ei g h t
-ɛ́j     t
+ei gh t
+ɛ́j    t
 
-ei g h t ee n
-ɛ́j     t ɪ́j n
+ei gh t ee n
+ɛ́j    t ɪ́j n
 
-ei g h t y
-ɛ́j     t ɪj
+ei gh t y
+ɛ́j    t ɪj
 
 ei th e r
 ɑ́j ð  ə
@@ -3181,11 +3181,11 @@ f ɪ́ f θ
 f i f t y
 f ɪ́ f t ɪj
 
-f i  g h t
-f ɑ́j     t
+f i  gh t
+f ɑ́j    t
 
-f i  g h t i ng
-f ɑ́j     t ɪ ŋ
+f i  gh t i ng
+f ɑ́j    t ɪ ŋ
 
 f i g u r e
 f ɪ́ g ə
@@ -3274,8 +3274,8 @@ f l á t
 f l e x - i b   l e
 f l ɛ́ k s ə b ə l
 
-f l i  g h t
-f l ɑ́j     t
+f l i  gh t
+f l ɑ́j    t
 
 f l oa t
 f l ə́w t
@@ -3427,14 +3427,14 @@ f r ɛ́  n d l ɪj
 f r ie n d sh i p
 f r ɛ́  n d ʃ  ɪ p
 
-f r i  g h t e n
-f r ɑ́j     t ə n
+f r i  gh t e n
+f r ɑ́j    t ə n
 
-f r i  g h t e n e d
-f r ɑ́j     t ə n   d
+f r i  gh t e n e d
+f r ɑ́j    t ə n   d
 
-f r i  g h t e n i ng
-f r ɑ́j     t   n ɪ ŋ
+f r i  gh t e n i ng
+f r ɑ́j    t   n ɪ ŋ
 
 f r o g
 f r ɔ́ g
@@ -3814,8 +3814,8 @@ h ɛ́  v ɪj
 h ee l
 h ɪ́j l
 
-h ei g h t
-h ɑ́j     t
+h ei gh t
+h ɑ́j    t
 
 h e l i c o p t e r
 h ɛ́ l ɪ k ɔ p t ə
@@ -3862,14 +3862,14 @@ h ɑ́j
 h i  d e
 h ɑ́j d
 
-h i  g h
+h i  gh
 h ɑ́j
 
-h i  g h l i  g h t
-h ɑ́j     l ɑj     t
+h i  gh l i  gh t
+h ɑ́j    l ɑj    t
 
-h i  g h l y
-h ɑ́j     l ɪj
+h i  gh l y
+h ɑ́j    l ɪj
 
 h i ll
 h ɪ́ l
@@ -4249,8 +4249,8 @@ i n s e c t
 i n s i  d e
 ɪ n s ɑ́j d
 
-i n s i  g h t
-ɪ́ n s ɑj     t
+i n s i  gh t
+ɪ́ n s ɑj    t
 
 i n s i s t
 ɪ n s ɪ́ s t
@@ -4696,8 +4696,8 @@ l ɑ́j f   s t ɑj l
 l i f t
 l ɪ́ f t
 
-l i  g h t
-l ɑ́j     t
+l i  gh t
+l ɑ́j    t
 
 l i  k e
 l ɑ́j k
@@ -5041,11 +5041,11 @@ m ɪ́j t ə
 m i dd   l e
 m ɪ́ d  ə l
 
-m i d n i  g h t
-m ɪ́ d n ɑj     t
+m i d n i  gh t
+m ɪ́ d n ɑj    t
 
-m i  g h t
-m ɑ́j     t
+m i  gh t
+m ɑ́j    t
 
 m i  l d
 m ɑ́j l d
@@ -5305,11 +5305,11 @@ n ɪ́j d ə l
 n e g a t i v e
 n ɛ́ g ə t ɪ v
 
-n ei g h b ou r
-n ɛ́j     b ə
+n ei gh b ou r
+n ɛ́j    b ə
 
-n ei g h b ou r h oo d
-n ɛ́j     b ə    h ɵ  d
+n ei gh b ou r h oo d
+n ɛ́j    b ə    h ɵ  d
 
 n ei th e r
 n ɑ́j ð  ə
@@ -5347,11 +5347,11 @@ n ɛ́ k s t
 n i  c e
 n ɑ́j s
 
-n i  g h t
-n ɑ́j     t
+n i  gh t
+n ɑ́j    t
 
-n i  g h t m a  r e
-n ɑ́j     t m ɛː
+n i  gh t m a  r e
+n ɑ́j    t m ɛː
 
 n i  n e
 n ɑ́j n
@@ -5629,8 +5629,8 @@ o th e r
 o th e r w i  s e
 ʌ́ ð  ə   w ɑj z
 
-ou g h t
-óː     t
+ou gh t
+óː    t
 
 ou r
 ɑ́ː
@@ -6892,8 +6892,8 @@ r ɪ́ d
 r i  d e
 r ɑ́j d
 
-r i  g h t
-r ɑ́j     t
+r i  gh t
+r ɑ́j    t
 
 r i ng
 r ɪ́ ŋ
@@ -7375,8 +7375,8 @@ s ɪ́   k
 s i  d e
 s ɑ́j d
 
-s i  g h t
-s ɑ́j     t
+s i  gh t
+s ɑ́j    t
 
 s i  g n
 s ɑ́j   n
@@ -7498,11 +7498,11 @@ s l ɑ́j s
 s l i  d e
 s l ɑ́j d
 
-s l i  g h t
-s l ɑ́j     t
+s l i  gh t
+s l ɑ́j    t
 
-s l i  g h t l y
-s l ɑ́j     t l ɪj
+s l i  gh t l y
+s l ɑ́j    t l ɪj
 
 s l i p
 s l ɪ́ p
@@ -7825,8 +7825,8 @@ s t óː   m
 s t o  r y
 s t óː r ɪj
 
-s t r ai g h t
-s t r ɛ́j     t
+s t r ai gh t
+s t r ɛ́j    t
 
 s t r a  n g  e
 s t r ɛ́j n dʒ
@@ -8272,11 +8272,11 @@ th i  r t y
 th i s
 ð  ɪ́ s
 
-th ou g h
+th ou gh
 ð  ə́w
 
-th ou g h t
-θ  óː     t
+th ou gh t
+θ  óː    t
 
 th ou s a n d
 θ  áw z ə n d
@@ -8293,11 +8293,11 @@ th r ee
 th r oa t
 θ  r ə́w t
 
-th r ou g h
+th r ou gh
 θ  r ʉ́w
 
-th r ou g h ou t
-θ  r ʉw     áw t
+th r ou gh ou t
+θ  r ʉw    áw t
 
 th r ow
 θ  r ə́w
@@ -8317,8 +8317,8 @@ t ɑ́j d ɪj
 t ie
 t ɑ́j
 
-t i  g h t
-t ɑ́j     t
+t i  gh t
+t ɑ́j    t
 
 t i ll
 t ɪ́ l
@@ -8371,8 +8371,8 @@ t ə́w n
 t o ng u e
 t ʌ́ ŋ
 
-t o n i  g h t
-t ə n ɑ́j     t
+t o n i  gh t
+t ə n ɑ́j    t
 
 t oo
 t ʉ́w
@@ -8932,11 +8932,11 @@ w ɪ́j k
 w ee k e n d
 w ɪj k ɛ́ n d
 
-w ei g h
+w ei gh
 w ɛ́j
 
-w ei g h t
-w ɛ́j     t
+w ei gh t
+w ɛ́j    t
 
 w e l c o m e
 w ɛ́ l k ə m
