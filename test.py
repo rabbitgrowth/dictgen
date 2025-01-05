@@ -15,10 +15,10 @@ class TestDictgen(unittest.TestCase):
             sound = Sound.from_ipa(ipa)
             sound.spelled = spelled
             sounds.append(sound)
-        expected = {
+        expected = sorted(
             tuple(map(Stroke, outline.split('/')))
             for outline in outlines.split()
-        }
+        )
         self.assertEqual(generate(sounds), expected)
 
     def test_consonant_vowel_consonant(self):
@@ -66,7 +66,7 @@ class TestDictgen(unittest.TestCase):
 
     def test_ight(self):
         self.T('r i te',  'r ɑ́j t', 'RAOEUT')
-        self.T('r igh t', 'r ɑ́j t', 'ROEUGT')
+        self.T('r i gh t', 'r ɑ́j - t', 'ROEUGT')
 
     def test_igh_t(self):
         self.T('h igh - t ai l', 'h ɑ́j . t ɛj l', 'HAOEU/TAEUL') # not HOEUGT/AEUL
