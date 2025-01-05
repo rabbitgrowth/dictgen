@@ -132,7 +132,7 @@ RIGHT_RULES = [
 
 for chords, rules in [
     (NON_RIGHT_CHORDS, NON_RIGHT_RULES),
-    (RIGHT_CHORDS,     RIGHT_RULES),
+    (RIGHT_CHORDS, RIGHT_RULES),
 ]:
     for ipa, chord in chords.items():
         rules.append(Rule(
