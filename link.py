@@ -135,7 +135,6 @@ PATTERNS = [
     [('th', [Sound('θ')])],
     [('u', [Sound('oː')])], # "c[u]re"
     [('u', [Sound('w')])],
-    [('u', [Sound('ə')])],
     [('u', [Sound('əː')])], # "t[u]rn"
     [('u', [Sound('ɵ')])],
     [('u', [Sound('ɵː')])], # "sec[u]re"
@@ -203,6 +202,9 @@ PATTERNS = [
 
     [('r', [Sound('ə')])], # "fi[r]e"
     [('r', []), ('o', [Sound('ə')])], # "i[ro]n"
+
+    [('u', [Sound('ə')])], # "acc[u]rate"
+    [('u', []), ('a', [Sound('ə')])], # "act[ua]lly"
 
     [('u', [Sound('ɛ')])], # "b[u]ry"
     [('u', []), ('e', [Sound('ɛ')])], # "g[ue]ss"
