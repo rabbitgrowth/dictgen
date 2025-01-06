@@ -4,14 +4,10 @@ from link import link
 STRESS = '\u0301'
 
 def show_ipa(sound):
-    if sound.stressed:
-        return sound.ipa[0] + STRESS + sound.ipa[1:]
-    return sound.ipa
+    return sound.ipa[0] + STRESS + sound.ipa[1:] if sound.stressed else sound.ipa
 
 def show_spell(sound):
-    if sound.cont:
-        return '-'
-    return sound.spell
+    return '-' if sound.cont else sound.spell
 
 def width(item):
     return len(item.replace(STRESS, ''))
