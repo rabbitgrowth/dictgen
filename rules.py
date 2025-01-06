@@ -121,6 +121,10 @@ RIGHT_RULES = [
         [Stroke('-GZ')],
     ),
     Rule(
+        [Sound('', 'r')],
+        [Stroke('-R')],
+    ),
+    Rule(
         [Sound('', 'b')],
         [Stroke('-B')],
     ),

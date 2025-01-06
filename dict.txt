@@ -140,8 +140,8 @@ ABG/TEUFB/-T/AE
 
 a c t o r
 á k t ə
-ABG/T
-ABGT/
+ABG/T-R
+ABGT/-R
 
 a c t r e ss
 á k t r ə s
@@ -220,31 +220,31 @@ UD/SRAUPBT/-PBLG
 
 a d v e n t  u r e
 ə d v ɛ́ n tʃ ə
-UD/SREPB/KH
-UD/SREPB/-FP/
+UD/SREPB/KH-R
+UD/SREPB/-FP/-R
 
 a d v e r t i  s e
 á d v ə   t ɑj z
-AD/SR/TAOEUZ
 AD/SRU/TAOEUZ
-AD/SR-T/AOEUZ
+AD/SR-R/TAOEUZ
+AD/SR-RT/AOEUZ
 
 a d v e  r t i s e m e n t
 ə d v ə́ː   t ɪ s   m ə n t
-UD/SRUR/TEU/SPH-PBT
-UD/SRUR/TU/SPH-PBT
-UD/SRUR/T-S/PH-PBT
-UD/SRURT/SPH-PBT
-UD/SRURT/-S/PH-PBT
+UD/SRUR/UR/T/SPH-PBT
+UD/SRUR/UR/T/-S/PH-PBT
+UD/SRUR/-R/TEU/SPH-PBT
+UD/SRUR/-R/TU/SPH-PBT
+UD/SRUR/-R/T-S/PH-PBT
 
 a d v e r t i  s i ng
 á d v ə   t ɑj z ɪ ŋ
-AD/SR/TAOEU/SWR-PBG
-AD/SR/TAOEUZ/-PBG
 AD/SRU/TAOEU/SWR-PBG
 AD/SRU/TAOEUZ/-PBG
-AD/SR-T/AOEU/SWR-PBG
-AD/SR-T/AOEUZ/-PBG
+AD/SR-R/TAOEU/SWR-PBG
+AD/SR-R/TAOEUZ/-PBG
+AD/SR-RT/AOEU/SWR-PBG
+AD/SR-RT/AOEUZ/-PBG
 
 a d v i  c e
 ə d v ɑ́j s
@@ -256,7 +256,7 @@ UD/SRAOEUZ
 
 a ff ai r
 ə f  ɛ́ː
-U/TPAEUR
+U/TPAEUR/-R
 
 a ff e c t
 ə f  ɛ́ k t
@@ -264,7 +264,7 @@ U/TPEBGT
 
 a ff o  r d
 ə f  óː   d
-U/TPAUD
+U/TPAURD
 
 a f r ai d
 ə f r ɛ́j d
@@ -273,23 +273,23 @@ UF/RAEUD
 
 a  f t e r
 ɑ́ː f t ə
-AUF/T
-AUFT/
+AUF/T-R
+AUFT/-R
 
 a  f t e r n oo n
 ɑ́ː f t ə   n ʉ́w n
-AUF/T/TPHAOUPB
 AUF/TU/TPHAOUPB
-AUFT//TPHAOUPB
+AUF/T-R/TPHAOUPB
 AUFT/TPHAOUPB
+AUFT/-R/TPHAOUPB
 
 a  f t e r w a r d s
 ɑ́ː f t ə   w ə   d z
-AUF/T/W-DZ
-AUF/TW-DZ
-AUF/TU/W-DZ
-AUFT//W-DZ
-AUFT/W-DZ
+AUF/TW-RDZ
+AUF/TU/W-RDZ
+AUF/T-R/W-RDZ
+AUFT/W-RDZ
+AUFT/-R/W-RDZ
 
 a g ai n
 ə g ɛ́  n
@@ -363,26 +363,26 @@ AEUPL
 
 ai r
 ɛ́ː
-AEUR
+AEUR/-R
 
 ai r c r a  f t
 ɛ́ː   k r ɑː f t
-AEUR/KRAUFT
-AEURBG/RAUFT
+AEUR/UR/K/RAUFT
+AEUR/-R/KRAUFT
 
 ai r l i  n e
 ɛ́ː   l ɑj n
-AEUR/HRAOEUPB
-AEURL/AOEUPB
+AEUR/UR/HR/AOEUPB
+AEUR/-R/HRAOEUPB
 
 ai r p o  r t
 ɛ́ː   p oː   t
-AEUR/PAUT
-AEURP/AUT
+AEUR/UR/P/AURT
+AEUR/-R/PAURT
 
 a l a  r m
 ə l ɑ́ː   m
-U/HRAUPL
+U/HRAURPL
 
 a l b u m
 á l b ə m
@@ -437,15 +437,15 @@ AULS/OE
 
 a l t e r
 ɔ́ l t ə
-AUL/T
-AULT/
+AUL/T-R
+AULT/-R
 
 a l t e  r n a t i v e
 ɔ l t ə́ː   n ə t ɪ v
-AUL/TUR/TPHU/T-FB
-AUL/TUR/TPH-T/-FB
-AUL/TURPB/T-FB
-AUL/TURPB/-T/-FB
+AUL/TUR/UR/TPH/T-FB
+AUL/TUR/UR/TPH/-T/-FB
+AUL/TUR/-R/TPHU/T-FB
+AUL/TUR/-R/TPH-T/-FB
 
 a  l th ou gh
 oː l ð  ə́w
@@ -511,8 +511,8 @@ UPBD
 
 a n g e r
 á ŋ g ə
-APBG/TKPW
-APBG/-G/
+APBG/TKPW-R
+APBG/-G/-R
 
 a n g   l e
 á ŋ g ə l
@@ -536,11 +536,11 @@ APBG/-BG/-L
 
 a nn i v e  r s a r y
 á n  ɪ v ə́ː   s ə r ɪj
-APB/SRUR/SRAE
-APB/SRUR/SU/RAE
-APB/SRUR/S-R/AE
-APB/SRURS/RAE
-APB/SRURS/-R/AE
+APB/SRUR/UR/S/RAE
+APB/SRUR/UR/S/-R/AE
+APB/SRUR/-R/SRAE
+APB/SRUR/-R/SU/RAE
+APB/SRUR/-R/S-R/AE
 
 a nn ou n c e
 ə n  áw n s
@@ -569,13 +569,13 @@ APB/KWRAOU/-L
 
 a n o th e r
 ə n ʌ́ ð  ə
-U/TPHUGT/
+U/TPHUGT/-R
 
 a  n s w e r
 ɑ́ː n s   ə
-AUPB/SW
-AUPBS/
-AUPBS/W
+AUPB/SW-R
+AUPBS/W-R
+AUPBS/-R
 
 a n xi - ou s
 á ŋ k  ʃ ə  s
@@ -607,15 +607,15 @@ EPB/AE/WAEU
 
 a n y  w h e  r e
 ɛ́ n ɪj w   ɛː
-EPB/AE/WHAEUR
+EPB/AE/WHAEUR/-R
 
 a p a  r t
 ə p ɑ́ː   t
-U/PAUT
+U/PAURT
 
 a p a  r t m e n t
 ə p ɑ́ː   t m ə n t
-U/PAUT/PH-PBT
+U/PAURT/PH-PBT
 
 a p o l o g  i  z e
 ə p ɔ́ l ə dʒ ɑj z
@@ -640,7 +640,7 @@ U/PAOEL
 
 a pp ea r
 ə p  ɪ́ː
-U/PAOER
+U/PAOER/-R
 
 a pp ea r a n c e
 ə p  ɪ́ː r ə n s
@@ -713,19 +713,19 @@ AEUP/R-L
 
 a  r ch i t e c t
 ɑ́ː   k  ɪ t ɛ k t
-AU/KEU/TEBGT
-AU/KU/TEBGT
-AU/K-T/EBGT
-AUBG/TEBGT
-AUBG/-T/EBGT
+AUR/KEU/TEBGT
+AUR/KU/TEBGT
+AUR/K-T/EBGT
+AURBG/TEBGT
+AURBG/-T/EBGT
 
 a  r ch i t e c t  u r e
 ɑ́ː   k  ɪ t ɛ k tʃ ə
-AU/KEU/TEBG/KH
-AU/KU/TEBG/KH
-AU/K-T/EBG/KH
-AUBG/TEBG/KH
-AUBG/-T/EBG/KH
+AUR/KEU/TEBG/KH-R
+AUR/KU/TEBG/KH-R
+AUR/K-T/EBG/KH-R
+AURBG/TEBG/KH-R
+AURBG/-T/EBG/KH-R
 
 a  r e  a
 ɛ́ː r ɪj ə
@@ -733,15 +733,15 @@ AEUR/-R/AE
 
 a  r g   ue
 ɑ́ː   g j ʉw
-AU/TKPWU/KWRAOU
-AUG/KWRAOU
+AUR/TKPWU/KWRAOU
+AURG/KWRAOU
 
 a  r g   u m e n t
 ɑ́ː   g j ə m ə n t
-AU/TKPWU/KWRU/PH-PBT
-AU/TKPWU/KWR-PL/-PBT
-AUG/KWRU/PH-PBT
-AUG/KWR-PL/-PBT
+AUR/TKPWU/KWRU/PH-PBT
+AUR/TKPWU/KWR-PL/-PBT
+AURG/KWRU/PH-PBT
+AURG/KWR-PL/-PBT
 
 a r i  s e
 ə r ɑ́j z
@@ -749,20 +749,20 @@ U/RAOEUZ
 
 a  r m
 ɑ́ː   m
-AUPL
+AURPL
 
 a  r m e d
 ɑ́ː   m   d
-AUPLD
+AURPLD
 
 a  r m s
 ɑ́ː   m z
-AUPLZ
+AURPLZ
 
 a  r m y
 ɑ́ː   m ɪj
-AU/PHAE
-AUPL/AE
+AUR/PHAE
+AURPL/AE
 
 a r ou n d
 ə r áw n d
@@ -790,31 +790,33 @@ U/RAOEUFB
 
 a  r t
 ɑ́ː   t
-AUT
+AURT
 
 a  r t i c   l e
 ɑ́ː   t ɪ k ə l
-AU/TK-L
-AU/TEU/K-L
-AU/T-BG/-L
-AUT/K-L
-AUT/-BG/-L
+AUR/TK-L
+AUR/TEU/K-L
+AUR/T-BG/-L
+AURT/K-L
+AURT/-BG/-L
 
 a  r t i f i ci a l
 ɑ́ː   t ɪ f ɪ́ ʃ  ə l
-AU/TEU/TPEUGS/-L
-AU/TU/TPEUGS/-L
-AUT/TPEUGS/-L
+AUR/TEU/TPEUGS/-L
+AUR/TU/TPEUGS/-L
+AURT/TPEUGS/-L
 
 a  r t i s t
 ɑ́ː   t ɪ s t
-AU/T*S
-AUT/*S
+AUR/T*S
+AURT/*S
 
 a  r t i s t i c
 ɑː   t ɪ́ s t ɪ k
 AU/T*EUS/-BG
 AU/TEUS/T-BG
+AUR/T*EUS/-BG
+AUR/TEUS/T-BG
 
 a s
 á z
@@ -899,8 +901,8 @@ AGT/HRAOET
 
 a t m o s ph e  r e
 á t m ə s f  ɪː
-AT/PHU/STPAOER
-AT/PH-S/TPAOER
+AT/PHU/STPAOER/-R
+AT/PH-S/TPAOER/-R
 
 a tt a ch
 ə t  á tʃ
@@ -958,7 +960,7 @@ AUPBT
 
 au th o r
 óː θ  ə
-AUGT/
+AUGT/-R
 
 au th o r i t y
 oː θ  ɔ́ r ə t ɪj
@@ -985,11 +987,11 @@ U/SROEUD
 
 a w a  r d
 ə w óː   d
-U/WAUD
+U/WAURD
 
 a w a  r e
 ə w ɛ́ː
-U/WAEUR
+U/WAEUR/-R
 
 a w ay
 ə w ɛ́j
@@ -1013,8 +1015,8 @@ PWABG/TKPWROUPBD
 
 b a c k w a r d s
 b á   k w ə   d z
-PWA/KW-DZ
-PWABG/W-DZ
+PWA/KW-RDZ
+PWABG/W-RDZ
 
 b a c t e  r i  a
 b a k t ɪ́ː r ɪj ə
@@ -1062,11 +1064,11 @@ PWAPBG/-BG
 
 b a  r
 b ɑ́ː
-PWAU
+PWAUR
 
 b a rr i  e r
 b á r  ɪj ə
-PWAR/AE/
+PWAR/AE/-R
 
 b a  s e
 b ɛ́j s
@@ -1129,7 +1131,7 @@ PWAOEPB
 
 b ea r
 b ɛ́ː
-PWAEUR
+PWAEUR/-R
 
 b ea t
 b ɪ́j t
@@ -1177,11 +1179,11 @@ PWAOEF
 
 b ee r
 b ɪ́ː
-PWAOER
+PWAOER/-R
 
 b e f o  r e
 b ə f óː
-PWU/TPAU
+PWU/TPAUR
 
 b e g
 b ɛ́ g
@@ -1202,8 +1204,8 @@ PWU/HAEUFB
 
 b e h a  v i ou r
 b ə h ɛ́j v j ə
-PWHAEUFB/KWR
-PWU/HAEUFB/KWR
+PWHAEUFB/KWR-R
+PWU/HAEUFB/KWR-R
 
 b e h i  n d
 b ə h ɑ́j n d
@@ -1265,7 +1267,7 @@ PWET
 
 b e tt e r
 b ɛ́ t  ə
-PWET/
+PWET/-R
 
 b e t w ee n
 b ə t w ɪ́j n
@@ -1308,15 +1310,15 @@ PWAOEU/AUL/-PBLG/AE
 
 b i  r d
 b ə́ː   d
-PWURD
+PWUR/UR/TK
 
 b i  r th
 b ə́ː   θ
-PWURGT
+PWUR/UR/TH
 
 b i  r th d ay
 b ə́ː   θ  d ɛj
-PWURGT/TKAEU
+PWUR/UR/TH/TKAEU
 
 b i s c u i t
 b ɪ́ s k   ɪ t
@@ -1333,7 +1335,7 @@ PWAOEUT
 
 b i tt e r
 b ɪ́ t  ə
-PWEUT/
+PWEUT/-R
 
 b l a c k
 b l á   k
@@ -1377,7 +1379,7 @@ PWHRAOU
 
 b oa r d
 b óː   d
-PWAUD
+PWAURD
 
 b oa t
 b ə́w t
@@ -1413,12 +1415,12 @@ PWAOUT
 
 b o  r d e r
 b óː   d ə
-PWAU/TK
-PWAUD/
+PWAUR/TK-R
+PWAURD/-R
 
 b o  r e d
 b óː     d
-PWAUD
+PWAURD
 
 b o  r i ng
 b óː r ɪ ŋ
@@ -1426,7 +1428,7 @@ PWAUR/-PBG
 
 b o  r n
 b óː   n
-PWAUPB
+PWAURPB
 
 b o rr ow
 b ɔ́ r  əw
@@ -1442,7 +1444,7 @@ PWOEGT
 
 b o th e r
 b ɔ́ ð  ə
-PWAUGT/
+PWAUGT/-R
 
 b o tt   l e
 b ɔ́ t  ə l
@@ -1550,7 +1552,7 @@ PWROEBG/-PB
 
 b r o th e r
 b r ʌ́ ð  ə
-PWRUGT/
+PWRUGT/-R
 
 b r ow n
 b r áw n
@@ -1587,7 +1589,7 @@ PWUPB/-FP
 
 b u  r n
 b ə́ː   n
-PWURPB
+PWUR/UR/TPH
 
 b u r y
 b ɛ́ r ɪj
@@ -1624,7 +1626,7 @@ PWUT
 
 b u tt e r
 b ʌ́ t  ə
-PWUT/
+PWUT/-R
 
 b u tt o n
 b ʌ́ t  ə n
@@ -1703,8 +1705,8 @@ KAPBS/-L
 
 c a n c e r
 k á n s ə
-KAPB/S
-KAPBS/
+KAPB/S-R
+KAPBS/-R
 
 c a n d i d a t e
 k á n d ɪ d ə t
@@ -1746,47 +1748,47 @@ KAPT/-PB
 
 c a p t  u r e
 k á p tʃ ə
-KAP/KH
+KAP/KH-R
 
 c a  r
 k ɑ́ː
-KAU
+KAUR
 
 c a  r d
 k ɑ́ː   d
-KAUD
+KAURD
 
 c a  r e
 k ɛ́ː
-KAEUR
+KAEUR/-R
 
 c a r ee r
 k ə r ɪ́ː
-KRAOER
-KU/RAOER
+KRAOER/-R
+KU/RAOER/-R
 
 c a  r e f u l
 k ɛ́ː     f ə l
-KAEUR/TP-L
-KAEUR/-F/-L
+KAEUR/UR/TP/-L
+KAEUR/-R/TP-L
 
 c a  r e f u ll y
 k ɛ́ː     f ə l  ɪj
-KAEUR/TPHRAE
-KAEUR/TPU/HRAE
-KAEUR/TP-L/AE
-KAEUR/-F/HRAE
-KAEUR/-F/-L/AE
+KAEUR/UR/TP/HRAE
+KAEUR/UR/TP/-L/AE
+KAEUR/-R/TPHRAE
+KAEUR/-R/TPU/HRAE
+KAEUR/-R/TP-L/AE
 
 c a  r e l e ss
 k ɛ́ː     l ə s
-KAEUR/HR-S
-KAEURL/-S
+KAEUR/UR/HR/-S
+KAEUR/-R/HR-S
 
 c a  r p e t
 k ɑ́ː   p ɪ t
-KAU/P-T
-KAUP/-T
+KAUR/P-T
+KAURP/-T
 
 c a rr o t
 k á r  ə t
@@ -1799,6 +1801,7 @@ KAR/AE
 c a  r t oo n
 k ɑː   t ʉ́w n
 KAU/TAOUPB
+KAUR/TAOUPB
 
 c a  s e
 k ɛ́j s
@@ -1892,13 +1895,13 @@ SER/-PL/-PB/AE
 
 c e  r t ai n
 s ə́ː   t ə  n
-SUR/T-PB
-SURT/-PB
+SUR/UR/T/-PB
+SUR/-R/T-PB
 
 c e  r t ai n l y
 s ə́ː   t ə  n l ɪj
-SUR/T-PB/HRAE
-SURT/-PB/HRAE
+SUR/UR/T/-PB/HRAE
+SUR/-R/T-PB/HRAE
 
 ch ai n
 tʃ ɛ́j n
@@ -1906,12 +1909,12 @@ KHAEUPB
 
 ch ai r
 tʃ ɛ́ː
-KHAEUR
+KHAEUR/-R
 
 ch ai r m a n
 tʃ ɛ́ː   m ə n
-KHAEUR/PH-PB
-KHAEURPL/-PB
+KHAEUR/UR/PH/-PB
+KHAEUR/-R/PH-PB
 
 ch a ll e n g  e
 tʃ á l  ə n dʒ
@@ -1936,13 +1939,13 @@ KHAPB/-L
 
 ch a p t e r
 tʃ á p t ə
-KHAP/T
-KHAPT/
+KHAP/T-R
+KHAPT/-R
 
 ch a r a c t e r
 k  á r ə k t ə
-KAR/-BG/T
-KAR/-BGT/
+KAR/-BG/T-R
+KAR/-BGT/-R
 
 ch a r a c t e r i s t i c
 k  á r ə k t ə r ɪ́ s t ɪ k
@@ -1955,7 +1958,7 @@ KAR/-BGT/REUS/T-BG
 
 ch a  r g  e
 tʃ ɑ́ː   dʒ
-KHAUPBLG
+KHAURPBLG
 
 ch a r i t y
 tʃ á r ə t ɪj
@@ -1964,7 +1967,7 @@ KHAR/-T/AE
 
 ch a  r t
 tʃ ɑ́ː   t
-KHAUT
+KHAURT
 
 ch a t
 tʃ á t
@@ -1984,8 +1987,8 @@ KHEBG
 
 ch ee r f u l
 tʃ ɪ́ː   f ə l
-KHAOER/TP-L
-KHAOER/-F/-L
+KHAOER/UR/TP/-L
+KHAOER/-R/TP-L
 
 ch ee s e
 tʃ ɪ́j z
@@ -2045,7 +2048,7 @@ KHAOUZ
 
 ch u  r ch
 tʃ ə́ː   tʃ
-KHUR/-FP
+KHUR/UR/KH
 
 c i g a r e tt e
 s ɪ́ g ə r ɛ́ t
@@ -2058,13 +2061,13 @@ SEUPB/-PL/AU
 
 c i  r c   l e
 s ə́ː   k ə l
-SUR/K-L
-SURBG/-L
+SUR/UR/K/-L
+SUR/-R/K-L
 
 c i  r c u m s t a n c e
 s ə́ː   k ə m s t a n s
-SUR/K-PL/STAPBS
-SURBG/-PL/STAPBS
+SUR/UR/K/-PL/STAPBS
+SUR/-R/K-PL/STAPBS
 
 c i  t e
 s ɑ́j t
@@ -2114,16 +2117,16 @@ KHRAOEPB
 
 c l ea r
 k l ɪ́ː
-KHRAOER
+KHRAOER/-R
 
 c l ea r l y
 k l ɪ́ː   l ɪj
-KHRAOER/HRAE
-KHRAOERL/AE
+KHRAOER/UR/HR/AE
+KHRAOER/-R/HRAE
 
 c l e v e r
 k l ɛ́ v ə
-KHREFB/
+KHREFB/-R
 
 c l i c k
 k l ɪ́   k
@@ -2246,11 +2249,11 @@ KAUL/-PBLG
 
 c o l ou r
 k ʌ́ l ə
-KUL/
+KUL/-R
 
 c o l ou r e d
 k ʌ́ l ə      d
-KUL/-D
+KUL/-RD
 
 c o l u m n
 k ɔ́ l ə m
@@ -2280,8 +2283,8 @@ KAUPL/UD/AE
 
 c o m f o r t
 k ʌ́ m f ə   t
-KUPL/TP-T
-KUPL/-F/-T
+KUPL/TP-RT
+KUPL/-F/-RT
 
 c o m f o r t a b   l e
 k ʌ́ m f     t ə b ə l
@@ -2300,10 +2303,10 @@ KAUPL/EPBT
 
 c o mm e  r ci a l
 k ə m  ə́ː   ʃ  ə l
-KPHUR/SH-L
-KPHURGS/-L
-KU/PHUR/SH-L
-KU/PHURGS/-L
+KPHUR/UR/SH/-L
+KPHUR/-R/SH-L
+KU/PHUR/UR/SH/-L
+KU/PHUR/-R/SH-L
 
 c o mm i ssi o n
 k ə m  ɪ́ ʃ   ə n
@@ -2366,7 +2369,7 @@ KUPL/P-PB/AE
 
 c o m p a  r e
 k ə m p ɛ́ː
-KUPL/PAEUR
+KUPL/PAEUR/-R
 
 c o m p a r i s o n
 k ə m p á r ɪ s ə n
@@ -2389,8 +2392,8 @@ KUPL/PET/-T/-FB
 
 c o m p e t i t o r
 k ə m p ɛ́ t ɪ t ə
-KUPL/PET/T
-KUPL/PET/-T/
+KUPL/PET/T-R
+KUPL/PET/-T/-R
 
 c o m p l ai n
 k ə m p l ɛ́j n
@@ -2438,8 +2441,8 @@ KUPL/POEPB/-PBT
 
 c o m p   u  t e r
 k ə m p j ʉ́w t ə
-KUFPL/KWRAOUT/
-KUPL/PU/KWRAOUT/
+KUFPL/KWRAOUT/-R
+KUPL/PU/KWRAOUT/-R
 
 c o n c e n t r a  t e
 k ɔ́ n s ə n t r ɛj t
@@ -2462,20 +2465,20 @@ KAUPBS/EPT
 
 c o n c e  r n
 k ə n s ə́ː   n
-KUPB/SURPB
+KUPB/SUR/UR/TPH
 
 c o n c e  r n e d
 k ə n s ə́ː   n   d
-KUPB/SURPBD
+KUPB/SUR/UR/TPHU/TK
 
 c o n c e r t
 k ɔ́ n s ə   t
-KAUPB/S-T
-KAUPBS/-T
+KAUPB/S-RT
+KAUPBS/-RT
 
 c o n c e  r t
 k ə n s ə́ː   t
-KUPB/SURT
+KUPB/SUR/UR/T
 
 c o n c l u  d e
 k ə n k l ʉ́w d
@@ -2517,7 +2520,7 @@ KAUPB/TP-D/-PBT
 
 c o n f i  r m
 k ə n f ə́ː   m
-KUPB/TPURPL
+KUPB/TPUR/UR/PH
 
 c o n f l i c t
 k ɔ́ n f l ɪ k t
@@ -2566,14 +2569,14 @@ KAUPBS/-BG/W-PBS
 
 c o n s e  r v a t i v e
 k ə n s ə́ː   v ə t ɪ v
-KUPB/SUR/SRU/T-FB
-KUPB/SUR/SR-T/-FB
-KUPB/SUR/-FB/T-FB
-KUPB/SUR/-FB/-T/-FB
+KUPB/SUR/UR/SR/T-FB
+KUPB/SUR/UR/SR/-T/-FB
+KUPB/SUR/-R/SRU/T-FB
+KUPB/SUR/-R/SR-T/-FB
 
 c o n s i d e r
 k ə n s ɪ́ d ə
-KUPB/SEUD/
+KUPB/SEUD/-R
 
 c o n s i d e r a  ti o n
 k ə n s ɪ́ d ə r ɛ́j ʃ  ə n
@@ -2620,8 +2623,8 @@ KUPBS/KWRAOUPL
 
 c o n s   u  m e r
 k ə n s j ʉ́w m ə
-KUPB/SKWRAOUPL/
-KUPBS/KWRAOUPL/
+KUPB/SKWRAOUPL/-R
+KUPBS/KWRAOUPL/-R
 
 c o n t a c t
 k ɔ́ n t a k t
@@ -2634,7 +2637,7 @@ KUPB/TAEUPB
 
 c o n t ai n e r
 k ə n t ɛ́j n ə
-KUPB/TAEUPB/
+KUPB/TAEUPB/-R
 
 c o n t e m p o r a r y
 k ə n t ɛ́ m p   r ə r ɪj
@@ -2727,16 +2730,16 @@ KUPB/SRAOEPB/AE/-PBT
 
 c o n v e r s a  ti o n
 k ɔ́ n v ə   s ɛ́j ʃ  ə n
-KAUPB/SR/SAEUGZ
 KAUPB/SRU/SAEUGZ
+KAUPB/SR-R/SAEUGZ
 
 c o n v e  r t
 k ɔ́ n v əː   t
-KAUPB/SRURT
+KAUPB/SRUR/UR/T
 
 c o n v e  r t
 k ə n v ə́ː   t
-KUPB/SRURT
+KUPB/SRUR/UR/T
 
 c o n v i n c e
 k ə n v ɪ́ n s
@@ -2752,7 +2755,7 @@ KAOBG
 
 c oo k e r
 k ɵ́  k ə
-KAOBG/
+KAOBG/-R
 
 c oo k i ng
 k ɵ́  k ɪ ŋ
@@ -2768,20 +2771,20 @@ KAUP/AE
 
 c o  r e
 k óː
-KAU
+KAUR
 
 c o  r n e r
 k óː   n ə
-KAU/TPH
-KAUPB/
+KAUR/TPH-R
+KAURPB/-R
 
 c o  r p o r a t e
 k óː   p ə r ə t
-KAU/PR-T
-KAU/PU/R-T
-KAU/P-R/-T
-KAUP/R-T
-KAUP/-R/-T
+KAUR/PR-T
+KAUR/PU/R-T
+KAUR/P-R/-T
+KAURP/R-T
+KAURP/-R/-T
 
 c o rr e c t
 k ə r  ɛ́ k t
@@ -2853,11 +2856,11 @@ KUR/-PBLG
 
 c ou r s e
 k óː   s
-KAUS
+KAURS
 
 c ou r t
 k óː   t
-KAUT
+KAURT
 
 c ou s i n
 k ʌ́  z ə n
@@ -2865,11 +2868,11 @@ KUZ/-PB
 
 c o v e r
 k ʌ́ v ə
-KUFB/
+KUFB/-R
 
 c o v e r e d
 k ʌ́ v ə     d
-KUFB/-D
+KUFB/-RD
 
 c ow
 k áw
@@ -2901,7 +2904,7 @@ KRAE/AEUT/-FB
 
 c r ea t  u r e
 k r ɪ́j tʃ ə
-KRAOEFP/
+KRAOEFP/-R
 
 c r e d i t
 k r ɛ́ d ɪ t
@@ -2988,8 +2991,8 @@ KUL/-FP/-R/-L
 
 c u l t  u r e
 k ʌ́ l tʃ ə
-KUL/KH
-KUL/-FP/
+KUL/KH-R
+KUL/-FP/-R
 
 c u p
 k ʌ́ p
@@ -2997,17 +3000,17 @@ KUP
 
 c u p b oa r d
 k ʌ́   b ə    d
-KU/PW-D
-KUB/-D
+KU/PW-RD
+KUB/-RD
 
 c   u  r e
 k j óː
-KU/KWRAU
+KU/KWRAUR
 
 c u  r l y
 k ə́ː   l ɪj
-KUR/HRAE
-KURL/AE
+KUR/UR/HR/AE
+KUR/-R/HRAE
 
 c u rr e n c y
 k ʌ́ r  ə n s ɪj
@@ -3024,16 +3027,16 @@ KUR/-PBT/HRAE
 
 c u  r t ai n
 k ə́ː   t ə  n
-KUR/T-PB
-KURT/-PB
+KUR/UR/T/-PB
+KUR/-R/T-PB
 
 c u  r v e
 k ə́ː   v
-KUR/-FB
+KUR/UR/SR
 
 c u  r v e d
 k ə́ː   v   d
-KUR/UFB/TK
+KUR/UR/SRU/TK
 
 c u s t o m
 k ʌ́ s t ə m
@@ -3042,11 +3045,11 @@ KUS/T-PL
 
 c u s t o m e r
 k ʌ́ s t ə m ə
-K*US/PH
-K*US/-PL/
-KUS/TPH
-KUS/TU/PH
-KUS/T-PL/
+K*US/PH-R
+K*US/-PL/-R
+KUS/TPH-R
+KUS/TU/PH-R
+KUS/T-PL/-R
 
 c u t
 k ʌ́ t
@@ -3074,8 +3077,8 @@ TKAUPBS
 
 d a  n c e r
 d ɑ́ː n s ə
-TKAUPB/S
-TKAUPBS/
+TKAUPB/S-R
+TKAUPBS/-R
 
 d a  n c i ng
 d ɑ́ː n s ɪ ŋ
@@ -3084,8 +3087,8 @@ TKAUPBS/-PBG
 
 d a  n g  e r
 d ɛ́j n dʒ ə
-TKAEUPB/SKWR
-TKAEUPB/-PBLG/
+TKAEUPB/SKWR-R
+TKAEUPB/-PBLG/-R
 
 d a  n g  e r ou s
 d ɛ́j n dʒ ə r ə  s
@@ -3096,7 +3099,7 @@ TKAEUPB/-PBLG/-R/-S
 
 d a  r k
 d ɑ́ː   k
-TKAUBG
+TKAURBG
 
 d a  t a
 d ɛ́j t ə
@@ -3108,8 +3111,8 @@ TKAEUT
 
 d au gh t e r
 d óː    t ə
-TKAU/T
-TKAUT/
+TKAU/T-R
+TKAUT/-R
 
 d ay
 d ɛ́j
@@ -3125,7 +3128,7 @@ TKAOEL
 
 d ea r
 d ɪ́ː
-TKAOER
+TKAOER/-R
 
 d ea th
 d ɛ́  θ
@@ -3146,8 +3149,8 @@ TKEBG/AEUD
 
 D e c e m b e r
 d ɪ s ɛ́ m b ə
-TKEU/SEPL/PW
-TKU/SEPL/PW
+TKEU/SEPL/PW-R
+TKU/SEPL/PW-R
 
 d e  c e n t
 d ɪ́j s ə n t
@@ -3162,8 +3165,8 @@ d ɪ s ɪ́ ʒ  ə n
 
 d e c l a  r e
 d ə k l ɛ́ː
-TKU/KHRAEUR
-TKUBG/HRAEUR
+TKU/KHRAEUR/-R
+TKUBG/HRAEUR/-R
 
 d e c l i  n e
 d ə k l ɑ́j n
@@ -3276,8 +3279,8 @@ TKU/HROEUGT/UD
 
 d e l i v e r
 d ə l ɪ́ v ə
-TKHREUFB/
-TKU/HREUFB/
+TKHREUFB/-R
+TKU/HREUFB/-R
 
 d e l i v e r y
 d ə l ɪ́ v ə r ɪj
@@ -3307,15 +3310,15 @@ TKU/TPHAOEU
 
 d e p a  r t m e n t
 d ə p ɑ́ː   t m ə n t
-TKPAUT/PH-PBT
-TKU/PAUT/PH-PBT
+TKPAURT/PH-PBT
+TKU/PAURT/PH-PBT
 
 d e p a  r t  u r e
 d ə p ɑ́ː   tʃ ə
-TKPAU/KH
-TKPAUFP/
-TKU/PAU/KH
-TKU/PAUFP/
+TKPAUR/KH-R
+TKPAUR/-FP/-R
+TKU/PAUR/KH-R
+TKU/PAUR/-FP/-R
 
 d e p e n d
 d ə p ɛ́ n d
@@ -3352,15 +3355,15 @@ TKUS/-BG/REUP/SH-PB
 
 d e s e r t
 d ɛ́ z ə   t
-TKEZ/-T
+TKEZ/-RT
 
 d e s e  r t
 d ə z ə́ː   t
-TKU/SWRURT
+TKU/SWRUR/UR/T
 
 d e s e  r v e
 d ə z ə́ː   v
-TKU/SWRUR/-FB
+TKU/SWRUR/UR/SR
 
 d e s i  g n
 d ə z ɑ́j   n
@@ -3368,8 +3371,8 @@ TKU/SWRAOEUPB
 
 d e s i  g n e r
 d ə z ɑ́j   n ə
-TKU/SWRAOEU/TPH
-TKU/SWRAOEUPB/
+TKU/SWRAOEU/TPH-R
+TKU/SWRAOEUPB/-R
 
 d e s i  r e
 d ə z ɑ́j ə
@@ -3420,13 +3423,13 @@ TKU/TEBGT/-FB
 
 d e t e  r m i n e
 d ə t ə́ː   m ə n
-TKU/TUR/PH-PB
-TKU/TURPL/-PB
+TKU/TUR/UR/PH/-PB
+TKU/TUR/-R/PH-PB
 
 d e t e  r m i n e d
 d ə t ə́ː   m ə n   d
-TKU/TUR/PH-PBD
-TKU/TURPL/-PBD
+TKU/TUR/UR/PH/-PBD
+TKU/TUR/-R/PH-PBD
 
 d e v e l o p
 d ə v ɛ́ l ə p
@@ -3507,7 +3510,7 @@ TKEUPBLG/-T/-L
 
 d i nn e r
 d ɪ́ n  ə
-TKEUPB/
+TKEUPB/-R
 
 d i  r e c t
 d ɑj r ɛ́ k t
@@ -3523,17 +3526,17 @@ TKAOEU/REBGT/HRAE
 
 d i  r e c t o r
 d ɑj r ɛ́ k t ə
-TKAOEU/REBG/T
-TKAOEU/REBGT/
+TKAOEU/REBG/T-R
+TKAOEU/REBGT/-R
 
 d i  r t
 d ə́ː   t
-TKURT
+TKUR/UR/T
 
 d i  r t y
 d ə́ː   t ɪj
-TKUR/TAE
-TKURT/AE
+TKUR/UR/T/AE
+TKUR/-R/TAE
 
 d i s a d v a  n t a g  e
 d ɪ́ s ə d v ɑ́ː n t ɪ dʒ
@@ -3547,7 +3550,7 @@ TKEUS/UG/RAE
 
 d i s a pp ea r
 d ɪ́ s ə p  ɪ́ː
-TKEUS/PAOER
+TKEUS/PAOER/-R
 
 d i s a pp oi n t e d
 d ɪ́ s ə p  ój n t ɪ d
@@ -3561,10 +3564,10 @@ TKEUS/POEUPBT/-PBG
 
 d i s a  s t e r
 d ɪ z ɑ́ː s t ə
-TKEU/SWRA*US/
-TKEU/SWRAUS/T
-TKU/SWRA*US/
-TKU/SWRAUS/T
+TKEU/SWRA*US/-R
+TKEU/SWRAUS/T-R
+TKU/SWRA*US/-R
+TKU/SWRAUS/T-R
 
 d i s c
 d ɪ́ s k
@@ -3589,9 +3592,9 @@ TKEUS/-BG/OUPBT
 
 d i s c o v e r
 d ɪ s k ʌ́ v ə
-TKEU/SKUFB/
-TKEUS/KUFB/
-TKU/SKUFB/
+TKEU/SKUFB/-R
+TKEUS/KUFB/-R
+TKU/SKUFB/-R
 
 d i s c o v e r y
 d ɪ s k ʌ́ v ə r ɪj
@@ -3688,8 +3691,8 @@ d ɪ v ɪ́ ʒ  ə n
 
 d i v o  r c e d
 d ɪ v óː   s   t
-TKEU/SRAUS/-T
-TKU/SRAUS/-T
+TKEU/SRAURS/-T
+TKU/SRAURS/-T
 
 d o
 d ʉ́w
@@ -3706,8 +3709,8 @@ TKOE
 
 d o c t o r
 d ɔ́ k t ə
-TKAUBG/T
-TKAUBGT/
+TKAUBG/T-R
+TKAUBGT/-R
 
 d o c   u m e n t
 d ɔ́ k j ə m ɛ n t
@@ -3730,7 +3733,7 @@ TKAUG
 
 d o ll a r
 d ɔ́ l  ə
-TKAUL/
+TKAUL/-R
 
 d o m e s t i c
 d ə m ɛ́ s t ɪ k
@@ -3750,7 +3753,7 @@ TKOE/TPHAEUT
 
 d oo r
 d óː
-TKAU
+TKAUR
 
 d ou b   l e
 d ʌ́  b ə l
@@ -3774,12 +3777,12 @@ TKOUPB/HROED
 
 d ow n s t ai r s
 d áw n s t ɛ́ː   z
-TKOUPB/STAEURZ
-TKOUPBS/TAEURZ
+TKOUPB/STAEUR/UR/SWR
+TKOUPBS/TAEUR/UR/SWR
 
 d ow n w a r d s
 d áw n w ə   d z
-TKOUPB/W-DZ
+TKOUPB/W-RDZ
 
 d o z e n
 d ʌ́ z ə n
@@ -3831,7 +3834,7 @@ TKRAOEUFB
 
 d r i  v e r
 d r ɑ́j v ə
-TKRAOEUFB/
+TKRAOEUFB/-R
 
 d r i  v i ng
 d r ɑ́j v ɪ ŋ
@@ -3879,24 +3882,24 @@ AOEFP
 
 ea r
 ɪ́ː
-AOER
+AOER/-R
 
 ea r l y
 ə́ː   l ɪj
-UR/HRAE
-URL/AE
+UR/UR/HR/AE
+UR/-R/HRAE
 
 ea r n
 ə́ː   n
-URPB
+UR/UR/TPH
 
 ea r th
 ə́ː   θ
-URGT
+UR/UR/TH
 
 ea r th q u a  k e
 ə́ː   θ  k w ɛj k
-URGT/KWAEUBG
+UR/UR/TH/KWAEUBG
 
 ea s i l y
 ɪ́j z ɪ l ɪj
@@ -3909,8 +3912,8 @@ AO*ES
 
 ea s t e r n
 ɪ́j s t ə   n
-AO*ES/-PB
-AOES/T-PB
+AO*ES/-RPB
+AOES/T-RPB
 
 ea s y
 ɪ́j z ɪj
@@ -3943,8 +3946,8 @@ EU/TKEUGZ
 
 e d i t o r
 ɛ́ d ɪ t ə
-ED/T
-ED/-T/
+ED/T-R
+ED/-T/-R
 
 e d  u c a  t e
 ɛ́ dʒ ə k ɛj t
@@ -3987,7 +3990,7 @@ EU/TPEUGZ/-T
 
 e ff o r t
 ɛ́ f  ə   t
-EF/-T
+EF/-RT
 
 e gg
 ɛ́ g
@@ -4009,17 +4012,17 @@ AEUT/AE
 
 ei th e r
 ɑ́j ð  ə
-AOEUGT/
+AOEUGT/-R
 
 e l d e r l y
 ɛ́ l d ə   l ɪj
-EL/TK/HRAE
 EL/TKHRAE
 EL/TKU/HRAE
-EL/TK-L/AE
-ELD//HRAE
+EL/TK-R/HRAE
+EL/TK-RL/AE
 ELD/HRAE
-ELD/-L/AE
+ELD/-R/HRAE
+ELD/-RL/AE
 
 e l e c t
 ɪ l ɛ́ k t
@@ -4075,8 +4078,8 @@ ELS
 
 e l s e w h e  r e
 ɛ́ l s   w   ɛ́ː
-EL/SWHAEUR
-ELS/WHAEUR
+EL/SWHAEUR/-R
+ELS/WHAEUR/-R
 
 e  m ai l
 ɪ́j m ɛj l
@@ -4093,14 +4096,14 @@ EUPL/PWAR/-S/-PBG
 
 e m e  r g  e
 ɪ m ə́ː   dʒ
-EU/PHURPBLG
+EU/PHUR/UR/SKWR
 
 e m e  r g  e n c y
 ɪ m ə́ː   dʒ ə n s ɪj
-EU/PHUR/SKWR-PB/SAE
-EU/PHUR/SKWR-PBS/AE
-EU/PHURPBLG/-PB/SAE
-EU/PHURPBLG/-PBS/AE
+EU/PHUR/UR/SKWR/-PB/SAE
+EU/PHUR/UR/SKWR/-PBS/AE
+EU/PHUR/-R/SKWR-PB/SAE
+EU/PHUR/-R/SKWR-PBS/AE
 
 e m o  ti o n
 ɪ m ə́w ʃ  ə n
@@ -4137,8 +4140,8 @@ EPL/PHROEU/AE
 
 e m p l oy e r
 ɪ m p l ój ə
-EUFPL/HROEU/
-EUPL/PHROEU/
+EUFPL/HROEU/-R
+EUPL/PHROEU/-R
 
 e m p l oy m e n t
 ɪ m p l ój m ə n t
@@ -4156,8 +4159,8 @@ EU/TPHAEUB/-L
 
 e n c ou n t e r
 ɪ n k áw n t ə
-EUPB/KOUPB/T
-EUPB/KOUPBT/
+EUPB/KOUPB/T-R
+EUPB/KOUPBT/-R
 
 e n c ou r a g  e
 ɪ n k ʌ́  r ɪ dʒ
@@ -4179,9 +4182,9 @@ EPB/-PL/AE
 
 e n e r g  y
 ɛ́ n ə   dʒ ɪj
-EPB//SKWRAE
 EPB/SKWRAE
-EPB/-PBLG/AE
+EPB/-R/SKWRAE
+EPB/-RPBLG/AE
 
 e n g a  g  e
 ɪ n g ɛ́j dʒ
@@ -4198,9 +4201,9 @@ EPB/-PBLG/-PB
 
 e n g  i n ee r
 ɛ́ n dʒ ɪ n ɪ́ː
-EPB/SKWREU/TPHAOER
-EPB/SKWRU/TPHAOER
-EPB/-PBLG/TPHAOER
+EPB/SKWREU/TPHAOER/-R
+EPB/SKWRU/TPHAOER/-R
+EPB/-PBLG/TPHAOER/-R
 
 e n g  i n ee r i ng
 ɛ́ n dʒ ɪ n ɪ́ː r ɪ ŋ
@@ -4218,8 +4221,8 @@ EUPB/SKWROEU
 
 e n o  r m ou s
 ɪ n óː   m ə  s
-EU/TPHAU/PH-S
-EU/TPHAUPL/-S
+EU/TPHAUR/PH-S
+EU/TPHAURPL/-S
 
 e n ou gh
 ɪ n ʌ́  f
@@ -4231,26 +4234,26 @@ EUPB/KWAOEUR/AE
 
 e n s u  r e
 ɪ n ʃ óː
-EUPB/SHAU
+EUPB/SHAUR
 
 e n t e r
 ɛ́ n t ə
-EPB/T
-EPBT/
+EPB/T-R
+EPBT/-R
 
 e n t e r t ai n
 ɛ́ n t ə   t ɛ́j n
-EPB/T/TAEUPB
 EPB/TU/TAEUPB
-EPBT//TAEUPB
+EPB/T-R/TAEUPB
 EPBT/TAEUPB
+EPBT/-R/TAEUPB
 
 e n t e r t ai n m e n t
 ɛ́ n t ə   t ɛ́j n m ə n t
-EPB/T/TAEUPB/PH-PBT
 EPB/TU/TAEUPB/PH-PBT
-EPBT//TAEUPB/PH-PBT
+EPB/T-R/TAEUPB/PH-PBT
 EPBT/TAEUPB/PH-PBT
+EPBT/-R/TAEUPB/PH-PBT
 
 e n th   u  s i  a s   m
 ɪ n θ  j ʉ́w z ɪj a z ə m
@@ -4322,7 +4325,7 @@ EUBG/WEUP/PH-PBT
 
 e rr o r
 ɛ́ r  ə
-ER/
+ER/-R
 
 e s c a  p e
 ɪ s k ɛ́j p
@@ -4408,7 +4411,7 @@ EU/SREPB/-FP/AOU/-L/AE
 
 e v e r
 ɛ́ v ə
-EFB/
+EFB/-R
 
 e v e r y
 ɛ́ v   r ɪj
@@ -4437,7 +4440,7 @@ EFB/RAE/TH-PBG
 
 e v e r y  w h e  r e
 ɛ́ v   r ɪj w   ɛː
-EFB/RAE/WHAEUR
+EFB/RAE/WHAEUR/-R
 
 e v i d e n c e
 ɛ́ v ɪ d ə n s
@@ -4523,12 +4526,12 @@ EUG/SWREBG/KWR-T/-FB
 
 e x - e r c i  s e
 ɛ́ k s ə   s ɑj z
-EBG/S/SAOEUZ
 EBG/SU/SAOEUZ
-EBG/S-S/AOEUZ
-EBGS//SAOEUZ
+EBG/S-R/SAOEUZ
+EBG/S-RS/AOEUZ
 EBGS/SAOEUZ
-EBGS/-S/AOEUZ
+EBGS/-R/SAOEUZ
+EBGS/-RS/AOEUZ
 
 e x - h i b i ti o n
 ɛ́ k s   ɪ b ɪ́ ʃ  ə n
@@ -4607,8 +4610,8 @@ EUBGS/PER/-PL/-PBT
 
 e x - p e  r t
 ɛ́ k s p əː   t
-EBG/SPURT
-EBGS/PURT
+EBG/SPUR/UR/T
+EBGS/PUR/UR/T
 
 e x - p l ai n
 ɪ k s p l ɛ́j n
@@ -4632,21 +4635,21 @@ EBGS/PHRU/RAEUGZ
 
 e x - p l o  r e
 ɪ k s p l óː
-EUBG/SPHRAU
-EUBGS/PHRAU
+EUBG/SPHRAUR
+EUBGS/PHRAUR
 
 e x - p l o  si o n
 ɪ k s p l ə́w ʒ  ə n
 
 e x - p o  r t
 ɛ́ k s p oː   t
-EBG/SPAUT
-EBGS/PAUT
+EBG/SPAURT
+EBGS/PAURT
 
 e x - p o  r t
 ɪ k s p óː   t
-EUBG/SPAUT
-EUBGS/PAUT
+EUBG/SPAURT
+EUBGS/PAURT
 
 e x - p o  s e
 ɪ k s p ə́w z
@@ -4675,10 +4678,10 @@ EUBGS/TEPBT
 
 e x - t e  r n a l
 ɪ k s t ə́ː   n ə l
-EUBG/STUR/TPH-L
-EUBG/STURPB/-L
-EUBGS/TUR/TPH-L
-EUBGS/TURPB/-L
+EUBG/STUR/UR/TPH/-L
+EUBG/STUR/-R/TPH-L
+EUBGS/TUR/UR/TPH/-L
+EUBGS/TUR/-R/TPH-L
 
 e x - t r a
 ɛ́ k s t r ə
@@ -4691,12 +4694,12 @@ EBGS/TRU
 
 e x - t r a o  r d i n a r y
 ɪ k s t r   óː   d ə n   r ɪj
-*EUBGS/RAU/TK-PB/RAE
-*EUBGS/RAUD/-PB/RAE
-EUBG/STRAU/TK-PB/RAE
-EUBG/STRAUD/-PB/RAE
-EUBGS/TRAU/TK-PB/RAE
-EUBGS/TRAUD/-PB/RAE
+*EUBGS/RAUR/TK-PB/RAE
+*EUBGS/RAURD/-PB/RAE
+EUBG/STRAUR/TK-PB/RAE
+EUBG/STRAURD/-PB/RAE
+EUBGS/TRAUR/TK-PB/RAE
+EUBGS/TRAURD/-PB/RAE
 
 e x - t r e  m e
 ɪ k s t r ɪ́j m
@@ -4729,8 +4732,8 @@ TPABGT
 
 f a c t o r
 f á k t ə
-TPABG/T
-TPABGT/
+TPABG/T-R
+TPABGT/-R
 
 f a c t o r y
 f á k t ə r ɪj
@@ -4746,16 +4749,16 @@ TPAEUL
 
 f ai l   u r e
 f ɛ́j l j ə
-TPAEUL/KWR
+TPAEUL/KWR-R
 
 f ai r
 f ɛ́ː
-TPAEUR
+TPAEUR/-R
 
 f ai r l y
 f ɛ́ː   l ɪj
-TPAEUR/HRAE
-TPAEURL/AE
+TPAEUR/UR/HR/AE
+TPAEUR/-R/HRAE
 
 f ai th
 f ɛ́j θ
@@ -4771,7 +4774,7 @@ TPAULS
 
 f a m i l i a r
 f ə m ɪ́ l j ə
-TPU/PHEUL/KWR
+TPU/PHEUL/KWR-R
 
 f a m i l y
 f á m   l ɪj
@@ -4797,21 +4800,21 @@ TPAPB/TAS/T-BG
 
 f a  r
 f ɑ́ː
-TPAU
+TPAUR
 
 f a  r m
 f ɑ́ː   m
-TPAUPL
+TPAURPL
 
 f a  r m e r
 f ɑ́ː   m ə
-TPAU/PH
-TPAUPL/
+TPAUR/PH-R
+TPAURPL/-R
 
 f a  r m i ng
 f ɑ́ː   m ɪ ŋ
-TPAU/PH-PBG
-TPAUPL/-PBG
+TPAUR/PH-PBG
+TPAURPL/-PBG
 
 f a s c i n a  t i ng
 f á s   ɪ n ɛj t ɪ ŋ
@@ -4845,7 +4848,7 @@ TPAT
 
 f a  th e r
 f ɑ́ː ð  ə
-TPAUGT/
+TPAUGT/-R
 
 f au l t
 f ɔ́  l t
@@ -4853,7 +4856,7 @@ TPAULT
 
 f a  v ou r
 f ɛ́j v ə
-TPAEUFB/
+TPAEUFB/-R
 
 f a  v o u r i t e
 f ɛ́j v     r ɪ t
@@ -4861,20 +4864,22 @@ TPAEUFB/R-T
 
 f ea r
 f ɪ́ː
-TPAOER
+TPAOER/-R
 
 f ea th e r
 f ɛ́  ð  ə
-TPEGT/
+TPEGT/-R
 
 f ea t  u r e
 f ɪ́j tʃ ə
-TPAOEFP/
+TPAOEFP/-R
 
 F e b r   u a r y
 f ɛ́ b   j   ə r ɪj
 TPEB/KWRU/RAE
 TPEB/KWR-R/AE
+TPEB/-R/KWRU/RAE
+TPEB/-R/KWR-R/AE
 
 f ee
 f ɪ́j
@@ -4953,7 +4958,7 @@ TPOEUGT/-PBG
 
 f i g u r e
 f ɪ́ g ə
-TPEUG/
+TPEUG/-R
 
 f i  l e
 f ɑ́j l
@@ -4999,8 +5004,8 @@ TPAOEUPB
 
 f i n g e r
 f ɪ́ ŋ g ə
-TPEUPBG/TKPW
-TPEUPBG/-G/
+TPEUPBG/TKPW-R
+TPEUPBG/-G/-R
 
 f i n i sh
 f ɪ́ n ɪ ʃ
@@ -5012,15 +5017,15 @@ TPAOEU/
 
 f i  r m
 f ə́ː   m
-TPURPL
+TPUR/UR/PH
 
 f i  r s t
 f ə́ː   s t
-TP*URS
+TPUR/UR/ST
 
 f i  r s t l y
 f ə́ː   s t l ɪj
-TP*URS/HRAE
+TPUR/UR/ST/HRAE
 
 f i sh
 f ɪ́ ʃ
@@ -5088,7 +5093,7 @@ TPHRUD
 
 f l oo r
 f l óː
-TPHRAU
+TPHRAUR
 
 f l ou r
 f l áw ə
@@ -5100,7 +5105,7 @@ TPHROE
 
 f l ow e r
 f l áw ə
-TPHROU/
+TPHROU/-R
 
 f l u
 f l ʉ́w
@@ -5153,15 +5158,15 @@ TPAOT/PWAUL
 
 f o  r
 f óː
-TPAU
+TPAUR
 
 f o r
 f ə
-TPU
+TPUR
 
 f o  r c e
 f óː   s
-TPAUS
+TPAURS
 
 f o r ei g n
 f ɔ́ r ə    n
@@ -5173,55 +5178,57 @@ TPAUR/*S
 
 f o r e v e r
 f ə r ɛ́ v ə
-TPREFB/
-TPU/REFB/
+TPREFB/-R
+TPU/REFB/-R
 
 f o r g e t
 f ə   g ɛ́ t
 TPU/TKPWET
+TPUR/TKPWET
 
 f o r g i v e
 f ə   g ɪ́ v
 TPU/TKPWEUFB
+TPUR/TKPWEUFB
 
 f o  r k
 f óː   k
-TPAUBG
+TPAURBG
 
 f o  r m
 f óː   m
-TPAUPL
+TPAURPL
 
 f o  r m a l
 f óː   m ə l
-TPAU/PH-L
-TPAUPL/-L
+TPAUR/PH-L
+TPAURPL/-L
 
 f o  r m e r
 f óː   m ə
-TPAU/PH
-TPAUPL/
+TPAUR/PH-R
+TPAURPL/-R
 
 f o  r t  u n a t e l y
 f óː   tʃ ə n ə t   l ɪj
-TPAU/KHU/TPH-T/HRAE
-TPAU/KH-PB/-T/HRAE
-TPAUFP/TPH-T/HRAE
-TPAUFP/-PB/-T/HRAE
+TPAUR/KHU/TPH-T/HRAE
+TPAUR/KH-PB/-T/HRAE
+TPAUR/-FP/TPH-T/HRAE
+TPAUR/-FP/-PB/-T/HRAE
 
 f o  r t  u  n e
 f óː   tʃ ʉw n
-TPAU/KHAOUPB
-TPAUFP/AOUPB
+TPAUR/KHAOUPB
+TPAUR/-FP/AOUPB
 
 f o  r t y
 f óː   t ɪj
-TPAU/TAE
-TPAUT/AE
+TPAUR/TAE
+TPAURT/AE
 
 f o  r w a r d
 f óː   w ə   d
-TPAU/W-D
+TPAUR/W-RD
 
 f ou n d
 f áw n d
@@ -5229,16 +5236,17 @@ TPOUPBD
 
 f ou r
 f óː
-TPAU
+TPAUR
 
 f ou r t ee n
 f óː   t ɪ́j n
 TPAU/TAOEPB
-TPAUT/AOEPB
+TPAUR/TAOEPB
+TPAURT/AOEPB
 
 f ou r th
 f óː   θ
-TPAUGT
+TPAURGT
 
 f r a  m e
 f r ɛ́j m
@@ -5375,31 +5383,31 @@ TPUPB/AE
 
 f u  r
 f ə́ː
-TPUR
+TPUR/-R
 
 f u  r n i t  u r e
 f ə́ː   n ɪ tʃ ə
-TPUR/TPHEU/KH
-TPUR/TPHU/KH
-TPUR/TPH-FP/
-TPURPB/KH
-TPURPB/-FP/
+TPUR/UR/TPH/KH-R
+TPUR/UR/TPH/-FP/-R
+TPUR/-R/TPHEU/KH-R
+TPUR/-R/TPHU/KH-R
+TPUR/-R/TPH-FP/-R
 
 f u  r th e r
 f ə́ː   ð  ə
-TPUR/TH
-TPURGT/
+TPUR/UR/TH/-R
+TPUR/-R/TH-R
 
 f u  r th e r m o  r e
 f ə́ː   ð  ə   m óː
-TPUR/TH/PHAU
-TPUR/THU/PHAU
-TPURGT//PHAU
-TPURGT/PHAU
+TPUR/UR/TH/PHAUR
+TPUR/UR/TH/-R/PHAUR
+TPUR/-R/THU/PHAUR
+TPUR/-R/TH-R/PHAUR
 
 f   u  t  u r e
 f j ʉ́w tʃ ə
-TPU/KWRAOUFP/
+TPU/KWRAOUFP/-R
 
 g ai n
 g ɛ́j n
@@ -5428,8 +5436,8 @@ TKPWAR/-PBLG
 
 g a  r d e n
 g ɑ́ː   d ə n
-TKPWAU/TK-PB
-TKPWAUD/-PB
+TKPWAUR/TK-PB
+TKPWAURD/-PB
 
 g a s
 g á s
@@ -5441,7 +5449,7 @@ TKPWAEUT
 
 g a th e r
 g á ð  ə
-TKPWAGT/
+TKPWAGT/-R
 
 g  e n e r a l
 dʒ ɛ́ n   r ə l
@@ -5504,12 +5512,12 @@ TKPWEUFT
 
 g i  r l
 g ə́ː   l
-TKPWURL
+TKPWUR/UR/HR
 
 g i  r l f r ie n d
 g ə́ː   l f r ɛ  n d
-TKPWURL/TPREPBD
-TKPWURL/-F/REPBD
+TKPWUR/UR/HR/TPREPBD
+TKPWUR/UR/HRU/TP/REPBD
 
 g i v e
 g ɪ́ v
@@ -5565,11 +5573,11 @@ TKPWAODZ
 
 g o v e r n
 g ʌ́ v ə   n
-TKPWUFB/-PB
+TKPWUFB/-RPB
 
 g o v e r n m e n t
 g ʌ́ v ə   n m ə n t
-TKPWUFB/-PB/PH-PBT
+TKPWUFB/-RPB/PH-PBT
 
 g r a b
 g r á b
@@ -5602,13 +5610,13 @@ TKPWRAPBD
 
 g r a n d f a  th e r
 g r á n   f ɑː ð  ə
-TKPWRAPB/TPAU/TH
-TKPWRAPB/TPAUGT/
+TKPWRAPB/TPAU/TH-R
+TKPWRAPB/TPAUGT/-R
 
 g r a n d m o th e r
 g r á n   m ʌ ð  ə
-TKPWRAPB/PHU/TH
-TKPWRAPB/PH-GT/
+TKPWRAPB/PHU/TH-R
+TKPWRAPB/PH-GT/-R
 
 g r a n d p a  r e n t
 g r á n   p ɛː r ə n t
@@ -5665,7 +5673,7 @@ TKPWAR/-PB/TAE
 
 g u a  r d
 g   ɑ́ː   d
-TKPWAUD
+TKPWAURD
 
 g u e ss
 g   ɛ́ s
@@ -5686,8 +5694,8 @@ TKPWEULT/AE
 
 g u i t a  r
 g   ɪ t ɑ́ː
-TKPWEU/TAU
-TKPWU/TAU
+TKPWEU/TAUR
+TKPWU/TAUR
 
 g u n
 g ʌ́ n
@@ -5707,7 +5715,7 @@ HAB/-T
 
 h ai r
 h ɛ́ː
-HAEUR
+HAEUR/-R
 
 h a  l f
 h ɑ́ː   f
@@ -5750,20 +5758,20 @@ HAP/AE
 
 h a  r d
 h ɑ́ː   d
-HAUD
+HAURD
 
 h a  r d l y
 h ɑ́ː   d l ɪj
-HAUD/HRAE
+HAURD/HRAE
 
 h a  r m
 h ɑ́ː   m
-HAUPL
+HAURPL
 
 h a  r m f u l
 h ɑ́ː   m f ə l
-HAUPL/TP-L
-HAUPL/-F/-L
+HAURPL/TP-L
+HAURPL/-F/-L
 
 h a t
 h á t
@@ -5808,7 +5816,7 @@ HELGT/AE
 
 h ea r
 h ɪ́ː
-HAOER
+HAOER/-R
 
 h ea r i ng
 h ɪ́ː r ɪ ŋ
@@ -5816,7 +5824,7 @@ HAOER/-R/-PBG
 
 h ea r t
 h ɑ́ː   t
-HAUT
+HAURT
 
 h ea t
 h ɪ́j t
@@ -5849,10 +5857,10 @@ HAOEUT
 
 h e l i c o p t e r
 h ɛ́ l ɪ k ɔ p t ə
-HEL/KAUP/T
-HEL/KAUPT/
-HEL/-BG/AUP/T
-HEL/-BG/AUPT/
+HEL/KAUP/T-R
+HEL/KAUPT/-R
+HEL/-BG/AUP/T-R
+HEL/-BG/AUPT/-R
 
 h e ll
 h ɛ́ l
@@ -5872,15 +5880,15 @@ HEL/-P/TP-L
 
 h e r
 h ə
-HU
+HUR
 
 h e  r
 h ə́ː
-HUR
+HUR/-R
 
 h e  r e
 h ɪ́ː
-HAOER
+HAOER/-R
 
 h e  r o
 h ɪ́ː r əw
@@ -5888,11 +5896,12 @@ HAOER/-R/OE
 
 h e  r s
 h ə́ː   z
-HURZ
+HUR/UR/SWR
 
 h e  r s e l f
 h əː   s ɛ́ l f
 HUR/SEL/-F
+HUR/-R/SEL/-F
 
 h e s i t a  t e
 h ɛ́ z ɪ t ɛj t
@@ -6013,7 +6022,7 @@ HOEPL
 
 h o  m e w o  r k
 h ə́w m   w əː   k
-HOEPL/WURBG
+HOEPL/WUR/UR/K
 
 h o n e s t
   ɔ́ n ɪ s t
@@ -6021,7 +6030,7 @@ HAUPB/*S
 
 h o n ou r
   ɔ́ n ə
-HAUPB/
+HAUPB/-R
 
 h o  p e
 h ə́w p
@@ -6034,11 +6043,11 @@ HAUR/-B/-L
 
 h o rr o r
 h ɔ́ r  ə
-HAUR/
+HAUR/-R
 
 h o  r s e
 h óː   s
-HAUS
+HAURS
 
 h o s p i t a l
 h ɔ́ s p ɪ t ə l
@@ -6086,7 +6095,7 @@ HOU
 
 h ow e v e r
 h aw ɛ́ v ə
-HOU/EFB/
+HOU/EFB/-R
 
 h   u  g  e
 h j ʉ́w dʒ
@@ -6103,7 +6112,7 @@ HU/KWRAOUPL/-R/-S
 
 h   u  m ou r
 h j ʉ́w m ə
-HU/KWRAOUPL/
+HU/KWRAOUPL/-R
 
 h u n d r e d
 h ʌ́ n d r ə d
@@ -6135,7 +6144,7 @@ HUR/AE
 
 h u  r t
 h ə́ː   t
-HURT
+HUR/UR/T
 
 h u s b a n d
 h ʌ́ z b ə n d
@@ -6182,7 +6191,7 @@ EUF
 
 i g n o  r e
 ɪ g n óː
-EUG/TPHAU
+EUG/TPHAUR
 
 i ll
 ɪ́ l
@@ -6262,22 +6271,22 @@ EUPL/PHRAOEU
 
 i m p o  r t
 ɪ m p óː   t
-EUPL/PAUT
+EUPL/PAURT
 
 i m p o  r t
 ɪ́ m p oː   t
-EUFPL/AUT
-EUPL/PAUT
+EUFPL/AURT
+EUPL/PAURT
 
 i m p o  r t a n c e
 ɪ m p óː   t ə n s
-EUPL/PAU/T-PBS
-EUPL/PAUT/-PBS
+EUPL/PAUR/T-PBS
+EUPL/PAURT/-PBS
 
 i m p o  r t a n t
 ɪ m p óː   t ə n t
-EUPL/PAU/T-PBT
-EUPL/PAUT/-PBT
+EUPL/PAUR/T-PBT
+EUPL/PAURT/-PBT
 
 i m p o  s e
 ɪ m p ə́w z
@@ -6418,13 +6427,13 @@ EUPBD/SREUPBLG/AOU/-L
 
 i n d oo r
 ɪ́ n d oː
-EUPB/TKAU
-EUPBD/AU
+EUPB/TKAUR
+EUPBD/AUR
 
 i n d oo r s
 ɪ́ n d óː   z
-EUPB/TKAUZ
-EUPBD/AUZ
+EUPB/TKAURZ
+EUPBD/AURZ
 
 i n d u s t r i  a l
 ɪ n d ʌ́ s t r ɪj ə l
@@ -6450,17 +6459,17 @@ EUPB/TPHRAOU/-PBS
 
 i n f o  r m
 ɪ n f óː   m
-EUPB/TPAUPL
+EUPB/TPAURPL
 
 i n f o  r m a l
 ɪ n f óː   m ə l
-EUPB/TPAU/PH-L
-EUPB/TPAUPL/-L
+EUPB/TPAUR/PH-L
+EUPB/TPAURPL/-L
 
 i n f o r m a  ti o n
 ɪ́ n f ə   m ɛ́j ʃ  ə n
-EUPB/TP/PHAEUGZ
 EUPB/TPU/PHAEUGZ
+EUPB/TP-R/PHAEUGZ
 
 i n g r e  d i  e n t
 ɪ n g r ɪ́j d ɪj ə n t
@@ -6482,13 +6491,13 @@ EU/TPHEUGS/-T/-FB
 
 i n j  u r e
 ɪ́ n dʒ ə
-EUPB/SKWR
-EUPB/-PBLG/
+EUPB/SKWR-R
+EUPB/-PBLG/-R
 
 i n j  u r e d
 ɪ́ n dʒ ə     d
-EUPB/SKWR-D
-EUPB/-PBLG/-D
+EUPB/SKWR-RD
+EUPB/-PBLG/-RD
 
 i n j  u r y
 ɪ́ n dʒ ə r ɪj
@@ -6499,7 +6508,7 @@ EUPB/-PBLG/-R/AE
 
 i nn e r
 ɪ́ n  ə
-EUPB/
+EUPB/-R
 
 i nn o c e n t
 ɪ́ n  ə s ə n t
@@ -6571,10 +6580,10 @@ EUPBS/TRUBG/SH-PB
 
 i n s t r u c t o r
 ɪ n s t r ʌ́ k t ə
-EUPB/STRUBG/T
-EUPB/STRUBGT/
-EUPBS/TRUBG/T
-EUPBS/TRUBGT/
+EUPB/STRUBG/T-R
+EUPB/STRUBGT/-R
+EUPBS/TRUBG/T-R
+EUPBS/TRUBGT/-R
 
 i n s t r u m e n t
 ɪ́ n s t r ə m ə n t
@@ -6639,29 +6648,29 @@ EUPBT/RES/T-PBG
 
 i n t e  r n a l
 ɪ n t ə́ː   n ə l
-EUPB/TUR/TPH-L
-EUPB/TURPB/-L
+EUPB/TUR/UR/TPH/-L
+EUPB/TUR/-R/TPH-L
 
 i n t e r n a ti o n a l
 ɪ́ n t ə   n á ʃ    n ə l
-EUPB/T/TPHAGS/TPH-L
 EUPB/TU/TPHAGS/TPH-L
-EUPBT//TPHAGS/TPH-L
+EUPB/T-R/TPHAGS/TPH-L
 EUPBT/TPHAGS/TPH-L
+EUPBT/-R/TPHAGS/TPH-L
 
 i n t e r n e t
 ɪ́ n t ə   n ɛ t
-EUPB/T/TPHET
 EUPB/TU/TPHET
-EUPB/T-PB/ET
-EUPBT//TPHET
+EUPB/T-R/TPHET
+EUPB/T-RPB/ET
 EUPBT/TPHET
-EUPBT/-PB/ET
+EUPBT/-R/TPHET
+EUPBT/-RPB/ET
 
 i n t e  r p r e t
 ɪ n t ə́ː   p r ɪ t
-EUPB/TUR/PR-T
-EUPB/TURP/R-T
+EUPB/TUR/UR/P/R-T
+EUPB/TUR/-R/PR-T
 
 i n t e rr u p t
 ɪ́ n t ə r  ʌ́ p t
@@ -6671,12 +6680,12 @@ EUPBT/RUPT
 
 i n t e r v i ew
 ɪ́ n t ə   v j ʉw
-EUPB/T/SRU/KWRAOU
 EUPB/TU/SRU/KWRAOU
-EUPB/T-FB/KWRAOU
-EUPBT//SRU/KWRAOU
+EUPB/T-R/SRU/KWRAOU
+EUPB/T-R/-FB/KWRAOU
 EUPBT/SRU/KWRAOU
-EUPBT/-FB/KWRAOU
+EUPBT/-R/SRU/KWRAOU
+EUPBT/-R/-FB/KWRAOU
 
 i n t o
 ɪ́ n t ʉw
@@ -6752,7 +6761,7 @@ EUPB/SRAUL/UFB/TK
 
 i  r o n
 ɑ́j   ə n
-AOEU/-PB
+AOEUR/-PB
 
 i  s l a n d
 ɑ́j   l ə n d
@@ -6819,20 +6828,20 @@ SKWROEBG
 
 j  ou r n a l
 dʒ ə́ː   n ə l
-SKWRUR/TPH-L
-SKWRURPB/-L
+SKWRUR/UR/TPH/-L
+SKWRUR/-R/TPH-L
 
 j  ou r n a l i s t
 dʒ ə́ː   n ə l ɪ s t
-SKWRUR/TPHU/HR*S
-SKWRUR/TPH-L/*S
-SKWRURPB/HR*S
-SKWRURPB/-L/*S
+SKWRUR/UR/TPH/HR*S
+SKWRUR/UR/TPH/-L/*S
+SKWRUR/-R/TPHU/HR*S
+SKWRUR/-R/TPH-L/*S
 
 j  ou r n ey
 dʒ ə́ː   n ɪj
-SKWRUR/TPHAE
-SKWRURPB/AE
+SKWRUR/UR/TPH/AE
+SKWRUR/-R/TPHAE
 
 j  oy
 dʒ ój
@@ -6864,7 +6873,7 @@ SKWRAOUPB
 
 j  u  n i  o r
 dʒ ʉ́w n ɪj ə
-SKWRAOUPB/AE/
+SKWRAOUPB/AE/-R
 
 j  u s t
 dʒ ʌ́ s t
@@ -6897,7 +6906,7 @@ KAE
 
 k ey b oa r d
 k ɪ́j b oː   d
-KAOEB/AUD
+KAOEB/AURD
 
 k i c k
 k ɪ́   k
@@ -6973,7 +6982,7 @@ HRU/PWAUR/-T/RAE
 
 l a  b ou r
 l ɛ́j b ə
-HRAEUB/
+HRAEUB/-R
 
 l a c k
 l á   k
@@ -7011,11 +7020,11 @@ HRAPT/AUP
 
 l a  r g  e
 l ɑ́ː   dʒ
-HRAUPBLG
+HRAURPBLG
 
 l a  r g  e l y
 l ɑ́ː   dʒ   l ɪj
-HRAUPBLG/HRAE
+HRAURPBLG/HRAE
 
 l a  s t
 l ɑ́ː s t
@@ -7027,7 +7036,7 @@ HRAEUT
 
 l a  t e r
 l ɛ́j t ə
-HRAEUT/
+HRAEUT/-R
 
 l a  t e s t
 l ɛ́j t ə s t
@@ -7039,8 +7048,8 @@ HRAUF
 
 l au gh t e r
 l ɑ́ː f  t ə
-HRAUF/T
-HRAUFT/
+HRAUF/T-R
+HRAUFT/-R
 
 l au n ch
 l óː n tʃ
@@ -7052,7 +7061,7 @@ HRAU
 
 l awy e r
 l ój  ə
-HROEU/
+HROEU/-R
 
 l ay
 l ɛ́j
@@ -7060,7 +7069,7 @@ HRAEU
 
 l ay e r
 l ɛ́j ə
-HRAEU/
+HRAEU/-R
 
 l a  z y
 l ɛ́j z ɪj
@@ -7076,13 +7085,13 @@ HRAOED
 
 l ea d e r
 l ɪ́j d ə
-HRAOED/
+HRAOED/-R
 
 l ea d e r sh i p
 l ɪ́j d ə   ʃ  ɪ p
-HRAOED//SH-P
 HRAOED/SH-P
-HRAOED/-GS/-P
+HRAOED/-R/SH-P
+HRAOED/-RGS/-P
 
 l ea d i ng
 l ɛ́  d ɪ ŋ
@@ -7106,12 +7115,12 @@ HRAOEPB
 
 l ea r n
 l ə́ː   n
-HRURPB
+HRUR/UR/TPH
 
 l ea r n i ng
 l ə́ː   n ɪ ŋ
-HRUR/TPH-PBG
-HRURPB/-PBG
+HRUR/UR/TPH/-PBG
+HRUR/-R/TPH-PBG
 
 l ea s t
 l ɪ́j s t
@@ -7119,7 +7128,7 @@ HRAO*ES
 
 l ea th e r
 l ɛ́  ð  ə
-HREGT/
+HREGT/-R
 
 l ea v e
 l ɪ́j v
@@ -7127,7 +7136,7 @@ HRAOEFB
 
 l e c t  u r e
 l ɛ́ k tʃ ə
-HREBG/KH
+HREBG/KH-R
 
 l e f t
 l ɛ́ f t
@@ -7170,7 +7179,7 @@ HRET
 
 l e tt e r
 l ɛ́ t  ə
-HRET/
+HRET/-R
 
 l e v e l
 l ɛ́ v ə l
@@ -7252,12 +7261,12 @@ HREUS/-PB
 
 l i s t e n e r
 l ɪ́ s     n ə
-HREUS/TPH
+HREUS/TPH-R
 
 l i t e r a t  u r e
 l ɪ́ t   r ə tʃ ə
-HREUT/RU/KH
-HREUT/R-FP/
+HREUT/RU/KH-R
+HREUT/R-FP/-R
 
 l i tt   l e
 l ɪ́ t  ə l
@@ -7330,7 +7339,7 @@ HRAOUS
 
 l o  r d
 l óː   d
-HRAUD
+HRAURD
 
 l o rr y
 l ɔ́ r  ɪj
@@ -7374,11 +7383,11 @@ HROE
 
 l ow e r
 l áw ə
-HROU/
+HROU/-R
 
 l ow e r
 l ə́w ə
-HROE/
+HROE/-R
 
 l u c k
 l ʌ́   k
@@ -7436,7 +7445,7 @@ PHAEUPB/TAEUPB
 
 m a  j  o r
 m ɛ́j dʒ ə
-PHAEUPBLG/
+PHAEUPBLG/-R
 
 m a j  o r i t y
 m ə dʒ ɔ́ r ə t ɪj
@@ -7469,12 +7478,12 @@ PHAPB/-PBLG/PH-PBT
 
 m a n a g  e r
 m á n ɪ dʒ ə
-PHAPB/SKWR
-PHAPB/-PBLG/
+PHAPB/SKWR-R
+PHAPB/-PBLG/-R
 
 m a nn e r
 m á n  ə
-PHAPB/
+PHAPB/-R
 
 m a n y
 m ɛ́ n ɪj
@@ -7486,24 +7495,24 @@ PHAP
 
 M a  r ch
 m ɑ́ː   tʃ
-PHAUFP
+PHAUR/-FP
 
 m a  r k
 m ɑ́ː   k
-PHAUBG
+PHAURBG
 
 m a  r k e t
 m ɑ́ː   k ɪ t
-PHAU/K-T
-PHAUBG/-T
+PHAUR/K-T
+PHAURBG/-T
 
 m a  r k e t i ng
 m ɑ́ː   k ɪ t ɪ ŋ
-PHAU/KEU/T-PBG
-PHAU/KU/T-PBG
-PHAU/K-T/-PBG
-PHAUBG/T-PBG
-PHAUBG/-T/-PBG
+PHAUR/KEU/T-PBG
+PHAUR/KU/T-PBG
+PHAUR/K-T/-PBG
+PHAURBG/T-PBG
+PHAURBG/-T/-PBG
 
 m a rr ia g  e
 m á r  ɪ  dʒ
@@ -7527,8 +7536,8 @@ PHAS/-FB
 
 m a  s t e r
 m ɑ́ː s t ə
-PHA*US/
-PHAUS/T
+PHA*US/-R
+PHAUS/T-R
 
 m a tch
 m á tʃ
@@ -7552,7 +7561,7 @@ PHAGTS
 
 m a tt e r
 m á t  ə
-PHAT/
+PHAT/-R
 
 m a x - i m u m
 m á k s ɪ m ə m
@@ -7636,7 +7645,7 @@ PHELT
 
 m e m b e r
 m ɛ́ m b ə
-PHEPL/PW
+PHEPL/PW-R
 
 m e m o r y
 m ɛ́ m   r ɪj
@@ -7728,13 +7737,13 @@ PHEUPB/-PL/-PL
 
 m i n i s t e r
 m ɪ́ n ɪ s t ə
-PHEUPB/ST
-PHEUPB/*S/
-PHEUPB/-S/T
+PHEUPB/ST-R
+PHEUPB/*S/-R
+PHEUPB/-S/T-R
 
 m i  n o r
 m ɑ́j n ə
-PHAOEUPB/
+PHAOEUPB/-R
 
 m i  n o r i t y
 m ɑj n ɔ́ r ə t ɪj
@@ -7752,7 +7761,7 @@ PHEUPB/-T
 
 m i rr o r
 m ɪ́ r  ə
-PHEUR/
+PHEUR/-R
 
 m i ss
 m ɪ́ s
@@ -7782,7 +7791,7 @@ PHEUBGS/-T
 
 m i x - t  u r e
 m ɪ́ k s tʃ ə
-PHEUBGS/KH
+PHEUBGS/KH-R
 
 m o  b i  l e
 m ə́w b ɑj l
@@ -7794,7 +7803,7 @@ PHAUD/-L
 
 m o d e r n
 m ɔ́ d ə   n
-PHAUD/-PB
+PHAUD/-RPB
 
 m o d i f y
 m ɔ́ d ɪ f ɑj
@@ -7816,8 +7825,8 @@ PHUPB/AE
 
 m o n i t o r
 m ɔ́ n ɪ t ə
-PHAUPB/T
-PHAUPB/-T/
+PHAUPB/T-R
+PHAUPB/-T/-R
 
 m o n k ey
 m ʌ́ ŋ k ɪj
@@ -7842,12 +7851,12 @@ PHAUR/-L
 
 m o  r e
 m óː
-PHAU
+PHAUR
 
 m o  r n i ng
 m óː   n ɪ ŋ
-PHAU/TPH-PBG
-PHAUPB/-PBG
+PHAUR/TPH-PBG
+PHAURPB/-PBG
 
 m o  s t
 m ə́w s t
@@ -7859,20 +7868,20 @@ PHO*ES/HRAE
 
 m o th e r
 m ʌ́ ð  ə
-PHUGT/
+PHUGT/-R
 
 m o  t o r
 m ə́w t ə
-PHOET/
+PHOET/-R
 
 m o  t o r c y  c   l e
 m ə́w t ə   s ɑj k ə l
-PHOET//SAOEU/K-L
-PHOET//SAOEUBG/-L
 PHOET/SAOEU/K-L
 PHOET/SAOEUBG/-L
-PHOET/-S/AOEU/K-L
-PHOET/-S/AOEUBG/-L
+PHOET/-R/SAOEU/K-L
+PHOET/-R/SAOEUBG/-L
+PHOET/-RS/AOEU/K-L
+PHOET/-RS/AOEUBG/-L
 
 m ou n t
 m áw n t
@@ -7937,8 +7946,8 @@ PHUPL
 
 m u  r d e r
 m ə́ː   d ə
-PHUR/TK
-PHURD/
+PHUR/UR/TK/-R
+PHUR/-R/TK-R
 
 m u s c   l e
 m ʌ́ s   ə l
@@ -8028,16 +8037,16 @@ TPHAFP/R-L/AE
 
 n a  t  u r e
 n ɛ́j tʃ ə
-TPHAEUFP/
+TPHAEUFP/-R
 
 n ea r
 n ɪ́ː
-TPHAOER
+TPHAOER/-R
 
 n ea r l y
 n ɪ́ː   l ɪj
-TPHAOER/HRAE
-TPHAOERL/AE
+TPHAOER/UR/HR/AE
+TPHAOER/-R/HRAE
 
 n ea t
 n ɪ́j t
@@ -8074,29 +8083,29 @@ TPHEG/-T/-FB
 
 n ei gh b ou r
 n ɛ́j    b ə
-TPHAEU/PW
-TPHAEUB/
+TPHAEU/PW-R
+TPHAEUB/-R
 
 n ei gh b ou r h oo d
 n ɛ́j    b ə    h ɵ  d
-TPHAEU/PW/HAOD
 TPHAEU/PWHAOD
 TPHAEU/PWU/HAOD
-TPHAEUB//HAOD
+TPHAEU/PW-R/HAOD
 TPHAEUB/HAOD
+TPHAEUB/-R/HAOD
 
 n ei th e r
 n ɑ́j ð  ə
-TPHAOEUGT/
+TPHAOEUGT/-R
 
 n e  r v e
 n ə́ː   v
-TPHUR/-FB
+TPHUR/UR/SR
 
 n e  r v ou s
 n ə́ː   v ə  s
-TPHUR/SR-S
-TPHUR/-FB/-S
+TPHUR/UR/SR/-S
+TPHUR/-R/SR-S
 
 n e t
 n ɛ́ t
@@ -8104,17 +8113,17 @@ TPHET
 
 n e t w o  r k
 n ɛ́ t w əː   k
-TPHET/WURBG
+TPHET/WUR/UR/K
 
 n e v e r
 n ɛ́ v ə
-TPHEFB/
+TPHEFB/-R
 
 n e v e r th e l e ss
 n ɛ́ v ə   ð  ə l ɛ́ s
-TPHEFB//THU/HRES
 TPHEFB/THU/HRES
-TPHEFB/-GT/HRES
+TPHEFB/-R/THU/HRES
+TPHEFB/-RGT/HRES
 
 n   ew
 n j ʉ́w
@@ -8126,8 +8135,8 @@ TPHU/KWRAOUZ
 
 n   ew s p a  p e r
 n j ʉ́w z p ɛj p ə
-TPHU/KWRAOUZ/PAEU/P
-TPHU/KWRAOUZ/PAEUP/
+TPHU/KWRAOUZ/PAEU/P-R
+TPHU/KWRAOUZ/PAEUP/-R
 
 n e x - t
 n ɛ́ k s t
@@ -8143,7 +8152,7 @@ TPHOEUGT
 
 n i  gh t m a  r e
 n ɑ́j    t m ɛː
-TPHOEUGT/PHAEUR
+TPHOEUGT/PHAEUR/-R
 
 n i  n e
 n ɑ́j n
@@ -8182,28 +8191,28 @@ TPHUPB
 
 n o  r
 n óː
-TPHAU
+TPHAUR
 
 n o  r m a l
 n óː   m ə l
-TPHAU/PH-L
-TPHAUPL/-L
+TPHAUR/PH-L
+TPHAURPL/-L
 
 n o  r m a ll y
 n óː   m ə l  ɪj
-TPHAU/PHU/HRAE
-TPHAU/PH-L/AE
-TPHAUPL/HRAE
-TPHAUPL/-L/AE
+TPHAUR/PHU/HRAE
+TPHAUR/PH-L/AE
+TPHAURPL/HRAE
+TPHAURPL/-L/AE
 
 n o  r th
 n óː   θ
-TPHAUGT
+TPHAURGT
 
 n o  r th e r n
 n óː   ð  ə   n
-TPHAU/TH-PB
-TPHAUGT/-PB
+TPHAUR/TH-RPB
+TPHAURGT/-RPB
 
 n o  s e
 n ə́w z
@@ -8235,7 +8244,7 @@ TPHAUFB/-L
 
 N o  v e m b e r
 n əw v ɛ́ m b ə
-TPHOE/SREPL/PW
+TPHOE/SREPL/PW-R
 
 n ow
 n áw
@@ -8250,7 +8259,7 @@ TPHU/KWRAOUBG/HRAE
 
 n u m b e r
 n ʌ́ m b ə
-TPHUPL/PW
+TPHUPL/PW-R
 
 n   u  m e r ou s
 n j ʉ́w m ə r ə  s
@@ -8259,7 +8268,7 @@ TPHU/KWRAOUPL/-R/-S
 
 n u  r s e
 n ə́ː   s
-TPHURS
+TPHUR/UR/S
 
 n u t
 n ʌ́ t
@@ -8289,14 +8298,14 @@ AUB/HRU/TKPWAEUGZ
 
 o b s e r v a  ti o n
 ɔ́ b z ə   v ɛ́j ʃ  ə n
-AUB/SWR/SRAEUGZ
 AUB/SWRU/SRAEUGZ
-AUBZ//SRAEUGZ
+AUB/SWR-R/SRAEUGZ
 AUBZ/SRAEUGZ
+AUBZ/-R/SRAEUGZ
 
 o b s e  r v e
 ə b z ə́ː   v
-UB/SWRUR/-FB
+UB/SWRUR/UR/SR
 
 o b t ai n
 ə b t ɛ́j n
@@ -8319,7 +8328,7 @@ o cc a  si o n a ll y
 
 o cc u  r
 ə k  ə́ː
-U/KUR
+U/KUR/-R
 
 o  c e a n
 ə́w ʃ ə   n
@@ -8327,7 +8336,7 @@ OEGS/-PB
 
 O c t o  b e r
 ɔ k t ə́w b ə
-AUBG/TOEB/
+AUBG/TOEB/-R
 
 o dd
 ɔ́ d
@@ -8360,7 +8369,7 @@ U/TPEPBS/-FB
 
 o ff e r
 ɔ́ f  ə
-AUF/
+AUF/-R
 
 o ff i c e
 ɔ́ f  ɪ s
@@ -8368,8 +8377,8 @@ AUF/-S
 
 o ff i c e r
 ɔ́ f  ɪ s ə
-AUF/S
-AUF/-S/
+AUF/S-R
+AUF/-S/-R
 
 o ff i ci a l
 ə f  ɪ́ ʃ  ə l
@@ -8449,10 +8458,10 @@ U/POEPB/-PBT
 
 o pp o r t  u  n i t y
 ɔ́ p  ə   tʃ ʉ́w n ə t ɪj
-AUP//KHAOUPB/TAE
-AUP//KHAOUPB/-T/AE
 AUP/KHAOUPB/TAE
 AUP/KHAOUPB/-T/AE
+AUP/-R/KHAOUPB/TAE
+AUP/-R/KHAOUPB/-T/AE
 
 o pp o  s e
 ə p  ə́w z
@@ -8477,11 +8486,11 @@ AUP/SH-PB
 
 o  r
 óː
-AU
+AUR
 
 o r
 ə
-U
+UR
 
 o r a n g  e
 ɔ́ r ɪ n dʒ
@@ -8489,50 +8498,50 @@ AUR/-PB/-PBLG
 
 o  r d e r
 óː   d ə
-AU/TK
-AUD/
+AUR/TK-R
+AURD/-R
 
 o  r d i n a r y
 óː   d ɪ n   r ɪj
-AU/TK-PB/RAE
-AUD/-PB/RAE
+AUR/TK-PB/RAE
+AURD/-PB/RAE
 
 o  r g a n
 óː   g ə n
-AU/TKPW-PB
-AUG/-PB
+AUR/TKPW-PB
+AURG/-PB
 
 o  r g a n i  z a  ti o n
 óː   g ə n ɑj z ɛ́j ʃ  ə n
-AU/TKPWU/TPHAOEU/SWRAEUGZ
-AU/TKPW-PB/AOEU/SWRAEUGZ
-AUG/TPHAOEU/SWRAEUGZ
-AUG/-PB/AOEU/SWRAEUGZ
+AUR/TKPWU/TPHAOEU/SWRAEUGZ
+AUR/TKPW-PB/AOEU/SWRAEUGZ
+AURG/TPHAOEU/SWRAEUGZ
+AURG/-PB/AOEU/SWRAEUGZ
 
 o  r g a n i  z e
 óː   g ə n ɑj z
-AU/TKPWU/TPHAOEUZ
-AU/TKPW-PB/AOEUZ
-AUG/TPHAOEUZ
-AUG/-PB/AOEUZ
+AUR/TKPWU/TPHAOEUZ
+AUR/TKPW-PB/AOEUZ
+AURG/TPHAOEUZ
+AURG/-PB/AOEUZ
 
 o  r g a n i  z e d
 óː   g ə n ɑj z   d
-AU/TKPWU/TPHAOEUZ/-D
-AU/TKPW-PB/AOEUZ/-D
-AUG/TPHAOEUZ/-D
-AUG/-PB/AOEUZ/-D
+AUR/TKPWU/TPHAOEUZ/-D
+AUR/TKPW-PB/AOEUZ/-D
+AURG/TPHAOEUZ/-D
+AURG/-PB/AOEUZ/-D
 
 o  r g a n i  z e r
 óː   g ə n ɑj z ə
-AU/TKPWU/TPHAOEU/SWR
-AU/TKPWU/TPHAOEUZ/
-AU/TKPW-PB/AOEU/SWR
-AU/TKPW-PB/AOEUZ/
-AUG/TPHAOEU/SWR
-AUG/TPHAOEUZ/
-AUG/-PB/AOEU/SWR
-AUG/-PB/AOEUZ/
+AUR/TKPWU/TPHAOEU/SWR-R
+AUR/TKPWU/TPHAOEUZ/-R
+AUR/TKPW-PB/AOEU/SWR-R
+AUR/TKPW-PB/AOEUZ/-R
+AURG/TPHAOEU/SWR-R
+AURG/TPHAOEUZ/-R
+AURG/-PB/AOEU/SWR-R
+AURG/-PB/AOEUZ/-R
 
 o r i g  i n
 ɔ́ r ɪ dʒ ɪ n
@@ -8553,12 +8562,12 @@ U/REUPBLG/-PB/-L/AE
 
 o th e r
 ʌ́ ð  ə
-UGT/
+UGT/-R
 
 o th e r w i  s e
 ʌ́ ð  ə   w ɑj z
-UGT//WAOEUZ
 UGT/WAOEUZ
+UGT/-R/WAOEUZ
 
 ou gh t
 óː    t
@@ -8566,11 +8575,11 @@ AUT
 
 ou r
 ɑ́ː
-AU
+AUR
 
 ou r s
 ɑ́ː   z
-AUZ
+AURZ
 
 ou r s e l v e s
 áw ə s ɛ́ l v   z
@@ -8586,15 +8595,15 @@ OUT/K-PL
 
 ou t d oo r
 áw t d oː
-OUT/TKAU
+OUT/TKAUR
 
 ou t d oo r s
 áw t d óː   z
-OUT/TKAUZ
+OUT/TKAURZ
 
 ou t e r
 áw t ə
-OUT/
+OUT/-R
 
 ou t l i  n e
 áw t l ɑj n
@@ -8616,7 +8625,7 @@ UFB/-PB
 
 o  v e r
 ə́w v ə
-OEFB/
+OEFB/-R
 
 o  v e r a  ll
 ə́w v ə r oː l
@@ -8637,7 +8646,7 @@ OEPB
 
 ow n e r
 ə́w n ə
-OEPB/
+OEPB/-R
 
 p a  c e
 p ɛ́j s
@@ -8670,8 +8679,8 @@ PAEUPBT
 
 p ai n t e r
 p ɛ́j n t ə
-PAEUPB/T
-PAEUPBT/
+PAEUPB/T-R
+PAEUPBT/-R
 
 p ai n t i ng
 p ɛ́j n t ɪ ŋ
@@ -8680,7 +8689,7 @@ PAEUPBT/-PBG
 
 p ai r
 p ɛ́ː
-PAEUR
+PAEUR/-R
 
 p a l a c e
 p á l ɪ s
@@ -8704,7 +8713,7 @@ PAPBTS
 
 p a  p e r
 p ɛ́j p ə
-PAEUP/
+PAEUP/-R
 
 p a r a g r a  ph
 p á r ə g r ɑː f
@@ -8717,60 +8726,72 @@ PAEUR/-R/-PBT
 
 p a  r k
 p ɑ́ː   k
-PAUBG
+PAURBG
 
 p a  r k i ng
 p ɑ́ː   k ɪ ŋ
-PAU/K-PBG
-PAUBG/-PBG
+PAUR/K-PBG
+PAURBG/-PBG
 
 p a  r l ia m e n t
 p ɑ́ː   l ə  m ə n t
-PAU/HRU/PH-PBT
-PAU/HR-PL/-PBT
-PAUL/PH-PBT
-PAUL/-PL/-PBT
+PAUR/HRU/PH-PBT
+PAUR/HR-PL/-PBT
+PAURL/PH-PBT
+PAURL/-PL/-PBT
 
 p a  r t
 p ɑ́ː   t
-PAUT
+PAURT
 
 p a  r t i c i p a n t
 p ɑː   t ɪ́ s ɪ p ə n t
 PAU/TEUS/P-PBT
 PAU/TEUS/-P/-PBT
+PAUR/TEUS/P-PBT
+PAUR/TEUS/-P/-PBT
 
 p a  r t i c i p a  t e
 p ɑː   t ɪ́ s ɪ p ɛj t
 PAU/TEUS/PAEUT
 PAU/TEUS/-P/AEUT
+PAUR/TEUS/PAEUT
+PAUR/TEUS/-P/AEUT
 
 p a r t i c   u l a r
 p ə   t ɪ́ k j ə l ə
-PU/TEUBG/KWRU/HR
-PU/TEUBG/KWR-L/
+PU/TEUBG/KWRU/HR-R
+PU/TEUBG/KWR-L/-R
+PUR/TEUBG/KWRU/HR-R
+PUR/TEUBG/KWR-L/-R
 
 p a r t i c   u l a r l y
 p ə   t ɪ́ k j ə l ə   l ɪj
-PU/TEUBG/KWRU/HR/HRAE
 PU/TEUBG/KWRU/HRU/HRAE
-PU/TEUBG/KWRU/HR-L/AE
-PU/TEUBG/KWR-L//HRAE
+PU/TEUBG/KWRU/HR-R/HRAE
+PU/TEUBG/KWRU/HR-RL/AE
 PU/TEUBG/KWR-L/HRAE
-PU/TEUBG/KWR-L/-L/AE
+PU/TEUBG/KWR-L/-R/HRAE
+PU/TEUBG/KWR-L/-RL/AE
+PUR/TEUBG/KWRU/HRU/HRAE
+PUR/TEUBG/KWRU/HR-R/HRAE
+PUR/TEUBG/KWRU/HR-RL/AE
+PUR/TEUBG/KWR-L/HRAE
+PUR/TEUBG/KWR-L/-R/HRAE
+PUR/TEUBG/KWR-L/-RL/AE
 
 p a  r t l y
 p ɑ́ː   t l ɪj
-PAUT/HRAE
+PAURT/HRAE
 
 p a  r t n e r
 p ɑ́ː   t n ə
-PAUT/TPH
+PAURT/TPH-R
 
 p a  r t y
 p ɑ́ː   t ɪj
-PAU/TAE
-PAUT/AE
+PAUR/TAE
+PAURT/AE
 
 p a  ss
 p ɑ́ː s
@@ -8782,8 +8803,8 @@ PAS/-PBLG
 
 p a ss e n g  e r
 p á s  ɪ n dʒ ə
-PAS/-PB/SKWR
-PAS/-PB/-PBLG/
+PAS/-PB/SKWR-R
+PAS/-PB/-PBLG/-R
 
 p a ssi o n
 p á ʃ   ə n
@@ -8791,8 +8812,8 @@ PAGZ
 
 p a  ss p o  r t
 p ɑ́ː s  p oː   t
-PAUS/PAUT
-PAUS/-P/AUT
+PAUS/PAURT
+PAUS/-P/AURT
 
 p a  s t
 p ɑ́ː s t
@@ -8808,7 +8829,7 @@ PAEUGZ/-T
 
 p a tt e r n
 p á t  ə   n
-PAT/-PB
+PAT/-RPB
 
 p ay
 p ɛ́j
@@ -8849,48 +8870,55 @@ PAOEP/-L
 
 p e pp e r
 p ɛ́ p  ə
-PEP/
+PEP/-R
 
 p e r
 p ə
-PU
+PUR
 
 p e  r
 p ə́ː
-PUR
+PUR/-R
 
 p e r c e n t a g  e
 p ə   s ɛ́ n t ɪ dʒ
 PU/SEPB/T-PBLG
 PU/SEPBT/-PBLG
+PUR/SEPB/T-PBLG
+PUR/SEPBT/-PBLG
 
 p e r f e c t
 p ə   f ɛ́ k t
 PU/TPEBGT
+PUR/TPEBGT
 
 p e  r f e c t
 p ə́ː   f ɪ k t
-PUR/TP-BGT
-PUR/-F/-BGT
+PUR/UR/TP/-BGT
+PUR/-R/TP-BGT
 
 p e  r f e c t l y
 p ə́ː   f ɪ k t l ɪj
-PUR/TP-BGT/HRAE
-PUR/-F/-BGT/HRAE
+PUR/UR/TP/-BGT/HRAE
+PUR/-R/TP-BGT/HRAE
 
 p e r f o  r m
 p ə   f óː   m
-PU/TPAUPL
+PU/TPAURPL
+PUR/TPAURPL
 
 p e r f o  r m a n c e
 p ə   f óː   m ə n s
-PU/TPAU/PH-PBS
-PU/TPAUPL/-PBS
+PU/TPAUR/PH-PBS
+PU/TPAURPL/-PBS
+PUR/TPAUR/PH-PBS
+PUR/TPAURPL/-PBS
 
 p e r h a p s
 p ə   h á p s
 PHAPS
 PU/HAPS
+PUR/HAPS
 
 p e  r i  o d
 p ɪ́ː r ɪj ə d
@@ -8898,70 +8926,75 @@ PAOER/-R/AE/UD
 
 p e  r m a n e n t
 p ə́ː   m ə n ə n t
-PUR/PHU/TPH-PBT
-PUR/PH-PB/-PBT
-PURPL/TPH-PBT
-PURPL/-PB/-PBT
+PUR/UR/PH/TPH-PBT
+PUR/UR/PH/-PB/-PBT
+PUR/-R/PHU/TPH-PBT
+PUR/-R/PH-PB/-PBT
 
 p e r m i ssi o n
 p ə   m ɪ́ ʃ   ə n
 PU/PHEUGZ
+PUR/PHEUGZ
 
 p e r m i t
 p ə   m ɪ́ t
 PU/PHEUT
+PUR/PHEUT
 
 p e  r m i t
 p ə́ː   m ɪ t
-PUR/PH-T
-PURPL/-T
+PUR/UR/PH/-T
+PUR/-R/PH-T
 
 p e  r s o n
 p ə́ː   s ə n
-PUR/S-PB
-PURS/-PB
+PUR/UR/S/-PB
+PUR/-R/S-PB
 
 p e  r s o n a l
 p ə́ː   s ə n ə l
-PUR/STPH-L
-PUR/SU/TPH-L
-PUR/S-PB/-L
-PURS/TPH-L
-PURS/-PB/-L
+PUR/UR/S/TPH-L
+PUR/UR/S/-PB/-L
+PUR/-R/STPH-L
+PUR/-R/SU/TPH-L
+PUR/-R/S-PB/-L
 
 p e  r s o n a l i t y
 p ə́ː   s ə n á l ə t ɪj
-PUR/STPHAL/TAE
-PUR/STPHAL/-T/AE
-PUR/SU/TPHAL/TAE
-PUR/SU/TPHAL/-T/AE
-PURS/TPHAL/TAE
-PURS/TPHAL/-T/AE
+PUR/UR/S/TPHAL/TAE
+PUR/UR/S/TPHAL/-T/AE
+PUR/-R/STPHAL/TAE
+PUR/-R/STPHAL/-T/AE
+PUR/-R/SU/TPHAL/TAE
+PUR/-R/SU/TPHAL/-T/AE
 
 p e  r s o n a ll y
 p ə́ː   s ə n ə l  ɪj
-PUR/STPHU/HRAE
-PUR/STPH-L/AE
-PUR/SU/TPHU/HRAE
-PUR/SU/TPH-L/AE
-PUR/S-PB/HRAE
-PUR/S-PB/-L/AE
-PURS/TPHU/HRAE
-PURS/TPH-L/AE
-PURS/-PB/HRAE
-PURS/-PB/-L/AE
+PUR/UR/S/TPHU/HRAE
+PUR/UR/S/TPH-L/AE
+PUR/UR/S/-PB/HRAE
+PUR/UR/S/-PB/-L/AE
+PUR/-R/STPHU/HRAE
+PUR/-R/STPH-L/AE
+PUR/-R/SU/TPHU/HRAE
+PUR/-R/SU/TPH-L/AE
+PUR/-R/S-PB/HRAE
+PUR/-R/S-PB/-L/AE
 
 p e r s p e c t i v e
 p ə   s p ɛ́ k t ɪ v
 PU/SPEBG/T-FB
 PU/SPEBGT/-FB
-PUS/PEBG/T-FB
-PUS/PEBGT/-FB
+PUR/SPEBG/T-FB
+PUR/SPEBGT/-FB
+PURS/PEBG/T-FB
+PURS/PEBGT/-FB
 
 p e r s u a  d e
 p ə   s w ɛ́j d
 PU/SWAEUD
-PUS/WAEUD
+PUR/SWAEUD
+PURS/WAEUD
 
 p e t
 p ɛ́ t
@@ -9004,8 +9037,8 @@ TPOET/UG/RAUF
 
 ph o t o g r a ph e r
 f  ə t ɔ́ g r ə f  ə
-TPU/TAUG/RU/TP
-TPU/TAUG/R-F/
+TPU/TAUG/RU/TP-R
+TPU/TAUG/R-F/-R
 
 ph o t o g r a ph y
 f  ə t ɔ́ g r ə f  ɪj
@@ -9039,7 +9072,7 @@ PEUBG
 
 p i c t  u r e
 p ɪ́ k tʃ ə
-PEUBG/KH
+PEUBG/KH-R
 
 p ie c e
 p ɪ́j s
@@ -9112,7 +9145,7 @@ PHRAEUT
 
 p l a t f o  r m
 p l á t f oː   m
-PHRAT/TPAUPL
+PHRAT/TPAURPL
 
 p l ay
 p l ɛ́j
@@ -9120,7 +9153,7 @@ PHRAEU
 
 p l ay e r
 p l ɛ́j ə
-PHRAEU/
+PHRAEU/-R
 
 p l ea s a n t
 p l ɛ́  z ə n t
@@ -9233,7 +9266,7 @@ PAOUL
 
 p oo r
 p óː
-PAU
+PAUR
 
 p o p
 p ɔ́ p
@@ -9241,8 +9274,8 @@ PAUP
 
 p o p   u l a r
 p ɔ́ p j ə l ə
-PAUP/KWRU/HR
-PAUP/KWR-L/
+PAUP/KWRU/HR-R
+PAUP/KWR-L/-R
 
 p o p   u l a r i t y
 p ɔ́ p j ə l á r ə t ɪj
@@ -9255,12 +9288,12 @@ PAUP/KWRU/HRAEUGZ
 
 p o  r t
 p óː   t
-PAUT
+PAURT
 
 p o  r t r ai t
 p óː   t r ɛj t
-PAU/TRAEUT
-PAUT/RAEUT
+PAUR/TRAEUT
+PAURT/RAEUT
 
 p o  s e
 p ə́w z
@@ -9304,8 +9337,8 @@ PO*ES
 
 p o  s t e r
 p ə́w s t ə
-PO*ES/
-POES/T
+PO*ES/-R
+POES/T-R
 
 p o t
 p ɔ́ t
@@ -9325,27 +9358,27 @@ POUPBD
 
 p ou r
 p óː
-PAU
+PAUR
 
 p o v e r t y
 p ɔ́ v ə   t ɪj
-PAUFB//TAE
 PAUFB/TAE
-PAUFB/-T/AE
+PAUFB/-R/TAE
+PAUFB/-RT/AE
 
 p ow d e r
 p áw d ə
-POUD/
+POUD/-R
 
 p ow e r
 p áw ə
-POU/
+POU/-R
 
 p ow e r f u l
 p áw ə   f ə l
-POU//TP-L
 POU/TP-L
-POU/-F/-L
+POU/-R/TP-L
+POU/-R/-F/-L
 
 p r a c t i c a l
 p r á k t ɪ k ə l
@@ -9375,7 +9408,7 @@ PRAEU
 
 p r aye r
 p r ɛ́ː
-PRAEUR
+PRAEUR/-R
 
 p r e d i c t
 p r ɪ d ɪ́ k t
@@ -9389,8 +9422,8 @@ PRU/TKEUBG/SH-PB
 
 p r e f e  r
 p r ɪ f ə́ː
-PREU/TPUR
-PRU/TPUR
+PREU/TPUR/-R
+PRU/TPUR/-R
 
 p r e g n a n t
 p r ɛ́ g n ə n t
@@ -9402,13 +9435,13 @@ PREP/RAEUGZ
 
 p r e p a  r e
 p r ɪ p ɛ́ː
-PREU/PAEUR
-PRU/PAEUR
+PREU/PAEUR/-R
+PRU/PAEUR/-R
 
 p r e p a  r e d
 p r ɪ p ɛ́ː     d
-PREU/PAEURD
-PRU/PAEURD
+PREU/PAEUR/UR/TK
+PRU/PAEUR/UR/TK
 
 p r e s e n c e
 p r ɛ́ z ə n s
@@ -9429,8 +9462,8 @@ PREZ/-PB/TAEUGZ
 
 p r e s e  r v e
 p r ɪ z ə́ː   v
-PREU/SWRUR/-FB
-PRU/SWRUR/-FB
+PREU/SWRUR/UR/SR
+PRU/SWRUR/UR/SR
 
 p r e s i d e n t
 p r ɛ́ z ɪ d ə n t
@@ -9443,7 +9476,7 @@ PRES
 
 p r e ss u r e
 p r ɛ́ ʃ  ə
-PREGS/
+PREGS/-R
 
 p r e t e n d
 p r ɪ t ɛ́ n d
@@ -9508,8 +9541,8 @@ PREUPBT
 
 p r i n t e r
 p r ɪ́ n t ə
-PREUPB/T
-PREUPBT/
+PREUPB/T-R
+PREUPBT/-R
 
 p r i n t i ng
 p r ɪ́ n t ɪ ŋ
@@ -9527,8 +9560,8 @@ PREUZ/-PB
 
 p r i s o n e r
 p r ɪ́ z ə n ə
-PREUZ/TPH
-PREUZ/-PB/
+PREUZ/TPH-R
+PREUZ/-PB/-R
 
 p r i v a c y
 p r ɪ́ v ə s ɪj
@@ -9554,7 +9587,7 @@ PRAUB/HR-PL
 
 p r o c e  d  u r e
 p r ə s ɪ́j dʒ ə
-PRU/SAOEPBLG/
+PRU/SAOEPBLG/-R
 
 p r o c e ss
 p r ə s ɛ́ s
@@ -9574,7 +9607,7 @@ PRU/SKWRAOUS
 
 p r o d  u  c e r
 p r ə dʒ ʉ́w s ə
-PRU/SKWRAOUS/
+PRU/SKWRAOUS/-R
 
 p r o d u c t
 p r ɔ́ d ʌ k t
@@ -9594,7 +9627,7 @@ PRU/TPEGS/TPH-L
 
 p r o f e ss o r
 p r ə f ɛ́ s  ə
-PRU/TPES/
+PRU/TPES/-R
 
 p r o  f i  l e
 p r ə́w f ɑj l
@@ -9647,19 +9680,19 @@ PRAOUF
 
 p r o p e r
 p r ɔ́ p ə
-PRAUP/
+PRAUP/-R
 
 p r o p e r l y
 p r ɔ́ p ə   l ɪj
-PRAUP//HRAE
 PRAUP/HRAE
-PRAUP/-L/AE
+PRAUP/-R/HRAE
+PRAUP/-RL/AE
 
 p r o p e r t y
 p r ɔ́ p ə   t ɪj
-PRAUP//TAE
 PRAUP/TAE
-PRAUP/-T/AE
+PRAUP/-R/TAE
+PRAUP/-RT/AE
 
 p r o p o  s a l
 p r ə p ə́w z ə l
@@ -9752,27 +9785,28 @@ PU/KWRAOUP/-L
 
 p u  r ch a s e
 p ə́ː   tʃ ə s
-PUR/KH-S
-PUR/-FP/-S
+PUR/UR/KH/-S
+PUR/-R/KH-S
 
 p   u  r e
 p j óː
-PU/KWRAU
+PU/KWRAUR
 
 p u  r p   l e
 p ə́ː   p ə l
-PUR/P-L
-PURP/-L
+PUR/UR/P/-L
+PUR/-R/P-L
 
 p u  r p o s e
 p ə́ː   p ə s
-PUR/P-S
-PURP/-S
+PUR/UR/P/-S
+PUR/-R/P-S
 
 p u r s   ue
 p ə   s j ʉ́w
 PU/SKWRAOU
-PUS/KWRAOU
+PUR/SKWRAOU
+PURS/KWRAOU
 
 p u sh
 p ɵ́ ʃ
@@ -9816,8 +9850,8 @@ KWAUPBT/-T/AE
 
 q u a  r t e r
 k w óː   t ə
-KWAU/T
-KWAUT/
+KWAUR/T-R
+KWAURT/-R
 
 q u ee n
 k w ɪ́j n
@@ -9906,12 +9940,12 @@ RAP/UD/HRAE
 
 r a  r e
 r ɛ́ː
-RAEUR
+RAEUR/-R
 
 r a  r e l y
 r ɛ́ː     l ɪj
-RAEUR/HRAE
-RAEURL/AE
+RAEUR/UR/HR/AE
+RAEUR/-R/HRAE
 
 r a  t e
 r ɛ́j t
@@ -9919,7 +9953,7 @@ RAEUT
 
 r a  th e r
 r ɑ́ː ð  ə
-RAUGT/
+RAUGT/-R
 
 r aw
 r óː
@@ -9947,7 +9981,7 @@ RAOED
 
 r ea d e r
 r ɪ́j d ə
-RAOED/
+RAOED/-R
 
 r ea d i ng
 r ɪ́j d ɪ ŋ
@@ -10037,24 +10071,24 @@ REBG/-PL/EPB/TKAEUGZ
 
 r e c o  r d
 r ɛ́ k oː   d
-REBG/AUD
+REBG/AURD
 
 r e c o  r d
 r ɪ k óː   d
-REU/KAUD
-RU/KAUD
+REU/KAURD
+RU/KAURD
 
 r e c o  r d i ng
 r ɪ k óː   d ɪ ŋ
-REU/KAU/TK-PBG
-REU/KAUD/-PBG
-RU/KAU/TK-PBG
-RU/KAUD/-PBG
+REU/KAUR/TK-PBG
+REU/KAURD/-PBG
+RU/KAUR/TK-PBG
+RU/KAURD/-PBG
 
 r e c o v e r
 r ɪ k ʌ́ v ə
-REU/KUFB/
-RU/KUFB/
+REU/KUFB/-R
+RU/KUFB/-R
 
 r e  c y  c   l e
 r ɪ́j s ɑ́j k ə l
@@ -10077,8 +10111,8 @@ RU/TKUBG/SH-PB
 
 r e f e  r
 r ɪ f ə́ː
-REU/TPUR
-RU/TPUR
+REU/TPUR/-R
+RU/TPUR/-R
 
 r e f e r e n c e
 r ɛ́ f   r ə n s
@@ -10102,8 +10136,8 @@ RU/TPU/KWRAOUZ
 
 r e g a  r d
 r ɪ g ɑ́ː   d
-REU/TKPWAUD
-RU/TKPWAUD
+REU/TKPWAURD
+RU/TKPWAURD
 
 r e  gi o n
 r ɪ́j dʒ ə n
@@ -10116,9 +10150,9 @@ RAOEPBLG/-PB/-L
 
 r e g  i s t e r
 r ɛ́ dʒ ɪ s t ə
-REPBLG/ST
-REPBLG/*S/
-REPBLG/-S/T
+REPBLG/ST-R
+REPBLG/*S/-R
+REPBLG/-S/T-R
 
 r e g r e t
 r ɪ g r ɛ́ t
@@ -10128,17 +10162,17 @@ RU/TKPWRET
 
 r e g   u l a r
 r ɛ́ g j ə l ə
-REG/KWRU/HR
-REG/KWR-L/
+REG/KWRU/HR-R
+REG/KWR-L/-R
 
 r e g   u l a r l y
 r ɛ́ g j ə l ə   l ɪj
-REG/KWRU/HR/HRAE
 REG/KWRU/HRU/HRAE
-REG/KWRU/HR-L/AE
-REG/KWR-L//HRAE
+REG/KWRU/HR-R/HRAE
+REG/KWRU/HR-RL/AE
 REG/KWR-L/HRAE
-REG/KWR-L/-L/AE
+REG/KWR-L/-R/HRAE
+REG/KWR-L/-RL/AE
 
 r e g   u l a  ti o n
 r ɛ́ g j ə l ɛ́j ʃ  ə n
@@ -10244,13 +10278,13 @@ RU/PHAEUPB
 
 r e m a  r k
 r ɪ m ɑ́ː   k
-REU/PHAUBG
-RU/PHAUBG
+REU/PHAURBG
+RU/PHAURBG
 
 r e m e m b e r
 r ɪ m ɛ́ m b ə
-REU/PHEPL/PW
-RU/PHEPL/PW
+REU/PHEPL/PW-R
+RU/PHEPL/PW-R
 
 r e m i  n d
 r ɪ m ɑ́j n d
@@ -10273,8 +10307,8 @@ REPBT
 
 r e p ai r
 r ɪ p ɛ́ː
-REU/PAEUR
-RU/PAEUR
+REU/PAEUR/-R
+RU/PAEUR/-R
 
 r e p ea t
 r ɪ p ɪ́j t
@@ -10300,15 +10334,15 @@ RU/PHRAOEU
 
 r e p o  r t
 r ɪ p óː   t
-REU/PAUT
-RU/PAUT
+REU/PAURT
+RU/PAURT
 
 r e p o  r t e r
 r ɪ p óː   t ə
-REU/PAU/T
-REU/PAUT/
-RU/PAU/T
-RU/PAUT/
+REU/PAUR/T-R
+REU/PAURT/-R
+RU/PAUR/T-R
+RU/PAURT/-R
 
 r e p r e s e n t
 r ɛ́ p r ə z ɛ́ n t
@@ -10360,25 +10394,25 @@ RES/-BG/KWRAOU
 
 r e s ea r ch
 r ɪ s ə́ː   tʃ
-REU/SUR/-FP
-RU/SUR/-FP
+REU/SUR/UR/KH
+RU/SUR/UR/KH
 
 r e s ea r ch e r
 r ɪ s ə́ː   tʃ ə
-REU/SUR/KH
-REU/SUR/-FP/
-RU/SUR/KH
-RU/SUR/-FP/
+REU/SUR/UR/KH/-R
+REU/SUR/-R/KH-R
+RU/SUR/UR/KH/-R
+RU/SUR/-R/KH-R
 
 r e s e r v a  ti o n
 r ɛ́ z ə   v ɛ́j ʃ  ə n
-REZ//SRAEUGZ
 REZ/SRAEUGZ
+REZ/-R/SRAEUGZ
 
 r e s e  r v e
 r ɪ z ə́ː   v
-REU/SWRUR/-FB
-RU/SWRUR/-FB
+REU/SWRUR/UR/SR
+RU/SWRUR/UR/SR
 
 r e s i d e n t
 r ɛ́ z ɪ d ə n t
@@ -10397,13 +10431,13 @@ RU/SWRAUL/-FB
 
 r e s o  r t
 r ɪ z óː   t
-REU/SWRAUT
-RU/SWRAUT
+REU/SWRAURT
+RU/SWRAURT
 
 r e s ou r c e
 r ɪ z óː   s
-REU/SWRAUS
-RU/SWRAUS
+REU/SWRAURS
+RU/SWRAURS
 
 r e s p e c t
 r ɪ s p ɛ́ k t
@@ -10493,8 +10527,8 @@ RU/TAOEU/-D
 
 r e t u  r n
 r ɪ t ə́ː   n
-REU/TURPB
-RU/TURPB
+REU/TUR/UR/TPH
+RU/TUR/UR/TPH
 
 r e v ea l
 r ɪ v ɪ́j l
@@ -10518,8 +10552,8 @@ REFB/HRAOUGZ
 
 r e w a  r d
 r ɪ w óː   d
-REU/WAUD
-RU/WAUD
+REU/WAURD
+RU/WAURD
 
 r h y th   m
 r   ɪ́ ð  ə m
@@ -10559,7 +10593,7 @@ REUS/-BG
 
 r i v e r
 r ɪ́ v ə
-REUFB/
+REUFB/-R
 
 r oa d
 r ə́w d
@@ -10636,7 +10670,7 @@ RUB
 
 r u bb e r
 r ʌ́ b  ə
-RUB/
+RUB/-R
 
 r u bb i sh
 r ʌ́ b  ɪ ʃ
@@ -10660,7 +10694,7 @@ RUPB
 
 r u nn e r
 r ʌ́ n  ə
-RUPB/
+RUPB/-R
 
 r u nn i ng
 r ʌ́ n  ɪ ŋ
@@ -10701,7 +10735,7 @@ SAEUL/-PBG
 
 s ai l o r
 s ɛ́j l ə
-SAEUL/
+SAEUL/-R
 
 s a l a d
 s á l ə d
@@ -10754,9 +10788,9 @@ SAT/-S/TPAOEU
 
 S a t u r d ay
 s á t ə   d ɛj
-SAT//TKAEU
 SAT/TKAEU
-SAT/-D/AEU
+SAT/-R/TKAEU
+SAT/-RD/AEU
 
 s au c e
 s óː s
@@ -10784,7 +10818,7 @@ SKAPB
 
 s c a  r e d
 s k ɛ́ː     d
-SKAEURD
+SKAEUR/UR/TK
 
 s c a  r y
 s k ɛ́ː r ɪj
@@ -10821,7 +10855,7 @@ SAOEU/-PBT/*S
 
 s c o  r e
 s k óː
-SKAU
+SKAUR
 
 s c r ea m
 s k r ɪ́j m
@@ -10837,7 +10871,7 @@ SKREUPT
 
 s c u l p t  u r e
 s k ʌ́ l p tʃ ə
-SKUL/-P/KH
+SKUL/-P/KH-R
 
 s ea
 s ɪ́j
@@ -10845,7 +10879,7 @@ SAE
 
 s ea r ch
 s ə́ː   tʃ
-SUR/-FP
+SUR/UR/KH
 
 s ea s o n
 s ɪ́j z ə n
@@ -10888,14 +10922,14 @@ SEBG/SH-PB
 
 s e c t o r
 s ɛ́ k t ə
-SEBG/T
-SEBGT/
+SEBG/T-R
+SEBGT/-R
 
 s e c   u  r e
 s ɪ k j ɵ́ː
-SKU/KWRAOUR
-SEU/KU/KWRAOUR
-SEUBG/KWRAOUR
+SKU/KWRAOUR/-R
+SEU/KU/KWRAOUR/-R
+SEUBG/KWRAOUR/-R
 
 s e c   u  r i t y
 s ɪ k j ɵ́ː r ə t ɪj
@@ -10946,7 +10980,7 @@ SEPBD
 
 s e  n i  o r
 s ɪ́j n ɪj ə
-SAOEPB/AE/
+SAOEPB/AE/-R
 
 s e n s e
 s ɛ́ n s
@@ -10984,7 +11018,7 @@ SEP/-R/AEUT
 
 S e p t e m b e r
 s ɛ p t ɛ́ m b ə
-SEP/TEPL/PW
+SEP/TEPL/PW-R
 
 s e  q u e n c e
 s ɪ́j k w ə n s
@@ -11005,17 +11039,17 @@ SAOER/-R/AE/-S/HRAE
 
 s e  r v a n t
 s ə́ː   v ə n t
-SUR/SR-PBT
-SUR/-FB/-PBT
+SUR/UR/SR/-PBT
+SUR/-R/SR-PBT
 
 s e  r v e
 s ə́ː   v
-SUR/-FB
+SUR/UR/SR
 
 s e  r v i c e
 s ə́ː   v ɪ s
-SUR/SR-S
-SUR/-FB/-S
+SUR/UR/SR/-S
+SUR/-R/SR-S
 
 s e ssi o n
 s ɛ́ ʃ   ə n
@@ -11052,8 +11086,8 @@ SEFB/R-L
 
 s e v e  r e
 s ɪ v ɪ́ː
-SEU/SRAOER
-SU/SRAOER
+SEU/SRAOER/-R
+SU/SRAOER/-R
 
 s e x -
 s ɛ́ k s
@@ -11097,11 +11131,11 @@ SHAEUP
 
 sh a  r e
 ʃ  ɛ́ː
-SHAEUR
+SHAEUR/-R
 
 sh a  r p
 ʃ  ɑ́ː   p
-SHAUP
+SHAURP
 
 sh e
 ʃ  ɪ́j
@@ -11125,8 +11159,8 @@ SHEL
 
 sh e l t e r
 ʃ  ɛ́ l t ə
-SHEL/T
-SHELT/
+SHEL/T-R
+SHELT/-R
 
 sh i f t
 ʃ  ɪ́ f t
@@ -11146,7 +11180,7 @@ SHEUP
 
 sh i  r t
 ʃ  ə́ː   t
-SHURT
+SHUR/UR/T
 
 sh o c k
 ʃ  ɔ́   k
@@ -11178,7 +11212,7 @@ SHAUP/-PBG
 
 sh o  r t
 ʃ  óː   t
-SHAUT
+SHAURT
 
 sh o t
 ʃ  ɔ́ t
@@ -11194,8 +11228,8 @@ SHUD
 
 sh ou l d e r
 ʃ  ə́w l d ə
-SHOEL/TK
-SHOELD/
+SHOEL/TK-R
+SHOELD/-R
 
 sh ou t
 ʃ  áw t
@@ -11207,7 +11241,7 @@ SHOE
 
 sh ow e r
 ʃ  áw ə
-SHOU/
+SHOU/-R
 
 sh u t
 ʃ  ʌ́ t
@@ -11265,13 +11299,13 @@ SEUL/AE
 
 s i l v e r
 s ɪ́ l v ə
-SEUL/SR
-SEUL/-FB/
+SEUL/SR-R
+SEUL/-FB/-R
 
 s i m i l a r
 s ɪ́ m ə l ə
-SEUPL/HR
-SEUPL/-L/
+SEUPL/HR-R
+SEUPL/-L/-R
 
 s i m i l a r i t y
 s ɪ́ m ə l á r ə t ɪj
@@ -11280,12 +11314,12 @@ SEUPL/HRAR/-T/AE
 
 s i m i l a r l y
 s ɪ́ m ə l ə   l ɪj
-SEUPL/HR/HRAE
 SEUPL/HRU/HRAE
-SEUPL/HR-L/AE
-SEUPL/-L//HRAE
+SEUPL/HR-R/HRAE
+SEUPL/HR-RL/AE
 SEUPL/-L/HRAE
-SEUPL/-L/-L/AE
+SEUPL/-L/-R/HRAE
+SEUPL/-L/-RL/AE
 
 s i m p   l e
 s ɪ́ m p ə l
@@ -11303,7 +11337,7 @@ SEUPBS
 
 s i n c e  r e
 s ɪ n s ɪ́ː
-SEUPB/SAOER
+SEUPB/SAOER/-R
 
 s i ng
 s ɪ́ ŋ
@@ -11311,7 +11345,7 @@ SEUPBG
 
 s i ng e r
 s ɪ́ ŋ  ə
-SEUPBG/
+SEUPBG/-R
 
 s i ng i ng
 s ɪ́ ŋ  ɪ ŋ
@@ -11328,12 +11362,12 @@ SEUPBG/-BG
 
 s i  r
 s ə́ː
-SUR
+SUR/-R
 
 s i s t e r
 s ɪ́ s t ə
-S*EUS/
-SEUS/T
+S*EUS/-R
+SEUS/T-R
 
 s i t
 s ɪ́ t
@@ -11385,7 +11419,7 @@ SKEUPB
 
 s k i  r t
 s k ə́ː   t
-SKURT
+SKUR/UR/T
 
 s k y
 s k ɑ́j
@@ -11437,7 +11471,7 @@ SPHAUL
 
 s m a  r t
 s m ɑ́ː   t
-SPHAUT
+SPHAURT
 
 s m e ll
 s m ɛ́ l
@@ -11477,7 +11511,7 @@ SOEP
 
 s o cc e r
 s ɔ́ k  ə
-SAUBG/
+SAUBG/-R
 
 s o  ci a l
 s ə́w ʃ  ə l
@@ -11498,8 +11532,8 @@ SAUFT
 
 s o f t w a  r e
 s ɔ́ f t w ɛː
-SAUF/TWAEUR
-SAUFT/WAEUR
+SAUF/TWAEUR/-R
+SAUFT/WAEUR/-R
 
 s oi l
 s ój l
@@ -11507,12 +11541,12 @@ SOEUL
 
 s o  l a r
 s ə́w l ə
-SOEL/
+SOEL/-R
 
 s o  l d  i e r
 s ə́w l dʒ ə
-SOEL/SKWR
-SOEL/-PBLG/
+SOEL/SKWR-R
+SOEL/-PBLG/-R
 
 s o l i d
 s ɔ́ l ɪ d
@@ -11560,7 +11594,7 @@ SUPL/WHAUT
 
 s o m e w h e  r e
 s ʌ́ m   w   ɛː
-SUPL/WHAEUR
+SUPL/WHAEUR/-R
 
 s o n
 s ʌ́ n
@@ -11580,7 +11614,7 @@ SAUR/AE
 
 s o  r t
 s óː   t
-SAUT
+SAURT
 
 s ou l
 s ə́w l
@@ -11596,7 +11630,7 @@ SAOUP
 
 s ou r c e
 s óː   s
-SAUS
+SAURS
 
 s ou th
 s áw θ
@@ -11604,7 +11638,7 @@ SOUGT
 
 s ou th e r n
 s ʌ́  ð  ə   n
-SUGT/-PB
+SUGT/-RPB
 
 s p a  c e
 s p ɛ́j s
@@ -11616,7 +11650,7 @@ SPAOEBG
 
 s p ea k e r
 s p ɪ́j k ə
-SPAOEBG/
+SPAOEBG/-R
 
 s p e ci a l
 s p ɛ́ ʃ  ə l
@@ -11671,7 +11705,7 @@ SPAOEUS/AE
 
 s p i  d e r
 s p ɑ́j d ə
-SPAOEUD/
+SPAOEUD/-R
 
 s p i r i t
 s p ɪ́ r ɪ t
@@ -11692,8 +11726,8 @@ SPOEBG/-PB
 
 s p o n s o r
 s p ɔ́ n s ə
-SPAUPB/S
-SPAUPBS/
+SPAUPB/S-R
+SPAUPBS/-R
 
 s p oo n
 s p ʉ́w n
@@ -11701,7 +11735,7 @@ SPAOUPB
 
 s p o  r t
 s p óː   t
-SPAUT
+SPAURT
 
 s p o t
 s p ɔ́ t
@@ -11717,7 +11751,7 @@ SPREUPBG
 
 s q u a  r e
 s k w ɛ́ː
-SKWAEUR
+SKWAEUR/-R
 
 s t a  b   l e
 s t ɛ́j b ə l
@@ -11737,7 +11771,7 @@ STAEUPBLG
 
 s t ai r
 s t ɛ́ː
-STAEUR
+STAEUR/-R
 
 s t a m p
 s t á m p
@@ -11749,20 +11783,20 @@ STAPBD
 
 s t a n d a r d
 s t á n d ə   d
-STAPB/TK-D
-STAPBD/-D
+STAPB/TK-RD
+STAPBD/-RD
 
 s t a  r
 s t ɑ́ː
-STAU
+STAUR
 
 s t a  r e
 s t ɛ́ː
-STAEUR
+STAEUR/-R
 
 s t a  r t
 s t ɑ́ː   t
-STAUT
+STAURT
 
 s t a  t e
 s t ɛ́j t
@@ -11848,11 +11882,11 @@ STAUP
 
 s t o  r e
 s t óː
-STAU
+STAUR
 
 s t o  r m
 s t óː   m
-STAUPL
+STAURPL
 
 s t o  r y
 s t óː r ɪj
@@ -11868,8 +11902,8 @@ STRAEUPB/-PBLG
 
 s t r a  n g  e r
 s t r ɛ́j n dʒ ə
-STRAEUPB/SKWR
-STRAEUPB/-PBLG/
+STRAEUPB/SKWR-R
+STRAEUPB/-PBLG/-R
 
 s t r a t e g  y
 s t r á t ə dʒ ɪj
@@ -11918,7 +11952,7 @@ STRAUPBG/HRAE
 
 s t r u c t  u r e
 s t r ʌ́ k tʃ ə
-STRUBG/KH
+STRUBG/KH-R
 
 s t r u gg   l e
 s t r ʌ́ g  ə l
@@ -11996,11 +12030,11 @@ SUD/-PB/HRAE
 
 s u ff e r
 s ʌ́ f  ə
-SUF/
+SUF/-R
 
 s u g a r
 ʃ ɵ́ g ə
-SHAOG/
+SHAOG/-R
 
 s u gg e s t
 s ə dʒ ɛ́ s t
@@ -12035,7 +12069,7 @@ SUPL/-R/AE
 
 s u mm e r
 s ʌ́ m  ə
-SUPL/
+SUPL/-R
 
 s u n
 s ʌ́ n
@@ -12048,12 +12082,15 @@ SUPBD/AEU
 
 s u  p e r m a  r k e t
 s ʉ́w p ə   m ɑː   k ɪ t
-SAOUP//PHAU/K-T
-SAOUP//PHAUBG/-T
 SAOUP/PHAU/K-T
-SAOUP/PHAUBG/-T
-SAOUP/-PL/AU/K-T
-SAOUP/-PL/AUBG/-T
+SAOUP/PHAUR/K-T
+SAOUP/PHAURBG/-T
+SAOUP/-R/PHAU/K-T
+SAOUP/-R/PHAUR/K-T
+SAOUP/-R/PHAURBG/-T
+SAOUP/-RPL/AU/K-T
+SAOUP/-RPL/AUR/K-T
+SAOUP/-RPL/AURBG/-T
 
 s u pp l y
 s ə p  l ɑ́j
@@ -12063,15 +12100,15 @@ SUP/HRAOEU
 
 s u pp o  r t
 s ə p  óː   t
-SPAUT
-SU/PAUT
+SPAURT
+SU/PAURT
 
 s u pp o  r t e r
 s ə p  óː   t ə
-SPAU/T
-SPAUT/
-SU/PAU/T
-SU/PAUT/
+SPAUR/T-R
+SPAURT/-R
+SU/PAUR/T-R
+SU/PAURT/-R
 
 s u pp o  s e
 s ə p  ə́w z
@@ -12080,42 +12117,45 @@ SU/POEZ
 
 s u  r e
 ʃ óː
-SHAU
+SHAUR
 
 s u  r e l y
 ʃ óː     l ɪj
-SHAU/HRAE
-SHAUL/AE
+SHAUR/HRAE
+SHAURL/AE
 
 s u  r f a c e
 s ə́ː   f ɪ s
-SUR/TP-S
-SUR/-F/-S
+SUR/UR/TP/-S
+SUR/-R/TP-S
 
 s u  r g  e r y
 s ə́ː   dʒ ə r ɪj
-SUR/SKWRU/RAE
-SUR/SKWR-R/AE
-SURPBLG/RAE
-SURPBLG/-R/AE
+SUR/UR/SKWR/RAE
+SUR/UR/SKWR/-R/AE
+SUR/-R/SKWRU/RAE
+SUR/-R/SKWR-R/AE
 
 s u r p r i  s e
 s ə   p r ɑ́j z
 SPRAOEUZ
 SU/PRAOEUZ
-SUP/RAOEUZ
+SUR/PRAOEUZ
+SURP/RAOEUZ
 
 s u r p r i  s e d
 s ə   p r ɑ́j z   d
 SPRAOEUZ/-D
 SU/PRAOEUZ/-D
-SUP/RAOEUZ/-D
+SUR/PRAOEUZ/-D
+SURP/RAOEUZ/-D
 
 s u r p r i  s i ng
 s ə   p r ɑ́j z ɪ ŋ
 SPRAOEUZ/-PBG
 SU/PRAOEUZ/-PBG
-SUP/RAOEUZ/-PBG
+SUR/PRAOEUZ/-PBG
+SURP/RAOEUZ/-PBG
 
 s u rr ou n d
 s ə r  áw n d
@@ -12132,15 +12172,17 @@ SU/ROUPBD/-PBG
 s u r v ey
 s ə   v ɛ́j
 SU/SRAEU
+SUR/SRAEU
 
 s u  r v ey
 s ə́ː   v ɛj
-SUR/SRAEU
-SUR/-FB/AEU
+SUR/UR/SR/AEU
+SUR/-R/SRAEU
 
 s u r v i  v e
 s ə   v ɑ́j v
 SU/SRAOEUFB
+SUR/SRAOEUFB
 
 s u s p e c t
 s ə s p ɛ́ k t
@@ -12154,11 +12196,11 @@ SUS/-P/EBGT
 
 s w ea r
 s w ɛ́ː
-SWAEUR
+SWAEUR/-R
 
 s w ea t e r
 s w ɛ́  t ə
-SWET/
+SWET/-R
 
 s w ee p
 s w ɪ́j p
@@ -12248,8 +12290,8 @@ TAEUP
 
 t a  r g e t
 t ɑ́ː   g ɪ t
-TAU/TKPW-T
-TAUG/-T
+TAUR/TKPW-T
+TAURG/-T
 
 t a  s k
 t ɑ́ː s k
@@ -12278,7 +12320,7 @@ TAOEFP
 
 t ea ch e r
 t ɪ́j tʃ ə
-TAOEFP/
+TAOEFP/-R
 
 t ea ch i ng
 t ɪ́j tʃ ɪ ŋ
@@ -12290,11 +12332,11 @@ TAOEPL
 
 t ea r
 t ɛ́ː
-TAEUR
+TAEUR/-R
 
 t ea r
 t ɪ́ː
-TAOER
+TAOER/-R
 
 t e ch n i c a l
 t ɛ́ k  n ɪ k ə l
@@ -12317,8 +12359,8 @@ TAOEPB/AEUPBLG
 
 t ee n a  g  e r
 t ɪ́j n ɛj dʒ ə
-TAOEPB/AEU/SKWR
-TAOEPB/AEUPBLG/
+TAOEPB/AEU/SKWR-R
+TAOEPB/AEUPBLG/-R
 
 t e l e ph o  n e
 t ɛ́ l ɪ f  əw n
@@ -12334,10 +12376,10 @@ TEL
 
 t e m p e r a t  u r e
 t ɛ́ m p   r ə tʃ ə
-TEFPL/RU/KH
-TEFPL/R-FP/
-TEPL/PRU/KH
-TEPL/PR-FP/
+TEFPL/RU/KH-R
+TEFPL/R-FP/-R
+TEPL/PRU/KH-R
+TEPL/PR-FP/-R
 
 t e m p o r a r y
 t ɛ́ m p   r ə r ɪj
@@ -12364,7 +12406,7 @@ TEPBT
 
 t e  r m
 t ə́ː   m
-TURPL
+TUR/UR/PH
 
 t e rr i b   l e
 t ɛ́ r  ə b ə l
@@ -12419,11 +12461,11 @@ THAE/-T/
 
 th ei r
 ð  ɛ́ː
-THAEUR
+THAEUR/-R
 
 th ei r s
 ð  ɛ́ː   z
-THAEURZ
+THAEUR/UR/SWR
 
 th e m
 ð  ɛ́ m
@@ -12457,16 +12499,16 @@ THER/-P/AE
 
 th e  r e
 ð  ɛ́ː
-THAEUR
+THAEUR/-R
 
 th e r e
 ð  ə
-THU
+THUR
 
 th e  r e f o  r e
 ð  ɛ́ː     f oː
-THAEUR/TPAU
-THAEUR/-F/AU
+THAEUR/UR/TP/AUR
+THAEUR/-R/TPAUR
 
 th ey
 ð  ɛ́j
@@ -12499,23 +12541,24 @@ THEUPBG/-BG/-PBG
 
 th i  r d
 θ  ə́ː   d
-THURD
+THUR/UR/TK
 
 th i  r s t y
 θ  ə́ː   s t ɪj
-TH*URS/AE
-THUR/STAE
-THURS/TAE
+THUR/UR/S/TAE
+THUR/UR/ST/AE
+THUR/-R/STAE
 
 th i  r t ee n
 θ  ə́ː   t ɪ́j n
 THUR/TAOEPB
-THURT/AOEPB
+THUR/UR/T/AOEPB
+THUR/-R/TAOEPB
 
 th i  r t y
 θ  ə́ː   t ɪj
-THUR/TAE
-THURT/AE
+THUR/UR/T/AE
+THUR/-R/TAE
 
 th i s
 ð  ɪ́ s
@@ -12563,8 +12606,8 @@ THROE
 
 Th u  r s d ay
 θ  ə́ː   z d ɛj
-THURZ/TKAEU
-THURZ/-D/AEU
+THUR/UR/SWR/TKAEU
+THUR/UR/SWRU/TK/AEU
 
 th u s
 ð  ʌ́ s
@@ -12634,7 +12677,7 @@ TOE
 
 t o g e th e r
 t ə g ɛ́ ð  ə
-TU/TKPWEGT/
+TU/TKPWEGT/-R
 
 t oi l e t
 t ój l ə t
@@ -12701,7 +12744,7 @@ TUF
 
 t ou r
 t óː
-TAU
+TAUR
 
 t ou r i s   m
 t óː r ɪ z ə m
@@ -12714,8 +12757,8 @@ TAUR/*S
 
 t o w a  r d s
 t ə w óː   d z
-TWAUDZ
-TU/WAUDZ
+TWAURDZ
+TU/WAURDZ
 
 t ow e l
 t áw ə l
@@ -12723,7 +12766,7 @@ TOU/-L
 
 t ow e r
 t áw ə
-TOU/
+TOU/-R
 
 t ow n
 t áw n
@@ -12760,7 +12803,7 @@ TRAEUPB
 
 t r ai n e r
 t r ɛ́j n ə
-TRAEUPB/
+TRAEUPB/-R
 
 t r ai n i ng
 t r ɛ́j n ɪ ŋ
@@ -12768,18 +12811,18 @@ TRAEUPB/-PBG
 
 t r a n s f e  r
 t r a n s f ə́ː
-TRAPB/STPUR
-TRAPBS/TPUR
+TRAPB/STPUR/-R
+TRAPBS/TPUR/-R
 
 t r a n s f e  r
 t r á n s f əː
-TRAPB/STPUR
-TRAPBS/TPUR
+TRAPB/STPUR/-R
+TRAPBS/TPUR/-R
 
 t r a n s f o  r m
 t r a n s f óː   m
-TRAPB/STPAUPL
-TRAPBS/TPAUPL
+TRAPB/STPAURPL
+TRAPBS/TPAURPL
 
 t r a n s i ti o n
 t r a n z ɪ́ ʃ  ə n
@@ -12795,13 +12838,13 @@ TRAPBZ/HRAEUGZ
 
 t r a n s p o  r t
 t r a n s p óː   t
-TRAPB/SPAUT
-TRAPBS/PAUT
+TRAPB/SPAURT
+TRAPBS/PAURT
 
 t r a n s p o  r t
 t r á n s p oː   t
-TRAPB/SPAUT
-TRAPBS/PAUT
+TRAPB/SPAURT
+TRAPBS/PAURT
 
 t r a v e l
 t r á v ə l
@@ -12809,7 +12852,7 @@ TRAFB/-L
 
 t r a v e ll e r
 t r á v   l  ə
-TRAFB/HR
+TRAFB/HR-R
 
 t r ea t
 t r ɪ́j t
@@ -12850,7 +12893,7 @@ TRUB/-L
 
 t r ou s e r s
 t r áw z ə   z
-TROUZ/-Z
+TROUZ/-RZ
 
 t r u c k
 t r ʌ́   k
@@ -12895,7 +12938,7 @@ TUPB/-L
 
 t u  r n
 t ə́ː   n
-TURPB
+TUR/UR/TPH
 
 t w e l v e
 t w ɛ́ l v
@@ -12974,49 +13017,49 @@ UPB/KAUPB/SH-S
 
 u n d e r
 ʌ́ n d ə
-UPB/TK
-UPBD/
+UPB/TK-R
+UPBD/-R
 
 u n d e r g r ou n d
 ʌ́ n d ə   g r aw n d
-UPB/TK/TKPWROUPBD
 UPB/TKU/TKPWROUPBD
-UPB/TK-G/ROUPBD
-UPBD//TKPWROUPBD
+UPB/TK-R/TKPWROUPBD
+UPB/TK-RG/ROUPBD
 UPBD/TKPWROUPBD
-UPBD/-G/ROUPBD
+UPBD/-R/TKPWROUPBD
+UPBD/-RG/ROUPBD
 
 u n d e r s t a n d
 ʌ́ n d ə   s t á n d
-UPB/TK/STAPBD
 UPB/TKU/STAPBD
-UPB/TK-S/TAPBD
-UPBD//STAPBD
+UPB/TK-R/STAPBD
+UPB/TK-RS/TAPBD
 UPBD/STAPBD
-UPBD/-S/TAPBD
+UPBD/-R/STAPBD
+UPBD/-RS/TAPBD
 
 u n d e r s t a n d i ng
 ʌ́ n d ə   s t á n d ɪ ŋ
-UPB/TK/STAPB/TK-PBG
-UPB/TK/STAPBD/-PBG
 UPB/TKU/STAPB/TK-PBG
 UPB/TKU/STAPBD/-PBG
-UPB/TK-S/TAPB/TK-PBG
-UPB/TK-S/TAPBD/-PBG
-UPBD//STAPB/TK-PBG
-UPBD//STAPBD/-PBG
+UPB/TK-R/STAPB/TK-PBG
+UPB/TK-R/STAPBD/-PBG
+UPB/TK-RS/TAPB/TK-PBG
+UPB/TK-RS/TAPBD/-PBG
 UPBD/STAPB/TK-PBG
 UPBD/STAPBD/-PBG
-UPBD/-S/TAPB/TK-PBG
-UPBD/-S/TAPBD/-PBG
+UPBD/-R/STAPB/TK-PBG
+UPBD/-R/STAPBD/-PBG
+UPBD/-RS/TAPB/TK-PBG
+UPBD/-RS/TAPBD/-PBG
 
 u n d e r w ea r
 ʌ́ n d ə   w ɛː
-UPB/TK/WAEUR
-UPB/TKWAEUR
-UPB/TKU/WAEUR
-UPBD//WAEUR
-UPBD/WAEUR
+UPB/TKWAEUR/-R
+UPB/TKU/WAEUR/-R
+UPB/TK-R/WAEUR/-R
+UPBD/WAEUR/-R
+UPBD/-R/WAEUR/-R
 
 u n e m p l oy e d
 ʌ́ n ɪ m p l ój   d
@@ -13037,14 +13080,14 @@ UPB/-BGS/PEBGT/UD
 
 u n f ai r
 ʌ́ n f ɛ́ː
-UPB/TPAEUR
+UPB/TPAEUR/-R
 
 u n f o  r t  u n a t e l y
 ʌ́ n f óː   tʃ ə n ə t   l ɪj
-UPB/TPAU/KHU/TPH-T/HRAE
-UPB/TPAU/KH-PB/-T/HRAE
-UPB/TPAUFP/TPH-T/HRAE
-UPB/TPAUFP/-PB/-T/HRAE
+UPB/TPAUR/KHU/TPH-T/HRAE
+UPB/TPAUR/KH-PB/-T/HRAE
+UPB/TPAUR/-FP/TPH-T/HRAE
+UPB/TPAUR/-FP/-PB/-T/HRAE
 
 u n h a pp y
 ʌ́ n h á p  ɪj
@@ -13052,8 +13095,8 @@ UPB/HAP/AE
 
   u  n i f o  r m
 j ʉ́w n ɪ f oː   m
-KWRAOUPB/TPAUPL
-KWRAOUPB/-F/AUPL
+KWRAOUPB/TPAURPL
+KWRAOUPB/-F/AURPL
 
   u  n i  o n
 j ʉ́w n ɪj ə n
@@ -13073,16 +13116,16 @@ KWRAOU/TPHAOEUT/UD
 
   u  n i v e  r s e
 j ʉ́w n ɪ v əː   s
-KWRAOUPB/SRURS
-KWRAOUPB/-FB/URS
+KWRAOUPB/SRUR/UR/S
+KWRAOUPB/-FB/UR/UR/S
 
   u  n i v e  r s i t y
 j ʉ́w n ɪ v ə́ː   s ə t ɪj
-KWRAOUPB/SRUR/STAE
-KWRAOUPB/SRUR/SU/TAE
-KWRAOUPB/SRUR/S-T/AE
-KWRAOUPB/SRURS/TAE
-KWRAOUPB/SRURS/-T/AE
+KWRAOUPB/SRUR/UR/S/TAE
+KWRAOUPB/SRUR/UR/S/-T/AE
+KWRAOUPB/SRUR/-R/STAE
+KWRAOUPB/SRUR/-R/SU/TAE
+KWRAOUPB/SRUR/-R/S-T/AE
 
 u n k n ow n
 ʌ́ n   n ə́w n
@@ -13137,7 +13180,7 @@ U/PAUPB
 
 u pp e r
 ʌ́ p  ə
-UP/
+UP/-R
 
 u p s e t
 ʌ́ p s ɛ́ t
@@ -13151,21 +13194,21 @@ UPS/ET
 
 u p s t ai r s
 ʌ́ p s t ɛ́ː   z
-UP/STAEURZ
-UPS/TAEURZ
+UP/STAEUR/UR/SWR
+UPS/TAEUR/UR/SWR
 
 u p w a r d s
 ʌ́ p w ə   d z
-UP/W-DZ
+UP/W-RDZ
 
 u  r b a n
 ə́ː   b ə n
-UR/PW-PB
-URB/-PB
+UR/UR/PW/-PB
+UR/-R/PW-PB
 
 u  r g  e
 ə́ː   dʒ
-URPBLG
+UR/UR/SKWR
 
 u s
 ə s
@@ -13197,7 +13240,7 @@ KWRAOUS/TP-L
 
   u  s e r
 j ʉ́w z ə
-KWRAOUZ/
+KWRAOUZ/-R
 
   u  s u  a l
 j ʉ́w ʒ ʉw ə l
@@ -13292,7 +13335,7 @@ SRU/KWRAOU
 
 v i ew e r
 v j ʉ́w ə
-SRU/KWRAOU/
+SRU/KWRAOU/-R
 
 v i ll a g  e
 v ɪ́ l  ɪ dʒ
@@ -13310,8 +13353,8 @@ SRAOEU/-L/-PBT
 
 v i  r t  u  a l
 v ə́ː   tʃ ʉw ə l
-SRUR/KHAOU/-L
-SRUR/-FP/AOU/-L
+SRUR/UR/KH/AOU/-L
+SRUR/-R/KHAOU/-L
 
 v i  r u s
 v ɑ́j r ə s
@@ -13326,8 +13369,8 @@ SREUZ/-T
 
 v i s i t o r
 v ɪ́ z ɪ t ə
-SREUZ/T
-SREUZ/-T/
+SREUZ/T-R
+SREUZ/-T/-R
 
 v i s u  a l
 v ɪ́ ʒ ʉw ə l
@@ -13351,7 +13394,7 @@ SRAUL/KWRAOUPL
 
 v o l u n t ee r
 v ɔ́ l ə n t ɪ́ː
-SRAUL/-PB/TAOER
+SRAUL/-PB/TAOER/-R
 
 v o  t e
 v ə́w t
@@ -13367,7 +13410,7 @@ WAEUT
 
 w ai t e r
 w ɛ́j t ə
-WAEUT/
+WAEUT/-R
 
 w a  k e
 w ɛ́j k
@@ -13387,20 +13430,20 @@ WAUPBT
 
 w a  r
 w óː
-WAU
+WAUR
 
 w a  r m
 w óː   m
-WAUPL
+WAURPL
 
 w a  r n
 w óː   n
-WAUPB
+WAURPB
 
 w a  r n i ng
 w óː   n ɪ ŋ
-WAU/TPH-PBG
-WAUPB/-PBG
+WAUR/TPH-PBG
+WAURPB/-PBG
 
 w a sh
 w ɔ́ ʃ
@@ -13420,7 +13463,7 @@ WAUFP
 
 w a  t e r
 w óː t ə
-WAUT/
+WAUT/-R
 
 w a  v e
 w ɛ́j v
@@ -13457,11 +13500,11 @@ WEP/-PB
 
 w ea r
 w ɛ́ː
-WAEUR
+WAEUR/-R
 
 w ea th e r
 w ɛ́  ð  ə
-WEGT/
+WEGT/-R
 
 w e b
 w ɛ́ b
@@ -13510,8 +13553,8 @@ W*ES
 
 w e s t e r n
 w ɛ́ s t ə   n
-W*ES/-PB
-WES/T-PB
+W*ES/-RPB
+WES/T-RPB
 
 w e t
 w ɛ́ t
@@ -13523,7 +13566,7 @@ WHAUT
 
 w h a t e v e r
 w   ɔ t ɛ́ v ə
-WHAU/TEFB/
+WHAU/TEFB/-R
 
 w h ee l
 w   ɪ́j l
@@ -13535,11 +13578,11 @@ WHEPB
 
 w h e n e v e r
 w   ɛ n ɛ́ v ə
-WHE/TPHEFB/
+WHE/TPHEFB/-R
 
 w h e  r e
 w   ɛ́ː
-WHAEUR
+WHAEUR/-R
 
 w h e  r e a s
 w   ɛ́ː r   á z
@@ -13548,12 +13591,12 @@ WHAEUR/-R/AZ
 
 w h e  r e v e r
 w   ɛ́ː r ɛ́ v ə
-WHAEUR/REFB/
-WHAEUR/-R/EFB/
+WHAEUR/REFB/-R
+WHAEUR/-R/EFB/-R
 
 w h e th e r
 w   ɛ́ ð  ə
-WHEGT/
+WHEGT/-R
 
 w h i ch
 w   ɪ́ tʃ
@@ -13565,8 +13608,8 @@ WHAOEUL
 
 w h i s p e r
 w   ɪ́ s p ə
-WHEUS/P
-WHEUS/-P/
+WHEUS/P-R
+WHEUS/-P/-R
 
 w h i  t e
 w   ɑ́j t
@@ -13651,12 +13694,12 @@ WEUPBG
 
 w i nn e r
 w ɪ́ n  ə
-WEUPB/
+WEUPB/-R
 
 w i n t e r
 w ɪ́ n t ə
-WEUPB/T
-WEUPBT/
+WEUPB/T-R
+WEUPBT/-R
 
 w i  r e
 w ɑ́j ə
@@ -13698,17 +13741,17 @@ WAOPL/-PB
 
 w o n d e r
 w ʌ́ n d ə
-WUPB/TK
-WUPBD/
+WUPB/TK-R
+WUPBD/-R
 
 w o n d e r f u l
 w ʌ́ n d ə   f ə l
-WUPB/TK/TP-L
 WUPB/TKU/TP-L
-WUPB/TK-F/-L
-WUPBD//TP-L
+WUPB/TK-R/TP-L
+WUPB/TK-R/-F/-L
 WUPBD/TP-L
-WUPBD/-F/-L
+WUPBD/-R/TP-L
+WUPBD/-R/-F/-L
 
 w oo d
 w ɵ́  d
@@ -13724,30 +13767,30 @@ WAOL
 
 w o  r d
 w ə́ː   d
-WURD
+WUR/UR/TK
 
 w o  r k
 w ə́ː   k
-WURBG
+WUR/UR/K
 
 w o  r k e r
 w ə́ː   k ə
-WUR/K
-WURBG/
+WUR/UR/K/-R
+WUR/-R/K-R
 
 w o  r k i ng
 w ə́ː   k ɪ ŋ
-WUR/K-PBG
-WURBG/-PBG
+WUR/UR/K/-PBG
+WUR/-R/K-PBG
 
 w o  r l d
 w ə́ː   l d
-WURLD
+WUR/UR/HRU/TK
 
 w o  r l d w i  d e
 w ə́ː   l d w ɑj d
-WURL/TKWAOEUD
-WURLD/WAOEUD
+WUR/UR/HR/TKWAOEUD
+WUR/UR/HRU/TK/WAOEUD
 
 w o rr ie d
 w ʌ́ r  ɪj d
@@ -13759,15 +13802,15 @@ WUR/AE
 
 w o  r s e
 w ə́ː   s
-WURS
+WUR/UR/S
 
 w o  r s t
 w ə́ː   s t
-W*URS
+WUR/UR/ST
 
 w o  r th
 w ə́ː   θ
-WURGT
+WUR/UR/TH
 
 w ou l d
 w ɵ́    d
@@ -13799,7 +13842,7 @@ WRAOEUT
 
 w r i  t e r
   r ɑ́j t ə
-WRAOEUT/
+WRAOEUT/-R
 
 w r i  t i ng
   r ɑ́j t ɪ ŋ
@@ -13815,7 +13858,7 @@ WRAUPBG
 
 y a  r d
 j ɑ́ː   d
-KWRAUD
+KWRAURD
 
 y ea h
 j ɛ́
@@ -13823,7 +13866,7 @@ KWRE
 
 y ea r
 j ɪ́ː
-KWRAOER
+KWRAOER/-R
 
 y e ll ow
 j ɛ́ l  əw
@@ -13835,12 +13878,12 @@ KWRES
 
 y e s t e r d ay
 j ɛ́ s t ə   d ɛj
-KWR*ES//TKAEU
 KWR*ES/TKAEU
-KWR*ES/-D/AEU
-KWRES/T/TKAEU
+KWR*ES/-R/TKAEU
+KWR*ES/-RD/AEU
 KWRES/TU/TKAEU
-KWRES/T-D/AEU
+KWRES/T-R/TKAEU
+KWRES/T-RD/AEU
 
 y e t
 j ɛ́ t
@@ -13856,15 +13899,16 @@ KWRUPBG
 
 y ou r
 j óː
-KWRAU
+KWRAUR
 
 y ou r s
 j óː   z
-KWRAUZ
+KWRAURZ
 
 y ou r s e l f
 j oː   s ɛ́ l f
 KWRAU/SEL/-F
+KWRAUR/SEL/-F
 
 y ou th
 j ʉ́w θ
