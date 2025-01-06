@@ -86,6 +86,10 @@ NON_RIGHT_RULES = [
         [Stroke('-PLT')],
     ),
     Rule(
+        [Sound('ə', 'r')],
+        [Stroke('-R')],
+    ),
+    Rule(
         [SCHWA, BREAK],
         [],
         lookbehind = [BREAK],

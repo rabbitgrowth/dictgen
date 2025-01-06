@@ -138,9 +138,9 @@ UBG/TPHAUL/-PBLG
 acquire
 a c q u i  r e
 ə   k w ɑ́j ə
-U/KWAOEU/
+U/KWAOEU/-R
 U/KWAOEUR
-UBG/WAOEU/
+UBG/WAOEU/-R
 UBG/WAOEUR
 
 across
@@ -236,7 +236,7 @@ UD/PHEUPB/-S/TRAEUGZ
 admire
 a d m i  r e
 ə d m ɑ́j ə
-UD/PHAOEU/
+UD/PHAOEU/-R
 UD/PHAOEUR
 
 admit
@@ -2300,8 +2300,7 @@ SEPBT/R-L
 centre
 c e n t r e
 s ɛ́ n t ə
-SEPB/T
-SEPBT/
+SEPB/T-R
 SEPBT/-R
 
 century
@@ -4129,7 +4128,7 @@ TKU/SWRAOEUPB/-R
 desire
 d e s i  r e
 d ə z ɑ́j ə
-TKU/SWRAOEU/
+TKU/SWRAOEU/-R
 TKU/SWRAOEUR
 
 desk
@@ -5198,15 +5197,15 @@ EUPBGT/AOUZ/AE/AS/T-BG
 entire
 e n t i  r e
 ɪ n t ɑ́j ə
-EUPB/TAOEU/
+EUPB/TAOEU/-R
 EUPB/TAOEUR
 
 entirely
 e n t i  r e l y
 ɪ n t ɑ́j ə   l ɪj
-EUPB/TAOEU//HRAE
 EUPB/TAOEU/HRAE
-EUPB/TAOEU/-L/AE
+EUPB/TAOEU/-R/HRAE
+EUPB/TAOEU/-RL/AE
 EUPB/TAOEUR/HRAE
 EUPB/TAOEURL/AE
 
@@ -6098,7 +6097,7 @@ TPEUPB/-GS
 fire
 f i  r e
 f ɑ́j ə
-TPAOEU/
+TPAOEU/-R
 TPAOEUR
 
 firm
@@ -6204,6 +6203,7 @@ flour
 f l ou r
 f l áw ə
 TPHROU
+TPHROU/-R
 TPHROUR
 
 flow
@@ -7256,7 +7256,7 @@ HEUPL/SEL/-F
 hire
 h i  r e
 h ɑ́j ə
-HAOEU/
+HAOEU/-R
 HAOEUR
 
 his
@@ -7399,6 +7399,7 @@ hour
 h ou r
   áw ə
 HOU
+HOU/-R
 HOUR
 
 house
@@ -7962,9 +7963,9 @@ EUPB/S*EUS
 inspire
 i n s p i  r e
 ɪ n s p ɑ́j ə
-EUPB/SPAOEU/
+EUPB/SPAOEU/-R
 EUPB/SPAOEUR
-EUPBS/PAOEU/
+EUPBS/PAOEU/-R
 EUPBS/PAOEUR
 
 install
@@ -8430,11 +8431,9 @@ KEUL/-PBG
 kilometre
 k i l o m e t r e
 k ɪ l ɔ́ m ɪ t ə
-KHRAUPL/T
-KHRAUPL/-T/
+KHRAUPL/T-R
 KHRAUPL/-T/-R
-KEU/HRAUPL/T
-KEU/HRAUPL/-T/
+KEU/HRAUPL/T-R
 KEU/HRAUPL/-T/-R
 
 kind
@@ -9369,7 +9368,6 @@ PHEGT/UD
 metre
 m e  t r e
 m ɪ́j t ə
-PHAOET/
 PHAOET/-R
 
 middle
@@ -10071,6 +10069,7 @@ nuclear
 n   u  c l ea r
 n j ʉ́w k l ɪj ə
 TPHAOUBG/HRAE
+TPHAOUBG/HRAE/-R
 TPHAOUBG/HRAER
 
 number
@@ -10473,6 +10472,7 @@ ourselves
 ou r s e l v e s
 áw ə s ɛ́ l v   z
 OU/SEL/-FBZ
+OU/-R/SEL/-FBZ
 OUR/SEL/-FBZ
 
 out
@@ -12599,19 +12599,21 @@ REUBG/W*ES
 require
 r e q u i  r e
 r ɪ k w ɑ́j ə
-REU/KWAOEU/
+REU/KWAOEU/-R
 REU/KWAOEUR
-REUBG/WAOEU/
+REUBG/WAOEU/-R
 REUBG/WAOEUR
 
 requirement
 r e q u i  r e m e n t
 r ɪ k w ɑ́j ə   m ə n t
-REU/KWAOEU//-PLT
+REU/KWAOEU/-R/-PLT
+REU/KWAOEU/-RPLT
 REU/KWAOEU/-PLT
 REU/KWAOEUR/-PLT
 REU/KWAOEURPLT
-REUBG/WAOEU//-PLT
+REUBG/WAOEU/-R/-PLT
+REUBG/WAOEU/-RPLT
 REUBG/WAOEU/-PLT
 REUBG/WAOEUR/-PLT
 REUBG/WAOEURPLT
@@ -12743,13 +12745,13 @@ REU/TAEUPB
 retire
 r e t i  r e
 r ɪ t ɑ́j ə
-REU/TAOEU/
+REU/TAOEU/-R
 REU/TAOEUR
 
 retired
 r e t i  r e d
 r ɪ t ɑ́j ə   d
-REU/TAOEU/-D
+REU/TAOEU/-RD
 REU/TAOEURD
 
 return
@@ -15126,8 +15128,7 @@ THU
 theatre
 th e  a t r e
 θ  ɪ́j ə t ə
-THAE/T
-THAE/-T/
+THAE/T-R
 THAE/-T/-R
 
 their
@@ -15369,7 +15370,7 @@ TEUP
 tired
 t i  r e d
 t ɑ́j ə   d
-TAOEU/-D
+TAOEU/-RD
 TAOEURD
 
 title
@@ -15772,7 +15773,7 @@ TEUP/-BG/HRAE
 tyre
 t y  r e
 t ɑ́j ə
-TAOEU/
+TAOEU/-R
 TAOEUR
 
 ugly
@@ -16671,7 +16672,7 @@ WEUPBT/-R
 wire
 w i  r e
 w ɑ́j ə
-WAOEU/
+WAOEU/-R
 WAOEUR
 
 wise
