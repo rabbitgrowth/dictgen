@@ -63,7 +63,7 @@ NON_RIGHT_OPTIONAL_RULES = [
     Rule(
         [Sound('j')],
         [],
-        outline = lambda outline: bool(outline),
+        lookbehind = [Sound()],
     ),
 ]
 
