@@ -33,8 +33,8 @@ class TestGenerate(unittest.TestCase):
         self.T('s  l e d', 's l ɛ́ d', 'SHRED')
 
     def test_silent_h(self):
-        self.T('h eir', '- ɛ́ː', 'HAEUR')
-        self.T('  air', '  ɛ́ː', 'AEUR')
+        self.T('h ei r', '- ɛ́ː -', 'HAEUR')
+        self.T('  ai r', '  ɛ́ː -', 'AEUR')
 
     def test_silent_h_in_wh(self):
         self.T('w h i ch',  'w - ɪ́ tʃ', 'WHEUFP')
