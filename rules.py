@@ -123,12 +123,12 @@ RIGHT_RULES = [
         [Stroke('-FPL')],
     ),
     Rule(
-        [Sound('s'), Sound('t')],
-        [Stroke('*S')],
-    ),
-    Rule(
         [Sound('ʃ'), BREAK, Sound('ə'), Sound('n')],
         [Stroke('-GZ')],
+    ),
+    Rule(
+        [Sound('s'), Sound('t')],
+        [Stroke('*S')],
     ),
     Rule(
         [Sound('', 'r')],
