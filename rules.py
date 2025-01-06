@@ -127,6 +127,10 @@ RIGHT_RULES = [
         [Stroke('-FPL')],
     ),
     Rule(
+        [Sound('n'), Sound('dʒ')],
+        [Stroke('-FPG')],
+    ),
+    Rule(
         [Sound('m'), BREAK, Sound('ə'), Sound('n'), Sound('t')],
         [Stroke('-PLT')],
     ),

@@ -933,12 +933,12 @@ U/ROUPBD
 arrange
 a rr a  n g  e
 ə r  ɛ́j n dʒ
-U/RAEUPB/-PBLG
+U/RAEUFPG
 
 arrangement
 a rr a  n g  e m e n t
 ə r  ɛ́j n dʒ   m ə n t
-U/RAEUPB/-PBLG/-PLT
+U/RAEUFPG/-PLT
 
 arrest
 a rr e s t
@@ -2348,7 +2348,7 @@ KHAEURPL/-PB
 challenge
 ch a ll e n g  e
 tʃ á l  ə n dʒ
-KHAL/-PB/-PBLG
+KHAL/-FPG
 
 champion
 ch a m p i  o n
@@ -2364,7 +2364,7 @@ KHAPBS
 change
 ch a  n g  e
 tʃ ɛ́j n dʒ
-KHAEUPB/-PBLG
+KHAEUFPG
 
 channel
 ch a nn e l
@@ -3777,16 +3777,16 @@ TKAPBS/-PBG
 danger
 d a  n g  e r
 d ɛ́j n dʒ ə
+TKAEUFPG/-R
 TKAEUPB/SKWR-R
-TKAEUPB/-PBLG/-R
 
 dangerous
 d a  n g  e r ou s
 d ɛ́j n dʒ ə r ə  s
+TKAEUFPG/R-S
+TKAEUFPG/-R/-S
 TKAEUPB/SKWRU/R-S
 TKAEUPB/SKWR-R/-S
-TKAEUPB/-PBLG/R-S
-TKAEUPB/-PBLG/-R/-S
 
 dark
 d a  r k
@@ -5102,20 +5102,20 @@ EUPB/TKPWAEUPBLGD
 engine
 e n g  i n e
 ɛ́ n dʒ ɪ n
+EFPG/-PB
 EPB/SKWR-PB
-EPB/-PBLG/-PB
 
 engineer
 e n g  i n ee r
 ɛ́ n dʒ ɪ n ɪ́ː
+EFPG/TPHAOER
 EPB/SKWREU/TPHAOER
-EPB/-PBLG/TPHAOER
 
 engineering
 e n g  i n ee r i ng
 ɛ́ n dʒ ɪ n ɪ́ː r ɪ ŋ
+EFPG/TPHAOER/-PBG
 EPB/SKWREU/TPHAOER/-PBG
-EPB/-PBLG/TPHAOER/-PBG
 
 enhance
 e n h a  n c e
@@ -5460,7 +5460,7 @@ EUBGS/EPT
 exchange
 e x - ch a  n g  e
 ɪ k s tʃ ɛ́j n dʒ
-EUBGS/KHAEUPB/-PBLG
+EUBGS/KHAEUFPG
 
 excited
 e x - c i  t e d
@@ -7892,22 +7892,22 @@ EU/TPHEUGS/-T/-FB
 injure
 i n j  u r e
 ɪ́ n dʒ ə
+EUFPG/-R
 EUPB/SKWR-R
-EUPB/-PBLG/-R
 
 injured
 i n j  u r e d
 ɪ́ n dʒ ə     d
+EUFPG/-RD
 EUPB/SKWR-RD
-EUPB/-PBLG/-RD
 
 injury
 i n j  u r y
 ɪ́ n dʒ ə r ɪj
+EUFPG/RAE
+EUFPG/-R/AE
 EUPB/SKWRU/RAE
 EUPB/SKWR-R/AE
-EUPB/-PBLG/RAE
-EUPB/-PBLG/-R/AE
 
 inner
 i nn e r
@@ -10349,7 +10349,7 @@ UR
 orange
 o r a n g  e
 ɔ́ r ɪ n dʒ
-AUR/-PB/-PBLG
+AUR/-FPG
 
 order
 o  r d e r
@@ -10728,8 +10728,8 @@ PAS/-PBLG
 passenger
 p a ss e n g  e r
 p á s  ɪ n dʒ ə
+PAS/-FPG/-R
 PAS/-PB/SKWR-R
-PAS/-PB/-PBLG/-R
 
 passion
 p a ssi o n
@@ -12086,7 +12086,7 @@ RAEUZ
 range
 r a  n g  e
 r ɛ́j n dʒ
-RAEUPB/-PBLG
+RAEUFPG
 
 rank
 r a n k
@@ -14419,13 +14419,13 @@ STRAEUT
 strange
 s t r a  n g  e
 s t r ɛ́j n dʒ
-STRAEUPB/-PBLG
+STRAEUFPG
 
 stranger
 s t r a  n g  e r
 s t r ɛ́j n dʒ ə
+STRAEUFPG/-R
 STRAEUPB/SKWR-R
-STRAEUPB/-PBLG/-R
 
 strategy
 s t r a t e g  y
