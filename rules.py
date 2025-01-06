@@ -87,6 +87,11 @@ NON_RIGHT_RULES = [
         lookbehind = [BREAK],
     ),
     Rule(
+        [SCHWA, BREAK],
+        [],
+        lookbehind = [BREAK, Sound('j')],
+    ),
+    Rule(
         [SCHWA],
         [Stroke('U')],
         lookbehind = [BREAK],
