@@ -415,8 +415,8 @@ UG/RAE
 agreement
 a g r ee m e n t
 ə g r ɪ́j m ə n t
-U/TKPWRAOEPL/-PBT
-UG/RAOEPL/-PBT
+U/TKPWRAOEPLT
+UG/RAOEPLT
 
 ah
 a  h
@@ -895,11 +895,8 @@ argument
 a  r g   u m e n t
 ɑ́ː   g j ə m ə n t
 AR/TKPWU/-PLT
-AR/TKPW-PL/-PBT
 AR/TKPW-PLT
-ARG/KWR-PL/-PBT
 ARG/KWR-PLT
-ARG/-PL/-PBT
 ARG/-PLT
 
 arise
@@ -4527,9 +4524,7 @@ TKAUBG/-PL/EPBT
 document
 d o c   u m e n t
 d ɔ́ k j ə m ə n t
-TKAUBG/KWR-PL/-PBT
 TKAUBG/KWR-PLT
-TKAUBG/-PL/-PBT
 TKAUBG/-PLT
 
 documentary
@@ -4944,7 +4939,6 @@ EL/EBGT/RAUPB/-BG
 element
 e l e m e n t
 ɛ́ l ɪ m ə n t
-EL/-PL/-PBT
 EL/-PLT
 
 elephant
@@ -5046,8 +5040,8 @@ EUPL/PHROEU/-R
 employment
 e m p l oy m e n t
 ɪ m p l ój m ə n t
-EUFPL/HROEUPL/-PBT
-EUPL/PHROEUPL/-PBT
+EUFPL/HROEUPLT
+EUPL/PHROEUPLT
 
 empty
 e m p t y
@@ -5594,9 +5588,7 @@ EUBGS/PAOER/AE/-PBS/-T
 experiment
 e x - p e r i m e n t
 ɪ k s p ɛ́ r ɪ m ə n t
-EUBG/SPER/-PL/-PBT
 EUBG/SPER/-PLT
-EUBGS/PER/-PL/-PBT
 EUBGS/PER/-PLT
 
 expert
@@ -8015,10 +8007,8 @@ instrument
 i n s t r u m e n t
 ɪ́ n s t r ə m ə n t
 EUPB/STRU/-PLT
-EUPB/STR-PL/-PBT
 EUPB/STR-PLT
 EUPBS/TRU/-PLT
-EUPBS/TR-PL/-PBT
 EUPBS/TR-PLT
 
 insurance
@@ -9524,7 +9514,7 @@ PHAUD/-F/AOEU
 moment
 m o  m e n t
 m ə́w m ə n t
-PHOEPL/-PBT
+PHOEPLT
 
 Monday
 M o n d ay
@@ -10653,9 +10643,7 @@ parliament
 p a  r l ia m e n t
 p ɑ́ː   l ə  m ə n t
 PAR/HRU/-PLT
-PAR/HR-PL/-PBT
 PAR/HR-PLT
-PARL/-PL/-PBT
 PARL/-PLT
 
 part
@@ -10782,7 +10770,7 @@ PAEU
 payment
 p ay m e n t
 p ɛ́j m ə n t
-PAEUPL/-PBT
+PAEUPLT
 
 peace
 p ea c e
@@ -12599,10 +12587,8 @@ requirement
 r e q u i  r e m e n t
 r ɪ k w ɑ́j ə   m ə n t
 REU/KWAOEU//-PLT
-REU/KWAOEU/-PL/-PBT
 REU/KWAOEU/-PLT
 REUBG/WAOEU//-PLT
-REUBG/WAOEU/-PL/-PBT
 REUBG/WAOEU/-PLT
 
 rescue
@@ -15865,8 +15851,8 @@ UPB/-PL/PHROEUD
 unemployment
 u n e m p l oy m e n t
 ʌ́ n ɪ m p l ój m ə n t
-UPB/-FPL/HROEUPL/-PBT
-UPB/-PL/PHROEUPL/-PBT
+UPB/-FPL/HROEUPLT
+UPB/-PL/PHROEUPLT
 
 unexpected
 u n e x - p e c t e d
