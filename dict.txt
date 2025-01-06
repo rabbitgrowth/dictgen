@@ -1,57 +1,70 @@
 a
+a
 ɛ́j
 AEU
 
 a
+a
 ə
 U
 
+abandon
 a b a n d o n
 ə b á n d ə n
 U/PWAPB/TK-PB
 U/PWAPBD/-PB
 
+ability
 a b i l i t y
 ə b ɪ́ l ə t ɪj
 U/PWEUL/TAE
 U/PWEUL/-T/AE
 
+able
 a  b   l e
 ɛ́j b ə l
 AEUB/-L
 
+about
 a b ou t
 ə b áw t
 U/PWOUT
 
+above
 a b o v e
 ə b ʌ́ v
 U/PWUFB
 
+abroad
 a b r oa d
 ə b r óː d
 U/PWRAUD
 UB/RAUD
 
+absolute
 a b s o l u  t e
 á b s ə l ʉw t
 AB/SHRAOUT
 AB/SU/HRAOUT
 AB/S-L/AOUT
 
+absolutely
 a b s o l u  t e l y
 á b s ə l ʉ́w t   l ɪj
 AB/SHRAOUT/HRAE
 AB/SU/HRAOUT/HRAE
 
+academic
 a c a d e m i c
 á k ə d ɛ́ m ɪ k
 ABG/TKEPL/-BG
 
+accept
 a c c e p t
 ə k s ɛ́ p t
 UBG/SEPT
 
+acceptable
 a c c e p t a b   l e
 ə k s ɛ́ p t ə b ə l
 UBG/SEP/TPW-L
@@ -60,11 +73,13 @@ UBG/SEP/T-B/-L
 UBG/SEPT/PW-L
 UBG/SEPT/-B/-L
 
+access
 a c c e ss
 á k s ɛ s
 ABG/SES
 ABGS/ES
 
+accident
 a c c i d e n t
 á k s ɪ d ə n t
 ABG/STK-PBT
@@ -73,10 +88,12 @@ ABG/S-D/-PBT
 ABGS/TK-PBT
 ABGS/UD/-PBT
 
+accommodation
 a cc o mm o d a  ti o n
 ə k  ɔ́ m  ə d ɛ́j ʃ  ə n
 U/KAUPL/TKAEUGZ
 
+accompany
 a cc o m p a n y
 ə k  ʌ́ m p ə n ɪj
 U/KUFPL/TPHAE
@@ -84,10 +101,12 @@ U/KUFPL/-PB/AE
 U/KUPL/PU/TPHAE
 U/KUPL/P-PB/AE
 
+account
 a cc ou n t
 ə k  áw n t
 U/KOUPBT
 
+accurate
 a cc   u r a t e
 á k  j ə r ə t
 ABG/KWRU/R-T
@@ -95,6 +114,7 @@ ABG/KWR-R/-T
 ABG/R-T
 ABG/-R/-T
 
+accuse
 a cc   u  s e
 ə k  j ʉ́w z
 U/KAOUZ
@@ -102,137 +122,167 @@ U/KU/KWRAOUZ
 UBG/KWRAOUZ
 UBG/AOUZ
 
+achieve
 a ch ie v e
 ə tʃ ɪ́j v
 U/KHAOEFB
 
+achievement
 a ch ie v e m e n t
 ə tʃ ɪ́j v   m ə n t
 U/KHAOEFB/PH-PBT
 
+acknowledge
 a c k n ow l e dg e
 ə   k n ɔ́  l ɪ dʒ
 UBG/TPHAUL/-PBLG
 
+acquire
 a c q u i  r e
 ə   k w ɑ́j ə
 U/KWAOEU/
 UBG/WAOEU/
 
+across
 a c r o ss
 ə k r ɔ́ s
 U/KRAUS
 UBG/RAUS
 
+act
 a c t
 á k t
 ABGT
 
+action
 a c ti o n
 á k ʃ  ə n
 ABG/SH-PB
 
+active
 a c t i v e
 á k t ɪ v
 ABG/T-FB
 ABGT/-FB
 
+activity
 a c t i v i t y
 a k t ɪ́ v ə t ɪj
 ABG/TEUFB/TAE
 ABG/TEUFB/-T/AE
 
+actor
 a c t o r
 á k t ə
 ABG/T-R
 ABGT/-R
 
+actress
 a c t r e ss
 á k t r ə s
 ABG/TR-S
 ABGT/R-S
 
+actual
 a c t  u  a l
 á k tʃ ʉw ə l
 ABG/KHAOU/-L
 
+actually
 a c t  u a ll y
 á k tʃ   ə l  ɪj
 ABG/KHU/HRAE
 ABG/KH-L/AE
 
+ad
 a d
 á d
 AD
 
+adapt
 a d a p t
 ə d á p t
 U/TKAPT
 
+add
 a dd
 á d
 AD
 
+addition
 a dd i ti o n
 ə d  ɪ́ ʃ  ə n
 U/TKEUGZ
 
+additional
 a dd i ti o n a l
 ə d  ɪ́ ʃ  ə n ə l
 U/TKEUGS/TPH-L
 U/TKEUGZ/-L
 
+address
 a dd r e ss
 ə d  r ɛ́ s
 U/TKRES
 UD/RES
 
+administration
 a d m i n i s t r a  ti o n
 ə d m ɪ́ n ɪ s t r ɛ́j ʃ  ə n
 UD/PHEUPB/STRAEUGZ
 UD/PHEUPB/*S/RAEUGZ
 UD/PHEUPB/-S/TRAEUGZ
 
+admire
 a d m i  r e
 ə d m ɑ́j ə
 UD/PHAOEU/
 
+admit
 a d m i t
 ə d m ɪ́ t
 UD/PHEUT
 
+adopt
 a d o p t
 ə d ɔ́ p t
 U/TKAUPT
 
+adult
 a d u l t
 á d ʌ l t
 AD/-LT
 
+advance
 a d v a  n c e
 ə d v ɑ́ː n s
 UD/SRAUPBS
 
+advanced
 a d v a  n c e d
 ə d v ɑ́ː n s   t
 UD/SRAUPBS/-T
 
+advantage
 a d v a  n t a g  e
 ə d v ɑ́ː n t ɪ dʒ
 UD/SRAUPB/T-PBLG
 UD/SRAUPBT/-PBLG
 
+adventure
 a d v e n t  u r e
 ə d v ɛ́ n tʃ ə
 UD/SREPB/KH-R
 UD/SREPB/-FP/-R
 
+advertise
 a d v e r t i  s e
 á d v ə   t ɑj z
 AD/SRU/TAOEUZ
 AD/SR-R/TAOEUZ
 AD/SR-RT/AOEUZ
 
+advertisement
 a d v e  r t i s e m e n t
 ə d v ə́ː   t ɪ s   m ə n t
 UD/SRUR/TEU/SPH-PBT
@@ -241,6 +291,7 @@ UD/SRUR/T-S/PH-PBT
 UD/SRURT/SPH-PBT
 UD/SRURT/-S/PH-PBT
 
+advertising
 a d v e r t i  s i ng
 á d v ə   t ɑj z ɪ ŋ
 AD/SRU/TAOEU/SWR-PBG
@@ -250,36 +301,44 @@ AD/SR-R/TAOEUZ/-PBG
 AD/SR-RT/AOEU/SWR-PBG
 AD/SR-RT/AOEUZ/-PBG
 
+advice
 a d v i  c e
 ə d v ɑ́j s
 UD/SRAOEUS
 
+advise
 a d v i  s e
 ə d v ɑ́j z
 UD/SRAOEUZ
 
+affair
 a ff ai r
 ə f  ɛ́ː
 U/TPAEUR
 
+affect
 a ff e c t
 ə f  ɛ́ k t
 U/TPEBGT
 
+afford
 a ff o  r d
 ə f  óː   d
 U/TPAURD
 
+afraid
 a f r ai d
 ə f r ɛ́j d
 U/TPRAEUD
 UF/RAEUD
 
+after
 a  f t e r
 ɑ́ː f t ə
 AUF/T-R
 AUFT/-R
 
+afternoon
 a  f t e r n oo n
 ɑ́ː f t ə   n ʉ́w n
 AUF/TU/TPHAOUPB
@@ -287,6 +346,7 @@ AUF/T-R/TPHAOUPB
 AUFT/TPHAOUPB
 AUFT/-R/TPHAOUPB
 
+afterwards
 a  f t e r w a r d s
 ɑ́ː f t ə   w ə   d z
 AUF/TW-RDZ
@@ -295,155 +355,189 @@ AUF/T-R/W-RDZ
 AUFT/W-RDZ
 AUFT/-R/W-RDZ
 
+again
 a g ai n
 ə g ɛ́  n
 U/TKPWEPB
 
+against
 a g ai n s t
 ə g ɛ́  n s t
 U/TKPW*EPBS
 
+age
 a  g  e
 ɛ́j dʒ
 AEUPBLG
 
+aged
 a  g  e d
 ɛ́j dʒ   d
 AEUPBLGD
 
+aged
 a  g  e d
 ɛ́j dʒ ɪ d
 AEUPBLG/UD
 
+agency
 a  g  e n c y
 ɛ́j dʒ ə n s ɪj
 AEUPBLG/-PB/SAE
 AEUPBLG/-PBS/AE
 
+agenda
 a g  e n d a
 ə dʒ ɛ́ n d ə
 U/SKWREPB
 U/SKWREPB/TKU
 U/SKWREPBD
 
+agent
 a  g  e n t
 ɛ́j dʒ ə n t
 AEUPBLG/-PBT
 
+aggressive
 a gg r e ss i v e
 ə g  r ɛ́ s  ɪ v
 U/TKPWRES/-FB
 UG/RES/-FB
 
+ago
 a g o
 ə g ə́w
 U/TKPWOE
 
+agree
 a g r ee
 ə g r ɪ́j
 U/TKPWRAE
 UG/RAE
 
+agreement
 a g r ee m e n t
 ə g r ɪ́j m ə n t
 U/TKPWRAOEPL/-PBT
 UG/RAOEPL/-PBT
 
+ah
 a  h
 ɑ́ː
 AU
 
+ahead
 a h ea d
 ə h ɛ́  d
 U/HED
 
+aid
 ai d
 ɛ́j d
 AEUD
 
+aim
 ai m
 ɛ́j m
 AEUPL
 
+air
 ai r
 ɛ́ː
 AEUR
 
+aircraft
 ai r c r a  f t
 ɛ́ː   k r ɑː f t
 AEUR/KRAUFT
 AEURBG/RAUFT
 
+airline
 ai r l i  n e
 ɛ́ː   l ɑj n
 AEUR/HRAOEUPB
 AEURL/AOEUPB
 
+airport
 ai r p o  r t
 ɛ́ː   p oː   t
 AEUR/PAURT
 AEURP/AURT
 
+alarm
 a l a  r m
 ə l ɑ́ː   m
 U/HRAURPL
 
+album
 a l b u m
 á l b ə m
 AL/PW-PL
 AL/-B/-PL
 
+alcohol
 a l c o h o l
 á l k ə h ɔ l
 AL/KHAUL
 AL/KU/HAUL
 AL/-BG/HAUL
 
+alcoholic
 a l c o h o l i c
 á l k ə h ɔ́ l ɪ k
 AL/KHAUL/-BG
 AL/KU/HAUL/-BG
 AL/-BG/HAUL/-BG
 
+alive
 a l i  v e
 ə l ɑ́j v
 U/HRAOEUFB
 
+all
 a  ll
 óː l
 AUL
 
+allow
 a ll ow
 ə l  áw
 U/HROU
 
+almost
 a  l m o  s t
 óː l m əw s t
 AUL/PHO*ES
 AUL/-PL/O*ES
 
+alone
 a l o  n e
 ə l ə́w n
 U/HROEPB
 
+along
 a l o ng
 ə l ɔ́ ŋ
 U/HRAUPBG
 
+already
 a  l r ea d y
 oː l r ɛ́  d ɪj
 AUL/RED/AE
 
+also
 a  l s o
 óː l s əw
 AUL/SOE
 AULS/OE
 
+alter
 a l t e r
 ɔ́ l t ə
 AUL/T-R
 AULT/-R
 
+alternative
 a l t e  r n a t i v e
 ɔ l t ə́ː   n ə t ɪ v
 AUL/TUR/TPHU/T-FB
@@ -451,93 +545,114 @@ AUL/TUR/TPH-T/-FB
 AUL/TURPB/T-FB
 AUL/TURPB/-T/-FB
 
+although
 a  l th ou gh
 oː l ð  ə́w
 AUL/THOE
 
+always
 a  l w ay s
 óː l w ɛj z
 AUL/WAEUZ
 
+amazed
 a m a  z e d
 ə m ɛ́j z   d
 U/PHAEUZ/-D
 
+amazing
 a m a  z i ng
 ə m ɛ́j z ɪ ŋ
 U/PHAEUZ/-PBG
 
+ambition
 a m b i ti o n
 a m b ɪ́ ʃ  ə n
 APL/PWEUGZ
 
+ambitious
 a m b i ti ou s
 a m b ɪ́ ʃ  ə  s
 APL/PWEUGS/-S
 
+among
 a m o ng
 ə m ʌ́ ŋ
 U/PHUPBG
 
+amount
 a m ou n t
 ə m áw n t
 U/PHOUPBT
 
+an
 a n
 á n
 APB
 
+an
 a n
 ə n
 UPB
 
+analyse
 a n a l y  s e
 á n ə l ɑj z
 APB/HRAOEUZ
 APB/-L/AOEUZ
 
+analysis
 a n a l y s i s
 ə n á l ə s ɪ s
 U/TPHAL/S-S
 U/TPHAL/-S/-S
 
+ancient
 a  n ci e n t
 ɛ́j n ʃ  ə n t
 AEUPB/SH-PBT
 
+and
 a n d
 á n d
 APBD
 
+and
 a n d
 ə n d
 UPBD
 
+anger
 a n g e r
 á ŋ g ə
 APBG/TKPW-R
 APBG/-G/-R
 
+angle
 a n g   l e
 á ŋ g ə l
 APBG/TKPW-L
 APBG/-G/-L
 
+angry
 a n g r y
 á ŋ g r ɪj
 APBG/TKPWRAE
 APBG/-G/RAE
 
+animal
 a n i m a l
 á n ɪ m ə l
 APB/PH-L
 APB/-PL/-L
 
+ankle
 a n k   l e
 á ŋ k ə l
 APBG/K-L
 APBG/-BG/-L
 
+anniversary
 a nn i v e  r s a r y
 á n  ɪ v ə́ː   s ə r ɪj
 APB/SRUR/SRAE
@@ -546,50 +661,61 @@ APB/SRUR/S-R/AE
 APB/SRURS/RAE
 APB/SRURS/-R/AE
 
+announce
 a nn ou n c e
 ə n  áw n s
 U/TPHOUPBS
 
+announcement
 a nn ou n c e m e n t
 ə n  áw n s   m ə n t
 U/TPHOUPB/SPH-PBT
 U/TPHOUPBS/PH-PBT
 
+annoy
 a nn oy
 ə n  ój
 U/TPHOEU
 
+annoyed
 a nn oy e d
 ə n  ój   d
 U/TPHOEUD
 
+annoying
 a nn oy i ng
 ə n  ój ɪ ŋ
 U/TPHOEU/-PBG
 
+annual
 a nn   u  a l
 á n  j ʉw ə l
 APB/KWRAOU/-L
 APB/AOU/-L
 
+another
 a n o th e r
 ə n ʌ́ ð  ə
 U/TPHUGT/-R
 
+answer
 a  n s w e r
 ɑ́ː n s   ə
 AUPB/SW-R
 AUPBS/W-R
 AUPBS/-R
 
+anxious
 a n xi - ou s
 á ŋ k  ʃ ə  s
 APBG/-BG/SH-S
 
+any
 a n y
 ɛ́ n ɪj
 EPB/AE
 
+anybody
 a n y  b o d y
 ɛ́ n ɪj b ɔ d ɪj
 EPB/AOEB/AU/TKAE
@@ -597,108 +723,132 @@ EPB/AOEB/AUD/AE
 EPB/AE/PWAU/TKAE
 EPB/AE/PWAUD/AE
 
+anyone
 a n y  o - n e
 ɛ́ n ɪj w ʌ n
 EPB/AE/W-PB
 
+anything
 a n y  th i ng
 ɛ́ n ɪj θ  ɪ ŋ
 EPB/AOEGT/-PBG
 EPB/AE/TH-PBG
 
+anyway
 a n y  w ay
 ɛ́ n ɪj w ɛj
 EPB/AE/WAEU
 
+anywhere
 a n y  w h e  r e
 ɛ́ n ɪj w   ɛː
 EPB/AE/WHAEUR
 
+apart
 a p a  r t
 ə p ɑ́ː   t
 U/PAURT
 
+apartment
 a p a  r t m e n t
 ə p ɑ́ː   t m ə n t
 U/PAURT/PH-PBT
 
+apologize
 a p o l o g  i  z e
 ə p ɔ́ l ə dʒ ɑj z
 U/PAUL/SKWRAOEUZ
 U/PAUL/-PBLG/AOEUZ
 
+app
 a pp
 á p
 AP
 
+apparent
 a pp a r e n t
 ə p  á r ə n t
 U/PAR/-PBT
 
+apparently
 a pp a r e n t l y
 ə p  á r ə n t l ɪj
 U/PAR/-PBT/HRAE
 
+appeal
 a pp ea l
 ə p  ɪ́j l
 U/PAOEL
 
+appear
 a pp ea r
 ə p  ɪ́ː
 U/PAOER
 
+appearance
 a pp ea r a n c e
 ə p  ɪ́ː r ə n s
 U/PAOER/-PBS
 
+apple
 a pp   l e
 á p  ə l
 AP/-L
 
+application
 a pp l i c a  ti o n
 á p  l ɪ k ɛ́j ʃ  ə n
 AP/HREU/KAEUGZ
 AP/HRU/KAEUGZ
 
+apply
 a pp l y
 ə p  l ɑ́j
 U/PHRAOEU
 UP/HRAOEU
 
+appointment
 a pp oi n t m e n t
 ə p  ój n t m ə n t
 U/POEUPBT/PH-PBT
 
+appreciate
 a pp r e  c i  a  t e
 ə p  r ɪ́j ʃ ɪj ɛj t
 U/PRAOEGS/AE/AEUT
 UP/RAOEGS/AE/AEUT
 
+approach
 a pp r oa ch
 ə p  r ə́w tʃ
 U/PROEFP
 UP/ROEFP
 
+appropriate
 a pp r o  p r i  a  t e
 ə p  r ə́w p r ɪj ɛj t
 U/PROEP/RAE/AEUT
 UP/ROEP/RAE/AEUT
 
+appropriate
 a pp r o  p r i  a t e
 ə p  r ə́w p r ɪj ə t
 U/PROEP/RAE/-T
 UP/ROEP/RAE/-T
 
+approval
 a pp r o  v a l
 ə p  r ʉ́w v ə l
 U/PRAOUFB/-L
 UP/RAOUFB/-L
 
+approve
 a pp r o  v e
 ə p  r ʉ́w v
 U/PRAOUFB
 UP/RAOUFB
 
+approximately
 a pp r o x - i m a t e l y
 ə p  r ɔ́ k s ɪ m ə t   l ɪj
 U/PRAUBG/SPH-T/HRAE
@@ -712,10 +862,12 @@ UP/RAUBG/S-PL/-T/HRAE
 UP/RAUBGS/PH-T/HRAE
 UP/RAUBGS/-PL/-T/HRAE
 
+April
 A  p r i l
 ɛ́j p r ɪ l
 AEUP/R-L
 
+architect
 a  r ch i t e c t
 ɑ́ː   k  ɪ t ɛ k t
 AUR/KEU/TEBGT
@@ -724,6 +876,7 @@ AUR/K-T/EBGT
 AURBG/TEBGT
 AURBG/-T/EBGT
 
+architecture
 a  r ch i t e c t  u r e
 ɑ́ː   k  ɪ t ɛ k tʃ ə
 AUR/KEU/TEBG/KH-R
@@ -732,10 +885,12 @@ AUR/K-T/EBG/KH-R
 AURBG/TEBG/KH-R
 AURBG/-T/EBG/KH-R
 
+area
 a  r e  a
 ɛ́ː r ɪj ə
 AEUR/AE
 
+argue
 a  r g   ue
 ɑ́ː   g j ʉw
 AUR/TKPWAOU
@@ -743,6 +898,7 @@ AUR/TKPWU/KWRAOU
 AURG/KWRAOU
 AURG/AOU
 
+argument
 a  r g   u m e n t
 ɑ́ː   g j ə m ə n t
 AUR/TKPWU/KWRU/PH-PBT
@@ -754,55 +910,68 @@ AURG/KWR-PL/-PBT
 AURG/PH-PBT
 AURG/-PL/-PBT
 
+arise
 a r i  s e
 ə r ɑ́j z
 U/RAOEUZ
 
+arm
 a  r m
 ɑ́ː   m
 AURPL
 
+armed
 a  r m e d
 ɑ́ː   m   d
 AURPLD
 
+arms
 a  r m s
 ɑ́ː   m z
 AURPLZ
 
+army
 a  r m y
 ɑ́ː   m ɪj
 AUR/PHAE
 AURPL/AE
 
+around
 a r ou n d
 ə r áw n d
 U/ROUPBD
 
+arrange
 a rr a  n g  e
 ə r  ɛ́j n dʒ
 U/RAEUPB/-PBLG
 
+arrangement
 a rr a  n g  e m e n t
 ə r  ɛ́j n dʒ   m ə n t
 U/RAEUPB/-PBLG/PH-PBT
 
+arrest
 a rr e s t
 ə r  ɛ́ s t
 U/R*ES
 
+arrival
 a rr i  v a l
 ə r  ɑ́j v ə l
 U/RAOEUFB/-L
 
+arrive
 a rr i  v e
 ə r  ɑ́j v
 U/RAOEUFB
 
+art
 a  r t
 ɑ́ː   t
 AURT
 
+article
 a  r t i c   l e
 ɑ́ː   t ɪ k ə l
 AUR/TK-L
@@ -811,17 +980,20 @@ AUR/T-BG/-L
 AURT/K-L
 AURT/-BG/-L
 
+artificial
 a  r t i f i ci a l
 ɑ́ː   t ɪ f ɪ́ ʃ  ə l
 AUR/TEU/TPEUGS/-L
 AUR/TU/TPEUGS/-L
 AURT/TPEUGS/-L
 
+artist
 a  r t i s t
 ɑ́ː   t ɪ s t
 AUR/T*S
 AURT/*S
 
+artistic
 a  r t i s t i c
 ɑː   t ɪ́ s t ɪ k
 AU/T*EUS/-BG
@@ -829,70 +1001,86 @@ AU/TEUS/T-BG
 AUR/T*EUS/-BG
 AUR/TEUS/T-BG
 
+as
 a s
 á z
 AZ
 
+as
 a s
 ə z
 UZ
 
+ashamed
 a sh a  m e d
 ə ʃ  ɛ́j m   d
 U/SHAEUPLD
 
+ask
 a  s k
 ɑ́ː s k
 AUS/-BG
 
+asleep
 a s l ee p
 ə s l ɪ́j p
 U/SHRAOEP
 US/HRAOEP
 
+aspect
 a s p e c t
 á s p ɛ k t
 AS/PEBGT
 AS/-P/EBGT
 
+assess
 a ss e ss
 ə s  ɛ́ s
 U/SES
 
+assessment
 a ss e ss m e n t
 ə s  ɛ́ s  m ə n t
 U/SES/PH-PBT
 
+assignment
 a ss i  g n m e n t
 ə s  ɑ́j   n m ə n t
 U/SAOEUPB/PH-PBT
 
+assist
 a ss i s t
 ə s  ɪ́ s t
 U/S*EUS
 
+assistant
 a ss i s t a n t
 ə s  ɪ́ s t ə n t
 U/S*EUS/-PBT
 U/SEUS/T-PBT
 
+associate
 a ss o  c i  a  t e
 ə s  ə́w ʃ ɪj ɛj t
 U/SOEGS/AE/AEUT
 
+associate
 a ss o  c i  a t e
 ə s  ə́w ʃ ɪj ə t
 U/SOEGS/AE/-T
 
+associated
 a ss o  c i  a  t e d
 ə s  ə́w ʃ ɪj ɛj t ɪ d
 U/SOEGS/AE/AEU/T-D
 U/SOEGS/AE/AEUT/UD
 
+association
 a ss o  c i  a  ti o n
 ə s  ə́w s ɪj ɛ́j ʃ  ə n
 U/SOES/AE/AEUGZ
 
+assume
 a ss   u  m e
 ə s  j ʉ́w m
 U/SKWRAOUPL
@@ -900,58 +1088,71 @@ U/SAOUPL
 US/KWRAOUPL
 US/AOUPL
 
+at
 a t
 á t
 AT
 
+at
 a t
 ə t
 UT
 
+athlete
 a th l e  t e
 á θ  l ɪj t
 AGT/HRAOET
 
+atmosphere
 a t m o s ph e  r e
 á t m ə s f  ɪː
 AT/PHU/STPAOER
 AT/PH-S/TPAOER
 
+attach
 a tt a ch
 ə t  á tʃ
 U/TAFP
 
+attack
 a tt a c k
 ə t  á   k
 U/TABG
 
+attempt
 a tt e m p t
 ə t  ɛ́ m p t
 U/TEFPLT
 
+attend
 a tt e n d
 ə t  ɛ́ n d
 U/TEPBD
 
+attention
 a tt e n ti o n
 ə t  ɛ́ n ʃ  ə n
 U/TEPB/SH-PB
 
+attitude
 a tt i t  u  d e
 á t  ɪ tʃ ʉw d
 AT/KHAOUD
 AT/-FP/AOUD
 
+attract
 a tt r a c t
 ə t  r á k t
 U/TRABGT
 UT/RABGT
 
+attraction
 a tt r a c ti o n
 ə t  r á k ʃ  ə n
 U/TRABG/SH-PB
 UT/RABG/SH-PB
 
+attractive
 a tt r a c t i v e
 ə t  r á k t ɪ v
 U/TRABG/T-FB
@@ -959,262 +1160,324 @@ U/TRABGT/-FB
 UT/RABG/T-FB
 UT/RABGT/-FB
 
+audience
 au d i  e n c e
 óː d ɪj ə n s
 AUD/AE/-PBS
 
+August
 Au g u s t
 óː g ə s t
 AUG/*S
 
+aunt
 au n t
 ɑ́ː n t
 AUPBT
 
+author
 au th o r
 óː θ  ə
 AUGT/-R
 
+authority
 au th o r i t y
 oː θ  ɔ́ r ə t ɪj
 AU/THAUR/TAE
 AU/THAUR/-T/AE
 
+autumn
 au t u m n
 óː t ə m
 AUT/-PL
 
+available
 a v ai l a b   l e
 ə v ɛ́j l ə b ə l
 U/SRAEUL/PW-L
 U/SRAEUL/-B/-L
 
+average
 a v e r a g  e
 á v ə r ɪ dʒ
 AFB/R-PBLG
 AFB/-R/-PBLG
 
+avoid
 a v oi d
 ə v ój d
 U/SROEUD
 
+award
 a w a  r d
 ə w óː   d
 U/WAURD
 
+aware
 a w a  r e
 ə w ɛ́ː
 U/WAEUR
 
+away
 a w ay
 ə w ɛ́j
 U/WAEU
 
+awful
 aw f u l
 óː f ə l
 AUF/-L
 
+baby
 b a  b y
 b ɛ́j b ɪj
 PWAEUB/AE
 
+back
 b a c k
 b á   k
 PWABG
 
+background
 b a c k g r ou n d
 b á   k g r aw n d
 PWABG/TKPWROUPBD
 
+backwards
 b a c k w a r d s
 b á   k w ə   d z
 PWA/KW-RDZ
 PWABG/W-RDZ
 
+bacteria
 b a c t e  r i  a
 b a k t ɪ́ː r ɪj ə
 PWABG/TAOER/AE
 
+bad
 b a d
 b á d
 PWAD
 
+badly
 b a d l y
 b á d l ɪj
 PWAD/HRAE
 
+bag
 b a g
 b á g
 PWAG
 
+bake
 b a  k e
 b ɛ́j k
 PWAEUBG
 
+balance
 b a l a n c e
 b á l ə n s
 PWAL/-PBS
 
+ball
 b a  ll
 b óː l
 PWAUL
 
+ban
 b a n
 b á n
 PWAPB
 
+banana
 b a n a  n a
 b ə n ɑ́ː n ə
 PWU/TPHAUPB
 
+band
 b a n d
 b á n d
 PWAPBD
 
+bank
 b a n k
 b á ŋ k
 PWAPBG/-BG
 
+bar
 b a  r
 b ɑ́ː
 PWAUR
 
+barrier
 b a rr i  e r
 b á r  ɪj ə
 PWAR/AE/-R
 
+base
 b a  s e
 b ɛ́j s
 PWAEUS
 
+baseball
 b a  s e b a  ll
 b ɛ́j s   b oː l
 PWAEUS/PWAUL
 
+based
 b a  s e d
 b ɛ́j s   t
 PWAEUS/-T
 
+basic
 b a  s i c
 b ɛ́j s ɪ k
 PWAEUS/-BG
 
+basically
 b a  s i c a ll y
 b ɛ́j s ɪ k   l  ɪj
 PWAEUS/KHRAE
 PWAEUS/-BG/HRAE
 
+basis
 b a  s i s
 b ɛ́j s ɪ s
 PWAEUS/-S
 
+basketball
 b a  s k e t b a  ll
 b ɑ́ː s k ɪ t b oː l
 PWAUS/K-T/PWAUL
 PWAUS/-BG/-T/PWAUL
 
+bath
 b a  th
 b ɑ́ː θ
 PWAUGT
 
+bathroom
 b a  th r oo m
 b ɑ́ː θ  r ʉw m
 PWAUGT/RAOUPL
 
+battery
 b a tt e r y
 b á t  ə r ɪj
 PWAT/RAE
 PWAT/-R/AE
 
+battle
 b a tt   l e
 b á t  ə l
 PWAT/-L
 
+be
 b e
 b ɪ́j
 PWAE
 
+beach
 b ea ch
 b ɪ́j tʃ
 PWAOEFP
 
+bean
 b ea n
 b ɪ́j n
 PWAOEPB
 
+bear
 b ea r
 b ɛ́ː
 PWAEUR
 
+beat
 b ea t
 b ɪ́j t
 PWAOET
 
+beautiful
 b   eau t i f u l
 b j ʉ́w  t ɪ f ə l
 PWU/KWRAOUT/TP-L
 PWU/KWRAOUT/-F/-L
 
+beauty
 b   eau t y
 b j ʉ́w  t ɪj
 PWU/KWRAOUT/AE
 
+because
 b e c au s e
 b ɪ k ɔ́  z
 PWEU/KAUZ
 PWU/KAUZ
 
+because
 b e c au s e
 b ɪ k ə  z
 PWEU/K-Z
 PWEUBG/-Z
 PWU/K-Z
 
+become
 b e c o m e
 b ə k ʌ́ m
 PWU/KUPL
 
+bed
 b e d
 b ɛ́ d
 PWED
 
+bedroom
 b e d r oo m
 b ɛ́ d r ʉw m
 PWED/RAOUPL
 
+bee
 b ee
 b ɪ́j
 PWAE
 
+beef
 b ee f
 b ɪ́j f
 PWAOEF
 
+beer
 b ee r
 b ɪ́ː
 PWAOER
 
+before
 b e f o  r e
 b ə f óː
 PWU/TPAUR
 
+beg
 b e g
 b ɛ́ g
 PWEG
 
+begin
 b e g i n
 b ə g ɪ́ n
 PWU/TKPWEUPB
 
+beginning
 b e g i nn i ng
 b ə g ɪ́ n  ɪ ŋ
 PWU/TKPWEUPB/-PBG
 
+behave
 b e h a  v e
 b ə h ɛ́j v
 PWHAEUFB
 PWU/HAEUFB
 
+behaviour
 b e h a  v i ou r
 b ə h ɛ́j v j ə
 PWHAEUFB/KWR-R
@@ -1222,453 +1485,562 @@ PWHAEUFB/-R
 PWU/HAEUFB/KWR-R
 PWU/HAEUFB/-R
 
+behind
 b e h i  n d
 b ə h ɑ́j n d
 PWHAOEUPBD
 PWU/HAOEUPBD
 
+being
 b e  i ng
 b ɪ́j ɪ ŋ
 PWAE/-PBG
 
+belief
 b e l ie f
 b ə l ɪ́j f
 PWHRAOEF
 PWU/HRAOEF
 
+believe
 b e l ie v e
 b ə l ɪ́j v
 PWHRAOEFB
 PWU/HRAOEFB
 
+bell
 b e ll
 b ɛ́ l
 PWEL
 
+belong
 b e l o ng
 b ə l ɔ́ ŋ
 PWHRAUPBG
 PWU/HRAUPBG
 
+below
 b e l ow
 b ə l ə́w
 PWHROE
 PWU/HROE
 
+belt
 b e l t
 b ɛ́ l t
 PWELT
 
+bend
 b e n d
 b ɛ́ n d
 PWEPBD
 
+benefit
 b e n e f i t
 b ɛ́ n ɪ f ɪ t
 PWEPB/TP-T
 PWEPB/-F/-T
 
+bent
 b e n t
 b ɛ́ n t
 PWEPBT
 
+best
 b e s t
 b ɛ́ s t
 PW*ES
 
+bet
 b e t
 b ɛ́ t
 PWET
 
+better
 b e tt e r
 b ɛ́ t  ə
 PWET/-R
 
+between
 b e t w ee n
 b ə t w ɪ́j n
 PWU/TWAOEPB
 PWUT/WAOEPB
 
+beyond
 b ey o n d
 b ɪj ɔ́ n d
 PWAE/AUPBD
 
+bicycle
 b i  c y c   l e
 b ɑ́j s ɪ k ə l
 PWAOEUS/K-L
 PWAOEUS/-BG/-L
 
+big
 b i g
 b ɪ́ g
 PWEUG
 
+bike
 b i  k e
 b ɑ́j k
 PWAOEUBG
 
+bill
 b i ll
 b ɪ́ l
 PWEUL
 
+billion
 b i ll i o n
 b ɪ́ l  j ə n
 PWEUL/KWR-PB
 PWEUL/-PB
 
+bin
 b i n
 b ɪ́ n
 PWEUPB
 
+biology
 b i  o l o g  y
 b ɑj ɔ́ l ə dʒ ɪj
 PWAOEU/AUL/SKWRAE
 PWAOEU/AUL/-PBLG/AE
 
+bird
 b i  r d
 b ə́ː   d
 PWURD
 
+birth
 b i  r th
 b ə́ː   θ
 PWURGT
 
+birthday
 b i  r th d ay
 b ə́ː   θ  d ɛj
 PWURGT/TKAEU
 
+biscuit
 b i s c u i t
 b ɪ́ s k   ɪ t
 PWEUS/K-T
 PWEUS/-BG/-T
 
+bit
 b i t
 b ɪ́ t
 PWEUT
 
+bite
 b i  t e
 b ɑ́j t
 PWAOEUT
 
+bitter
 b i tt e r
 b ɪ́ t  ə
 PWEUT/-R
 
+black
 b l a c k
 b l á   k
 PWHRABG
 
+blame
 b l a  m e
 b l ɛ́j m
 PWHRAEUPL
 
+blank
 b l a n k
 b l á ŋ k
 PWHRAPBG/-BG
 
+blind
 b l i  n d
 b l ɑ́j n d
 PWHRAOEUPBD
 
+block
 b l o c k
 b l ɔ́   k
 PWHRAUBG
 
+blog
 b l o g
 b l ɔ́ g
 PWHRAUG
 
+blonde
 b l o n d e
 b l ɔ́ n d
 PWHRAUPBD
 
+blood
 b l oo d
 b l ʌ́  d
 PWHRUD
 
+blow
 b l ow
 b l ə́w
 PWHROE
 
+blue
 b l ue
 b l ʉ́w
 PWHRAOU
 
+board
 b oa r d
 b óː   d
 PWAURD
 
+boat
 b oa t
 b ə́w t
 PWOET
 
+body
 b o d y
 b ɔ́ d ɪj
 PWAUD/AE
 
+boil
 b oi l
 b ój l
 PWOEUL
 
+bomb
 b o m b
 b ɔ́ m
 PWAUPL/-B
 
+bond
 b o n d
 b ɔ́ n d
 PWAUPBD
 
+bone
 b o  n e
 b ə́w n
 PWOEPB
 
+book
 b oo k
 b ɵ́  k
 PWAOBG
 
+boot
 b oo t
 b ʉ́w t
 PWAOUT
 
+border
 b o  r d e r
 b óː   d ə
 PWAUR/TK-R
 PWAURD/-R
 
+bored
 b o  r e d
 b óː     d
 PWAURD
 
+boring
 b o  r i ng
 b óː r ɪ ŋ
 PWAUR/-PBG
 
+born
 b o  r n
 b óː   n
 PWAURPB
 
+borrow
 b o rr ow
 b ɔ́ r  əw
 PWAUR/OE
 
+boss
 b o ss
 b ɔ́ s
 PWAUS
 
+both
 b o  th
 b ə́w θ
 PWOEGT
 
+bother
 b o th e r
 b ɔ́ ð  ə
 PWAUGT/-R
 
+bottle
 b o tt   l e
 b ɔ́ t  ə l
 PWAUT/-L
 
+bottom
 b o tt o m
 b ɔ́ t  ə m
 PWAUT/-PL
 
+bowl
 b ow l
 b ə́w l
 PWOEL
 
+box
 b o x -
 b ɔ́ k s
 PWAUBGS
 
+boy
 b oy
 b ój
 PWOEU
 
+boyfriend
 b oy f r ie n d
 b ój f r ɛ  n d
 PWOEUF/REPBD
 
+brain
 b r ai n
 b r ɛ́j n
 PWRAEUPB
 
+branch
 b r a  n ch
 b r ɑ́ː n tʃ
 PWRAUPB/-FP
 
+brand
 b r a n d
 b r á n d
 PWRAPBD
 
+brave
 b r a  v e
 b r ɛ́j v
 PWRAEUFB
 
+bread
 b r ea d
 b r ɛ́  d
 PWRED
 
+break
 b r ea k
 b r ɛ́j k
 PWRAEUBG
 
+breakfast
 b r ea k f a s t
 b r ɛ́  k f ə s t
 PWREBG/TP*S
 
+breast
 b r ea s t
 b r ɛ́  s t
 PWR*ES
 
+breath
 b r ea th
 b r ɛ́  θ
 PWREGT
 
+breathe
 b r ea th e
 b r ɪ́j ð
 PWRAOEGT
 
+breathing
 b r ea th i ng
 b r ɪ́j ð  ɪ ŋ
 PWRAOEGT/-PBG
 
+bride
 b r i  d e
 b r ɑ́j d
 PWRAOEUD
 
+bridge
 b r i dg e
 b r ɪ́ dʒ
 PWREUPBLG
 
+brief
 b r ie f
 b r ɪ́j f
 PWRAOEF
 
+bright
 b r i  gh t
 b r ɑ́j    t
 PWROEUGT
 
+brilliant
 b r i ll i a n t
 b r ɪ́ l  j ə n t
 PWREUL/KWR-PBT
 PWREUL/-PBT
 
+bring
 b r i ng
 b r ɪ́ ŋ
 PWREUPBG
 
+broad
 b r oa d
 b r óː d
 PWRAUD
 
+broadcast
 b r oa d c a  s t
 b r óː d k ɑː s t
 PWRAUD/KA*US
 
+broken
 b r o  k e n
 b r ə́w k ə n
 PWROEBG/-PB
 
+brother
 b r o th e r
 b r ʌ́ ð  ə
 PWRUGT/-R
 
+brown
 b r ow n
 b r áw n
 PWROUPB
 
+brush
 b r u sh
 b r ʌ́ ʃ
 PWRUGS
 
+bubble
 b u bb   l e
 b ʌ́ b  ə l
 PWUB/-L
 
+budget
 b u dg e t
 b ʌ́ dʒ ɪ t
 PWUPBLG/-T
 
+build
 b u i l d
 b   ɪ́ l d
 PWEULD
 
+building
 b u i l d i ng
 b   ɪ́ l d ɪ ŋ
 PWEUL/TK-PBG
 PWEULD/-PBG
 
+bullet
 b u ll e t
 b ɵ́ l  ɪ t
 PWAOL/-T
 
+bunch
 b u n ch
 b ʌ́ n tʃ
 PWUPB/-FP
 
+burn
 b u  r n
 b ə́ː   n
 PWURPB
 
+bury
 b u r y
 b ɛ́ r ɪj
 PWER/AE
 
+bus
 b u s
 b ʌ́ s
 PWUS
 
+bush
 b u sh
 b ɵ́ ʃ
 PWAOGS
 
+business
 b u s i n e ss
 b ɪ́ z   n ə s
 PWEUZ/TPH-S
 
+businessman
 b u s i n e ss m a n
 b ɪ́ z   n ə s  m ə n
 PWEUZ/TPHU/SPH-PB
 PWEUZ/TPH-S/PH-PB
 
+busy
 b u s y
 b ɪ́ z ɪj
 PWEUZ/AE
 
+but
 b u t
 b ə t
 PWUT
 
+but
 b u t
 b ʌ́ t
 PWUT
 
+butter
 b u tt e r
 b ʌ́ t  ə
 PWUT/-R
 
+button
 b u tt o n
 b ʌ́ t  ə n
 PWUT/-PB
 
+buy
 b u y
 b   ɑ́j
 PWAOEU
 
+by
 b y
 b ɑ́j
 PWAOEU
 
+bye
 b y  e
 b ɑ́j
 PWAOEU
 
+cable
 c a  b   l e
 k ɛ́j b ə l
 KAEUB/-L
 
+cake
 c a  k e
 k ɛ́j k
 KAEUBG
 
+calculate
 c a l c   u l a  t e
 k á l k j ə l ɛj t
 KAL/KHRAEUT
@@ -1681,55 +2053,67 @@ KAL/-BG/KWR-L/AEUT
 KAL/-BG/HRAEUT
 KAL/-BG/-L/AEUT
 
+call
 c a  ll
 k óː l
 KAUL
 
+calm
 c a  l m
 k ɑ́ː   m
 KAUPL
 
+camera
 c a m e r a
 k á m   r ə
 KAPL
 KAPL/RU
 
+camp
 c a m p
 k á m p
 KAFPL
 
+campaign
 c a m p ai g n
 k a m p ɛ́j   n
 KAPL/PAEUPB
 
+camping
 c a m p i ng
 k á m p ɪ ŋ
 KAFPL/-PBG
 KAPL/P-PBG
 
+campus
 c a m p u s
 k á m p ə s
 KAFPL/-S
 KAPL/P-S
 
+can
 c a n
 k á n
 KAPB
 
+can
 c a n
 k ə n
 KUPB
 
+cancel
 c a n c e l
 k á n s ə l
 KAPB/S-L
 KAPBS/-L
 
+cancer
 c a n c e r
 k á n s ə
 KAPB/S-R
 KAPBS/-R
 
+candidate
 c a n d i d a t e
 k á n d ɪ d ə t
 KAPB/TKEU/TK-T
@@ -1738,19 +2122,23 @@ KAPB/TK-D/-T
 KAPBD/TK-T
 KAPBD/UD/-T
 
+cannot
 c a nn o t
 k á n  ɔ t
 KAPB/AUT
 
+cap
 c a p
 k á p
 KAP
 
+capable
 c a  p a b   l e
 k ɛ́j p ə b ə l
 KAEUP/PW-L
 KAEUP/-B/-L
 
+capacity
 c a p a c i t y
 k ə p á s ə t ɪj
 KPAS/TAE
@@ -1758,42 +2146,51 @@ KPAS/-T/AE
 KU/PAS/TAE
 KU/PAS/-T/AE
 
+capital
 c a p i t a l
 k á p ɪ t ə l
 KAP/T-L
 KAP/-T/-L
 
+captain
 c a p t ai n
 k á p t ɪ  n
 KAP/T-PB
 KAPT/-PB
 
+capture
 c a p t  u r e
 k á p tʃ ə
 KAP/KH-R
 
+car
 c a  r
 k ɑ́ː
 KAUR
 
+card
 c a  r d
 k ɑ́ː   d
 KAURD
 
+care
 c a  r e
 k ɛ́ː
 KAEUR
 
+career
 c a r ee r
 k ə r ɪ́ː
 KRAOER
 KU/RAOER
 
+careful
 c a  r e f u l
 k ɛ́ː     f ə l
 KAEUR/TP-L
 KAEUR/-F/-L
 
+carefully
 c a  r e f u ll y
 k ɛ́ː     f ə l  ɪj
 KAEUR/TPHRAE
@@ -1802,53 +2199,65 @@ KAEUR/TP-L/AE
 KAEUR/-F/HRAE
 KAEUR/-F/-L/AE
 
+careless
 c a  r e l e ss
 k ɛ́ː     l ə s
 KAEUR/HR-S
 KAEURL/-S
 
+carpet
 c a  r p e t
 k ɑ́ː   p ɪ t
 KAUR/P-T
 KAURP/-T
 
+carrot
 c a rr o t
 k á r  ə t
 KAR/-T
 
+carry
 c a rr y
 k á r  ɪj
 KAR/AE
 
+cartoon
 c a  r t oo n
 k ɑː   t ʉ́w n
 KAU/TAOUPB
 KAUR/TAOUPB
 
+case
 c a  s e
 k ɛ́j s
 KAEUS
 
+cash
 c a sh
 k á ʃ
 KAGS
 
+cast
 c a  s t
 k ɑ́ː s t
 KA*US
 
+castle
 c a  s t   l e
 k ɑ́ː s   ə l
 KAUS/-L
 
+cat
 c a t
 k á t
 KAT
 
+catch
 c a tch
 k á tʃ
 KAFP
 
+category
 c a t e g o r y
 k á t ɪ g ə r ɪj
 KAT/TKPWRAE
@@ -1857,24 +2266,29 @@ KAT/TKPW-R/AE
 KAT/UG/RAE
 KAT/UG/-R/AE
 
+cause
 c au s e
 k óː z
 KAUZ
 
+ceiling
 c ei l i ng
 s ɪ́j l ɪ ŋ
 SAOEL/-PBG
 
+celebrate
 c e l e b r a  t e
 s ɛ́ l ɪ b r ɛj t
 SEL/PWRAEUT
 SEL/-B/RAEUT
 
+celebration
 c e l e b r a  ti o n
 s ɛ́ l ɪ b r ɛ́j ʃ  ə n
 SEL/PWRAEUGZ
 SEL/-B/RAEUGZ
 
+celebrity
 c e l e b r i t y
 s ɪ l ɛ́ b r ə t ɪj
 SHREB/RU/TAE
@@ -1882,24 +2296,29 @@ SHREB/R-T/AE
 SEU/HREB/RU/TAE
 SEU/HREB/R-T/AE
 
+cell
 c e ll
 s ɛ́ l
 SEL
 
+cent
 c e n t
 s ɛ́ n t
 SEPBT
 
+central
 c e n t r a l
 s ɛ́ n t r ə l
 SEPB/TR-L
 SEPBT/R-L
 
+centre
 c e n t r e
 s ɛ́ n t ə
 SEPB/T
 SEPBT/
 
+century
 c e n t  u r y
 s ɛ́ n tʃ ə r ɪj
 SEPB/KHRAE
@@ -1908,6 +2327,7 @@ SEPB/KH-R/AE
 SEPB/-FP/RAE
 SEPB/-FP/-R/AE
 
+ceremony
 c e r e m o n y
 s ɛ́ r ɪ m ə n ɪj
 SER/PHU/TPHAE
@@ -1915,60 +2335,73 @@ SER/PH-PB/AE
 SER/-PL/TPHAE
 SER/-PL/-PB/AE
 
+certain
 c e  r t ai n
 s ə́ː   t ə  n
 SUR/T-PB
 SURT/-PB
 
+certainly
 c e  r t ai n l y
 s ə́ː   t ə  n l ɪj
 SUR/T-PB/HRAE
 SURT/-PB/HRAE
 
+chain
 ch ai n
 tʃ ɛ́j n
 KHAEUPB
 
+chair
 ch ai r
 tʃ ɛ́ː
 KHAEUR
 
+chairman
 ch ai r m a n
 tʃ ɛ́ː   m ə n
 KHAEUR/PH-PB
 KHAEURPL/-PB
 
+challenge
 ch a ll e n g  e
 tʃ á l  ə n dʒ
 KHAL/-PB/-PBLG
 
+champion
 ch a m p i  o n
 tʃ á m p ɪj ə n
 KHAFPL/AE/-PB
 KHAPL/PAE/-PB
 
+chance
 ch a  n c e
 tʃ ɑ́ː n s
 KHAUPBS
 
+change
 ch a  n g  e
 tʃ ɛ́j n dʒ
 KHAEUPB/-PBLG
 
+channel
 ch a nn e l
 tʃ á n  ə l
 KHAPB/-L
 
+chapter
 ch a p t e r
 tʃ á p t ə
 KHAP/T-R
 KHAPT/-R
 
+character
 ch a r a c t e r
 k  á r ə k t ə
 KAR/-BG/T-R
 KAR/-BGT/-R
 
+characteristic
 ch a r a c t e r i s t i c
 k  á r ə k t ə r ɪ́ s t ɪ k
 KAR/-BG/TR*EUS/-BG
@@ -1978,336 +2411,415 @@ KAR/-BG/TU/REUS/T-BG
 KAR/-BGT/R*EUS/-BG
 KAR/-BGT/REUS/T-BG
 
+charge
 ch a  r g  e
 tʃ ɑ́ː   dʒ
 KHAURPBLG
 
+charity
 ch a r i t y
 tʃ á r ə t ɪj
 KHAR/TAE
 KHAR/-T/AE
 
+chart
 ch a  r t
 tʃ ɑ́ː   t
 KHAURT
 
+chat
 ch a t
 tʃ á t
 KHAT
 
+cheap
 ch ea p
 tʃ ɪ́j p
 KHAOEP
 
+cheat
 ch ea t
 tʃ ɪ́j t
 KHAOET
 
+check
 ch e c k
 tʃ ɛ́   k
 KHEBG
 
+cheerful
 ch ee r f u l
 tʃ ɪ́ː   f ə l
 KHAOER/TP-L
 KHAOER/-F/-L
 
+cheese
 ch ee s e
 tʃ ɪ́j z
 KHAOEZ
 
+chef
 ch e f
 ʃ  ɛ́ f
 SHEF
 
+chemical
 ch e m i c a l
 k  ɛ́ m ɪ k ə l
 KEPL/K-L
 KEPL/-BG/-L
 
+chemistry
 ch e m i s t r y
 k  ɛ́ m ɪ s t r ɪj
 KEPL/STRAE
 KEPL/*S/RAE
 KEPL/-S/TRAE
 
+chest
 ch e s t
 tʃ ɛ́ s t
 KH*ES
 
+chicken
 ch i c k e n
 tʃ ɪ́   k ɪ n
 KHEU/K-PB
 KHEUBG/-PB
 
+chief
 ch ie f
 tʃ ɪ́j f
 KHAOEF
 
+child
 ch i  l d
 tʃ ɑ́j l d
 KHAOEULD
 
+childhood
 ch i  l d h oo d
 tʃ ɑ́j l d h ɵ  d
 KHAOEULD/HAOD
 
+chip
 ch i p
 tʃ ɪ́ p
 KHEUP
 
+chocolate
 ch o c o l a t e
 tʃ ɔ́ k   l ə t
 KHAUBG/HR-T
 
+choice
 ch oi c e
 tʃ ój s
 KHOEUS
 
+choose
 ch oo s e
 tʃ ʉ́w z
 KHAOUZ
 
+church
 ch u  r ch
 tʃ ə́ː   tʃ
 KHUR/-FP
 
+cigarette
 c i g a r e tt e
 s ɪ́ g ə r ɛ́ t
 SEUG/RET
 
+cinema
 c i n e m a
 s ɪ́ n ə m ɑː
 SEUPB/PHAU
 SEUPB/-PL/AU
 
+circle
 c i  r c   l e
 s ə́ː   k ə l
 SUR/K-L
 SURBG/-L
 
+circumstance
 c i  r c u m s t a n c e
 s ə́ː   k ə m s t a n s
 SUR/K-PL/STAPBS
 SURBG/-PL/STAPBS
 
+cite
 c i  t e
 s ɑ́j t
 SAOEUT
 
+citizen
 c i t i z e n
 s ɪ́ t ɪ z ə n
 SEUT/SWR-PB
 SEUT/UZ/-PB
 
+city
 c i t y
 s ɪ́ t ɪj
 SEUT/AE
 
+civil
 c i v i l
 s ɪ́ v ə l
 SEUFB/-L
 
+claim
 c l ai m
 k l ɛ́j m
 KHRAEUPL
 
+class
 c l a  ss
 k l ɑ́ː s
 KHRAUS
 
+classic
 c l a ss i c
 k l á s  ɪ k
 KHRAS/-BG
 
+classical
 c l a ss i c a l
 k l á s  ɪ k ə l
 KHRAS/K-L
 KHRAS/-BG/-L
 
+classroom
 c l a  ss r oo m
 k l ɑ́ː s  r ʉw m
 KHRAUS/RAOUPL
 
+clause
 c l au s e
 k l óː z
 KHRAUZ
 
+clean
 c l ea n
 k l ɪ́j n
 KHRAOEPB
 
+clear
 c l ea r
 k l ɪ́ː
 KHRAOER
 
+clearly
 c l ea r l y
 k l ɪ́ː   l ɪj
 KHRAOER/HRAE
 KHRAOERL/AE
 
+clever
 c l e v e r
 k l ɛ́ v ə
 KHREFB/-R
 
+click
 c l i c k
 k l ɪ́   k
 KHREUBG
 
+client
 c l i  e n t
 k l ɑ́j ə n t
 KHRAOEU/-PBT
 
+climate
 c l i  m a t e
 k l ɑ́j m ə t
 KHRAOEUPL/-T
 
+climb
 c l i  m b
 k l ɑ́j m
 KHRAOEUPL/-B
 
+clock
 c l o c k
 k l ɔ́   k
 KHRAUBG
 
+close
 c l o  s e
 k l ə́w s
 KHROES
 
+close
 c l o  s e
 k l ə́w z
 KHROEZ
 
+closed
 c l o  s e d
 k l ə́w z   d
 KHROEZ/-D
 
+closely
 c l o  s e l y
 k l ə́w s   l ɪj
 KHROES/HRAE
 
+cloth
 c l o th
 k l ɔ́ θ
 KHRAUGT
 
+clothes
 c l o  th e s
 k l ə́w ð    z
 KHROEGTZ
 
+clothing
 c l o  th i ng
 k l ə́w ð  ɪ ŋ
 KHROEGT/-PBG
 
+cloud
 c l ou d
 k l áw d
 KHROUD
 
+club
 c l u b
 k l ʌ́ b
 KHRUB
 
+clue
 c l ue
 k l ʉ́w
 KHRAOU
 
+coach
 c oa ch
 k ə́w tʃ
 KOEFP
 
+coal
 c oa l
 k ə́w l
 KOEL
 
+coast
 c oa s t
 k ə́w s t
 KO*ES
 
+coat
 c oa t
 k ə́w t
 KOET
 
+code
 c o  d e
 k ə́w d
 KOED
 
+coffee
 c o ff ee
 k ɔ́ f  ɪj
 KAUF/AE
 
+coin
 c oi n
 k ój n
 KOEUPB
 
+cold
 c o  l d
 k ə́w l d
 KOELD
 
+collapse
 c o ll a p s e
 k ə l  á p s
 KHRAPS
 KU/HRAPS
 
+colleague
 c o ll ea g u e
 k ɔ́ l  ɪj g
 KAUL/AOEG
 
+collect
 c o ll e c t
 k ɔ́ l  ɛ k t
 KAUL/EBGT
 
+collect
 c o ll e c t
 k ə l  ɛ́ k t
 KHREBGT
 KU/HREBGT
 
+collection
 c o ll e c ti o n
 k ə l  ɛ́ k ʃ  ə n
 KHREBG/SH-PB
 KU/HREBG/SH-PB
 
+college
 c o ll e g  e
 k ɔ́ l  ɪ dʒ
 KAUL/-PBLG
 
+colour
 c o l ou r
 k ʌ́ l ə
 KUL/-R
 
+coloured
 c o l ou r e d
 k ʌ́ l ə      d
 KUL/-RD
 
+column
 c o l u m n
 k ɔ́ l ə m
 KAUL/-PL
 
+combination
 c o m b i n a  ti o n
 k ɔ́ m b ɪ n ɛ́j ʃ  ə n
 KAUPL/PWEU/TPHAEUGZ
 KAUPL/PWU/TPHAEUGZ
 
+combine
 c o m b i  n e
 k ɔ́ m b ɑj n
 KAUPL/PWAOEUPB
 
+combine
 c o m b i  n e
 k ə m b ɑ́j n
 KUPL/PWAOEUPB
 
+come
 c o m e
 k ʌ́ m
 KUPL
 
+comedy
 c o m e d y
 k ɔ́ m ə d ɪj
 KAUPL/TKAE
 KAUPL/UD/AE
 
+comfort
 c o m f o r t
 k ʌ́ m f ə   t
 KUPL/TP-RT
 KUPL/-F/-RT
 
+comfortable
 c o m f o r t a b   l e
 k ʌ́ m f     t ə b ə l
 KUPL/-F/TPW-L
@@ -2317,15 +2829,18 @@ KUPL/-FR/TPW-L
 KUPL/-FR/TU/PW-L
 KUPL/-FR/T-B/-L
 
+command
 c o mm a  n d
 k ə m  ɑ́ː n d
 KPHAUPBD
 KU/PHAUPBD
 
+comment
 c o mm e n t
 k ɔ́ m  ɛ n t
 KAUPL/EPBT
 
+commercial
 c o mm e  r ci a l
 k ə m  ə́ː   ʃ  ə l
 KPHUR/SH-L
@@ -2333,34 +2848,41 @@ KPHURGS/-L
 KU/PHUR/SH-L
 KU/PHURGS/-L
 
+commission
 c o mm i ssi o n
 k ə m  ɪ́ ʃ   ə n
 KPHEUGZ
 KU/PHEUGZ
 
+commit
 c o mm i t
 k ə m  ɪ́ t
 KPHEUT
 KU/PHEUT
 
+commitment
 c o mm i t m e n t
 k ə m  ɪ́ t m ə n t
 KPHEUT/PH-PBT
 KU/PHEUT/PH-PBT
 
+committee
 c o mm i tt ee
 k ə m  ɪ́ t  ɪj
 KPHEUT/AE
 KU/PHEUT/AE
 
+common
 c o mm o n
 k ɔ́ m  ə n
 KAUPL/-PB
 
+commonly
 c o mm o n l y
 k ɔ́ m  ə n l ɪj
 KAUPL/-PB/HRAE
 
+communicate
 c o mm   u  n i c a  t e
 k ə m  j ʉ́w n ɪ k ɛj t
 KPHU/KWRAOUPB/KAEUT
@@ -2374,6 +2896,7 @@ KUPL/KWRAOUPB/-BG/AEUT
 KUPL/AOUPB/KAEUT
 KUPL/AOUPB/-BG/AEUT
 
+communication
 c o mm   u  n i c a  ti o n
 k ə m  j ʉ́w n ɪ k ɛ́j ʃ  ə n
 KPHU/KWRAOUPB/KAEUGZ
@@ -2382,6 +2905,7 @@ KU/PHU/KWRAOUPB/KAEUGZ
 KUPL/KWRAOUPB/KAEUGZ
 KUPL/AOUPB/KAEUGZ
 
+community
 c o mm   u  n i t y
 k ə m  j ʉ́w n ə t ɪj
 KPHU/KWRAOUPB/TAE
@@ -2395,6 +2919,7 @@ KUPL/KWRAOUPB/-T/AE
 KUPL/AOUPB/TAE
 KUPL/AOUPB/-T/AE
 
+company
 c o m p a n y
 k ʌ́ m p ə n ɪj
 KUFPL/TPHAE
@@ -2402,59 +2927,71 @@ KUFPL/-PB/AE
 KUPL/PU/TPHAE
 KUPL/P-PB/AE
 
+compare
 c o m p a  r e
 k ə m p ɛ́ː
 KUPL/PAEUR
 
+comparison
 c o m p a r i s o n
 k ə m p á r ɪ s ə n
 KUPL/PAR/S-PB
 KUPL/PAR/-S/-PB
 
+compete
 c o m p e  t e
 k ə m p ɪ́j t
 KUPL/PAOET
 
+competition
 c o m p e t i ti o n
 k ɔ́ m p ə t ɪ́ ʃ  ə n
 KAUFPL/TEUGZ
 KAUPL/PU/TEUGZ
 
+competitive
 c o m p e t i t i v e
 k ə m p ɛ́ t ə t ɪ v
 KUPL/PET/T-FB
 KUPL/PET/-T/-FB
 
+competitor
 c o m p e t i t o r
 k ə m p ɛ́ t ɪ t ə
 KUPL/PET/T-R
 KUPL/PET/-T/-R
 
+complain
 c o m p l ai n
 k ə m p l ɛ́j n
 KUFPL/HRAEUPB
 KUPL/PHRAEUPB
 
+complaint
 c o m p l ai n t
 k ə m p l ɛ́j n t
 KUFPL/HRAEUPBT
 KUPL/PHRAEUPBT
 
+complete
 c o m p l e  t e
 k ə m p l ɪ́j t
 KUFPL/HRAOET
 KUPL/PHRAOET
 
+completely
 c o m p l e  t e l y
 k ə m p l ɪ́j t   l ɪj
 KUFPL/HRAOET/HRAE
 KUPL/PHRAOET/HRAE
 
+complex
 c o m p l e x -
 k ɔ́ m p l ɛ k s
 KAUFPL/HREBGS
 KAUPL/PHREBGS
 
+complicated
 c o m p l i c a  t e d
 k ɔ́ m p l ɪ k ɛj t ɪ d
 KAUFPL/HREU/KAEU/T-D
@@ -2470,10 +3007,12 @@ KAUPL/PHRU/KAEUT/UD
 KAUPL/PHR-BG/AEU/T-D
 KAUPL/PHR-BG/AEUT/UD
 
+component
 c o m p o  n e n t
 k ə m p ə́w n ə n t
 KUPL/POEPB/-PBT
 
+computer
 c o m p   u  t e r
 k ə m p j ʉ́w t ə
 KUFPL/KWRAOUT/-R
@@ -2481,6 +3020,7 @@ KUFPL/AOUT/-R
 KUPL/PAOUT/-R
 KUPL/PU/KWRAOUT/-R
 
+concentrate
 c o n c e n t r a  t e
 k ɔ́ n s ə n t r ɛj t
 KAUPB/S-PB/TRAEUT
@@ -2488,6 +3028,7 @@ KAUPB/S-PBT/RAEUT
 KAUPBS/-PB/TRAEUT
 KAUPBS/-PBT/RAEUT
 
+concentration
 c o n c e n t r a  ti o n
 k ɔ́ n s ə n t r ɛ́j ʃ  ə n
 KAUPB/S-PB/TRAEUGZ
@@ -2495,110 +3036,134 @@ KAUPB/S-PBT/RAEUGZ
 KAUPBS/-PB/TRAEUGZ
 KAUPBS/-PBT/RAEUGZ
 
+concept
 c o n c e p t
 k ɔ́ n s ɛ p t
 KAUPB/SEPT
 KAUPBS/EPT
 
+concern
 c o n c e  r n
 k ə n s ə́ː   n
 KUPB/SURPB
 
+concerned
 c o n c e  r n e d
 k ə n s ə́ː   n   d
 KUPB/SURPBD
 
+concert
 c o n c e r t
 k ɔ́ n s ə   t
 KAUPB/S-RT
 KAUPBS/-RT
 
+concert
 c o n c e  r t
 k ə n s ə́ː   t
 KUPB/SURT
 
+conclude
 c o n c l u  d e
 k ə n k l ʉ́w d
 KUPB/KHRAOUD
 
+conclusion
 c o n c l u  si o n
 k ə n k l ʉ́w ʒ  ə n
 
+condition
 c o n d i ti o n
 k ə n d ɪ́ ʃ  ə n
 KUPB/TKEUGZ
 
+conduct
 c o n d u c t
 k ɔ́ n d ʌ k t
 KAUPB/TK-BGT
 KAUPBD/-BGT
 
+conduct
 c o n d u c t
 k ə n d ʌ́ k t
 KUPB/TKUBGT
 
+conference
 c o n f e r e n c e
 k ɔ́ n f ə r ə n s
 KAUPB/TPR-PBS
 KAUPB/TPU/R-PBS
 KAUPB/TP-R/-PBS
 
+confidence
 c o n f i d e n c e
 k ɔ́ n f ɪ d ə n s
 KAUPB/TPEU/TK-PBS
 KAUPB/TPU/TK-PBS
 KAUPB/TP-D/-PBS
 
+confident
 c o n f i d e n t
 k ɔ́ n f ɪ d ə n t
 KAUPB/TPEU/TK-PBT
 KAUPB/TPU/TK-PBT
 KAUPB/TP-D/-PBT
 
+confirm
 c o n f i  r m
 k ə n f ə́ː   m
 KUPB/TPURPL
 
+conflict
 c o n f l i c t
 k ɔ́ n f l ɪ k t
 KAUPB/TPHR-BGT
 
+conflict
 c o n f l i c t
 k ə n f l ɪ́ k t
 KUPB/TPHREUBGT
 
+confuse
 c o n f   u  s e
 k ə n f j ʉ́w z
 KUPB/TPAOUZ
 KUPB/TPU/KWRAOUZ
 
+confused
 c o n f   u  s e d
 k ə n f j ʉ́w z   d
 KUPB/TPAOUZ/-D
 KUPB/TPU/KWRAOUZ/-D
 
+confusing
 c o n f   u  s i ng
 k ə n f j ʉ́w z ɪ ŋ
 KUPB/TPAOUZ/-PBG
 KUPB/TPU/KWRAOUZ/-PBG
 
+connect
 c o nn e c t
 k ə n  ɛ́ k t
 KU/TPHEBGT
 
+connected
 c o nn e c t e d
 k ə n  ɛ́ k t ɪ d
 KU/TPHEBG/T-D
 KU/TPHEBGT/UD
 
+connection
 c o nn e c ti o n
 k ə n  ɛ́ k ʃ  ə n
 KU/TPHEBG/SH-PB
 
+conscious
 c o n sci ou s
 k ɔ́ n ʃ   ə  s
 KAUPB/SH-S
 
+consequence
 c o n s e q u e n c e
 k ɔ́ n s ɪ k w ə n s
 KAUPB/SKW-PBS
@@ -2607,6 +3172,7 @@ KAUPB/S-BG/W-PBS
 KAUPBS/KW-PBS
 KAUPBS/-BG/W-PBS
 
+conservative
 c o n s e  r v a t i v e
 k ə n s ə́ː   v ə t ɪ v
 KUPB/SUR/SRU/T-FB
@@ -2614,48 +3180,58 @@ KUPB/SUR/SR-T/-FB
 KUPB/SUR/-FB/T-FB
 KUPB/SUR/-FB/-T/-FB
 
+consider
 c o n s i d e r
 k ə n s ɪ́ d ə
 KUPB/SEUD/-R
 
+consideration
 c o n s i d e r a  ti o n
 k ə n s ɪ́ d ə r ɛ́j ʃ  ə n
 KUPB/SEUD/RAEUGZ
 
+consist
 c o n s i s t
 k ə n s ɪ́ s t
 KUPB/S*EUS
 
+consistent
 c o n s i s t e n t
 k ə n s ɪ́ s t ə n t
 KUPB/S*EUS/-PBT
 KUPB/SEUS/T-PBT
 
+constant
 c o n s t a n t
 k ɔ́ n s t ə n t
 KAUPB/ST-PBT
 KAUPBS/T-PBT
 
+constantly
 c o n s t a n t l y
 k ɔ́ n s t ə n t l ɪj
 KAUPB/ST-PBT/HRAE
 KAUPBS/T-PBT/HRAE
 
+construct
 c o n s t r u c t
 k ɔ́ n s t r ʌ k t
 KAUPB/STR-BGT
 KAUPBS/TR-BGT
 
+construct
 c o n s t r u c t
 k ə n s t r ʌ́ k t
 KUPB/STRUBGT
 KUPBS/TRUBGT
 
+construction
 c o n s t r u c ti o n
 k ə n s t r ʌ́ k ʃ  ə n
 KUPB/STRUBG/SH-PB
 KUPBS/TRUBG/SH-PB
 
+consume
 c o n s   u  m e
 k ə n s j ʉ́w m
 KUPB/SKWRAOUPL
@@ -2663,6 +3239,7 @@ KUPB/SAOUPL
 KUPBS/KWRAOUPL
 KUPBS/AOUPL
 
+consumer
 c o n s   u  m e r
 k ə n s j ʉ́w m ə
 KUPB/SKWRAOUPL/-R
@@ -2670,19 +3247,23 @@ KUPB/SAOUPL/-R
 KUPBS/KWRAOUPL/-R
 KUPBS/AOUPL/-R
 
+contact
 c o n t a c t
 k ɔ́ n t a k t
 KAUPB/TABGT
 KAUPBT/ABGT
 
+contain
 c o n t ai n
 k ə n t ɛ́j n
 KUPB/TAEUPB
 
+container
 c o n t ai n e r
 k ə n t ɛ́j n ə
 KUPB/TAEUPB/-R
 
+contemporary
 c o n t e m p o r a r y
 k ə n t ɛ́ m p   r ə r ɪj
 KUPB/TEFPL/RU/RAE
@@ -2690,29 +3271,35 @@ KUPB/TEFPL/R-R/AE
 KUPB/TEPL/PRU/RAE
 KUPB/TEPL/PR-R/AE
 
+content
 c o n t e n t
 k ɔ́ n t ɛ n t
 KAUPB/TEPBT
 KAUPBT/EPBT
 
+content
 c o n t e n t
 k ə n t ɛ́ n t
 KUPB/TEPBT
 
+contest
 c o n t e s t
 k ɔ́ n t ɛ s t
 KAUPB/T*ES
 KAUPBT/*ES
 
+contest
 c o n t e s t
 k ə n t ɛ́ s t
 KUPB/T*ES
 
+context
 c o n t e x - t
 k ɔ́ n t ɛ k s t
 KAUPB/T*EBGS
 KAUPBT/*EBGS
 
+continent
 c o n t i n e n t
 k ɔ́ n t ɪ n ə n t
 KAUPB/TEU/TPH-PBT
@@ -2721,36 +3308,43 @@ KAUPB/T-PB/-PBT
 KAUPBT/TPH-PBT
 KAUPBT/-PB/-PBT
 
+continue
 c o n t i n   ue
 k ə n t ɪ́ n j ʉw
 KUPB/TEUPB/KWRAOU
 KUPB/TEUPB/AOU
 
+continuous
 c o n t i n   u  ou s
 k ə n t ɪ́ n j ʉw ə  s
 KUPB/TEUPB/KWRAOU/-S
 KUPB/TEUPB/AOU/-S
 
+contract
 c o n t r a c t
 k ɔ́ n t r a k t
 KAUPB/TRABGT
 KAUPBT/RABGT
 
+contract
 c o n t r a c t
 k ə n t r á k t
 KUPB/TRABGT
 KUPBT/RABGT
 
+contrast
 c o n t r a  s t
 k ɔ́ n t r ɑː s t
 KAUPB/TRA*US
 KAUPBT/RA*US
 
+contrast
 c o n t r a  s t
 k ə n t r ɑ́ː s t
 KUPB/TRA*US
 KUPBT/RA*US
 
+contribute
 c o n t r i b   u  t e
 k ə n t r ɪ́ b j ʉw t
 KUPB/TREUB/KWRAOUT
@@ -2758,6 +3352,7 @@ KUPB/TREUB/AOUT
 KUPBT/REUB/KWRAOUT
 KUPBT/REUB/AOUT
 
+contribution
 c o n t r i b   u  ti o n
 k ɔ́ n t r ɪ b j ʉ́w ʃ  ə n
 KAUPB/TREU/PWAOUGZ
@@ -2773,65 +3368,80 @@ KAUPBT/RU/PWU/KWRAOUGZ
 KAUPBT/R-B/KWRAOUGZ
 KAUPBT/R-B/AOUGZ
 
+control
 c o n t r o  l
 k ə n t r ə́w l
 KUPB/TROEL
 KUPBT/ROEL
 
+convenient
 c o n v e  n i  e n t
 k ə n v ɪ́j n ɪj ə n t
 KUPB/SRAOEPB/AE/-PBT
 
+conversation
 c o n v e r s a  ti o n
 k ɔ́ n v ə   s ɛ́j ʃ  ə n
 KAUPB/SRU/SAEUGZ
 KAUPB/SR-R/SAEUGZ
 
+convert
 c o n v e  r t
 k ɔ́ n v əː   t
 KAUPB/SRURT
 
+convert
 c o n v e  r t
 k ə n v ə́ː   t
 KUPB/SRURT
 
+convince
 c o n v i n c e
 k ə n v ɪ́ n s
 KUPB/SREUPBS
 
+convinced
 c o n v i n c e d
 k ə n v ɪ́ n s   t
 KUPB/SREUPBS/-T
 
+cook
 c oo k
 k ɵ́  k
 KAOBG
 
+cooker
 c oo k e r
 k ɵ́  k ə
 KAOBG/-R
 
+cooking
 c oo k i ng
 k ɵ́  k ɪ ŋ
 KAOBG/-PBG
 
+cool
 c oo l
 k ʉ́w l
 KAOUL
 
+copy
 c o p y
 k ɔ́ p ɪj
 KAUP/AE
 
+core
 c o  r e
 k óː
 KAUR
 
+corner
 c o  r n e r
 k óː   n ə
 KAUR/TPH-R
 KAURPB/-R
 
+corporate
 c o  r p o r a t e
 k óː   p ə r ə t
 KAUR/PR-T
@@ -2840,54 +3450,66 @@ KAUR/P-R/-T
 KAURP/R-T
 KAURP/-R/-T
 
+correct
 c o rr e c t
 k ə r  ɛ́ k t
 KREBGT
 KU/REBGT
 
+correctly
 c o rr e c t l y
 k ə r  ɛ́ k t l ɪj
 KREBGT/HRAE
 KU/REBGT/HRAE
 
+cost
 c o s t
 k ɔ́ s t
 KA*US
 
+costume
 c o s t  u  m e
 k ɔ́ s tʃ ʉw m
 KAUS/KHAOUPL
 
+cottage
 c o tt a g  e
 k ɔ́ t  ɪ dʒ
 KAUT/-PBLG
 
+cotton
 c o tt o n
 k ɔ́ t  ə n
 KAUT/-PB
 
+could
 c ou l d
 k ɵ́    d
 KAOD
 
+could
 c ou l d
 k ə    d
 KUD
 
+council
 c ou n c i l
 k áw n s ə l
 KOUPB/S-L
 KOUPBS/-L
 
+count
 c ou n t
 k áw n t
 KOUPBT
 
+country
 c ou n t r y
 k ʌ́  n t r ɪj
 KUPB/TRAE
 KUPBT/RAE
 
+countryside
 c ou n t r y  s i  d e
 k ʌ́  n t r ɪj s ɑj d
 KUPB/TRAOES/AOEUD
@@ -2895,105 +3517,130 @@ KUPB/TRAE/SAOEUD
 KUPBT/RAOES/AOEUD
 KUPBT/RAE/SAOEUD
 
+county
 c ou n t y
 k áw n t ɪj
 KOUPB/TAE
 KOUPBT/AE
 
+couple
 c ou p   l e
 k ʌ́  p ə l
 KUP/-L
 
+courage
 c ou r a g  e
 k ʌ́  r ɪ dʒ
 KUR/-PBLG
 
+course
 c ou r s e
 k óː   s
 KAURS
 
+court
 c ou r t
 k óː   t
 KAURT
 
+cousin
 c ou s i n
 k ʌ́  z ə n
 KUZ/-PB
 
+cover
 c o v e r
 k ʌ́ v ə
 KUFB/-R
 
+covered
 c o v e r e d
 k ʌ́ v ə     d
 KUFB/-RD
 
+cow
 c ow
 k áw
 KOU
 
+crash
 c r a sh
 k r á ʃ
 KRAGS
 
+crazy
 c r a  z y
 k r ɛ́j z ɪj
 KRAEUZ/AE
 
+cream
 c r ea m
 k r ɪ́j m
 KRAOEPL
 
+create
 c r e  a  t e
 k r ɪj ɛ́j t
 KRAE/AEUT
 
+creation
 c r e  a  ti o n
 k r ɪj ɛ́j ʃ  ə n
 KRAE/AEUGZ
 
+creative
 c r e  a  t i v e
 k r ɪj ɛ́j t ɪ v
 KRAE/AEUT/-FB
 
+creature
 c r ea t  u r e
 k r ɪ́j tʃ ə
 KRAOEFP/-R
 
+credit
 c r e d i t
 k r ɛ́ d ɪ t
 KRED/-T
 
+crew
 c r ew
 k r ʉ́w
 KRAOU
 
+crime
 c r i  m e
 k r ɑ́j m
 KRAOEUPL
 
+criminal
 c r i m i n a l
 k r ɪ́ m ɪ n ə l
 KREUPL/TPH-L
 KREUPL/-PB/-L
 
+crisis
 c r i  s i s
 k r ɑ́j s ɪ s
 KRAOEUS/-S
 
+criterion
 c r i  t e  r i  o n
 k r ɑj t ɪ́ː r ɪj ə n
 KRAOEU/TAOER/AE/-PB
 
+critic
 c r i t i c
 k r ɪ́ t ɪ k
 KREUT/-BG
 
+critical
 c r i t i c a l
 k r ɪ́ t ɪ k ə l
 KREUT/K-L
 KREUT/-BG/-L
 
+criticism
 c r i t i c i s   m
 k r ɪ́ t ɪ s ɪ z ə m
 KREUT/SEU/SWR-PL
@@ -3002,39 +3649,48 @@ KREUT/S-Z/-PL
 KREUT/-S/SWR-PL
 KREUT/-S/UZ/-PL
 
+criticize
 c r i t i c i  z e
 k r ɪ́ t ɪ s ɑj z
 KREUT/SAOEUZ
 KREUT/-S/AOEUZ
 
+crop
 c r o p
 k r ɔ́ p
 KRAUP
 
+cross
 c r o ss
 k r ɔ́ s
 KRAUS
 
+crowd
 c r ow d
 k r áw d
 KROUD
 
+crowded
 c r ow d e d
 k r áw d ɪ d
 KROUD/UD
 
+crucial
 c r u  ci a l
 k r ʉ́w ʃ  ə l
 KRAOUGS/-L
 
+cruel
 c r u  e l
 k r ʉ́w ə l
 KRAOU/-L
 
+cry
 c r y
 k r ɑ́j
 KRAOEU
 
+cultural
 c u l t  u r a l
 k ʌ́ l tʃ ə r ə l
 KUL/KHR-L
@@ -3043,60 +3699,73 @@ KUL/KH-R/-L
 KUL/-FP/R-L
 KUL/-FP/-R/-L
 
+culture
 c u l t  u r e
 k ʌ́ l tʃ ə
 KUL/KH-R
 KUL/-FP/-R
 
+cup
 c u p
 k ʌ́ p
 KUP
 
+cupboard
 c u p b oa r d
 k ʌ́   b ə    d
 KU/PW-RD
 KUB/-RD
 
+cure
 c   u  r e
 k j óː
 KU/KWRAUR
 
+curly
 c u  r l y
 k ə́ː   l ɪj
 KUR/HRAE
 KURL/AE
 
+currency
 c u rr e n c y
 k ʌ́ r  ə n s ɪj
 KUR/-PB/SAE
 KUR/-PBS/AE
 
+current
 c u rr e n t
 k ʌ́ r  ə n t
 KUR/-PBT
 
+currently
 c u rr e n t l y
 k ʌ́ r  ə n t l ɪj
 KUR/-PBT/HRAE
 
+curtain
 c u  r t ai n
 k ə́ː   t ə  n
 KUR/T-PB
 KURT/-PB
 
+curve
 c u  r v e
 k ə́ː   v
 KUR/-FB
 
+curved
 c u  r v e d
 k ə́ː   v   d
 KUR/-FBD
 
+custom
 c u s t o m
 k ʌ́ s t ə m
 K*US/-PL
 KUS/T-PL
 
+customer
 c u s t o m e r
 k ʌ́ s t ə m ə
 K*US/PH-R
@@ -3105,45 +3774,55 @@ KUS/TPH-R
 KUS/TU/PH-R
 KUS/T-PL/-R
 
+cut
 c u t
 k ʌ́ t
 KUT
 
+cycle
 c y  c   l e
 s ɑ́j k ə l
 SAOEUBG/-L
 
+dad
 d a d
 d á d
 TKAD
 
+daily
 d ai l y
 d ɛ́j l ɪj
 TKAEUL/AE
 
+damage
 d a m a g  e
 d á m ɪ dʒ
 TKAPL/-PBLG
 
+dance
 d a  n c e
 d ɑ́ː n s
 TKAUPBS
 
+dancer
 d a  n c e r
 d ɑ́ː n s ə
 TKAUPB/S-R
 TKAUPBS/-R
 
+dancing
 d a  n c i ng
 d ɑ́ː n s ɪ ŋ
 TKAUPB/S-PBG
 TKAUPBS/-PBG
 
+danger
 d a  n g  e r
 d ɛ́j n dʒ ə
 TKAEUPB/SKWR-R
 TKAEUPB/-PBLG/-R
 
+dangerous
 d a  n g  e r ou s
 d ɛ́j n dʒ ə r ə  s
 TKAEUPB/SKWRU/R-S
@@ -3151,148 +3830,182 @@ TKAEUPB/SKWR-R/-S
 TKAEUPB/-PBLG/R-S
 TKAEUPB/-PBLG/-R/-S
 
+dark
 d a  r k
 d ɑ́ː   k
 TKAURBG
 
+data
 d a  t a
 d ɛ́j t ə
 TKAEUT
 
+date
 d a  t e
 d ɛ́j t
 TKAEUT
 
+daughter
 d au gh t e r
 d óː    t ə
 TKAU/T-R
 TKAUT/-R
 
+day
 d ay
 d ɛ́j
 TKAEU
 
+dead
 d ea d
 d ɛ́  d
 TKED
 
+deal
 d ea l
 d ɪ́j l
 TKAOEL
 
+dear
 d ea r
 d ɪ́ː
 TKAOER
 
+death
 d ea th
 d ɛ́  θ
 TKEGT
 
+debate
 d e b a  t e
 d ə b ɛ́j t
 TKPWAEUT
 TKU/PWAEUT
 
+debt
 d e b t
 d ɛ́   t
 TKEBT
 
+decade
 d e c a  d e
 d ɛ́ k ɛj d
 TKEBG/AEUD
 
+December
 D e c e m b e r
 d ɪ s ɛ́ m b ə
 TKEU/SEPL/PW-R
 TKU/SEPL/PW-R
 
+decent
 d e  c e n t
 d ɪ́j s ə n t
 TKAOES/-PBT
 
+decide
 d e c i  d e
 d ə s ɑ́j d
 TKU/SAOEUD
 
+decision
 d e c i si o n
 d ɪ s ɪ́ ʒ  ə n
 
+declare
 d e c l a  r e
 d ə k l ɛ́ː
 TKU/KHRAEUR
 TKUBG/HRAEUR
 
+decline
 d e c l i  n e
 d ə k l ɑ́j n
 TKU/KHRAOEUPB
 TKUBG/HRAOEUPB
 
+decorate
 d e c o r a  t e
 d ɛ́ k ə r ɛj t
 TKEBG/RAEUT
 TKEBG/-R/AEUT
 
+decoration
 d e c o r a  ti o n
 d ɛ́ k ə r ɛ́j ʃ  ə n
 TKEBG/RAEUGZ
 
+decrease
 d e  c r ea s e
 d ɪ́j k r ɪj s
 TKAOEBG/RAOES
 
+decrease
 d e c r ea s e
 d ə k r ɪ́j s
 TKU/KRAOES
 TKUBG/RAOES
 
+deep
 d ee p
 d ɪ́j p
 TKAOEP
 
+deeply
 d ee p l y
 d ɪ́j p l ɪj
 TKAOEP/HRAE
 
+defeat
 d e f ea t
 d ə f ɪ́j t
 TKU/TPAOET
 
+defence
 d e f e n c e
 d ə f ɛ́ n s
 TKU/TPEPBS
 
+defend
 d e f e n d
 d ə f ɛ́ n d
 TKU/TPEPBD
 
+define
 d e f i  n e
 d ə f ɑ́j n
 TKU/TPAOEUPB
 
+definite
 d e f i n i t e
 d ɛ́ f ɪ n ə t
 TKEF/TPH-T
 TKEF/-PB/-T
 
+definitely
 d e f i n i t e l y
 d ɛ́ f ɪ n ə t   l ɪj
 TKEF/TPH-T/HRAE
 TKEF/-PB/-T/HRAE
 
+definition
 d e f i n i ti o n
 d ɛ́ f ɪ n ɪ́ ʃ  ə n
 TKEF/TPHEUGZ
 
+degree
 d e g r ee
 d ə g r ɪ́j
 TKU/TKPWRAE
 TKUG/RAE
 
+delay
 d e l ay
 d ə l ɛ́j
 TKHRAEU
 TKU/HRAEU
 
+deliberate
 d e l i b e r a  t e
 d ə l ɪ́ b ə r ɛj t
 TKHREUB/RAEUT
@@ -3300,6 +4013,7 @@ TKHREUB/-R/AEUT
 TKU/HREUB/RAEUT
 TKU/HREUB/-R/AEUT
 
+deliberate
 d e l i b e r a t e
 d ə l ɪ́ b ə r ə t
 TKHREUB/R-T
@@ -3307,6 +4021,7 @@ TKHREUB/-R/-T
 TKU/HREUB/R-T
 TKU/HREUB/-R/-T
 
+deliberately
 d e l i b e r a t e l y
 d ə l ɪ́ b ə r ə t   l ɪj
 TKHREUB/R-T/HRAE
@@ -3314,16 +4029,19 @@ TKHREUB/-R/-T/HRAE
 TKU/HREUB/R-T/HRAE
 TKU/HREUB/-R/-T/HRAE
 
+delicious
 d e l i ci ou s
 d ə l ɪ́ ʃ  ə  s
 TKHREUGS/-S
 TKU/HREUGS/-S
 
+delight
 d e l i  gh t
 d ə l ɑ́j    t
 TKHROEUGT
 TKU/HROEUGT
 
+delighted
 d e l i  gh t e d
 d ə l ɑ́j    t ɪ d
 TKHRAOEU/T-D
@@ -3331,11 +4049,13 @@ TKHROEUGT/UD
 TKU/HRAOEU/T-D
 TKU/HROEUGT/UD
 
+deliver
 d e l i v e r
 d ə l ɪ́ v ə
 TKHREUFB/-R
 TKU/HREUFB/-R
 
+delivery
 d e l i v e r y
 d ə l ɪ́ v ə r ɪj
 TKHREUFB/RAE
@@ -3343,30 +4063,36 @@ TKHREUFB/-R/AE
 TKU/HREUFB/RAE
 TKU/HREUFB/-R/AE
 
+demand
 d e m a  n d
 d ə m ɑ́ː n d
 TKPHAUPBD
 TKU/PHAUPBD
 
+demonstrate
 d e m o n s t r a  t e
 d ɛ́ m ə n s t r ɛj t
 TKEPL/-PB/STRAEUT
 TKEPL/-PBS/TRAEUT
 
+dentist
 d e n t i s t
 d ɛ́ n t ɪ s t
 TKEPB/T*S
 TKEPBT/*S
 
+deny
 d e n y
 d ə n ɑ́j
 TKU/TPHAOEU
 
+department
 d e p a  r t m e n t
 d ə p ɑ́ː   t m ə n t
 TKPAURT/PH-PBT
 TKU/PAURT/PH-PBT
 
+departure
 d e p a  r t  u r e
 d ə p ɑ́ː   tʃ ə
 TKPAUR/KH-R
@@ -3374,178 +4100,216 @@ TKPAUR/-FP/-R
 TKU/PAUR/KH-R
 TKU/PAUR/-FP/-R
 
+depend
 d e p e n d
 d ə p ɛ́ n d
 TKPEPBD
 TKU/PEPBD
 
+depressed
 d e p r e ss e d
 d ə p r ɛ́ s    t
 TKPRES/-T
 TKU/PRES/-T
 TKUP/RES/-T
 
+depressing
 d e p r e ss i ng
 d ə p r ɛ́ s  ɪ ŋ
 TKPRES/-PBG
 TKU/PRES/-PBG
 TKUP/RES/-PBG
 
+depth
 d e p th
 d ɛ́ p θ
 TKEPGT
 
+describe
 d e s c r i  b e
 d ə s k r ɑ́j b
 TKU/SKRAOEUB
 TKUS/KRAOEUB
 TKUS/-BG/RAOEUB
 
+description
 d e s c r i p ti o n
 d ə s k r ɪ́ p ʃ  ə n
 TKU/SKREUP/SH-PB
 TKUS/KREUP/SH-PB
 TKUS/-BG/REUP/SH-PB
 
+desert
 d e s e r t
 d ɛ́ z ə   t
 TKEZ/-RT
 
+desert
 d e s e  r t
 d ə z ə́ː   t
 TKU/SWRURT
 
+deserve
 d e s e  r v e
 d ə z ə́ː   v
 TKU/SWRUR/-FB
 
+design
 d e s i  g n
 d ə z ɑ́j   n
 TKU/SWRAOEUPB
 
+designer
 d e s i  g n e r
 d ə z ɑ́j   n ə
 TKU/SWRAOEU/TPH-R
 TKU/SWRAOEUPB/-R
 
+desire
 d e s i  r e
 d ə z ɑ́j ə
 TKU/SWRAOEU/
 
+desk
 d e s k
 d ɛ́ s k
 TKES/-BG
 
+desperate
 d e s p e r a t e
 d ɛ́ s p   r ə t
 TKES/PR-T
 TKES/-P/R-T
 
+despite
 d e s p i  t e
 d ə s p ɑ́j t
 TKU/SPAOEUT
 TKUS/PAOEUT
 
+destination
 d e s t i n a  ti o n
 d ɛ́ s t ɪ n ɛ́j ʃ  ə n
 TK*ES/TPHAEUGZ
 TKES/TEU/TPHAEUGZ
 TKES/TU/TPHAEUGZ
 
+destroy
 d e s t r oy
 d ə s t r ój
 TK*US/ROEU
 TKU/STROEU
 TKUS/TROEU
 
+detail
 d e  t ai l
 d ɪ́j t ɛj l
 TKAOET/AEUL
 
+detailed
 d e  t ai l e d
 d ɪ́j t ɛj l   d
 TKAOET/AEULD
 
+detect
 d e t e c t
 d ə t ɛ́ k t
 TKU/TEBGT
 
+detective
 d e t e c t i v e
 d ə t ɛ́ k t ɪ v
 TKU/TEBG/T-FB
 TKU/TEBGT/-FB
 
+determine
 d e t e  r m i n e
 d ə t ə́ː   m ə n
 TKU/TUR/PH-PB
 TKU/TURPL/-PB
 
+determined
 d e t e  r m i n e d
 d ə t ə́ː   m ə n   d
 TKU/TUR/PH-PBD
 TKU/TURPL/-PBD
 
+develop
 d e v e l o p
 d ə v ɛ́ l ə p
 TKU/SREL/-P
 
+development
 d e v e l o p m e n t
 d ə v ɛ́ l ə p m ə n t
 TKU/SREL/-P/PH-PBT
 
+device
 d e v i  c e
 d ə v ɑ́j s
 TKU/SRAOEUS
 
+diagram
 d i  a g r a m
 d ɑ́j ə g r a m
 TKAOEU/TKPWRAPL
 TKAOEU/UG/RAPL
 
+dialogue
 d i  a l o g u e
 d ɑ́j ə l ɔ g
 TKAOEU/HRAUG
 TKAOEU/-L/AUG
 
+diamond
 d i  a m o n d
 d ɑ́j ə m ə n d
 TKAOEU/PH-PBD
 TKAOEU/-PL/-PBD
 
+diary
 d i  a r y
 d ɑ́j ə r ɪj
 TKAOEU/RAE
 TKAOEU/-R/AE
 
+dictionary
 d i c ti o n a r y
 d ɪ́ k ʃ  ə n   r ɪj
 TKEUBG/SH-PB/RAE
 
+die
 d ie
 d ɑ́j
 TKAOEU
 
+diet
 d i  e t
 d ɑ́j ə t
 TKAOEU/-T
 
+difference
 d i ff e r e n c e
 d ɪ́ f    r ə n s
 TKEUF/R-PBS
 
+different
 d i ff e r e n t
 d ɪ́ f    r ə n t
 TKEUF/R-PBT
 
+differently
 d i ff e r e n t l y
 d ɪ́ f    r ə n t l ɪj
 TKEUF/R-PBT/HRAE
 
+difficult
 d i ff i c u l t
 d ɪ́ f  ɪ k ə l t
 TKEUF/K-LT
 TKEUF/-BG/-LT
 
+difficulty
 d i ff i c u l t y
 d ɪ́ f  ɪ k ə l t ɪj
 TKEUF/K-L/TAE
@@ -3553,69 +4317,84 @@ TKEUF/K-LT/AE
 TKEUF/-BG/-L/TAE
 TKEUF/-BG/-LT/AE
 
+dig
 d i g
 d ɪ́ g
 TKEUG
 
+digital
 d i g  i t a l
 d ɪ́ dʒ ɪ t ə l
 TKEUPBLG/T-L
 TKEUPBLG/-T/-L
 
+dinner
 d i nn e r
 d ɪ́ n  ə
 TKEUPB/-R
 
+direct
 d i  r e c t
 d ɑj r ɛ́ k t
 TKAOEU/REBGT
 
+direction
 d i  r e c ti o n
 d ɑj r ɛ́ k ʃ  ə n
 TKAOEU/REBG/SH-PB
 
+directly
 d i  r e c t l y
 d ɑj r ɛ́ k t l ɪj
 TKAOEU/REBGT/HRAE
 
+director
 d i  r e c t o r
 d ɑj r ɛ́ k t ə
 TKAOEU/REBG/T-R
 TKAOEU/REBGT/-R
 
+dirt
 d i  r t
 d ə́ː   t
 TKURT
 
+dirty
 d i  r t y
 d ə́ː   t ɪj
 TKUR/TAE
 TKURT/AE
 
+disadvantage
 d i s a d v a  n t a g  e
 d ɪ́ s ə d v ɑ́ː n t ɪ dʒ
 TKEUS/UD/SRAUPB/T-PBLG
 TKEUS/UD/SRAUPBT/-PBLG
 
+disagree
 d i s a g r ee
 d ɪ́ s ə g r ɪ́j
 TKEUS/TKPWRAE
 TKEUS/UG/RAE
 
+disappear
 d i s a pp ea r
 d ɪ́ s ə p  ɪ́ː
 TKEUS/PAOER
 
+disappointed
 d i s a pp oi n t e d
 d ɪ́ s ə p  ój n t ɪ d
 TKEUS/POEUPB/T-D
 TKEUS/POEUPBT/UD
 
+disappointing
 d i s a pp oi n t i ng
 d ɪ́ s ə p  ój n t ɪ ŋ
 TKEUS/POEUPB/T-PBG
 TKEUS/POEUPBT/-PBG
 
+disaster
 d i s a  s t e r
 d ɪ z ɑ́ː s t ə
 TKEU/SWRA*US/-R
@@ -3623,33 +4402,39 @@ TKEU/SWRAUS/T-R
 TKU/SWRA*US/-R
 TKU/SWRAUS/T-R
 
+disc
 d i s c
 d ɪ́ s k
 TKEUS/-BG
 
+discipline
 d i s c i p l i n e
 d ɪ́ s   ə p l ɪ n
 TKEUS/PHR-PB
 TKEUS/U/PHR-PB
 TKEUS/-P/HR-PB
 
+discount
 d i s c ou n t
 d ɪ s k áw n t
 TKEU/SKOUPBT
 TKEUS/KOUPBT
 TKU/SKOUPBT
 
+discount
 d i s c ou n t
 d ɪ́ s k aw n t
 TKEUS/KOUPBT
 TKEUS/-BG/OUPBT
 
+discover
 d i s c o v e r
 d ɪ s k ʌ́ v ə
 TKEU/SKUFB/-R
 TKEUS/KUFB/-R
 TKU/SKUFB/-R
 
+discovery
 d i s c o v e r y
 d ɪ s k ʌ́ v ə r ɪj
 TKEU/SKUFB/RAE
@@ -3659,49 +4444,58 @@ TKEUS/KUFB/-R/AE
 TKU/SKUFB/RAE
 TKU/SKUFB/-R/AE
 
+discuss
 d i s c u ss
 d ɪ s k ʌ́ s
 TKEU/SKUS
 TKEUS/KUS
 TKU/SKUS
 
+discussion
 d i s c u ssi o n
 d ɪ s k ʌ́ ʃ   ə n
 TKEU/SKUGZ
 TKEUS/KUGZ
 TKU/SKUGZ
 
+disease
 d i s ea s e
 d ɪ z ɪ́j z
 TKEU/SWRAOEZ
 TKU/SWRAOEZ
 
+dish
 d i sh
 d ɪ́ ʃ
 TKEUGS
 
+dishonest
 d i s h o n e s t
 d ɪ s   ɔ́ n ɪ s t
 TKEU/SHAUPB/*S
 TKEUS/HAUPB/*S
 TKU/SHAUPB/*S
 
+disk
 d i s k
 d ɪ́ s k
 TKEUS/-BG
 
+dislike
 d i s l i  k e
 d ɪ s l ɑ́j k
 TKEU/SHRAOEUBG
 TKEUS/HRAOEUBG
 TKU/SHRAOEUBG
 
+dismiss
 d i s m i ss
 d ɪ s m ɪ́ s
 TKEU/SPHEUS
 TKEUS/PHEUS
 TKU/SPHEUS
 
+display
 d i s p l ay
 d ɪ s p l ɛ́j
 TKEU/SPHRAEU
@@ -3709,11 +4503,13 @@ TKEUS/PHRAEU
 TKEUS/-P/HRAEU
 TKU/SPHRAEU
 
+distance
 d i s t a n c e
 d ɪ́ s t ə n s
 TK*EUS/-PBS
 TKEUS/T-PBS
 
+distribute
 d i s t r i b   u  t e
 d ɪ s t r ɪ́ b j ʉw t
 TK*EUS/REUB/KWRAOUT
@@ -3725,6 +4521,7 @@ TKEUS/TREUB/AOUT
 TKU/STREUB/KWRAOUT
 TKU/STREUB/AOUT
 
+distribution
 d i s t r i b   u  ti o n
 d ɪ́ s t r ɪ b j ʉ́w ʃ  ə n
 TK*EUS/REU/PWAOUGZ
@@ -3740,42 +4537,51 @@ TKEUS/TRU/PWU/KWRAOUGZ
 TKEUS/TR-B/KWRAOUGZ
 TKEUS/TR-B/AOUGZ
 
+district
 d i s t r i c t
 d ɪ́ s t r ɪ k t
 TK*EUS/R-BGT
 TKEUS/TR-BGT
 
+divide
 d i v i  d e
 d ɪ v ɑ́j d
 TKEU/SRAOEUD
 TKU/SRAOEUD
 
+division
 d i v i si o n
 d ɪ v ɪ́ ʒ  ə n
 
+divorced
 d i v o  r c e d
 d ɪ v óː   s   t
 TKEU/SRAURS/-T
 TKU/SRAURS/-T
 
+do
 d o
 d ʉ́w
 TKAOU
 
+do
 d o
 d ə
 
 TKU
 
+do
 d o
 d ə́w
 TKOE
 
+doctor
 d o c t o r
 d ɔ́ k t ə
 TKAUBG/T-R
 TKAUBGT/-R
 
+document
 d o c   u m e n t
 d ɔ́ k j ə m ɛ n t
 TKAUBG/KWRU/PHEPBT
@@ -3783,6 +4589,7 @@ TKAUBG/KWR-PL/EPBT
 TKAUBG/PHEPBT
 TKAUBG/-PL/EPBT
 
+document
 d o c   u m e n t
 d ɔ́ k j ə m ə n t
 TKAUBG/KWRU/PH-PBT
@@ -3790,6 +4597,7 @@ TKAUBG/KWR-PL/-PBT
 TKAUBG/PH-PBT
 TKAUBG/-PL/-PBT
 
+documentary
 d o c   u m e n t a r y
 d ɔ́ k j ə m ɛ́ n t   r ɪj
 TKAUBG/KWRU/PHEPB/TRAE
@@ -3797,14 +4605,17 @@ TKAUBG/KWRU/PHEPBT/RAE
 TKAUBG/PHEPB/TRAE
 TKAUBG/PHEPBT/RAE
 
+dog
 d o g
 d ɔ́ g
 TKAUG
 
+dollar
 d o ll a r
 d ɔ́ l  ə
 TKAUL/-R
 
+domestic
 d o m e s t i c
 d ə m ɛ́ s t ɪ k
 TKPH*ES/-BG
@@ -3812,218 +4623,270 @@ TKPHES/T-BG
 TKU/PH*ES/-BG
 TKU/PHES/T-BG
 
+dominate
 d o m i n a  t e
 d ɔ́ m ɪ n ɛj t
 TKAUPL/TPHAEUT
 TKAUPL/-PB/AEUT
 
+donate
 d o  n a  t e
 d əw n ɛ́j t
 TKOE/TPHAEUT
 
+door
 d oo r
 d óː
 TKAUR
 
+double
 d ou b   l e
 d ʌ́  b ə l
 TKUB/-L
 
+doubt
 d ou b t
 d áw   t
 TKOUBT
 
+down
 d ow n
 d áw n
 TKOUPB
 
+download
 d ow n l oa d
 d áw n l ə́w d
 TKOUPB/HROED
 
+download
 d ow n l oa d
 d áw n l əw d
 TKOUPB/HROED
 
+downstairs
 d ow n s t ai r s
 d áw n s t ɛ́ː   z
 TKOUPB/STAEURZ
 TKOUPBS/TAEURZ
 
+downwards
 d ow n w a r d s
 d áw n w ə   d z
 TKOUPB/W-RDZ
 
+dozen
 d o z e n
 d ʌ́ z ə n
 TKUZ/-PB
 
+draft
 d r a  f t
 d r ɑ́ː f t
 TKRAUFT
 
+drag
 d r a g
 d r á g
 TKRAG
 
+drama
 d r a  m a
 d r ɑ́ː m ə
 TKRAUPL
 
+dramatic
 d r a m a t i c
 d r ə m á t ɪ k
 TKRU/PHAT/-BG
 
+draw
 d r aw
 d r óː
 TKRAU
 
+drawing
 d r aw   i ng
 d r óː r ɪ ŋ
 TKRAUR/-PBG
 
+dream
 d r ea m
 d r ɪ́j m
 TKRAOEPL
 
+dress
 d r e ss
 d r ɛ́ s
 TKRES
 
+dressed
 d r e ss e d
 d r ɛ́ s    t
 TKRES/-T
 
+drink
 d r i n k
 d r ɪ́ ŋ k
 TKREUPBG/-BG
 
+drive
 d r i  v e
 d r ɑ́j v
 TKRAOEUFB
 
+driver
 d r i  v e r
 d r ɑ́j v ə
 TKRAOEUFB/-R
 
+driving
 d r i  v i ng
 d r ɑ́j v ɪ ŋ
 TKRAOEUFB/-PBG
 
+drop
 d r o p
 d r ɔ́ p
 TKRAUP
 
+drug
 d r u g
 d r ʌ́ g
 TKRUG
 
+drum
 d r u m
 d r ʌ́ m
 TKRUPL
 
+drunk
 d r u n k
 d r ʌ́ ŋ k
 TKRUPBG/-BG
 
+dry
 d r y
 d r ɑ́j
 TKRAOEU
 
+due
 d  ue
 dʒ ʉ́w
 SKWRAOU
 
+during
 d  u  r i ng
 dʒ ɵ́ː r ɪ ŋ
 SKWRAOUR/-PBG
 
+dust
 d u s t
 d ʌ́ s t
 TK*US
 
+duty
 d  u  t y
 dʒ ʉ́w t ɪj
 SKWRAOUT/AE
 
+each
 ea ch
 ɪ́j tʃ
 AOEFP
 
+ear
 ea r
 ɪ́ː
 AOER
 
+early
 ea r l y
 ə́ː   l ɪj
 UR/HRAE
 URL/AE
 
+earn
 ea r n
 ə́ː   n
 URPB
 
+earth
 ea r th
 ə́ː   θ
 URGT
 
+earthquake
 ea r th q u a  k e
 ə́ː   θ  k w ɛj k
 URGT/KWAEUBG
 
+easily
 ea s i l y
 ɪ́j z ɪ l ɪj
 AOEZ/HRAE
 AOEZ/-L/AE
 
+east
 ea s t
 ɪ́j s t
 AO*ES
 
+eastern
 ea s t e r n
 ɪ́j s t ə   n
 AO*ES/-RPB
 AOES/T-RPB
 
+easy
 ea s y
 ɪ́j z ɪj
 AOEZ/AE
 
+eat
 ea t
 ɪ́j t
 AOET
 
+economic
 e  c o n o m i c
 ɪ́j k ə n ɔ́ m ɪ k
 AOEBG/TPHAUPL/-BG
 
+economy
 e c o n o m y
 ɪ k ɔ́ n ə m ɪj
 EU/KAUPB/PHAE
 EU/KAUPB/-PL/AE
 
+edge
 e dg e
 ɛ́ dʒ
 EPBLG
 
+edit
 e d i t
 ɛ́ d ɪ t
 ED/-T
 
+edition
 e d i ti o n
 ɪ d ɪ́ ʃ  ə n
 EU/TKEUGZ
 
+editor
 e d i t o r
 ɛ́ d ɪ t ə
 ED/T-R
 ED/-T/-R
 
+educate
 e d  u c a  t e
 ɛ́ dʒ ə k ɛj t
 EPBLG/KAEUT
 EPBLG/-BG/AEUT
 
+educated
 e d  u c a  t e d
 ɛ́ dʒ ə k ɛj t ɪ d
 EPBLG/KAEU/T-D
@@ -4031,59 +4894,72 @@ EPBLG/KAEUT/UD
 EPBLG/-BG/AEU/T-D
 EPBLG/-BG/AEUT/UD
 
+education
 e d  u c a  ti o n
 ɛ́ dʒ ə k ɛ́j ʃ  ə n
 EPBLG/KAEUGZ
 
+educational
 e d  u c a  ti o n a l
 ɛ́ dʒ ə k ɛ́j ʃ  ə n ə l
 EPBLG/KAEUGS/TPH-L
 EPBLG/KAEUGZ/-L
 
+effect
 e ff e c t
 ɪ f  ɛ́ k t
 EU/TPEBGT
 
+effective
 e ff e c t i v e
 ɪ f  ɛ́ k t ɪ v
 EU/TPEBG/T-FB
 EU/TPEBGT/-FB
 
+effectively
 e ff e c t i v e l y
 ɪ f  ɛ́ k t ɪ v   l ɪj
 EU/TPEBG/T-FB/HRAE
 EU/TPEBGT/-FB/HRAE
 
+efficient
 e ff i ci e n t
 ɪ f  ɪ́ ʃ  ə n t
 EU/TPEUGZ/-T
 
+effort
 e ff o r t
 ɛ́ f  ə   t
 EF/-RT
 
+egg
 e gg
 ɛ́ g
 EG
 
+eight
 ei gh t
 ɛ́j    t
 AEUT
 
+eighteen
 ei gh t ee n
 ɛ́j    t ɪ́j n
 AEU/TAOEPB
 AEUT/AOEPB
 
+eighty
 ei gh t y
 ɛ́j    t ɪj
 AEU/TAE
 AEUT/AE
 
+either
 ei th e r
 ɑ́j ð  ə
 AOEUGT/-R
 
+elderly
 e l d e r l y
 ɛ́ l d ə   l ɪj
 EL/TKHRAE
@@ -4094,19 +4970,23 @@ ELD/HRAE
 ELD/-R/HRAE
 ELD/-RL/AE
 
+elect
 e l e c t
 ɪ l ɛ́ k t
 EU/HREBGT
 
+election
 e l e c ti o n
 ɪ l ɛ́ k ʃ  ə n
 EU/HREBG/SH-PB
 
+electric
 e l e c t r i c
 ɪ l ɛ́ k t r ɪ k
 EU/HREBG/TR-BG
 EU/HREBGT/R-BG
 
+electrical
 e l e c t r i c a l
 ɪ l ɛ́ k t r ɪ k ə l
 EU/HREBG/TREU/K-L
@@ -4116,6 +4996,7 @@ EU/HREBGT/REU/K-L
 EU/HREBGT/RU/K-L
 EU/HREBGT/R-BG/-L
 
+electricity
 e l e c t r i c i t y
 ɪ l ɛ́ k t r ɪ́ s ə t ɪj
 EU/HREBG/TREUS/TAE
@@ -4123,51 +5004,62 @@ EU/HREBG/TREUS/-T/AE
 EU/HREBGT/REUS/TAE
 EU/HREBGT/REUS/-T/AE
 
+electronic
 e l e c t r o n i c
 ɛ́ l ɛ k t r ɔ́ n ɪ k
 EL/EBG/TRAUPB/-BG
 EL/EBGT/RAUPB/-BG
 
+element
 e l e m e n t
 ɛ́ l ɪ m ə n t
 EL/PH-PBT
 EL/-PL/-PBT
 
+elephant
 e l e ph a n t
 ɛ́ l ɪ f  ə n t
 EL/TP-PBT
 EL/-F/-PBT
 
+eleven
 e l e v e n
 ɪ l ɛ́ v ə n
 EU/HREFB/-PB
 
+else
 e l s e
 ɛ́ l s
 ELS
 
+elsewhere
 e l s e w h e  r e
 ɛ́ l s   w   ɛ́ː
 EL/SWHAEUR
 ELS/WHAEUR
 
+email
 e  m ai l
 ɪ́j m ɛj l
 AOEPL/AEUL
 
+embarrassed
 e m b a rr a ss e d
 ɪ m b á r  ə s    t
 EUPL/PWAR/-S/-T
 
+embarrassing
 e m b a rr a ss i ng
 ɪ m b á r  ə s  ɪ ŋ
 EUPL/PWAR/S-PBG
 EUPL/PWAR/-S/-PBG
 
+emerge
 e m e  r g  e
 ɪ m ə́ː   dʒ
 EU/PHURPBLG
 
+emergency
 e m e  r g  e n c y
 ɪ m ə́ː   dʒ ə n s ɪj
 EU/PHUR/SKWR-PB/SAE
@@ -4175,15 +5067,18 @@ EU/PHUR/SKWR-PBS/AE
 EU/PHURPBLG/-PB/SAE
 EU/PHURPBLG/-PBS/AE
 
+emotion
 e m o  ti o n
 ɪ m ə́w ʃ  ə n
 EU/PHOEGZ
 
+emotional
 e m o  ti o n a l
 ɪ m ə́w ʃ  ə n ə l
 EU/PHOEGS/TPH-L
 EU/PHOEGZ/-L
 
+emphasis
 e m ph a s i s
 ɛ́ m f  ə s ɪ s
 EPL/TPU/S-S
@@ -4191,6 +5086,7 @@ EPL/TP-S/-S
 EPL/-F/S-S
 EPL/-F/-S/-S
 
+emphasize
 e m ph a s i  z e
 ɛ́ m f  ə s ɑj z
 EPL/TPU/SAOEUZ
@@ -4198,119 +5094,144 @@ EPL/TP-S/AOEUZ
 EPL/-F/SAOEUZ
 EPL/-F/-S/AOEUZ
 
+employ
 e m p l oy
 ɪ m p l ój
 EUFPL/HROEU
 EUPL/PHROEU
 
+employee
 e m p l oy ee
 ɛ́ m p l oj ɪ́j
 EFPL/HROEU/AE
 EPL/PHROEU/AE
 
+employer
 e m p l oy e r
 ɪ m p l ój ə
 EUFPL/HROEU/-R
 EUPL/PHROEU/-R
 
+employment
 e m p l oy m e n t
 ɪ m p l ój m ə n t
 EUFPL/HROEUPL/-PBT
 EUPL/PHROEUPL/-PBT
 
+empty
 e m p t y
 ɛ́ m p t ɪj
 EFPL/TAE
 EFPLT/AE
 
+enable
 e n a  b   l e
 ɪ n ɛ́j b ə l
 EU/TPHAEUB/-L
 
+encounter
 e n c ou n t e r
 ɪ n k áw n t ə
 EUPB/KOUPB/T-R
 EUPB/KOUPBT/-R
 
+encourage
 e n c ou r a g  e
 ɪ n k ʌ́  r ɪ dʒ
 EUPB/KUR/-PBLG
 
+end
 e n d
 ɛ́ n d
 EPBD
 
+ending
 e n d i ng
 ɛ́ n d ɪ ŋ
 EPB/TK-PBG
 EPBD/-PBG
 
+enemy
 e n e m y
 ɛ́ n ə m ɪj
 EPB/PHAE
 EPB/-PL/AE
 
+energy
 e n e r g  y
 ɛ́ n ə   dʒ ɪj
 EPB/SKWRAE
 EPB/-R/SKWRAE
 EPB/-RPBLG/AE
 
+engage
 e n g a  g  e
 ɪ n g ɛ́j dʒ
 EUPB/TKPWAEUPBLG
 
+engaged
 e n g a  g  e d
 ɪ n g ɛ́j dʒ   d
 EUPB/TKPWAEUPBLGD
 
+engine
 e n g  i n e
 ɛ́ n dʒ ɪ n
 EPB/SKWR-PB
 EPB/-PBLG/-PB
 
+engineer
 e n g  i n ee r
 ɛ́ n dʒ ɪ n ɪ́ː
 EPB/SKWREU/TPHAOER
 EPB/SKWRU/TPHAOER
 EPB/-PBLG/TPHAOER
 
+engineering
 e n g  i n ee r i ng
 ɛ́ n dʒ ɪ n ɪ́ː r ɪ ŋ
 EPB/SKWREU/TPHAOER/-PBG
 EPB/SKWRU/TPHAOER/-PBG
 EPB/-PBLG/TPHAOER/-PBG
 
+enhance
 e n h a  n c e
 ɪ n h ɑ́ː n s
 EUPB/HAUPBS
 
+enjoy
 e n j  oy
 ɪ n dʒ ój
 EUPB/SKWROEU
 
+enormous
 e n o  r m ou s
 ɪ n óː   m ə  s
 EU/TPHAUR/PH-S
 EU/TPHAURPL/-S
 
+enough
 e n ou gh
 ɪ n ʌ́  f
 EU/TPHUF
 
+enquiry
 e n q u i  r y
 ɪ n k w ɑ́j r ɪj
 EUPB/KWAOEUR/AE
 
+ensure
 e n s u  r e
 ɪ n ʃ óː
 EUPB/SHAUR
 
+enter
 e n t e r
 ɛ́ n t ə
 EPB/T-R
 EPBT/-R
 
+entertain
 e n t e r t ai n
 ɛ́ n t ə   t ɛ́j n
 EPB/TU/TAEUPB
@@ -4318,6 +5239,7 @@ EPB/T-R/TAEUPB
 EPBT/TAEUPB
 EPBT/-R/TAEUPB
 
+entertainment
 e n t e r t ai n m e n t
 ɛ́ n t ə   t ɛ́j n m ə n t
 EPB/TU/TAEUPB/PH-PBT
@@ -4325,6 +5247,7 @@ EPB/T-R/TAEUPB/PH-PBT
 EPBT/TAEUPB/PH-PBT
 EPBT/-R/TAEUPB/PH-PBT
 
+enthusiasm
 e n th   u  s i  a s   m
 ɪ n θ  j ʉ́w z ɪj a z ə m
 EUPB/THAOUZ/AE/A/SWR-PL
@@ -4336,6 +5259,7 @@ EUPBGT/KWRAOUZ/AE/AZ/-PL
 EUPBGT/AOUZ/AE/A/SWR-PL
 EUPBGT/AOUZ/AE/AZ/-PL
 
+enthusiastic
 e n th   u  s i  a s t i c
 ɪ n θ  j ʉ́w z ɪj á s t ɪ k
 EUPB/THAOUZ/AE/A*S/-BG
@@ -4347,69 +5271,83 @@ EUPBGT/KWRAOUZ/AE/AS/T-BG
 EUPBGT/AOUZ/AE/A*S/-BG
 EUPBGT/AOUZ/AE/AS/T-BG
 
+entire
 e n t i  r e
 ɪ n t ɑ́j ə
 EUPB/TAOEU/
 
+entirely
 e n t i  r e l y
 ɪ n t ɑ́j ə   l ɪj
 EUPB/TAOEU//HRAE
 EUPB/TAOEU/HRAE
 EUPB/TAOEU/-L/AE
 
+entrance
 e n t r a n c e
 ɛ́ n t r ə n s
 EPB/TR-PBS
 EPBT/R-PBS
 
+entrance
 e n t r a  n c e
 ɪ n t r ɑ́ː n s
 EUPB/TRAUPBS
 EUPBT/RAUPBS
 
+entry
 e n t r y
 ɛ́ n t r ɪj
 EPB/TRAE
 EPBT/RAE
 
+environment
 e n v i  r o n m e n t
 ɪ n v ɑ́j r ə n m ə n t
 EUPB/SRAOEUR/-PB/PH-PBT
 
+environmental
 e n v i  r o n m e n t a l
 ɪ n v ɑ́j r ə n m ɛ́ n t ə l
 EUPB/SRAOEUR/-PB/PHEPB/T-L
 EUPB/SRAOEUR/-PB/PHEPBT/-L
 
+episode
 e p i s o  d e
 ɛ́ p ɪ s əw d
 EP/SOED
 EP/-S/OED
 
+equal
 e  q u a l
 ɪ́j k w ə l
 AOEBG/W-L
 
+equally
 e  q u a ll y
 ɪ́j k w ə l  ɪj
 AOEBG/WHRAE
 AOEBG/WU/HRAE
 AOEBG/W-L/AE
 
+equipment
 e q u i p m e n t
 ɪ k w ɪ́ p m ə n t
 EU/KWEUP/PH-PBT
 EUBG/WEUP/PH-PBT
 
+error
 e rr o r
 ɛ́ r  ə
 ER/-R
 
+escape
 e s c a  p e
 ɪ s k ɛ́j p
 EU/SKAEUP
 EUS/KAEUP
 
+especially
 e s p e ci a ll y
 ɪ s p ɛ́ ʃ  ə l  ɪj
 EU/SPEGS/HRAE
@@ -4417,28 +5355,34 @@ EU/SPEGS/-L/AE
 EUS/PEGS/HRAE
 EUS/PEGS/-L/AE
 
+essay
 e ss ay
 ɛ s  ɛ́j
 E/SAEU
 
+essay
 e ss ay
 ɛ́ s  ɛj
 ES/AEU
 
+essential
 e ss e n ti a l
 ɪ s  ɛ́ n ʃ  ə l
 EU/SEPB/SH-L
 
+establish
 e s t a b l i sh
 ɪ s t á b l ɪ ʃ
 EU/STAB/HR-GS
 EUS/TAB/HR-GS
 
+estate
 e s t a  t e
 ɪ s t ɛ́j t
 EU/STAEUT
 EUS/TAEUT
 
+estimate
 e s t i m a  t e
 ɛ́ s t ɪ m ɛj t
 *ES/PHAEUT
@@ -4447,6 +5391,7 @@ ES/TPHAEUT
 ES/TEU/PHAEUT
 ES/T-PL/AEUT
 
+estimate
 e s t i m a t e
 ɛ́ s t ɪ m ə t
 *ES/PH-T
@@ -4455,32 +5400,39 @@ ES/TPH-T
 ES/TEU/PH-T
 ES/T-PL/-T
 
+ethical
 e th i c a l
 ɛ́ θ  ɪ k ə l
 EGT/K-L
 EGT/-BG/-L
 
+euro
   eu r o
 j ɵ́ː r əw
 KWRAOUR/OE
 
+evaluate
 e v a l   u  a  t e
 ɪ v á l j ʉw ɛj t
 EU/SRAL/KWRAOU/AEUT
 EU/SRAL/AOU/AEUT
 
+even
 e  v e n
 ɪ́j v ə n
 AOEFB/-PB
 
+evening
 e  v e n i ng
 ɪ́j v   n ɪ ŋ
 AOEFB/TPH-PBG
 
+event
 e v e n t
 ɪ v ɛ́ n t
 EU/SREPBT
 
+eventually
 e v e n t  u  a ll y
 ɪ v ɛ́ n tʃ ʉw ə l  ɪj
 EU/SREPB/KHAOU/HRAE
@@ -4488,14 +5440,17 @@ EU/SREPB/KHAOU/-L/AE
 EU/SREPB/-FP/AOU/HRAE
 EU/SREPB/-FP/AOU/-L/AE
 
+ever
 e v e r
 ɛ́ v ə
 EFB/-R
 
+every
 e v e r y
 ɛ́ v   r ɪj
 EFB/RAE
 
+everybody
 e v e r y  b o d y
 ɛ́ v   r ɪj b ɔ d ɪj
 EFB/RAOEB/AU/TKAE
@@ -4503,58 +5458,71 @@ EFB/RAOEB/AUD/AE
 EFB/RAE/PWAU/TKAE
 EFB/RAE/PWAUD/AE
 
+everyday
 e v e r y  d ay
 ɛ́ v   r ɪj d ɛj
 EFB/RAOED/AEU
 EFB/RAE/TKAEU
 
+everyone
 e v e r y  o - n e
 ɛ́ v   r ɪj w ʌ n
 EFB/RAE/W-PB
 
+everything
 e v e r y  th i ng
 ɛ́ v   r ɪj θ  ɪ ŋ
 EFB/RAOEGT/-PBG
 EFB/RAE/TH-PBG
 
+everywhere
 e v e r y  w h e  r e
 ɛ́ v   r ɪj w   ɛː
 EFB/RAE/WHAEUR
 
+evidence
 e v i d e n c e
 ɛ́ v ɪ d ə n s
 EFB/TK-PBS
 EFB/UD/-PBS
 
+evil
 e  v i l
 ɪ́j v ə l
 AOEFB/-L
 
+exact
 e x - a c t
 ɪ g z á k t
 EUG/SWRABGT
 
+exactly
 e x - a c t l y
 ɪ g z á k t l ɪj
 EUG/SWRABGT/HRAE
 
+exam
 e x - a m
 ɪ g z á m
 EUG/SWRAPL
 
+examination
 e x - a m i n a  ti o n
 ɪ g z á m ɪ n ɛ́j ʃ  ə n
 EUG/SWRAPL/TPHAEUGZ
 
+examine
 e x - a m i n e
 ɪ g z á m ɪ n
 EUG/SWRAPL/-PB
 
+example
 e x - a  m p   l e
 ɪ g z ɑ́ː m p ə l
 EUG/SWRAUFPL/-L
 EUG/SWRAUPL/P-L
 
+excellent
 e x - c e ll e n t
 ɛ́ k s   ə l  ə n t
 EBG/SHR-PBT
@@ -4564,30 +5532,36 @@ EBGS/HR-PBT
 EBGS/U/HR-PBT
 EBGS/-L/-PBT
 
+except
 e x - c e p t
 ɪ k s   ɛ́ p t
 EUBG/SEPT
 EUBGS/EPT
 
+exchange
 e x - ch a  n g  e
 ɪ k s tʃ ɛ́j n dʒ
 EUBGS/KHAEUPB/-PBLG
 
+excited
 e x - c i  t e d
 ɪ k s   ɑ́j t ɪ d
 EUBG/SAOEUT/UD
 EUBGS/AOEUT/UD
 
+excitement
 e x - c i  t e m e n t
 ɪ k s   ɑ́j t   m ə n t
 EUBG/SAOEUT/PH-PBT
 EUBGS/AOEUT/PH-PBT
 
+exciting
 e x - c i  t i ng
 ɪ k s   ɑ́j t ɪ ŋ
 EUBG/SAOEUT/-PBG
 EUBGS/AOEUT/-PBG
 
+excuse
 e x - c   u  s e
 ɪ k s k j ʉ́w s
 EUBG/SKAOUS
@@ -4595,6 +5569,7 @@ EUBG/SKU/KWRAOUS
 EUBGS/KAOUS
 EUBGS/KU/KWRAOUS
 
+excuse
 e x - c   u  s e
 ɪ k s k j ʉ́w z
 EUBG/SKAOUZ
@@ -4602,6 +5577,7 @@ EUBG/SKU/KWRAOUZ
 EUBGS/KAOUZ
 EUBGS/KU/KWRAOUZ
 
+executive
 e x - e c   u t i v e
 ɪ g z ɛ́ k j ə t ɪ v
 EUG/SWREBG/T-FB
@@ -4609,6 +5585,7 @@ EUG/SWREBG/KWRU/T-FB
 EUG/SWREBG/KWR-T/-FB
 EUG/SWREBG/-T/-FB
 
+exercise
 e x - e r c i  s e
 ɛ́ k s ə   s ɑj z
 EBG/SU/SAOEUZ
@@ -4618,6 +5595,7 @@ EBGS/SAOEUZ
 EBGS/-R/SAOEUZ
 EBGS/-RS/AOEUZ
 
+exhibition
 e x - h i b i ti o n
 ɛ́ k s   ɪ b ɪ́ ʃ  ə n
 EBG/SHEU/PWEUGZ
@@ -4626,30 +5604,36 @@ EBGS/PWEUGZ
 EBGS/HEU/PWEUGZ
 EBGS/HU/PWEUGZ
 
+exist
 e x - i s t
 ɪ g z ɪ́ s t
 EUG/SWR*EUS
 
+existence
 e x - i s t e n c e
 ɪ g z ɪ́ s t ə n s
 EUG/SWR*EUS/-PBS
 EUG/SWREUS/T-PBS
 
+expand
 e x - p a n d
 ɪ k s p á n d
 EUBG/SPAPBD
 EUBGS/PAPBD
 
+expect
 e x - p e c t
 ɪ k s p ɛ́ k t
 EUBG/SPEBGT
 EUBGS/PEBGT
 
+expectation
 e x - p e c t a  ti o n
 ɛ́ k s p ɛ k t ɛ́j ʃ  ə n
 EBG/SPEBG/TAEUGZ
 EBGS/PEBG/TAEUGZ
 
+expected
 e x - p e c t e d
 ɪ k s p ɛ́ k t ɪ d
 EUBG/SPEBG/T-D
@@ -4657,6 +5641,7 @@ EUBG/SPEBGT/UD
 EUBGS/PEBG/T-D
 EUBGS/PEBGT/UD
 
+expedition
 e x - p e d i ti o n
 ɛ́ k s p ɪ d ɪ́ ʃ  ə n
 EBG/SPEU/TKEUGZ
@@ -4664,11 +5649,13 @@ EBG/SPU/TKEUGZ
 EBGS/PEU/TKEUGZ
 EBGS/PU/TKEUGZ
 
+expense
 e x - p e n s e
 ɪ k s p ɛ́ n s
 EUBG/SPEPBS
 EUBGS/PEPBS
 
+expensive
 e x - p e n s i v e
 ɪ k s p ɛ́ n s ɪ v
 EUBG/SPEPB/S-FB
@@ -4676,16 +5663,19 @@ EUBG/SPEPBS/-FB
 EUBGS/PEPB/S-FB
 EUBGS/PEPBS/-FB
 
+experience
 e x - p e  r i  e n c e
 ɪ k s p ɪ́ː r ɪj ə n s
 EUBG/SPAOER/AE/-PBS
 EUBGS/PAOER/AE/-PBS
 
+experienced
 e x - p e  r i  e n c e d
 ɪ k s p ɪ́ː r ɪj ə n s   t
 EUBG/SPAOER/AE/-PBS/-T
 EUBGS/PAOER/AE/-PBS/-T
 
+experiment
 e x - p e r i m e n t
 ɪ k s p ɛ́ r ɪ m ə n t
 EUBG/SPER/PH-PBT
@@ -4693,74 +5683,89 @@ EUBG/SPER/-PL/-PBT
 EUBGS/PER/PH-PBT
 EUBGS/PER/-PL/-PBT
 
+expert
 e x - p e  r t
 ɛ́ k s p əː   t
 EBG/SPURT
 EBGS/PURT
 
+explain
 e x - p l ai n
 ɪ k s p l ɛ́j n
 EUBG/SPHRAEUPB
 EUBGS/PHRAEUPB
 
+explanation
 e x - p l a n a  ti o n
 ɛ́ k s p l ə n ɛ́j ʃ  ə n
 EBG/SPHRU/TPHAEUGZ
 EBGS/PHRU/TPHAEUGZ
 
+explode
 e x - p l o  d e
 ɪ k s p l ə́w d
 EUBG/SPHROED
 EUBGS/PHROED
 
+exploration
 e x - p l o r a  ti o n
 ɛ́ k s p l ə r ɛ́j ʃ  ə n
 EBG/SPHRU/RAEUGZ
 EBGS/PHRU/RAEUGZ
 
+explore
 e x - p l o  r e
 ɪ k s p l óː
 EUBG/SPHRAUR
 EUBGS/PHRAUR
 
+explosion
 e x - p l o  si o n
 ɪ k s p l ə́w ʒ  ə n
 
+export
 e x - p o  r t
 ɛ́ k s p oː   t
 EBG/SPAURT
 EBGS/PAURT
 
+export
 e x - p o  r t
 ɪ k s p óː   t
 EUBG/SPAURT
 EUBGS/PAURT
 
+expose
 e x - p o  s e
 ɪ k s p ə́w z
 EUBG/SPOEZ
 EUBGS/POEZ
 
+express
 e x - p r e ss
 ɪ k s p r ɛ́ s
 EUBG/SPRES
 EUBGS/PRES
 
+expression
 e x - p r e ssi o n
 ɪ k s p r ɛ́ ʃ   ə n
 EUBG/SPREGZ
 EUBGS/PREGZ
 
+extend
 e x - t e n d
 ɪ k s t ɛ́ n d
 EUBG/STEPBD
 EUBGS/TEPBD
 
+extent
 e x - t e n t
 ɪ k s t ɛ́ n t
 EUBG/STEPBT
 EUBGS/TEPBT
 
+external
 e x - t e  r n a l
 ɪ k s t ə́ː   n ə l
 EUBG/STUR/TPH-L
@@ -4768,6 +5773,7 @@ EUBG/STURPB/-L
 EUBGS/TUR/TPH-L
 EUBGS/TURPB/-L
 
+extra
 e x - t r a
 ɛ́ k s t r ə
 *EBGS
@@ -4777,6 +5783,7 @@ EBG/STRU
 EBGS
 EBGS/TRU
 
+extraordinary
 e x - t r a o  r d i n a r y
 ɪ k s t r   óː   d ə n   r ɪj
 *EUBGS/RAUR/TK-PB/RAE
@@ -4786,40 +5793,48 @@ EUBG/STRAURD/-PB/RAE
 EUBGS/TRAUR/TK-PB/RAE
 EUBGS/TRAURD/-PB/RAE
 
+extreme
 e x - t r e  m e
 ɪ k s t r ɪ́j m
 *EUBGS/RAOEPL
 EUBG/STRAOEPL
 EUBGS/TRAOEPL
 
+extremely
 e x - t r e  m e l y
 ɪ k s t r ɪ́j m   l ɪj
 *EUBGS/RAOEPL/HRAE
 EUBG/STRAOEPL/HRAE
 EUBGS/TRAOEPL/HRAE
 
+eye
 ey e
 ɑ́j
 AOEU
 
+face
 f a  c e
 f ɛ́j s
 TPAEUS
 
+facility
 f a c i l i t y
 f ə s ɪ́ l ə t ɪj
 TPU/SEUL/TAE
 TPU/SEUL/-T/AE
 
+fact
 f a c t
 f á k t
 TPABGT
 
+factor
 f a c t o r
 f á k t ə
 TPABG/T-R
 TPABGT/-R
 
+factory
 f a c t o r y
 f á k t ə r ɪj
 TPABG/TRAE
@@ -4828,81 +5843,99 @@ TPABG/T-R/AE
 TPABGT/RAE
 TPABGT/-R/AE
 
+fail
 f ai l
 f ɛ́j l
 TPAEUL
 
+failure
 f ai l   u r e
 f ɛ́j l j ə
 TPAEUL/KWR-R
 TPAEUL/-R
 
+fair
 f ai r
 f ɛ́ː
 TPAEUR
 
+fairly
 f ai r l y
 f ɛ́ː   l ɪj
 TPAEUR/HRAE
 TPAEURL/AE
 
+faith
 f ai th
 f ɛ́j θ
 TPAEUGT
 
+fall
 f a  ll
 f óː l
 TPAUL
 
+false
 f a l s e
 f ɔ́ l s
 TPAULS
 
+familiar
 f a m i l i a r
 f ə m ɪ́ l j ə
 TPU/PHEUL/KWR-R
 TPU/PHEUL/-R
 
+family
 f a m i l y
 f á m   l ɪj
 TPAPL/HRAE
 
+famous
 f a  m ou s
 f ɛ́j m ə  s
 TPAEUPL/-S
 
+fan
 f a n
 f á n
 TPAPB
 
+fancy
 f a n c y
 f á n s ɪj
 TPAPB/SAE
 TPAPBS/AE
 
+fantastic
 f a n t a s t i c
 f a n t á s t ɪ k
 TPAPB/TA*S/-BG
 TPAPB/TAS/T-BG
 
+far
 f a  r
 f ɑ́ː
 TPAUR
 
+farm
 f a  r m
 f ɑ́ː   m
 TPAURPL
 
+farmer
 f a  r m e r
 f ɑ́ː   m ə
 TPAUR/PH-R
 TPAURPL/-R
 
+farming
 f a  r m i ng
 f ɑ́ː   m ɪ ŋ
 TPAUR/PH-PBG
 TPAURPL/-PBG
 
+fascinating
 f a s c i n a  t i ng
 f á s   ɪ n ɛj t ɪ ŋ
 TPAS/TPHAEU/T-PBG
@@ -4912,55 +5945,68 @@ TPAS/EU/TPHAEUT/-PBG
 TPAS/-PB/AEU/T-PBG
 TPAS/-PB/AEUT/-PBG
 
+fashion
 f a shi o n
 f á ʃ   ə n
 TPAGZ
 
+fashionable
 f a shi o n a b   l e
 f á ʃ     n ə b ə l
 TPAGS/TPHU/PW-L
 TPAGS/TPH-B/-L
 
+fast
 f a  s t
 f ɑ́ː s t
 TPA*US
 
+fasten
 f a  s t e n
 f ɑ́ː s   ə n
 TPAUS/-PB
 
+fat
 f a t
 f á t
 TPAT
 
+father
 f a  th e r
 f ɑ́ː ð  ə
 TPAUGT/-R
 
+fault
 f au l t
 f ɔ́  l t
 TPAULT
 
+favour
 f a  v ou r
 f ɛ́j v ə
 TPAEUFB/-R
 
+favourite
 f a  v o u r i t e
 f ɛ́j v     r ɪ t
 TPAEUFB/R-T
 
+fear
 f ea r
 f ɪ́ː
 TPAOER
 
+feather
 f ea th e r
 f ɛ́  ð  ə
 TPEGT/-R
 
+feature
 f ea t  u r e
 f ɪ́j tʃ ə
 TPAOEFP/-R
 
+February
 F e b r   u a r y
 f ɛ́ b   j   ə r ɪj
 TPEB/KWRU/RAE
@@ -4974,38 +6020,47 @@ TPEB/-R/AE
 TPEB/-R/U/RAE
 TPEB/-R/-R/AE
 
+fee
 f ee
 f ɪ́j
 TPAE
 
+feed
 f ee d
 f ɪ́j d
 TPAOED
 
+feedback
 f ee d b a c k
 f ɪ́j d b a   k
 TPAOED/PWABG
 
+feel
 f ee l
 f ɪ́j l
 TPAOEL
 
+feeling
 f ee l i ng
 f ɪ́j l ɪ ŋ
 TPAOEL/-PBG
 
+fellow
 f e ll ow
 f ɛ́ l  əw
 TPEL/OE
 
+female
 f e  m a  l e
 f ɪ́j m ɛj l
 TPAOEPL/AEUL
 
+fence
 f e n c e
 f ɛ́ n s
 TPEPBS
 
+festival
 f e s t i v a l
 f ɛ́ s t ɪ v ə l
 TP*ES/SR-L
@@ -5014,156 +6069,193 @@ TPES/TEU/SR-L
 TPES/TU/SR-L
 TPES/T-FB/-L
 
+few
 f   ew
 f j ʉ́w
 TPU/KWRAOU
 
+fiction
 f i c ti o n
 f ɪ́ k ʃ  ə n
 TPEUBG/SH-PB
 
+field
 f ie l d
 f ɪ́j l d
 TPAOELD
 
+fifteen
 f i f t ee n
 f ɪ́ f t ɪ́j n
 TPEUF/TAOEPB
 TPEUFT/AOEPB
 
+fifth
 f i f th
 f ɪ́ f θ
 TPEUFGT
 
+fifty
 f i f t y
 f ɪ́ f t ɪj
 TPEUF/TAE
 TPEUFT/AE
 
+fight
 f i  gh t
 f ɑ́j    t
 TPOEUGT
 
+fighting
 f i  gh t i ng
 f ɑ́j    t ɪ ŋ
 TPAOEU/T-PBG
 TPOEUGT/-PBG
 
+figure
 f i g u r e
 f ɪ́ g ə
 TPEUG/-R
 
+file
 f i  l e
 f ɑ́j l
 TPAOEUL
 
+fill
 f i ll
 f ɪ́ l
 TPEUL
 
+film
 f i l m
 f ɪ́ l m
 TPEUL/-PL
 
+final
 f i  n a l
 f ɑ́j n ə l
 TPAOEUPB/-L
 
+finally
 f i  n a ll y
 f ɑ́j n ə l  ɪj
 TPAOEUPB/HRAE
 TPAOEUPB/-L/AE
 
+finance
 f i  n a n c e
 f ɑ́j n a n s
 TPAOEUPB/APBS
 
+financial
 f i  n a n ci a l
 f ɑj n á n ʃ  ə l
 TPAOEU/TPHAPB/SH-L
 
+find
 f i  n d
 f ɑ́j n d
 TPAOEUPBD
 
+finding
 f i  n d i ng
 f ɑ́j n d ɪ ŋ
 TPAOEUPB/TK-PBG
 TPAOEUPBD/-PBG
 
+fine
 f i  n e
 f ɑ́j n
 TPAOEUPB
 
+finger
 f i n g e r
 f ɪ́ ŋ g ə
 TPEUPBG/TKPW-R
 TPEUPBG/-G/-R
 
+finish
 f i n i sh
 f ɪ́ n ɪ ʃ
 TPEUPB/-GS
 
+fire
 f i  r e
 f ɑ́j ə
 TPAOEU/
 
+firm
 f i  r m
 f ə́ː   m
 TPURPL
 
+first
 f i  r s t
 f ə́ː   s t
 TP*URS
 
+firstly
 f i  r s t l y
 f ə́ː   s t l ɪj
 TP*URS/HRAE
 
+fish
 f i sh
 f ɪ́ ʃ
 TPEUGS
 
+fishing
 f i sh i ng
 f ɪ́ ʃ  ɪ ŋ
 TPEUGS/-PBG
 
+fit
 f i t
 f ɪ́ t
 TPEUT
 
+fitness
 f i t n e ss
 f ɪ́ t n ə s
 TPEUT/TPH-S
 
+five
 f i  v e
 f ɑ́j v
 TPAOEUFB
 
+fix
 f i x -
 f ɪ́ k s
 TPEUBGS
 
+fixed
 f i x - e d
 f ɪ́ k s   t
 TPEUBGS/-T
 
+flag
 f l a g
 f l á g
 TPHRAG
 
+flame
 f l a  m e
 f l ɛ́j m
 TPHRAEUPL
 
+flash
 f l a sh
 f l á ʃ
 TPHRAGS
 
+flat
 f l a t
 f l á t
 TPHRAT
 
+flexible
 f l e x - i b   l e
 f l ɛ́ k s ə b ə l
 TPHREBG/SPW-L
@@ -5172,136 +6264,168 @@ TPHREBG/S-B/-L
 TPHREBGS/PW-L
 TPHREBGS/-B/-L
 
+flight
 f l i  gh t
 f l ɑ́j    t
 TPHROEUGT
 
+float
 f l oa t
 f l ə́w t
 TPHROET
 
+flood
 f l oo d
 f l ʌ́  d
 TPHRUD
 
+floor
 f l oo r
 f l óː
 TPHRAUR
 
+flour
 f l ou r
 f l áw ə
 TPHROU
 
+flow
 f l ow
 f l ə́w
 TPHROE
 
+flower
 f l ow e r
 f l áw ə
 TPHROU/-R
 
+flu
 f l u
 f l ʉ́w
 TPHRAOU
 
+fly
 f l y
 f l ɑ́j
 TPHRAOEU
 
+flying
 f l y  i ng
 f l ɑ́j ɪ ŋ
 TPHRAOEU/-PBG
 
+focus
 f o  c u s
 f ə́w k ə s
 TPOEBG/-S
 
+fold
 f o  l d
 f ə́w l d
 TPOELD
 
+folding
 f o  l d i ng
 f ə́w l d ɪ ŋ
 TPOEL/TK-PBG
 TPOELD/-PBG
 
+folk
 f o  l k
 f ə́w   k
 TPOEBG
 
+follow
 f o ll ow
 f ɔ́ l  əw
 TPAUL/OE
 
+following
 f o ll ow i ng
 f ɔ́ l  əw ɪ ŋ
 TPAUL/OE/-PBG
 
+food
 f oo d
 f ʉ́w d
 TPAOUD
 
+foot
 f oo t
 f ɵ́  t
 TPAOT
 
+football
 f oo t b a  ll
 f ɵ́  t b oː l
 TPAOT/PWAUL
 
+for
 f o  r
 f óː
 TPAUR
 
+for
 f o r
 f ə
 TPUR
 
+force
 f o  r c e
 f óː   s
 TPAURS
 
+foreign
 f o r ei g n
 f ɔ́ r ə    n
 TPAUR/-PB
 
+forest
 f o r e s t
 f ɔ́ r ɪ s t
 TPAUR/*S
 
+forever
 f o r e v e r
 f ə r ɛ́ v ə
 TPREFB/-R
 TPU/REFB/-R
 
+forget
 f o r g e t
 f ə   g ɛ́ t
 TPU/TKPWET
 TPUR/TKPWET
 
+forgive
 f o r g i v e
 f ə   g ɪ́ v
 TPU/TKPWEUFB
 TPUR/TKPWEUFB
 
+fork
 f o  r k
 f óː   k
 TPAURBG
 
+form
 f o  r m
 f óː   m
 TPAURPL
 
+formal
 f o  r m a l
 f óː   m ə l
 TPAUR/PH-L
 TPAURPL/-L
 
+former
 f o  r m e r
 f óː   m ə
 TPAUR/PH-R
 TPAURPL/-R
 
+fortunately
 f o  r t  u n a t e l y
 f óː   tʃ ə n ə t   l ɪj
 TPAUR/KHU/TPH-T/HRAE
@@ -5309,153 +6433,189 @@ TPAUR/KH-PB/-T/HRAE
 TPAUR/-FP/TPH-T/HRAE
 TPAUR/-FP/-PB/-T/HRAE
 
+fortune
 f o  r t  u  n e
 f óː   tʃ ʉw n
 TPAUR/KHAOUPB
 TPAUR/-FP/AOUPB
 
+forty
 f o  r t y
 f óː   t ɪj
 TPAUR/TAE
 TPAURT/AE
 
+forward
 f o  r w a r d
 f óː   w ə   d
 TPAUR/W-RD
 
+found
 f ou n d
 f áw n d
 TPOUPBD
 
+four
 f ou r
 f óː
 TPAUR
 
+fourteen
 f ou r t ee n
 f óː   t ɪ́j n
 TPAU/TAOEPB
 TPAUR/TAOEPB
 TPAURT/AOEPB
 
+fourth
 f ou r th
 f óː   θ
 TPAURGT
 
+frame
 f r a  m e
 f r ɛ́j m
 TPRAEUPL
 
+free
 f r ee
 f r ɪ́j
 TPRAE
 
+freedom
 f r ee d o m
 f r ɪ́j d ə m
 TPRAOED/-PL
 
+freeze
 f r ee z e
 f r ɪ́j z
 TPRAOEZ
 
+frequency
 f r e  q u e n c y
 f r ɪ́j k w ə n s ɪj
 TPRAOEBG/W-PB/SAE
 TPRAOEBG/W-PBS/AE
 
+frequently
 f r e  q u e n t l y
 f r ɪ́j k w ə n t l ɪj
 TPRAOEBG/W-PBT/HRAE
 
+fresh
 f r e sh
 f r ɛ́ ʃ
 TPREGS
 
+Friday
 F r i  d ay
 f r ɑ́j d ɛj
 TPRAOEUD/AEU
 
+fridge
 f r i dg e
 f r ɪ́ dʒ
 TPREUPBLG
 
+friend
 f r ie n d
 f r ɛ́  n d
 TPREPBD
 
+friendly
 f r ie n d l y
 f r ɛ́  n d l ɪj
 TPREPBD/HRAE
 
+friendship
 f r ie n d sh i p
 f r ɛ́  n d ʃ  ɪ p
 TPREPBD/SH-P
 
+frighten
 f r i  gh t e n
 f r ɑ́j    t ə n
 TPRAOEU/T-PB
 TPROEUGT/-PB
 
+frightened
 f r i  gh t e n e d
 f r ɑ́j    t ə n   d
 TPRAOEU/T-PBD
 TPROEUGT/-PBD
 
+frightening
 f r i  gh t e n i ng
 f r ɑ́j    t   n ɪ ŋ
 TPROEUGT/TPH-PBG
 
+frog
 f r o g
 f r ɔ́ g
 TPRAUG
 
+from
 f r o m
 f r ɔ́ m
 TPRAUPL
 
+from
 f r o m
 f r ə m
 TPRUPL
 
+front
 f r o n t
 f r ʌ́ n t
 TPRUPBT
 
+frozen
 f r o  z e n
 f r ə́w z ə n
 TPROEZ/-PB
 
+fruit
 f r ui t
 f r ʉ́w t
 TPRAOUT
 
+fry
 f r y
 f r ɑ́j
 TPRAOEU
 
+fuel
 f   u  e l
 f j ʉ́w ə l
 TPU/KWRAOU/-L
 
+full
 f u ll
 f ɵ́ l
 TPAOL
 
+fully
 f u ll y
 f ɵ́ l  ɪj
 TPAOL/AE
 
+fun
 f u n
 f ʌ́ n
 TPUPB
 
+function
 f u n c ti o n
 f ʌ́ ŋ k ʃ  ə n
 TPUPBG/-BG/SH-PB
 
+fund
 f u n d
 f ʌ́ n d
 TPUPBD
 
+fundamental
 f u n d a m e n t a l
 f ʌ́ n d ə m ɛ́ n t ə l
 TPUPB/TKPHEPB/T-L
@@ -5465,19 +6625,23 @@ TPUPB/TKU/PHEPBT/-L
 TPUPBD/PHEPB/T-L
 TPUPBD/PHEPBT/-L
 
+funding
 f u n d i ng
 f ʌ́ n d ɪ ŋ
 TPUPB/TK-PBG
 TPUPBD/-PBG
 
+funny
 f u nn y
 f ʌ́ n  ɪj
 TPUPB/AE
 
+fur
 f u  r
 f ə́ː
 TPUR
 
+furniture
 f u  r n i t  u r e
 f ə́ː   n ɪ tʃ ə
 TPUR/TPHEU/KH-R
@@ -5486,11 +6650,13 @@ TPUR/TPH-FP/-R
 TPURPB/KH-R
 TPURPB/-FP/-R
 
+further
 f u  r th e r
 f ə́ː   ð  ə
 TPUR/TH-R
 TPURGT/-R
 
+furthermore
 f u  r th e r m o  r e
 f ə́ː   ð  ə   m óː
 TPUR/THU/PHAUR
@@ -5498,83 +6664,102 @@ TPUR/TH-R/PHAUR
 TPURGT/PHAUR
 TPURGT/-R/PHAUR
 
+future
 f   u  t  u r e
 f j ʉ́w tʃ ə
 TPU/KWRAOUFP/-R
 
+gain
 g ai n
 g ɛ́j n
 TKPWAEUPB
 
+gallery
 g a ll e r y
 g á l  ə r ɪj
 TKPWAL/RAE
 TKPWAL/-R/AE
 
+game
 g a  m e
 g ɛ́j m
 TKPWAEUPL
 
+gang
 g a ng
 g á ŋ
 TKPWAPBG
 
+gap
 g a p
 g á p
 TKPWAP
 
+garage
 g a r a g  e
 g á r ɪ dʒ
 TKPWAR/-PBLG
 
+garden
 g a  r d e n
 g ɑ́ː   d ə n
 TKPWAUR/TK-PB
 TKPWAURD/-PB
 
+gas
 g a s
 g á s
 TKPWAS
 
+gate
 g a  t e
 g ɛ́j t
 TKPWAEUT
 
+gather
 g a th e r
 g á ð  ə
 TKPWAGT/-R
 
+general
 g  e n e r a l
 dʒ ɛ́ n   r ə l
 SKWREPB/R-L
 
+generally
 g  e n e r a ll y
 dʒ ɛ́ n   r ə l  ɪj
 SKWREPB/RU/HRAE
 SKWREPB/R-L/AE
 
+generate
 g  e n e r a  t e
 dʒ ɛ́ n ə r ɛj t
 SKWREPB/RAEUT
 SKWREPB/-R/AEUT
 
+generation
 g  e n e r a  ti o n
 dʒ ɛ́ n ə r ɛ́j ʃ  ə n
 SKWREPB/RAEUGZ
 
+generous
 g  e n e r ou s
 dʒ ɛ́ n ə r ə  s
 SKWREPB/R-S
 SKWREPB/-R/-S
 
+genre
 g e n r e
 ʒ ɔ́ n r ə
 
+gentle
 g  e n t   l e
 dʒ ɛ́ n t ə l
 SKWREPB/T-L
 SKWREPBT/-L
 
+gentleman
 g  e n t   l e m a n
 dʒ ɛ́ n t ə l   m ə n
 SKWREPB/T-L/PH-PB
@@ -5582,372 +6767,461 @@ SKWREPB/T-L/-PL/-PB
 SKWREPBT/-L/PH-PB
 SKWREPBT/-L/-PL/-PB
 
+geography
 g  e o g r a ph y
 dʒ   ɔ́ g r ə f  ɪj
 SKWRAUG/RU/TPAE
 SKWRAUG/R-F/AE
 
+get
 g e t
 g ɛ́ t
 TKPWET
 
+ghost
 g h o  s t
 g   ə́w s t
 TKPWHO*ES
 
+giant
 g  i  a n t
 dʒ ɑ́j ə n t
 SKWRAOEU/-PBT
 
+gift
 g i f t
 g ɪ́ f t
 TKPWEUFT
 
+girl
 g i  r l
 g ə́ː   l
 TKPWURL
 
+girlfriend
 g i  r l f r ie n d
 g ə́ː   l f r ɛ  n d
 TKPWURL/TPREPBD
 TKPWURL/-F/REPBD
 
+give
 g i v e
 g ɪ́ v
 TKPWEUFB
 
+glad
 g l a d
 g l á d
 TKPWHRAD
 
+glass
 g l a  ss
 g l ɑ́ː s
 TKPWHRAUS
 
+global
 g l o  b a l
 g l ə́w b ə l
 TKPWHROEB/-L
 
+glove
 g l o v e
 g l ʌ́ v
 TKPWHRUFB
 
+go
 g o
 g ə́w
 TKPWOE
 
+goal
 g oa l
 g ə́w l
 TKPWOEL
 
+god
 g o d
 g ɔ́ d
 TKPWAUD
 
+gold
 g o  l d
 g ə́w l d
 TKPWOELD
 
+golf
 g o l f
 g ɔ́ l f
 TKPWAUL/-F
 
+good
 g oo d
 g ɵ́  d
 TKPWAOD
 
+goodbye
 g oo d b y  e
 g ɵ́  d b ɑ́j
 TKPWAOD/PWAOEU
 
+goods
 g oo d s
 g ɵ́  d z
 TKPWAODZ
 
+govern
 g o v e r n
 g ʌ́ v ə   n
 TKPWUFB/-RPB
 
+government
 g o v e r n m e n t
 g ʌ́ v ə   n m ə n t
 TKPWUFB/-RPB/PH-PBT
 
+grab
 g r a b
 g r á b
 TKPWRAB
 
+grade
 g r a  d e
 g r ɛ́j d
 TKPWRAEUD
 
+gradually
 g r a d  u  a ll y
 g r á dʒ ʉw ə l  ɪj
 TKPWRAPBLG/AOU/HRAE
 TKPWRAPBLG/AOU/-L/AE
 
+graduate
 g r a d  u  a  t e
 g r á dʒ ʉw ɛj t
 TKPWRAPBLG/AOU/AEUT
 
+graduate
 g r a d  u  a t e
 g r á dʒ ʉw ə t
 TKPWRAPBLG/AOU/-T
 
+grain
 g r ai n
 g r ɛ́j n
 TKPWRAEUPB
 
+grand
 g r a n d
 g r á n d
 TKPWRAPBD
 
+grandfather
 g r a n d f a  th e r
 g r á n   f ɑː ð  ə
 TKPWRAPB/TPAU/TH-R
 TKPWRAPB/TPAUGT/-R
 
+grandmother
 g r a n d m o th e r
 g r á n   m ʌ ð  ə
 TKPWRAPB/PHU/TH-R
 TKPWRAPB/PH-GT/-R
 
+grandparent
 g r a n d p a  r e n t
 g r á n   p ɛː r ə n t
 TKPWRAPB/PAEU/R-PBT
 TKPWRAPB/PAEUR/-PBT
 
+grant
 g r a  n t
 g r ɑ́ː n t
 TKPWRAUPBT
 
+grass
 g r a  ss
 g r ɑ́ː s
 TKPWRAUS
 
+grateful
 g r a  t e f u l
 g r ɛ́j t   f ə l
 TKPWRAEUT/TP-L
 
+great
 g r ea t
 g r ɛ́j t
 TKPWRAEUT
 
+green
 g r ee n
 g r ɪ́j n
 TKPWRAOEPB
 
+greet
 g r ee t
 g r ɪ́j t
 TKPWRAOET
 
+grey
 g r ey
 g r ɛ́j
 TKPWRAEU
 
+ground
 g r ou n d
 g r áw n d
 TKPWROUPBD
 
+group
 g r ou p
 g r ʉ́w p
 TKPWRAOUP
 
+grow
 g r ow
 g r ə́w
 TKPWROE
 
+growth
 g r ow th
 g r ə́w θ
 TKPWROEGT
 
+guarantee
 g u a r a n t ee
 g   á r ə n t ɪ́j
 TKPWAR/-PB/TAE
 
+guard
 g u a  r d
 g   ɑ́ː   d
 TKPWAURD
 
+guess
 g u e ss
 g   ɛ́ s
 TKPWES
 
+guest
 g u e s t
 g   ɛ́ s t
 TKPW*ES
 
+guide
 g u i  d e
 g   ɑ́j d
 TKPWAOEUD
 
+guilty
 g u i l t y
 g   ɪ́ l t ɪj
 TKPWEUL/TAE
 TKPWEULT/AE
 
+guitar
 g u i t a  r
 g   ɪ t ɑ́ː
 TKPWEU/TAUR
 TKPWU/TAUR
 
+gun
 g u n
 g ʌ́ n
 TKPWUPB
 
+guy
 g u y
 g   ɑ́j
 TKPWAOEU
 
+gym
 g  y m
 dʒ ɪ́ m
 SKWREUPL
 
+habit
 h a b i t
 h á b ɪ t
 HAB/-T
 
+hair
 h ai r
 h ɛ́ː
 HAEUR
 
+half
 h a  l f
 h ɑ́ː   f
 HAUF
 
+hall
 h a  ll
 h óː l
 HAUL
 
+hand
 h a n d
 h á n d
 HAPBD
 
+handle
 h a n d   l e
 h á n d ə l
 HAPB/TK-L
 HAPBD/-L
 
+hang
 h a ng
 h á ŋ
 HAPBG
 
+happen
 h a pp e n
 h á p  ə n
 HAP/-PB
 
+happily
 h a pp i l y
 h á p  ɪ l ɪj
 HAP/HRAE
 HAP/-L/AE
 
+happiness
 h a pp i  n e ss
 h á p  ɪj n ə s
 HAP/AOEPB/-S
 HAP/AE/TPH-S
 
+happy
 h a pp y
 h á p  ɪj
 HAP/AE
 
+hard
 h a  r d
 h ɑ́ː   d
 HAURD
 
+hardly
 h a  r d l y
 h ɑ́ː   d l ɪj
 HAURD/HRAE
 
+harm
 h a  r m
 h ɑ́ː   m
 HAURPL
 
+harmful
 h a  r m f u l
 h ɑ́ː   m f ə l
 HAURPL/TP-L
 HAURPL/-F/-L
 
+hat
 h a t
 h á t
 HAT
 
+hate
 h a  t e
 h ɛ́j t
 HAEUT
 
+have
 h a v e
 h á v
 HAFB
 
+have
 h a v e
 h ə v
 HUFB
 
+he
 h e
 h ɪ́j
 HAE
 
+head
 h ea d
 h ɛ́  d
 HED
 
+headache
 h ea d a  ch e
 h ɛ́  d ɛj k
 HED/AEUBG
 
+headline
 h ea d l i  n e
 h ɛ́  d l ɑj n
 HED/HRAOEUPB
 
+health
 h ea l th
 h ɛ́  l θ
 HELGT
 
+healthy
 h ea l th y
 h ɛ́  l θ  ɪj
 HEL/THAE
 HELGT/AE
 
+hear
 h ea r
 h ɪ́ː
 HAOER
 
+hearing
 h ea r i ng
 h ɪ́ː r ɪ ŋ
 HAOER/-PBG
 
+heart
 h ea r t
 h ɑ́ː   t
 HAURT
 
+heat
 h ea t
 h ɪ́j t
 HAOET
 
+heating
 h ea t i ng
 h ɪ́j t ɪ ŋ
 HAOET/-PBG
 
+heaven
 h ea v e n
 h ɛ́  v ə n
 HEFB/-PB
 
+heavily
 h ea v i l y
 h ɛ́  v ɪ l ɪj
 HEFB/HRAE
 HEFB/-L/AE
 
+heavy
 h ea v y
 h ɛ́  v ɪj
 HEFB/AE
 
+heel
 h ee l
 h ɪ́j l
 HAOEL
 
+height
 h ei gh t
 h ɑ́j    t
 HAOEUT
 
+helicopter
 h e l i c o p t e r
 h ɛ́ l ɪ k ɔ p t ə
 HEL/KAUP/T-R
@@ -5955,112 +7229,138 @@ HEL/KAUPT/-R
 HEL/-BG/AUP/T-R
 HEL/-BG/AUPT/-R
 
+hell
 h e ll
 h ɛ́ l
 HEL
 
+hello
 h e ll o
 h ɛ l  ə́w
 HE/HROE
 
+help
 h e l p
 h ɛ́ l p
 HEL/-P
 
+helpful
 h e l p f u l
 h ɛ́ l p f ə l
 HEL/-P/TP-L
 
+her
 h e r
 h ə
 HUR
 
+her
 h e  r
 h ə́ː
 HUR
 
+here
 h e  r e
 h ɪ́ː
 HAOER
 
+hero
 h e  r o
 h ɪ́ː r əw
 HAOER/OE
 
+hers
 h e  r s
 h ə́ː   z
 HURZ
 
+herself
 h e  r s e l f
 h əː   s ɛ́ l f
 HU/SEL/-F
 HUR/SEL/-F
 
+hesitate
 h e s i t a  t e
 h ɛ́ z ɪ t ɛj t
 HEZ/TAEUT
 HEZ/-T/AEUT
 
+hey
 h ey
 h ɛ́j
 HAEU
 
+hi
 h i
 h ɑ́j
 HAOEU
 
+hide
 h i  d e
 h ɑ́j d
 HAOEUD
 
+high
 h i  gh
 h ɑ́j
 HAOEU
 
+highlight
 h i  gh l i  gh t
 h ɑ́j    l ɑj    t
 HAOEU/HROEUGT
 HAOEUL/OEUGT
 
+highly
 h i  gh l y
 h ɑ́j    l ɪj
 HAOEU/HRAE
 HAOEUL/AE
 
+hill
 h i ll
 h ɪ́ l
 HEUL
 
+him
 h i m
 h ɪ m
 HEUPL
 
+him
 h i m
 h ɪ́ m
 HEUPL
 
+himself
 h i m s e l f
 h ɪ m s ɛ́ l f
 HEUPL/SEL/-F
 
+hire
 h i  r e
 h ɑ́j ə
 HAOEU/
 
+his
 h i s
 h ɪ z
 HEUZ
 
+his
 h i s
 h ɪ́ z
 HEUZ
 
+historic
 h i s t o r i c
 h ɪ s t ɔ́ r ɪ k
 HEU/STAUR/-BG
 HEUS/TAUR/-BG
 HU/STAUR/-BG
 
+historical
 h i s t o r i c a l
 h ɪ s t ɔ́ r ɪ k ə l
 HEU/STAUR/K-L
@@ -6070,78 +7370,96 @@ HEUS/TAUR/-BG/-L
 HU/STAUR/K-L
 HU/STAUR/-BG/-L
 
+history
 h i s t o r y
 h ɪ́ s t   r ɪj
 H*EUS/RAE
 HEUS/TRAE
 
+hit
 h i t
 h ɪ́ t
 HEUT
 
+hobby
 h o bb y
 h ɔ́ b  ɪj
 HAUB/AE
 
+hockey
 h o c k ey
 h ɔ́   k ɪj
 HAU/KAE
 HAUBG/AE
 
+hold
 h o  l d
 h ə́w l d
 HOELD
 
+hole
 h o  l e
 h ə́w l
 HOEL
 
+holiday
 h o l i d ay
 h ɔ́ l ə d ɛj
 HAUL/TKAEU
 HAUL/UD/AEU
 
+hollow
 h o ll ow
 h ɔ́ l  əw
 HAUL/OE
 
+holy
 h o  l y
 h ə́w l ɪj
 HOEL/AE
 
+home
 h o  m e
 h ə́w m
 HOEPL
 
+homework
 h o  m e w o  r k
 h ə́w m   w əː   k
 HOEPL/WURBG
 
+honest
 h o n e s t
   ɔ́ n ɪ s t
 HAUPB/*S
 
+honour
 h o n ou r
   ɔ́ n ə
 HAUPB/-R
 
+hope
 h o  p e
 h ə́w p
 HOEP
 
+horrible
 h o rr i b   l e
 h ɔ́ r  ə b ə l
 HAUR/PW-L
 HAUR/-B/-L
 
+horror
 h o rr o r
 h ɔ́ r  ə
 HAUR/-R
 
+horse
 h o  r s e
 h óː   s
 HAURS
 
+hospital
 h o s p i t a l
 h ɔ́ s p ɪ t ə l
 HAUS/PEU/T-L
@@ -6150,115 +7468,142 @@ HAUS/P-T/-L
 HAUS/-P/T-L
 HAUS/-P/-T/-L
 
+host
 h o  s t
 h ə́w s t
 HO*ES
 
+hot
 h o t
 h ɔ́ t
 HAUT
 
+hotel
 h o  t e l
 h əw t ɛ́ l
 HOE/TEL
 
+hour
 h ou r
   áw ə
 HOU
 
+house
 h ou s e
 h áw s
 HOUS
 
+house
 h ou s e
 h áw z
 HOUZ
 
+household
 h ou s e h o  l d
 h áw s   h əw l d
 HOUS/HOELD
 
+housing
 h ou s i ng
 h áw z ɪ ŋ
 HOUZ/-PBG
 
+how
 h ow
 h áw
 HOU
 
+however
 h ow e v e r
 h aw ɛ́ v ə
 HOU/EFB/-R
 
+huge
 h   u  g  e
 h j ʉ́w dʒ
 HU/KWRAOUPBLG
 
+human
 h   u  m a n
 h j ʉ́w m ə n
 HU/KWRAOUPL/-PB
 
+humorous
 h   u  m o r ou s
 h j ʉ́w m ə r ə  s
 HU/KWRAOUPL/R-S
 HU/KWRAOUPL/-R/-S
 
+humour
 h   u  m ou r
 h j ʉ́w m ə
 HU/KWRAOUPL/-R
 
+hundred
 h u n d r e d
 h ʌ́ n d r ə d
 HUPB/TKR-D
 HUPBD/R-D
 
+hungry
 h u n g r y
 h ʌ́ ŋ g r ɪj
 HUPBG/TKPWRAE
 HUPBG/-G/RAE
 
+hunt
 h u n t
 h ʌ́ n t
 HUPBT
 
+hunting
 h u n t i ng
 h ʌ́ n t ɪ ŋ
 HUPB/T-PBG
 HUPBT/-PBG
 
+hurricane
 h u rr i c a  n e
 h ʌ́ r  ɪ k ɛj n
 HUR/KAEUPB
 HUR/-BG/AEUPB
 
+hurry
 h u rr y
 h ʌ́ r  ɪj
 HUR/AE
 
+hurt
 h u  r t
 h ə́ː   t
 HURT
 
+husband
 h u s b a n d
 h ʌ́ z b ə n d
 HUZ/PW-PBD
 
 I
+I
 ɑ́j
 AOEU
 
+ice
 i  c e
 ɑ́j s
 AOEUS
 
+idea
 i  d ea
 ɑj d ɪ́ː
 AOEU/TKAOE
 
+ideal
 i  d e  a l
 ɑj d ɪ́j ə l
 AOEU/TKAE/-L
 
+identify
 i  d e n t i f y
 ɑj d ɛ́ n t ɪ f ɑj
 AOEU/TKEPB/TEU/TPAOEU
@@ -6267,6 +7612,7 @@ AOEU/TKEPB/T-F/AOEU
 AOEU/TKEPBT/TPAOEU
 AOEU/TKEPBT/-F/AOEU
 
+identity
 i  d e n t i t y
 ɑj d ɛ́ n t ə t ɪj
 AOEU/TKEPB/TU/TAE
@@ -6274,47 +7620,57 @@ AOEU/TKEPB/T-T/AE
 AOEU/TKEPBT/TAE
 AOEU/TKEPBT/-T/AE
 
+if
 i f
 ɪ f
 EUF
 
+if
 i f
 ɪ́ f
 EUF
 
+ignore
 i g n o  r e
 ɪ g n óː
 EUG/TPHAUR
 
+ill
 i ll
 ɪ́ l
 EUL
 
+illegal
 i ll e  g a l
 ɪ l  ɪ́j g ə l
 EU/HRAOEG/-L
 
+illness
 i ll n e ss
 ɪ́ l  n ə s
 EUL/TPH-S
 EUL/-PB/-S
 
+illustrate
 i ll u s t r a  t e
 ɪ́ l  ə s t r ɛj t
 EUL/STRAEUT
 EUL/*S/RAEUT
 EUL/-S/TRAEUT
 
+illustration
 i ll u s t r a  ti o n
 ɪ́ l  ə s t r ɛ́j ʃ  ə n
 EUL/STRAEUGZ
 EUL/*S/RAEUGZ
 EUL/-S/TRAEUGZ
 
+image
 i m a g  e
 ɪ́ m ɪ dʒ
 EUPL/-PBLG
 
+imaginary
 i m a g  i n a r y
 ɪ m á dʒ ɪ n ə r ɪj
 EU/PHAPBLG/TPHRAE
@@ -6323,120 +7679,146 @@ EU/PHAPBLG/TPH-R/AE
 EU/PHAPBLG/-PB/RAE
 EU/PHAPBLG/-PB/-R/AE
 
+imagination
 i m a g  i n a  ti o n
 ɪ m á dʒ ɪ n ɛ́j ʃ  ə n
 EU/PHAPBLG/TPHAEUGZ
 
+imagine
 i m a g  i n e
 ɪ m á dʒ ɪ n
 EU/PHAPBLG/-PB
 
+immediate
 i mm e  d i  a t e
 ɪ m  ɪ́j d ɪj ə t
 EU/PHAOED/AE/-T
 
+immediately
 i mm e  d i  a t e l y
 ɪ m  ɪ́j d ɪj ə t   l ɪj
 EU/PHAOED/AE/-T/HRAE
 
+immigrant
 i mm i g r a n t
 ɪ́ m  ɪ g r ə n t
 EUPL/TKPWR-PBT
 EUPL/UG/R-PBT
 
+impact
 i m p a c t
 ɪ m p á k t
 EUPL/PABGT
 
+impact
 i m p a c t
 ɪ́ m p a k t
 EUFPL/ABGT
 EUPL/PABGT
 
+impatient
 i m p a  ti e n t
 ɪ m p ɛ́j ʃ  ə n t
 EUPL/PAEUGZ/-T
 
+imply
 i m p l y
 ɪ m p l ɑ́j
 EUFPL/HRAOEU
 EUPL/PHRAOEU
 
+import
 i m p o  r t
 ɪ m p óː   t
 EUPL/PAURT
 
+import
 i m p o  r t
 ɪ́ m p oː   t
 EUFPL/AURT
 EUPL/PAURT
 
+importance
 i m p o  r t a n c e
 ɪ m p óː   t ə n s
 EUPL/PAUR/T-PBS
 EUPL/PAURT/-PBS
 
+important
 i m p o  r t a n t
 ɪ m p óː   t ə n t
 EUPL/PAUR/T-PBT
 EUPL/PAURT/-PBT
 
+impose
 i m p o  s e
 ɪ m p ə́w z
 EUPL/POEZ
 
+impossible
 i m p o ss i b   l e
 ɪ m p ɔ́ s  ə b ə l
 EUPL/PAUS/PW-L
 EUPL/PAUS/-B/-L
 
+impress
 i m p r e ss
 ɪ m p r ɛ́ s
 EUFPL/RES
 EUPL/PRES
 
+impress
 i m p r e ss
 ɪ́ m p r ɛ s
 EUFPL/RES
 EUPL/PRES
 
+impressed
 i m p r e ss e d
 ɪ m p r ɛ́ s    t
 EUFPL/RES/-T
 EUPL/PRES/-T
 
+impression
 i m p r e ssi o n
 ɪ m p r ɛ́ ʃ   ə n
 EUFPL/REGZ
 EUPL/PREGZ
 
+impressive
 i m p r e ss i v e
 ɪ m p r ɛ́ s  ɪ v
 EUFPL/RES/-FB
 EUPL/PRES/-FB
 
+improve
 i m p r o  v e
 ɪ m p r ʉ́w v
 EUFPL/RAOUFB
 EUPL/PRAOUFB
 
+improvement
 i m p r o  v e m e n t
 ɪ m p r ʉ́w v   m ə n t
 EUFPL/RAOUFB/PH-PBT
 EUPL/PRAOUFB/PH-PBT
 
+in
 i n
 ɪ n
 EUPB
 
+in
 i n
 ɪ́ n
 EUPB
 
+inch
 i n ch
 ɪ́ n tʃ
 EUPB/-FP
 
+incident
 i n c i d e n t
 ɪ́ n s ɪ d ə n t
 EUPB/STK-PBT
@@ -6445,50 +7827,61 @@ EUPB/S-D/-PBT
 EUPBS/TK-PBT
 EUPBS/UD/-PBT
 
+include
 i n c l u  d e
 ɪ n k l ʉ́w d
 EUPB/KHRAOUD
 
+included
 i n c l u  d e d
 ɪ n k l ʉ́w d ɪ d
 EUPB/KHRAOUD/UD
 
+including
 i n c l u  d i ng
 ɪ n k l ʉ́w d ɪ ŋ
 EUPB/KHRAOUD/-PBG
 
+income
 i n c o m e
 ɪ́ ŋ k ʌ m
 EUPBG/K-PL
 EUPBG/-BG/-PL
 
+increase
 i n c r ea s e
 ɪ n k r ɪ́j s
 EUPB/KRAOES
 
+increase
 i n c r ea s e
 ɪ́ ŋ k r ɪj s
 EUPBG/KRAOES
 EUPBG/-BG/RAOES
 
+increasingly
 i n c r ea s i ng l y
 ɪ n k r ɪ́j s ɪ ŋ  l ɪj
 EUPB/KRAOES/-PBG/HRAE
 
+incredible
 i n c r e d i b   l e
 ɪ n k r ɛ́ d ə b ə l
 EUPB/KRED/PW-L
 EUPB/KRED/-B/-L
 
+incredibly
 i n c r e d i b l y
 ɪ n k r ɛ́ d ə b l ɪj
 EUPB/KRED/PWHRAE
 EUPB/KRED/-B/HRAE
 
+indeed
 i n d ee d
 ɪ n d ɪ́j d
 EUPB/TKAOED
 
+independent
 i n d e p e n d e n t
 ɪ́ n d ɪ p ɛ́ n d ə n t
 EUPB/TKPEPB/TK-PBT
@@ -6498,6 +7891,7 @@ EUPB/TKEU/PEPBD/-PBT
 EUPBD/PEPB/TK-PBT
 EUPBD/PEPBD/-PBT
 
+indicate
 i n d i c a  t e
 ɪ́ n d ɪ k ɛj t
 EUPB/TKEU/KAEUT
@@ -6506,33 +7900,39 @@ EUPB/TK-BG/AEUT
 EUPBD/KAEUT
 EUPBD/-BG/AEUT
 
+indirect
 i n d i r e c t
 ɪ́ n d ɪ r ɛ́ k t
 EUPB/TKREBGT
 EUPB/TKEU/REBGT
 EUPBD/REBGT
 
+individual
 i n d i v i d  u  a l
 ɪ́ n d ɪ v ɪ́ dʒ ʉw ə l
 EUPB/TKEU/SREUPBLG/AOU/-L
 EUPB/TKU/SREUPBLG/AOU/-L
 EUPBD/SREUPBLG/AOU/-L
 
+indoor
 i n d oo r
 ɪ́ n d oː
 EUPB/TKAUR
 EUPBD/AUR
 
+indoors
 i n d oo r s
 ɪ́ n d óː   z
 EUPB/TKAURZ
 EUPBD/AURZ
 
+industrial
 i n d u s t r i  a l
 ɪ n d ʌ́ s t r ɪj ə l
 EUPB/TK*US/RAE/-L
 EUPB/TKUS/TRAE/-L
 
+industry
 i n d u s t r y
 ɪ́ n d ə s t r ɪj
 EUPB/TK*S/RAE
@@ -6542,56 +7942,68 @@ EUPBD/STRAE
 EUPBD/*S/RAE
 EUPBD/-S/TRAE
 
+infection
 i n f e c ti o n
 ɪ n f ɛ́ k ʃ  ə n
 EUPB/TPEBG/SH-PB
 
+influence
 i n f l u  e n c e
 ɪ́ n f l ʉw ə n s
 EUPB/TPHRAOU/-PBS
 
+inform
 i n f o  r m
 ɪ n f óː   m
 EUPB/TPAURPL
 
+informal
 i n f o  r m a l
 ɪ n f óː   m ə l
 EUPB/TPAUR/PH-L
 EUPB/TPAURPL/-L
 
+information
 i n f o r m a  ti o n
 ɪ́ n f ə   m ɛ́j ʃ  ə n
 EUPB/TPU/PHAEUGZ
 EUPB/TP-R/PHAEUGZ
 
+ingredient
 i n g r e  d i  e n t
 ɪ n g r ɪ́j d ɪj ə n t
 EUPB/TKPWRAOED/AE/-PBT
 
+initial
 i n i ti a l
 ɪ n ɪ́ ʃ  ə l
 EU/TPHEUGS/-L
 
+initially
 i n i ti a ll y
 ɪ n ɪ́ ʃ  ə l  ɪj
 EU/TPHEUGS/HRAE
 EU/TPHEUGS/-L/AE
 
+initiative
 i n i ti a t i v e
 ɪ n ɪ́ ʃ  ə t ɪ v
 EU/TPHEUGS/T-FB
 EU/TPHEUGS/-T/-FB
 
+injure
 i n j  u r e
 ɪ́ n dʒ ə
 EUPB/SKWR-R
 EUPB/-PBLG/-R
 
+injured
 i n j  u r e d
 ɪ́ n dʒ ə     d
 EUPB/SKWR-RD
 EUPB/-PBLG/-RD
 
+injury
 i n j  u r y
 ɪ́ n dʒ ə r ɪj
 EUPB/SKWRU/RAE
@@ -6599,57 +8011,69 @@ EUPB/SKWR-R/AE
 EUPB/-PBLG/RAE
 EUPB/-PBLG/-R/AE
 
+inner
 i nn e r
 ɪ́ n  ə
 EUPB/-R
 
+innocent
 i nn o c e n t
 ɪ́ n  ə s ə n t
 EUPB/S-PBT
 EUPB/-S/-PBT
 
+inquiry
 i n q u i  r y
 ɪ n k w ɑ́j r ɪj
 EUPB/KWAOEUR/AE
 
+insect
 i n s e c t
 ɪ́ n s ɛ k t
 EUPB/SEBGT
 EUPBS/EBGT
 
+inside
 i n s i  d e
 ɪ n s ɑ́j d
 EUPB/SAOEUD
 
+insight
 i n s i  gh t
 ɪ́ n s ɑj    t
 EUPB/SOEUGT
 EUPBS/OEUGT
 
+insist
 i n s i s t
 ɪ n s ɪ́ s t
 EUPB/S*EUS
 
+inspire
 i n s p i  r e
 ɪ n s p ɑ́j ə
 EUPB/SPAOEU/
 EUPBS/PAOEU/
 
+install
 i n s t a  ll
 ɪ n s t óː l
 EUPB/STAUL
 EUPBS/TAUL
 
+instance
 i n s t a n c e
 ɪ́ n s t ə n s
 EUPB/ST-PBS
 EUPBS/T-PBS
 
+instead
 i n s t ea d
 ɪ n s t ɛ́  d
 EUPB/STED
 EUPBS/TED
 
+institute
 i n s t i t  u  t e
 ɪ́ n s t ɪ tʃ ʉw t
 EUPB/STKHAOUT
@@ -6659,6 +8083,7 @@ EUPBS/TKHAOUT
 EUPBS/TEU/KHAOUT
 EUPBS/T-FP/AOUT
 
+institution
 i n s t i t  u  ti o n
 ɪ́ n s t ɪ tʃ ʉ́w ʃ  ə n
 EUPB/STKHAOUGZ
@@ -6666,11 +8091,13 @@ EUPB/STEU/KHAOUGZ
 EUPBS/TKHAOUGZ
 EUPBS/TEU/KHAOUGZ
 
+instruction
 i n s t r u c ti o n
 ɪ n s t r ʌ́ k ʃ  ə n
 EUPB/STRUBG/SH-PB
 EUPBS/TRUBG/SH-PB
 
+instructor
 i n s t r u c t o r
 ɪ n s t r ʌ́ k t ə
 EUPB/STRUBG/T-R
@@ -6678,6 +8105,7 @@ EUPB/STRUBGT/-R
 EUPBS/TRUBG/T-R
 EUPBS/TRUBGT/-R
 
+instrument
 i n s t r u m e n t
 ɪ́ n s t r ə m ə n t
 EUPB/STRU/PH-PBT
@@ -6685,42 +8113,51 @@ EUPB/STR-PL/-PBT
 EUPBS/TRU/PH-PBT
 EUPBS/TR-PL/-PBT
 
+insurance
 i n s u  r a n c e
 ɪ n ʃ óː r ə n s
 EUPB/SHAUR/-PBS
 
+intelligence
 i n t e ll i g  e n c e
 ɪ n t ɛ́ l  ɪ dʒ ə n s
 EUPB/TEL/SKWR-PBS
 EUPB/TEL/-PBLG/-PBS
 
+intelligent
 i n t e ll i g  e n t
 ɪ n t ɛ́ l  ɪ dʒ ə n t
 EUPB/TEL/SKWR-PBT
 EUPB/TEL/-PBLG/-PBT
 
+intend
 i n t e n d
 ɪ n t ɛ́ n d
 EUPB/TEPBD
 
+intended
 i n t e n d e d
 ɪ n t ɛ́ n d ɪ d
 EUPB/TEPB/TK-D
 EUPB/TEPBD/UD
 
+intense
 i n t e n s e
 ɪ n t ɛ́ n s
 EUPB/TEPBS
 
+intention
 i n t e n ti o n
 ɪ n t ɛ́ n ʃ  ə n
 EUPB/TEPB/SH-PB
 
+interest
 i n t e r e s t
 ɪ́ n t   r ɛ s t
 EUPB/TR*ES
 EUPBT/R*ES
 
+interested
 i n t e r e s t e d
 ɪ́ n t   r ɛ s t ɪ d
 EUPB/TR*ES/UD
@@ -6730,6 +8167,7 @@ EUPBT/R*ES/UD
 EUPBT/RE/ST-D
 EUPBT/RES/T-D
 
+interesting
 i n t e r e s t i ng
 ɪ́ n t   r ɛ s t ɪ ŋ
 EUPB/TR*ES/-PBG
@@ -6739,11 +8177,13 @@ EUPBT/R*ES/-PBG
 EUPBT/RE/ST-PBG
 EUPBT/RES/T-PBG
 
+internal
 i n t e  r n a l
 ɪ n t ə́ː   n ə l
 EUPB/TUR/TPH-L
 EUPB/TURPB/-L
 
+international
 i n t e r n a ti o n a l
 ɪ́ n t ə   n á ʃ    n ə l
 EUPB/TU/TPHAGS/TPH-L
@@ -6751,6 +8191,7 @@ EUPB/T-R/TPHAGS/TPH-L
 EUPBT/TPHAGS/TPH-L
 EUPBT/-R/TPHAGS/TPH-L
 
+internet
 i n t e r n e t
 ɪ́ n t ə   n ɛ t
 EUPB/TU/TPHET
@@ -6760,17 +8201,20 @@ EUPBT/TPHET
 EUPBT/-R/TPHET
 EUPBT/-RPB/ET
 
+interpret
 i n t e  r p r e t
 ɪ n t ə́ː   p r ɪ t
 EUPB/TUR/PR-T
 EUPB/TURP/R-T
 
+interrupt
 i n t e rr u p t
 ɪ́ n t ə r  ʌ́ p t
 EUPB/TRUPT
 EUPB/TU/RUPT
 EUPBT/RUPT
 
+interview
 i n t e r v i ew
 ɪ́ n t ə   v j ʉw
 EUPB/TU/SRAOU
@@ -6786,39 +8230,47 @@ EUPBT/-R/SRU/KWRAOU
 EUPBT/-R/-FB/KWRAOU
 EUPBT/-R/-FB/AOU
 
+into
 i n t o
 ɪ́ n t ʉw
 EUPB/TAOU
 EUPBT/AOU
 
+into
 i n t o
 ɪ́ n t ə
 EUPB
 EUPB/TU
 EUPBT
 
+introduce
 i n t r o d  u  c e
 ɪ́ n t r ə dʒ ʉ́w s
 EUPB/TRU/SKWRAOUS
 EUPBT/RU/SKWRAOUS
 
+introduction
 i n t r o d u c ti o n
 ɪ́ n t r ə d ʌ́ k ʃ  ə n
 EUPB/TRU/TKUBG/SH-PB
 EUPBT/RU/TKUBG/SH-PB
 
+invent
 i n v e n t
 ɪ n v ɛ́ n t
 EUPB/SREPBT
 
+invention
 i n v e n ti o n
 ɪ n v ɛ́ n ʃ  ə n
 EUPB/SREPB/SH-PB
 
+invest
 i n v e s t
 ɪ n v ɛ́ s t
 EUPB/SR*ES
 
+investigate
 i n v e s t i g a  t e
 ɪ n v ɛ́ s t ɪ g ɛj t
 EUPB/SR*ES/TKPWAEUT
@@ -6827,75 +8279,92 @@ EUPB/SRES/TEU/TKPWAEUT
 EUPB/SRES/TU/TKPWAEUT
 EUPB/SRES/T-G/AEUT
 
+investigation
 i n v e s t i g a  ti o n
 ɪ n v ɛ́ s t ɪ g ɛ́j ʃ  ə n
 EUPB/SR*ES/TKPWAEUGZ
 EUPB/SRES/TEU/TKPWAEUGZ
 EUPB/SRES/TU/TKPWAEUGZ
 
+investment
 i n v e s t m e n t
 ɪ n v ɛ́ s t m ə n t
 EUPB/SR*ES/PH-PBT
 
+invitation
 i n v i t a  ti o n
 ɪ́ n v ɪ t ɛ́j ʃ  ə n
 EUPB/SREU/TAEUGZ
 EUPB/SRU/TAEUGZ
 
+invite
 i n v i  t e
 ɪ n v ɑ́j t
 EUPB/SRAOEUT
 
+invite
 i n v i  t e
 ɪ́ n v ɑj t
 EUPB/SRAOEUT
 
+involve
 i n v o l v e
 ɪ n v ɔ́ l v
 EUPB/SRAUL/-FB
 
+involved
 i n v o l v e d
 ɪ n v ɔ́ l v   d
 EUPB/SRAUL/-FBD
 
+iron
 i  r o n
 ɑ́j   ə n
 AOEUR/-PB
 
+island
 i  s l a n d
 ɑ́j   l ə n d
 AOEU/HR-PBD
 AOEUL/-PBD
 
+issue
 i ss ue
 ɪ́ ʃ  ʉw
 EUGS/AOU
 
+item
 i  t e m
 ɑ́j t ə m
 AOEUT/-PL
 
+its
 i t s
 ɪ t s
 EUTS
 
+its
 i t s
 ɪ́ t s
 EUTS
 
+itself
 i t s e l f
 ɪ t s ɛ́ l f
 EUT/SEL/-F
 
+jacket
 j  a c k e t
 dʒ á   k ɪ t
 SKWRA/K-T
 SKWRABG/-T
 
+jam
 j  a m
 dʒ á m
 SKWRAPL
 
+January
 J  a n   u a r y
 dʒ á n j   ə r ɪj
 SKWRAPB/KWRU/RAE
@@ -6904,35 +8373,43 @@ SKWRAPB/RAE
 SKWRAPB/U/RAE
 SKWRAPB/-R/AE
 
+jazz
 j  a zz
 dʒ á z
 SKWRAZ
 
+jeans
 j  ea n s
 dʒ ɪ́j n z
 SKWRAOEPBZ
 
+jewellery
 j  ew e ll e r y
 dʒ ʉ́w ə l    r ɪj
 SKWRAOU/-L/RAE
 
+job
 j  o b
 dʒ ɔ́ b
 SKWRAUB
 
+join
 j  oi n
 dʒ ój n
 SKWROEUPB
 
+joke
 j  o  k e
 dʒ ə́w k
 SKWROEBG
 
+journal
 j  ou r n a l
 dʒ ə́ː   n ə l
 SKWRUR/TPH-L
 SKWRURPB/-L
 
+journalist
 j  ou r n a l i s t
 dʒ ə́ː   n ə l ɪ s t
 SKWRUR/TPHU/HR*S
@@ -6940,52 +8417,64 @@ SKWRUR/TPH-L/*S
 SKWRURPB/HR*S
 SKWRURPB/-L/*S
 
+journey
 j  ou r n ey
 dʒ ə́ː   n ɪj
 SKWRUR/TPHAE
 SKWRURPB/AE
 
+joy
 j  oy
 dʒ ój
 SKWROEU
 
+judge
 j  u dg e
 dʒ ʌ́ dʒ
 SKWRUPBLG
 
+judgement
 j  u dg e m e n t
 dʒ ʌ́ dʒ   m ə n t
 SKWRUPBLG/PH-PBT
 
+juice
 j  ui c e
 dʒ ʉ́w s
 SKWRAOUS
 
+July
 J  u l y
 dʒ ə l ɑ́j
 SKWRU/HRAOEU
 
+jump
 j  u m p
 dʒ ʌ́ m p
 SKWRUFPL
 
+June
 J  u  n e
 dʒ ʉ́w n
 SKWRAOUPB
 
+junior
 j  u  n i  o r
 dʒ ʉ́w n ɪj ə
 SKWRAOUPB/AE/-R
 
+just
 j  u s t
 dʒ ʌ́ s t
 SKWR*US
 
+justice
 j  u s t i c e
 dʒ ʌ́ s t ɪ s
 SKWR*US/-S
 SKWRUS/T-S
 
+justify
 j  u s t i f y
 dʒ ʌ́ s t ɪ f ɑj
 SKWR*US/TPAOEU
@@ -6994,38 +8483,47 @@ SKWRUS/TEU/TPAOEU
 SKWRUS/TU/TPAOEU
 SKWRUS/T-F/AOEU
 
+keen
 k ee n
 k ɪ́j n
 KAOEPB
 
+keep
 k ee p
 k ɪ́j p
 KAOEP
 
+key
 k ey
 k ɪ́j
 KAE
 
+keyboard
 k ey b oa r d
 k ɪ́j b oː   d
 KAOEB/AURD
 
+kick
 k i c k
 k ɪ́   k
 KEUBG
 
+kid
 k i d
 k ɪ́ d
 KEUD
 
+kill
 k i ll
 k ɪ́ l
 KEUL
 
+killing
 k i ll i ng
 k ɪ́ l  ɪ ŋ
 KEUL/-PBG
 
+kilometre
 k i l o m e t r e
 k ɪ l ɔ́ m ɪ t ə
 KHRAUPL/T
@@ -7033,581 +8531,722 @@ KHRAUPL/-T/
 KEU/HRAUPL/T
 KEU/HRAUPL/-T/
 
+kind
 k i  n d
 k ɑ́j n d
 KAOEUPBD
 
+king
 k i ng
 k ɪ́ ŋ
 KEUPBG
 
+kiss
 k i ss
 k ɪ́ s
 KEUS
 
+kitchen
 k i tch e n
 k ɪ́ tʃ  ɪ n
 KEUFP/-PB
 
+knee
 k n ee
   n ɪ́j
 TPHAE
 
+knife
 k n i  f e
   n ɑ́j f
 TPHAOEUF
 
+knock
 k n o c k
   n ɔ́   k
 TPHAUBG
 
+know
 k n ow
   n ə́w
 TPHOE
 
+knowledge
 k n ow l e dg e
   n ɔ́  l ɪ dʒ
 TPHAUL/-PBLG
 
+lab
 l a b
 l á b
 HRAB
 
+label
 l a  b e l
 l ɛ́j b ə l
 HRAEUB/-L
 
+laboratory
 l a b o r a t o r y
 l ə b ɔ́ r ə t   r ɪj
 HRU/PWAUR/TRAE
 HRU/PWAUR/-T/RAE
 
+labour
 l a  b ou r
 l ɛ́j b ə
 HRAEUB/-R
 
+lack
 l a c k
 l á   k
 HRABG
 
+lady
 l a  d y
 l ɛ́j d ɪj
 HRAEUD/AE
 
+lake
 l a  k e
 l ɛ́j k
 HRAEUBG
 
+lamp
 l a m p
 l á m p
 HRAFPL
 
+land
 l a n d
 l á n d
 HRAPBD
 
+landscape
 l a n d s c a  p e
 l á n d s k ɛj p
 HRAPBD/SKAEUP
 
+language
 l a n g u a g  e
 l á ŋ g w ɪ dʒ
 HRAPBG/TKPWU/W-PBLG
 HRAPBG/-G/W-PBLG
 
+laptop
 l a p t o p
 l á p t ɔ p
 HRAP/TAUP
 HRAPT/AUP
 
+large
 l a  r g  e
 l ɑ́ː   dʒ
 HRAURPBLG
 
+largely
 l a  r g  e l y
 l ɑ́ː   dʒ   l ɪj
 HRAURPBLG/HRAE
 
+last
 l a  s t
 l ɑ́ː s t
 HRA*US
 
+late
 l a  t e
 l ɛ́j t
 HRAEUT
 
+later
 l a  t e r
 l ɛ́j t ə
 HRAEUT/-R
 
+latest
 l a  t e s t
 l ɛ́j t ə s t
 HRAEUT/*S
 
+laugh
 l au gh
 l ɑ́ː f
 HRAUF
 
+laughter
 l au gh t e r
 l ɑ́ː f  t ə
 HRAUF/T-R
 HRAUFT/-R
 
+launch
 l au n ch
 l óː n tʃ
 HRAUPB/-FP
 
+law
 l aw
 l óː
 HRAU
 
+lawyer
 l awy e r
 l ój  ə
 HROEU/-R
 
+lay
 l ay
 l ɛ́j
 HRAEU
 
+layer
 l ay e r
 l ɛ́j ə
 HRAEU/-R
 
+lazy
 l a  z y
 l ɛ́j z ɪj
 HRAEUZ/AE
 
+lead
 l ea d
 l ɛ́  d
 HRED
 
+lead
 l ea d
 l ɪ́j d
 HRAOED
 
+leader
 l ea d e r
 l ɪ́j d ə
 HRAOED/-R
 
+leadership
 l ea d e r sh i p
 l ɪ́j d ə   ʃ  ɪ p
 HRAOED/SH-P
 HRAOED/-R/SH-P
 HRAOED/-RGS/-P
 
+leading
 l ea d i ng
 l ɛ́  d ɪ ŋ
 HRED/-PBG
 
+leading
 l ea d i ng
 l ɪ́j d ɪ ŋ
 HRAOED/-PBG
 
+leaf
 l ea f
 l ɪ́j f
 HRAOEF
 
+league
 l ea g u e
 l ɪ́j g
 HRAOEG
 
+lean
 l ea n
 l ɪ́j n
 HRAOEPB
 
+learn
 l ea r n
 l ə́ː   n
 HRURPB
 
+learning
 l ea r n i ng
 l ə́ː   n ɪ ŋ
 HRUR/TPH-PBG
 HRURPB/-PBG
 
+least
 l ea s t
 l ɪ́j s t
 HRAO*ES
 
+leather
 l ea th e r
 l ɛ́  ð  ə
 HREGT/-R
 
+leave
 l ea v e
 l ɪ́j v
 HRAOEFB
 
+lecture
 l e c t  u r e
 l ɛ́ k tʃ ə
 HREBG/KH-R
 
+left
 l e f t
 l ɛ́ f t
 HREFT
 
+leg
 l e g
 l ɛ́ g
 HREG
 
+legal
 l e  g a l
 l ɪ́j g ə l
 HRAOEG/-L
 
+leisure
 l ei s u r e
 l ɛ́  ʒ ə
 
+lemon
 l e m o n
 l ɛ́ m ə n
 HREPL/-PB
 
+lend
 l e n d
 l ɛ́ n d
 HREPBD
 
+length
 l e ng   th
 l ɛ́ ŋ  k θ
 HREPBG/-BG/-GT
 
+less
 l e ss
 l ɛ́ s
 HRES
 
+lesson
 l e ss o n
 l ɛ́ s  ə n
 HRES/-PB
 
+let
 l e t
 l ɛ́ t
 HRET
 
+letter
 l e tt e r
 l ɛ́ t  ə
 HRET/-R
 
+level
 l e v e l
 l ɛ́ v ə l
 HREFB/-L
 
+library
 l i  b r a r y
 l ɑ́j b r ə r ɪj
 HRAOEUB/RU/RAE
 HRAOEUB/R-R/AE
 
+licence
 l i  c e n c e
 l ɑ́j s ə n s
 HRAOEUS/-PBS
 
+lie
 l ie
 l ɑ́j
 HRAOEU
 
+life
 l i  f e
 l ɑ́j f
 HRAOEUF
 
+lifestyle
 l i  f e s t y  l e
 l ɑ́j f   s t ɑj l
 HRAOEUF/STAOEUL
 
+lift
 l i f t
 l ɪ́ f t
 HREUFT
 
+light
 l i  gh t
 l ɑ́j    t
 HROEUGT
 
+like
 l i  k e
 l ɑ́j k
 HRAOEUBG
 
+likely
 l i  k e l y
 l ɑ́j k   l ɪj
 HRAOEUBG/HRAE
 
+limit
 l i m i t
 l ɪ́ m ɪ t
 HREUPL/-T
 
+limited
 l i m i t e d
 l ɪ́ m ɪ t ɪ d
 HREUPL/T-D
 HREUPL/-T/UD
 
+line
 l i  n e
 l ɑ́j n
 HRAOEUPB
 
+link
 l i n k
 l ɪ́ ŋ k
 HREUPBG/-BG
 
+lion
 l i  o n
 l ɑ́j ə n
 HRAOEU/-PB
 
+lip
 l i p
 l ɪ́ p
 HREUP
 
+liquid
 l i q u i d
 l ɪ́ k w ɪ d
 HREUBG/W-D
 
+list
 l i s t
 l ɪ́ s t
 HR*EUS
 
+listen
 l i s t e n
 l ɪ́ s   ə n
 HREUS/-PB
 
+listener
 l i s t e n e r
 l ɪ́ s     n ə
 HREUS/TPH-R
 
+literature
 l i t e r a t  u r e
 l ɪ́ t   r ə tʃ ə
 HREUT/RU/KH-R
 HREUT/R-FP/-R
 
+little
 l i tt   l e
 l ɪ́ t  ə l
 HREUT/-L
 
+live
 l i  v e
 l ɑ́j v
 HRAOEUFB
 
+live
 l i v e
 l ɪ́ v
 HREUFB
 
+lively
 l i  v e l y
 l ɑ́j v   l ɪj
 HRAOEUFB/HRAE
 
+living
 l i v i ng
 l ɪ́ v ɪ ŋ
 HREUFB/-PBG
 
+load
 l oa d
 l ə́w d
 HROED
 
+loan
 l oa n
 l ə́w n
 HROEPB
 
+local
 l o  c a l
 l ə́w k ə l
 HROEBG/-L
 
+locate
 l o  c a  t e
 l əw k ɛ́j t
 HROE/KAEUT
 
+located
 l o  c a  t e d
 l əw k ɛ́j t ɪ d
 HROE/KAEUT/UD
 
+location
 l o  c a  ti o n
 l əw k ɛ́j ʃ  ə n
 HROE/KAEUGZ
 
+lock
 l o c k
 l ɔ́   k
 HRAUBG
 
+logical
 l o g  i c a l
 l ɔ́ dʒ ɪ k ə l
 HRAUPBLG/K-L
 HRAUPBLG/-BG/-L
 
+lonely
 l o  n e l y
 l ə́w n   l ɪj
 HROEPB/HRAE
 
+long
 l o ng
 l ɔ́ ŋ
 HRAUPBG
 
+look
 l oo k
 l ɵ́  k
 HRAOBG
 
+loose
 l oo s e
 l ʉ́w s
 HRAOUS
 
+lord
 l o  r d
 l óː   d
 HRAURD
 
+lorry
 l o rr y
 l ɔ́ r  ɪj
 HRAUR/AE
 
+lose
 l o  s e
 l ʉ́w z
 HRAOUZ
 
+loss
 l o ss
 l ɔ́ s
 HRAUS
 
+lost
 l o s t
 l ɔ́ s t
 HRA*US
 
+lot
 l o t
 l ɔ́ t
 HRAUT
 
+loud
 l ou d
 l áw d
 HROUD
 
+loudly
 l ou d l y
 l áw d l ɪj
 HROUD/HRAE
 
+love
 l o v e
 l ʌ́ v
 HRUFB
 
+lovely
 l o v e l y
 l ʌ́ v   l ɪj
 HRUFB/HRAE
 
+low
 l ow
 l ə́w
 HROE
 
+lower
 l ow e r
 l áw ə
 HROU/-R
 
+lower
 l ow e r
 l ə́w ə
 HROE/-R
 
+luck
 l u c k
 l ʌ́   k
 HRUBG
 
+lucky
 l u c k y
 l ʌ́   k ɪj
 HRU/KAE
 HRUBG/AE
 
+lunch
 l u n ch
 l ʌ́ n tʃ
 HRUPB/-FP
 
+lung
 l u ng
 l ʌ́ ŋ
 HRUPBG
 
+luxury
 l u x - u r y
 l ʌ́ k ʃ ə r ɪj
 HRUBG/SHU/RAE
 HRUBG/SH-R/AE
 
+machine
 m a ch i  n e
 m ə ʃ  ɪ́j n
 PHU/SHAOEPB
 
+mad
 m a d
 m á d
 PHAD
 
+magazine
 m a g a z i  n e
 m á g ə z ɪ́j n
 PHAG/SWRAOEPB
 
+magic
 m a g  i c
 m á dʒ ɪ k
 PHAPBLG/-BG
 
+mail
 m ai l
 m ɛ́j l
 PHAEUL
 
+main
 m ai n
 m ɛ́j n
 PHAEUPB
 
+mainly
 m ai n l y
 m ɛ́j n l ɪj
 PHAEUPB/HRAE
 
+maintain
 m ai n t ai n
 m ɛj n t ɛ́j n
 PHAEUPB/TAEUPB
 
+major
 m a  j  o r
 m ɛ́j dʒ ə
 PHAEUPBLG/-R
 
+majority
 m a j  o r i t y
 m ə dʒ ɔ́ r ə t ɪj
 PHU/SKWRAUR/TAE
 PHU/SKWRAUR/-T/AE
 
+make
 m a  k e
 m ɛ́j k
 PHAEUBG
 
+male
 m a  l e
 m ɛ́j l
 PHAEUL
 
+mall
 m a  ll
 m óː l
 PHAUL
 
+man
 m a n
 m á n
 PHAPB
 
+manage
 m a n a g  e
 m á n ɪ dʒ
 PHAPB/-PBLG
 
+management
 m a n a g  e m e n t
 m á n ɪ dʒ   m ə n t
 PHAPB/-PBLG/PH-PBT
 
+manager
 m a n a g  e r
 m á n ɪ dʒ ə
 PHAPB/SKWR-R
 PHAPB/-PBLG/-R
 
+manner
 m a nn e r
 m á n  ə
 PHAPB/-R
 
+many
 m a n y
 m ɛ́ n ɪj
 PHEPB/AE
 
+map
 m a p
 m á p
 PHAP
 
+March
 M a  r ch
 m ɑ́ː   tʃ
 PHAUR/-FP
 
+mark
 m a  r k
 m ɑ́ː   k
 PHAURBG
 
+market
 m a  r k e t
 m ɑ́ː   k ɪ t
 PHAUR/K-T
 PHAURBG/-T
 
+marketing
 m a  r k e t i ng
 m ɑ́ː   k ɪ t ɪ ŋ
 PHAUR/KEU/T-PBG
@@ -7616,55 +9255,68 @@ PHAUR/K-T/-PBG
 PHAURBG/T-PBG
 PHAURBG/-T/-PBG
 
+marriage
 m a rr ia g  e
 m á r  ɪ  dʒ
 PHAR/-PBLG
 
+married
 m a rr ie d
 m á r  ɪj d
 PHAR/AOED
 
+marry
 m a rr y
 m á r  ɪj
 PHAR/AE
 
+mass
 m a ss
 m á s
 PHAS
 
+massive
 m a ss i v e
 m á s  ɪ v
 PHAS/-FB
 
+master
 m a  s t e r
 m ɑ́ː s t ə
 PHA*US/-R
 PHAUS/T-R
 
+match
 m a tch
 m á tʃ
 PHAFP
 
+matching
 m a tch i ng
 m á tʃ  ɪ ŋ
 PHAFP/-PBG
 
+material
 m a t e  r i  a l
 m ə t ɪ́ː r ɪj ə l
 PHU/TAOER/AE/-L
 
+mathematics
 m a th e m a t i c s
 m á θ  ə m á t ɪ k s
 PHAGT/PHAT/-BGS
 
+maths
 m a th s
 m á θ  s
 PHAGTS
 
+matter
 m a tt e r
 m á t  ə
 PHAT/-R
 
+maximum
 m a x - i m u m
 m á k s ɪ m ə m
 PHABG/SPH-PL
@@ -7673,187 +9325,231 @@ PHABG/S-PL/-PL
 PHABGS/PH-PL
 PHABGS/-PL/-PL
 
+May
 M ay
 m ɛ́j
 PHAEU
 
+maybe
 m ay b e
 m ɛ́j b ɪj
 PHAEUB/AE
 
+me
 m e
 m ɪ́j
 PHAE
 
+meal
 m ea l
 m ɪ́j l
 PHAOEL
 
+mean
 m ea n
 m ɪ́j n
 PHAOEPB
 
+meaning
 m ea n i ng
 m ɪ́j n ɪ ŋ
 PHAOEPB/-PBG
 
+means
 m ea n s
 m ɪ́j n z
 PHAOEPBZ
 
+meanwhile
 m ea n w h i  l e
 m ɪ́j n w   ɑj l
 PHAOEPB/WHAOEUL
 
+measure
 m ea s u r e
 m ɛ́  ʒ ə
 
+measurement
 m ea s u r e m e n t
 m ɛ́  ʒ ə     m ə n t
 
+meat
 m ea t
 m ɪ́j t
 PHAOET
 
+media
 m e  d i  a
 m ɪ́j d ɪj ə
 PHAOED/AE
 
+medical
 m e d i c a l
 m ɛ́ d ɪ k ə l
 PHED/K-L
 PHED/-BG/-L
 
+medicine
 m e d i c i n e
 m ɛ́ d ɪ s ə n
 PHED/S-PB
 PHED/-S/-PB
 
+medium
 m e  d i  u m
 m ɪ́j d ɪj ə m
 PHAOED/AE/-PL
 
+meet
 m ee t
 m ɪ́j t
 PHAOET
 
+meeting
 m ee t i ng
 m ɪ́j t ɪ ŋ
 PHAOET/-PBG
 
+melt
 m e l t
 m ɛ́ l t
 PHELT
 
+member
 m e m b e r
 m ɛ́ m b ə
 PHEPL/PW-R
 
+memory
 m e m o r y
 m ɛ́ m   r ɪj
 PHEPL/RAE
 
+mental
 m e n t a l
 m ɛ́ n t ə l
 PHEPB/T-L
 PHEPBT/-L
 
+mention
 m e n ti o n
 m ɛ́ n ʃ  ə n
 PHEPB/SH-PB
 
+menu
 m e n   u
 m ɛ́ n j ʉw
 PHEPB/KWRAOU
 PHEPB/AOU
 
+mess
 m e ss
 m ɛ́ s
 PHES
 
+message
 m e ss a g  e
 m ɛ́ s  ɪ dʒ
 PHES/-PBLG
 
+metal
 m e t a l
 m ɛ́ t ə l
 PHET/-L
 
+method
 m e th o d
 m ɛ́ θ  ə d
 PHEGT/UD
 
+metre
 m e  t r e
 m ɪ́j t ə
 PHAOET/
 
+middle
 m i dd   l e
 m ɪ́ d  ə l
 PHEUD/-L
 
+midnight
 m i d n i  gh t
 m ɪ́ d n ɑj    t
 PHEUD/TPHOEUGT
 
+might
 m i  gh t
 m ɑ́j    t
 PHOEUGT
 
+mild
 m i  l d
 m ɑ́j l d
 PHAOEULD
 
+mile
 m i  l e
 m ɑ́j l
 PHAOEUL
 
+military
 m i l i t a r y
 m ɪ́ l ɪ t   r ɪj
 PHEUL/TRAE
 PHEUL/-T/RAE
 
+milk
 m i l k
 m ɪ́ l k
 PHEUL/-BG
 
+million
 m i ll i o n
 m ɪ́ l  j ə n
 PHEUL/KWR-PB
 PHEUL/-PB
 
+mind
 m i  n d
 m ɑ́j n d
 PHAOEUPBD
 
+mine
 m i  n e
 m ɑ́j n
 PHAOEUPB
 
+mineral
 m i n e r a l
 m ɪ́ n ə r ə l
 PHEUPB/R-L
 PHEUPB/-R/-L
 
+minimum
 m i n i m u m
 m ɪ́ n ɪ m ə m
 PHEUPB/PH-PL
 PHEUPB/-PL/-PL
 
+minister
 m i n i s t e r
 m ɪ́ n ɪ s t ə
 PHEUPB/ST-R
 PHEUPB/*S/-R
 PHEUPB/-S/T-R
 
+minor
 m i  n o r
 m ɑ́j n ə
 PHAOEUPB/-R
 
+minority
 m i  n o r i t y
 m ɑj n ɔ́ r ə t ɪj
 PHAOEU/TPHAUR/TAE
 PHAOEU/TPHAUR/-T/AE
 
+minute
 m i  n   u  t e
 m ɑj n j ʉ́w t
 PHAOEU/TPHAOUT
@@ -7861,125 +9557,154 @@ PHAOEU/TPHU/KWRAOUT
 PHAOEUPB/KWRAOUT
 PHAOEUPB/AOUT
 
+minute
 m i n u t e
 m ɪ́ n ɪ t
 PHEUPB/-T
 
+mirror
 m i rr o r
 m ɪ́ r  ə
 PHEUR/-R
 
+miss
 m i ss
 m ɪ́ s
 PHEUS
 
+missing
 m i ss i ng
 m ɪ́ s  ɪ ŋ
 PHEUS/-PBG
 
+mission
 m i ssi o n
 m ɪ́ ʃ   ə n
 PHEUGZ
 
+mistake
 m i s t a  k e
 m ɪ s t ɛ́j k
 PHEU/STAEUBG
 PHEUS/TAEUBG
 PHU/STAEUBG
 
+mix
 m i x -
 m ɪ́ k s
 PHEUBGS
 
+mixed
 m i x - e d
 m ɪ́ k s   t
 PHEUBGS/-T
 
+mixture
 m i x - t  u r e
 m ɪ́ k s tʃ ə
 PHEUBGS/KH-R
 
+mobile
 m o  b i  l e
 m ə́w b ɑj l
 PHOEB/AOEUL
 
+model
 m o d e l
 m ɔ́ d ə l
 PHAUD/-L
 
+modern
 m o d e r n
 m ɔ́ d ə   n
 PHAUD/-RPB
 
+modify
 m o d i f y
 m ɔ́ d ɪ f ɑj
 PHAUD/TPAOEU
 PHAUD/-F/AOEU
 
+moment
 m o  m e n t
 m ə́w m ə n t
 PHOEPL/-PBT
 
+Monday
 M o n d ay
 m ʌ́ n d ɛj
 PHUPB/TKAEU
 PHUPBD/AEU
 
+money
 m o n ey
 m ʌ́ n ɪj
 PHUPB/AE
 
+monitor
 m o n i t o r
 m ɔ́ n ɪ t ə
 PHAUPB/T-R
 PHAUPB/-T/-R
 
+monkey
 m o n k ey
 m ʌ́ ŋ k ɪj
 PHUPBG/KAE
 PHUPBG/-BG/AE
 
+month
 m o n th
 m ʌ́ n θ
 PHUPBGT
 
+mood
 m oo d
 m ʉ́w d
 PHAOUD
 
+moon
 m oo n
 m ʉ́w n
 PHAOUPB
 
+moral
 m o r a l
 m ɔ́ r ə l
 PHAUR/-L
 
+more
 m o  r e
 m óː
 PHAUR
 
+morning
 m o  r n i ng
 m óː   n ɪ ŋ
 PHAUR/TPH-PBG
 PHAURPB/-PBG
 
+most
 m o  s t
 m ə́w s t
 PHO*ES
 
+mostly
 m o  s t l y
 m ə́w s t l ɪj
 PHO*ES/HRAE
 
+mother
 m o th e r
 m ʌ́ ð  ə
 PHUGT/-R
 
+motor
 m o  t o r
 m ə́w t ə
 PHOET/-R
 
+motorcycle
 m o  t o r c y  c   l e
 m ə́w t ə   s ɑj k ə l
 PHOET/SAOEU/K-L
@@ -7989,47 +9714,58 @@ PHOET/-R/SAOEUBG/-L
 PHOET/-RS/AOEU/K-L
 PHOET/-RS/AOEUBG/-L
 
+mount
 m ou n t
 m áw n t
 PHOUPBT
 
+mountain
 m ou n t ai n
 m áw n t ɪ  n
 PHOUPB/T-PB
 PHOUPBT/-PB
 
+mouse
 m ou s e
 m áw s
 PHOUS
 
+mouth
 m ou th
 m áw ð
 PHOUGT
 
+mouth
 m ou th
 m áw θ
 PHOUGT
 
+move
 m o  v e
 m ʉ́w v
 PHAOUFB
 
+movement
 m o  v e m e n t
 m ʉ́w v   m ə n t
 PHAOUFB/PH-PBT
 
+movie
 m o  v ie
 m ʉ́w v ɪj
 PHAOUFB/AE
 
+much
 m u ch
 m ʌ́ tʃ
 PHUFP
 
+mud
 m u d
 m ʌ́ d
 PHUD
 
+multiple
 m u l t i p   l e
 m ʌ́ l t ɪ p ə l
 PHUL/TEU/P-L
@@ -8038,6 +9774,7 @@ PHUL/T-P/-L
 PHULT/P-L
 PHULT/-P/-L
 
+multiply
 m u l t i p l y
 m ʌ́ l t ɪ p l ɑj
 PHUL/TEU/PHRAOEU
@@ -8046,123 +9783,151 @@ PHUL/T-P/HRAOEU
 PHULT/PHRAOEU
 PHULT/-P/HRAOEU
 
+mum
 m u m
 m ʌ́ m
 PHUPL
 
+murder
 m u  r d e r
 m ə́ː   d ə
 PHUR/TK-R
 PHURD/-R
 
+muscle
 m u s c   l e
 m ʌ́ s   ə l
 PHUS/-L
 
+museum
 m   u  s e  u m
 m j ʉw z ɪ́j ə m
 PHU/KWRAOU/SWRAE/-PL
 
+music
 m   u  s i c
 m j ʉ́w z ɪ k
 PHU/KWRAOUZ/-BG
 
+musical
 m   u  s i c a l
 m j ʉ́w z ɪ k ə l
 PHU/KWRAOUZ/K-L
 PHU/KWRAOUZ/-BG/-L
 
+musician
 m   u  s i ci a n
 m j ʉw z ɪ́ ʃ  ə n
 PHU/KWRAOU/SWREUGZ
 
+must
 m u s t
 m ə s t
 PH*US
 
+must
 m u s t
 m ʌ́ s t
 PH*US
 
+my
 m y
 m ɑ́j
 PHAOEU
 
+myself
 m y  s e l f
 m ɑj s ɛ́ l f
 PHAOEU/SEL/-F
 
+mysterious
 m y s t e  r i  ou s
 m ɪ s t ɪ́ː r ɪj ə  s
 PHEU/STAOER/AE/-S
 PHEUS/TAOER/AE/-S
 PHU/STAOER/AE/-S
 
+mystery
 m y s t e r y
 m ɪ́ s t   r ɪj
 PH*EUS/RAE
 PHEUS/TRAE
 
+nail
 n ai l
 n ɛ́j l
 TPHAEUL
 
+name
 n a  m e
 n ɛ́j m
 TPHAEUPL
 
+narrative
 n a rr a t i v e
 n á r  ə t ɪ v
 TPHAR/T-FB
 TPHAR/-T/-FB
 
+narrow
 n a rr ow
 n á r  əw
 TPHAR/OE
 
+nation
 n a  ti o n
 n ɛ́j ʃ  ə n
 TPHAEUGZ
 
+national
 n a ti o n a l
 n á ʃ    n ə l
 TPHAGS/TPH-L
 
+native
 n a  t i v e
 n ɛ́j t ɪ v
 TPHAEUT/-FB
 
+natural
 n a t  u r a l
 n á tʃ   r ə l
 TPHAFP/R-L
 
+naturally
 n a t  u r a ll y
 n á tʃ   r ə l  ɪj
 TPHAFP/RU/HRAE
 TPHAFP/R-L/AE
 
+nature
 n a  t  u r e
 n ɛ́j tʃ ə
 TPHAEUFP/-R
 
+near
 n ea r
 n ɪ́ː
 TPHAOER
 
+nearly
 n ea r l y
 n ɪ́ː   l ɪj
 TPHAOER/HRAE
 TPHAOERL/AE
 
+neat
 n ea t
 n ɪ́j t
 TPHAOET
 
+necessarily
 n e c e ss a r i l y
 n ɛ́ s ə s  ɛ́ r ɪ l ɪj
 TPHES/SER/HRAE
 TPHES/SER/-L/AE
 
+necessary
 n e c e ss a r y
 n ɛ́ s ə s  ɛ r ɪj
 TPHES/SE/RAE
@@ -8170,28 +9935,34 @@ TPHES/SER/AE
 TPHES/-S/E/RAE
 TPHES/-S/ER/AE
 
+neck
 n e c k
 n ɛ́   k
 TPHEBG
 
+need
 n ee d
 n ɪ́j d
 TPHAOED
 
+needle
 n ee d   l e
 n ɪ́j d ə l
 TPHAOED/-L
 
+negative
 n e g a t i v e
 n ɛ́ g ə t ɪ v
 TPHEG/T-FB
 TPHEG/-T/-FB
 
+neighbour
 n ei gh b ou r
 n ɛ́j    b ə
 TPHAEU/PW-R
 TPHAEUB/-R
 
+neighbourhood
 n ei gh b ou r h oo d
 n ɛ́j    b ə    h ɵ  d
 TPHAEU/PWHAOD
@@ -8200,110 +9971,135 @@ TPHAEU/PW-R/HAOD
 TPHAEUB/HAOD
 TPHAEUB/-R/HAOD
 
+neither
 n ei th e r
 n ɑ́j ð  ə
 TPHAOEUGT/-R
 
+nerve
 n e  r v e
 n ə́ː   v
 TPHUR/-FB
 
+nervous
 n e  r v ou s
 n ə́ː   v ə  s
 TPHUR/SR-S
 TPHUR/-FB/-S
 
+net
 n e t
 n ɛ́ t
 TPHET
 
+network
 n e t w o  r k
 n ɛ́ t w əː   k
 TPHET/WURBG
 
+never
 n e v e r
 n ɛ́ v ə
 TPHEFB/-R
 
+nevertheless
 n e v e r th e l e ss
 n ɛ́ v ə   ð  ə l ɛ́ s
 TPHEFB/THU/HRES
 TPHEFB/-R/THU/HRES
 TPHEFB/-RGT/HRES
 
+new
 n   ew
 n j ʉ́w
 TPHU/KWRAOU
 
+news
 n   ew s
 n j ʉ́w z
 TPHU/KWRAOUZ
 
+newspaper
 n   ew s p a  p e r
 n j ʉ́w z p ɛj p ə
 TPHU/KWRAOUZ/PAEU/P-R
 TPHU/KWRAOUZ/PAEUP/-R
 
+next
 n e x - t
 n ɛ́ k s t
 TPH*EBGS
 
+nice
 n i  c e
 n ɑ́j s
 TPHAOEUS
 
+night
 n i  gh t
 n ɑ́j    t
 TPHOEUGT
 
+nightmare
 n i  gh t m a  r e
 n ɑ́j    t m ɛː
 TPHOEUGT/PHAEUR
 
+nine
 n i  n e
 n ɑ́j n
 TPHAOEUPB
 
+nineteen
 n i  n e t ee n
 n ɑ́j n   t ɪ́j n
 TPHAOEUPB/TAOEPB
 TPHAOEUPBT/AOEPB
 
+ninety
 n i  n e t y
 n ɑ́j n   t ɪj
 TPHAOEUPB/TAE
 TPHAOEUPBT/AE
 
+no
 n o
 n ə́w
 TPHOE
 
+nobody
 n o  b o d y
 n ə́w b ə d ɪj
 TPHOEB/TKAE
 TPHOEB/UD/AE
 
+noise
 n oi s e
 n ój z
 TPHOEUZ
 
+noisy
 n oi s y
 n ój z ɪj
 TPHOEUZ/AE
 
+none
 n o n e
 n ʌ́ n
 TPHUPB
 
+nor
 n o  r
 n óː
 TPHAUR
 
+normal
 n o  r m a l
 n óː   m ə l
 TPHAUR/PH-L
 TPHAURPL/-L
 
+normally
 n o  r m a ll y
 n óː   m ə l  ɪj
 TPHAUR/PHU/HRAE
@@ -8311,97 +10107,120 @@ TPHAUR/PH-L/AE
 TPHAURPL/HRAE
 TPHAURPL/-L/AE
 
+north
 n o  r th
 n óː   θ
 TPHAURGT
 
+northern
 n o  r th e r n
 n óː   ð  ə   n
 TPHAUR/TH-RPB
 TPHAURGT/-RPB
 
+nose
 n o  s e
 n ə́w z
 TPHOEZ
 
+not
 n o t
 n ɔ́ t
 TPHAUT
 
+note
 n o  t e
 n ə́w t
 TPHOET
 
+nothing
 n o th i ng
 n ʌ́ θ  ɪ ŋ
 TPHUGT/-PBG
 
+notice
 n o  t i c e
 n ə́w t ɪ s
 TPHOET/-S
 
+notion
 n o  ti o n
 n ə́w ʃ  ə n
 TPHOEGZ
 
+novel
 n o v e l
 n ɔ́ v ə l
 TPHAUFB/-L
 
+November
 N o  v e m b e r
 n əw v ɛ́ m b ə
 TPHOE/SREPL/PW-R
 
+now
 n ow
 n áw
 TPHOU
 
+nowhere
 n o  w h e  r e
 n ə́w w   ɛː
 
+nuclear
 n   u  c l ea r
 n j ʉ́w k l ɪj ə
 TPHU/KWRAOUBG/HRAE
 
+number
 n u m b e r
 n ʌ́ m b ə
 TPHUPL/PW-R
 
+numerous
 n   u  m e r ou s
 n j ʉ́w m ə r ə  s
 TPHU/KWRAOUPL/R-S
 TPHU/KWRAOUPL/-R/-S
 
+nurse
 n u  r s e
 n ə́ː   s
 TPHURS
 
+nut
 n u t
 n ʌ́ t
 TPHUT
 
+obey
 o  b ey
 əw b ɛ́j
 OE/PWAEU
 
+object
 o b j  e c t
 ɔ́ b dʒ ɛ k t
 AUB/SKWREBGT
 
+object
 o b j  e c t
 ə b dʒ ɛ́ k t
 UB/SKWREBGT
 
+objective
 o b j  e c t i v e
 ə b dʒ ɛ́ k t ɪ v
 UB/SKWREBG/T-FB
 UB/SKWREBGT/-FB
 
+obligation
 o b l i g a  ti o n
 ɔ́ b l ɪ g ɛ́j ʃ  ə n
 AUB/HREU/TKPWAEUGZ
 AUB/HRU/TKPWAEUGZ
 
+observation
 o b s e r v a  ti o n
 ɔ́ b z ə   v ɛ́j ʃ  ə n
 AUB/SWRU/SRAEUGZ
@@ -8409,161 +10228,199 @@ AUB/SWR-R/SRAEUGZ
 AUBZ/SRAEUGZ
 AUBZ/-R/SRAEUGZ
 
+observe
 o b s e  r v e
 ə b z ə́ː   v
 UB/SWRUR/-FB
 
+obtain
 o b t ai n
 ə b t ɛ́j n
 UB/TAEUPB
 
+obvious
 o b v i  ou s
 ɔ́ b v ɪj ə  s
 AUB/SRAE/-S
 
+obviously
 o b v i  ou s l y
 ɔ́ b v ɪj ə  s l ɪj
 AUB/SRAE/SHRAE
 AUB/SRAE/-S/HRAE
 
+occasion
 o cc a  si o n
 ə k  ɛ́j ʒ  ə n
 
+occasionally
 o cc a  si o n a ll y
 ə k  ɛ́j ʒ  ə n ə l  ɪj
 
+occur
 o cc u  r
 ə k  ə́ː
 U/KUR
 
+ocean
 o  c e a n
 ə́w ʃ ə   n
 OEGS/-PB
 
+October
 O c t o  b e r
 ɔ k t ə́w b ə
 AUBG/TOEB/-R
 
+odd
 o dd
 ɔ́ d
 AUD
 
+of
 o f
 ɔ́ v
 AUFB
 
+of
 o f
 ə v
 UFB
 
+off
 o ff
 ɔ́ f
 AUF
 
+offence
 o ff e n c e
 ə f  ɛ́ n s
 U/TPEPBS
 
+offend
 o ff e n d
 ə f  ɛ́ n d
 U/TPEPBD
 
+offensive
 o ff e n s i v e
 ə f  ɛ́ n s ɪ v
 U/TPEPB/S-FB
 U/TPEPBS/-FB
 
+offer
 o ff e r
 ɔ́ f  ə
 AUF/-R
 
+office
 o ff i c e
 ɔ́ f  ɪ s
 AUF/-S
 
+officer
 o ff i c e r
 ɔ́ f  ɪ s ə
 AUF/S-R
 AUF/-S/-R
 
+official
 o ff i ci a l
 ə f  ɪ́ ʃ  ə l
 U/TPEUGS/-L
 
+often
 o f t e n
 ɔ́ f   ə n
 AUF/-PB
 
+oh
 o  h
 ə́w
 OE
 
+oil
 oi l
 ój l
 OEUL
 
+old
 o  l d
 ə́w l d
 OELD
 
+on
 o n
 ɔ́ n
 AUPB
 
+once
 o - n c e
 w ʌ́ n s
 WUPBS
 
+one
 o - n e
 w ʌ́ n
 WUPB
 
+onion
 o n i o n
 ʌ́ n j ə n
 UPB/KWR-PB
 UPB/-PB
 
+online
 o n l i  n e
 ɔ́ n l ɑ́j n
 AUPB/HRAOEUPB
 
+only
 o  n l y
 ə́w n l ɪj
 OEPB/HRAE
 
+onto
 o n t o
 ɔ́ n t ə
 AUPB
 AUPB/TU
 AUPBT
 
+open
 o  p e n
 ə́w p ə n
 OEP/-PB
 
+opening
 o  p e n i ng
 ə́w p ə n ɪ ŋ
 OEP/TPH-PBG
 OEP/-PB/-PBG
 
+operate
 o p e r a  t e
 ɔ́ p ə r ɛj t
 AUP/RAEUT
 AUP/-R/AEUT
 
+operation
 o p e r a  ti o n
 ɔ́ p ə r ɛ́j ʃ  ə n
 AUP/RAEUGZ
 
+opinion
 o p i n i o n
 ə p ɪ́ n j ə n
 U/PEUPB/KWR-PB
 U/PEUPB/-PB
 
+opponent
 o pp o  n e n t
 ə p  ə́w n ə n t
 U/POEPB/-PBT
 
+opportunity
 o pp o r t  u  n i t y
 ɔ́ p  ə   tʃ ʉ́w n ə t ɪj
 AUP/KHAOUPB/TAE
@@ -8571,54 +10428,66 @@ AUP/KHAOUPB/-T/AE
 AUP/-R/KHAOUPB/TAE
 AUP/-R/KHAOUPB/-T/AE
 
+oppose
 o pp o  s e
 ə p  ə́w z
 U/POEZ
 
+opposed
 o pp o  s e d
 ə p  ə́w z   d
 U/POEZ/-D
 
+opposite
 o pp o s i t e
 ɔ́ p  ə z ɪ t
 AUP/SWR-T
 AUP/UZ/-T
 
+opposition
 o pp o s i ti o n
 ɔ́ p  ə z ɪ́ ʃ  ə n
 AUP/SWREUGZ
 
+option
 o p ti o n
 ɔ́ p ʃ  ə n
 AUP/SH-PB
 
+or
 o  r
 óː
 AUR
 
+or
 o r
 ə
 UR
 
+orange
 o r a n g  e
 ɔ́ r ɪ n dʒ
 AUR/-PB/-PBLG
 
+order
 o  r d e r
 óː   d ə
 AUR/TK-R
 AURD/-R
 
+ordinary
 o  r d i n a r y
 óː   d ɪ n   r ɪj
 AUR/TK-PB/RAE
 AURD/-PB/RAE
 
+organ
 o  r g a n
 óː   g ə n
 AUR/TKPW-PB
 AURG/-PB
 
+organization
 o  r g a n i  z a  ti o n
 óː   g ə n ɑj z ɛ́j ʃ  ə n
 AUR/TKPWU/TPHAOEU/SWRAEUGZ
@@ -8626,6 +10495,7 @@ AUR/TKPW-PB/AOEU/SWRAEUGZ
 AURG/TPHAOEU/SWRAEUGZ
 AURG/-PB/AOEU/SWRAEUGZ
 
+organize
 o  r g a n i  z e
 óː   g ə n ɑj z
 AUR/TKPWU/TPHAOEUZ
@@ -8633,6 +10503,7 @@ AUR/TKPW-PB/AOEUZ
 AURG/TPHAOEUZ
 AURG/-PB/AOEUZ
 
+organized
 o  r g a n i  z e d
 óː   g ə n ɑj z   d
 AUR/TKPWU/TPHAOEUZ/-D
@@ -8640,6 +10511,7 @@ AUR/TKPW-PB/AOEUZ/-D
 AURG/TPHAOEUZ/-D
 AURG/-PB/AOEUZ/-D
 
+organizer
 o  r g a n i  z e r
 óː   g ə n ɑj z ə
 AUR/TKPWU/TPHAOEU/SWR-R
@@ -8651,16 +10523,19 @@ AURG/TPHAOEUZ/-R
 AURG/-PB/AOEU/SWR-R
 AURG/-PB/AOEUZ/-R
 
+origin
 o r i g  i n
 ɔ́ r ɪ dʒ ɪ n
 AUR/SKWR-PB
 AUR/-PBLG/-PB
 
+original
 o r i g  i n a l
 ə r ɪ́ dʒ ə n ə l
 U/REUPBLG/TPH-L
 U/REUPBLG/-PB/-L
 
+originally
 o r i g  i n a ll y
 ə r ɪ́ dʒ ə n ə l  ɪj
 U/REUPBLG/TPHU/HRAE
@@ -8668,179 +10543,221 @@ U/REUPBLG/TPH-L/AE
 U/REUPBLG/-PB/HRAE
 U/REUPBLG/-PB/-L/AE
 
+other
 o th e r
 ʌ́ ð  ə
 UGT/-R
 
+otherwise
 o th e r w i  s e
 ʌ́ ð  ə   w ɑj z
 UGT/WAOEUZ
 UGT/-R/WAOEUZ
 
+ought
 ou gh t
 óː    t
 AUT
 
+our
 ou r
 ɑ́ː
 AUR
 
+ours
 ou r s
 ɑ́ː   z
 AURZ
 
+ourselves
 ou r s e l v e s
 áw ə s ɛ́ l v   z
 OU/SEL/-FBZ
 
+out
 ou t
 áw t
 OUT
 
+outcome
 ou t c o m e
 áw t k ʌ m
 OUT/K-PL
 
+outdoor
 ou t d oo r
 áw t d oː
 OUT/TKAUR
 
+outdoors
 ou t d oo r s
 áw t d óː   z
 OUT/TKAURZ
 
+outer
 ou t e r
 áw t ə
 OUT/-R
 
+outline
 ou t l i  n e
 áw t l ɑj n
 OUT/HRAOEUPB
 
+outside
 ou t s i  d e
 áw t s ɑ́j d
 OUT/SAOEUD
 OUTS/AOEUD
 
+outside
 ou t s i  d e
 áw t s ɑj d
 OUT/SAOEUD
 OUTS/AOEUD
 
+oven
 o v e n
 ʌ́ v ə n
 UFB/-PB
 
+over
 o  v e r
 ə́w v ə
 OEFB/-R
 
+overall
 o  v e r a  ll
 ə́w v ə r oː l
 OEFB/RAUL
 OEFB/-R/AUL
 
+overall
 o  v e r a  ll
 ə́w v ə r óː l
 OEFB/RAUL
 
+owe
 ow e
 ə́w
 OE
 
+own
 ow n
 ə́w n
 OEPB
 
+owner
 ow n e r
 ə́w n ə
 OEPB/-R
 
+pace
 p a  c e
 p ɛ́j s
 PAEUS
 
+pack
 p a c k
 p á   k
 PABG
 
+package
 p a c k a g  e
 p á   k ɪ dʒ
 PA/K-PBLG
 PABG/-PBLG
 
+page
 p a  g  e
 p ɛ́j dʒ
 PAEUPBLG
 
+pain
 p ai n
 p ɛ́j n
 PAEUPB
 
+painful
 p ai n f u l
 p ɛ́j n f ə l
 PAEUPB/TP-L
 
+paint
 p ai n t
 p ɛ́j n t
 PAEUPBT
 
+painter
 p ai n t e r
 p ɛ́j n t ə
 PAEUPB/T-R
 PAEUPBT/-R
 
+painting
 p ai n t i ng
 p ɛ́j n t ɪ ŋ
 PAEUPB/T-PBG
 PAEUPBT/-PBG
 
+pair
 p ai r
 p ɛ́ː
 PAEUR
 
+palace
 p a l a c e
 p á l ɪ s
 PAL/-S
 
+pale
 p a  l e
 p ɛ́j l
 PAEUL
 
+pan
 p a n
 p á n
 PAPB
 
+panel
 p a n e l
 p á n ə l
 PAPB/-L
 
+pants
 p a n t s
 p á n t s
 PAPBTS
 
+paper
 p a  p e r
 p ɛ́j p ə
 PAEUP/-R
 
+paragraph
 p a r a g r a  ph
 p á r ə g r ɑː f
 PAR/TKPWRAUF
 PAR/UG/RAUF
 
+parent
 p a  r e n t
 p ɛ́ː r ə n t
 PAEUR/-PBT
 
+park
 p a  r k
 p ɑ́ː   k
 PAURBG
 
+parking
 p a  r k i ng
 p ɑ́ː   k ɪ ŋ
 PAUR/K-PBG
 PAURBG/-PBG
 
+parliament
 p a  r l ia m e n t
 p ɑ́ː   l ə  m ə n t
 PAUR/HRU/PH-PBT
@@ -8848,10 +10765,12 @@ PAUR/HR-PL/-PBT
 PAURL/PH-PBT
 PAURL/-PL/-PBT
 
+part
 p a  r t
 p ɑ́ː   t
 PAURT
 
+participant
 p a  r t i c i p a n t
 p ɑː   t ɪ́ s ɪ p ə n t
 PAU/TEUS/P-PBT
@@ -8859,6 +10778,7 @@ PAU/TEUS/-P/-PBT
 PAUR/TEUS/P-PBT
 PAUR/TEUS/-P/-PBT
 
+participate
 p a  r t i c i p a  t e
 p ɑː   t ɪ́ s ɪ p ɛj t
 PAU/TEUS/PAEUT
@@ -8866,6 +10786,7 @@ PAU/TEUS/-P/AEUT
 PAUR/TEUS/PAEUT
 PAUR/TEUS/-P/AEUT
 
+particular
 p a r t i c   u l a r
 p ə   t ɪ́ k j ə l ə
 PU/TEUBG/KWRU/HR-R
@@ -8877,6 +10798,7 @@ PUR/TEUBG/KWR-L/-R
 PUR/TEUBG/HR-R
 PUR/TEUBG/-L/-R
 
+particularly
 p a r t i c   u l a r l y
 p ə   t ɪ́ k j ə l ə   l ɪj
 PU/TEUBG/KWRU/HRU/HRAE
@@ -8904,106 +10826,131 @@ PUR/TEUBG/-L/HRAE
 PUR/TEUBG/-L/-R/HRAE
 PUR/TEUBG/-L/-RL/AE
 
+partly
 p a  r t l y
 p ɑ́ː   t l ɪj
 PAURT/HRAE
 
+partner
 p a  r t n e r
 p ɑ́ː   t n ə
 PAURT/TPH-R
 
+party
 p a  r t y
 p ɑ́ː   t ɪj
 PAUR/TAE
 PAURT/AE
 
+pass
 p a  ss
 p ɑ́ː s
 PAUS
 
+passage
 p a ss a g  e
 p á s  ɪ dʒ
 PAS/-PBLG
 
+passenger
 p a ss e n g  e r
 p á s  ɪ n dʒ ə
 PAS/-PB/SKWR-R
 PAS/-PB/-PBLG/-R
 
+passion
 p a ssi o n
 p á ʃ   ə n
 PAGZ
 
+passport
 p a  ss p o  r t
 p ɑ́ː s  p oː   t
 PAUS/PAURT
 PAUS/-P/AURT
 
+past
 p a  s t
 p ɑ́ː s t
 PA*US
 
+path
 p a  th
 p ɑ́ː θ
 PAUGT
 
+patient
 p a  ti e n t
 p ɛ́j ʃ  ə n t
 PAEUGZ/-T
 
+pattern
 p a tt e r n
 p á t  ə   n
 PAT/-RPB
 
+pay
 p ay
 p ɛ́j
 PAEU
 
+payment
 p ay m e n t
 p ɛ́j m ə n t
 PAEUPL/-PBT
 
+peace
 p ea c e
 p ɪ́j s
 PAOES
 
+peaceful
 p ea c e f u l
 p ɪ́j s   f ə l
 PAOES/TP-L
 
+pen
 p e n
 p ɛ́ n
 PEPB
 
+pencil
 p e n c i l
 p ɛ́ n s ə l
 PEPB/S-L
 PEPBS/-L
 
+penny
 p e nn y
 p ɛ́ n  ɪj
 PEPB/AE
 
+pension
 p e n si o n
 p ɛ́ n ʃ  ə n
 PEPB/SH-PB
 
+people
 p eo p   l e
 p ɪ́j p ə l
 PAOEP/-L
 
+pepper
 p e pp e r
 p ɛ́ p  ə
 PEP/-R
 
+per
 p e r
 p ə
 PUR
 
+per
 p e  r
 p ə́ː
 PUR
 
+percentage
 p e r c e n t a g  e
 p ə   s ɛ́ n t ɪ dʒ
 PU/SEPB/T-PBLG
@@ -9011,26 +10958,31 @@ PU/SEPBT/-PBLG
 PUR/SEPB/T-PBLG
 PUR/SEPBT/-PBLG
 
+perfect
 p e r f e c t
 p ə   f ɛ́ k t
 PU/TPEBGT
 PUR/TPEBGT
 
+perfect
 p e  r f e c t
 p ə́ː   f ɪ k t
 PUR/TP-BGT
 PUR/-F/-BGT
 
+perfectly
 p e  r f e c t l y
 p ə́ː   f ɪ k t l ɪj
 PUR/TP-BGT/HRAE
 PUR/-F/-BGT/HRAE
 
+perform
 p e r f o  r m
 p ə   f óː   m
 PU/TPAURPL
 PUR/TPAURPL
 
+performance
 p e r f o  r m a n c e
 p ə   f óː   m ə n s
 PU/TPAUR/PH-PBS
@@ -9038,16 +10990,19 @@ PU/TPAURPL/-PBS
 PUR/TPAUR/PH-PBS
 PUR/TPAURPL/-PBS
 
+perhaps
 p e r h a p s
 p ə   h á p s
 PHAPS
 PU/HAPS
 PUR/HAPS
 
+period
 p e  r i  o d
 p ɪ́ː r ɪj ə d
 PAOER/AE/UD
 
+permanent
 p e  r m a n e n t
 p ə́ː   m ə n ə n t
 PUR/PHU/TPH-PBT
@@ -9055,26 +11010,31 @@ PUR/PH-PB/-PBT
 PURPL/TPH-PBT
 PURPL/-PB/-PBT
 
+permission
 p e r m i ssi o n
 p ə   m ɪ́ ʃ   ə n
 PU/PHEUGZ
 PUR/PHEUGZ
 
+permit
 p e r m i t
 p ə   m ɪ́ t
 PU/PHEUT
 PUR/PHEUT
 
+permit
 p e  r m i t
 p ə́ː   m ɪ t
 PUR/PH-T
 PURPL/-T
 
+person
 p e  r s o n
 p ə́ː   s ə n
 PUR/S-PB
 PURS/-PB
 
+personal
 p e  r s o n a l
 p ə́ː   s ə n ə l
 PUR/STPH-L
@@ -9083,6 +11043,7 @@ PUR/S-PB/-L
 PURS/TPH-L
 PURS/-PB/-L
 
+personality
 p e  r s o n a l i t y
 p ə́ː   s ə n á l ə t ɪj
 PUR/STPHAL/TAE
@@ -9092,6 +11053,7 @@ PUR/SU/TPHAL/-T/AE
 PURS/TPHAL/TAE
 PURS/TPHAL/-T/AE
 
+personally
 p e  r s o n a ll y
 p ə́ː   s ə n ə l  ɪj
 PUR/STPHU/HRAE
@@ -9105,6 +11067,7 @@ PURS/TPH-L/AE
 PURS/-PB/HRAE
 PURS/-PB/-L/AE
 
+perspective
 p e r s p e c t i v e
 p ə   s p ɛ́ k t ɪ v
 PU/SPEBG/T-FB
@@ -9114,24 +11077,29 @@ PUR/SPEBGT/-FB
 PURS/PEBG/T-FB
 PURS/PEBGT/-FB
 
+persuade
 p e r s u a  d e
 p ə   s w ɛ́j d
 PU/SWAEUD
 PUR/SWAEUD
 PURS/WAEUD
 
+pet
 p e t
 p ɛ́ t
 PET
 
+petrol
 p e t r o l
 p ɛ́ t r ə l
 PET/R-L
 
+phase
 ph a  s e
 f  ɛ́j z
 TPAEUZ
 
+phenomenon
 ph e n o m e n o n
 f  ɪ n ɔ́ m ɪ n ə n
 TPEU/TPHAUPL/TPH-PB
@@ -9139,6 +11107,7 @@ TPEU/TPHAUPL/-PB/-PB
 TPU/TPHAUPL/TPH-PB
 TPU/TPHAUPL/-PB/-PB
 
+philosophy
 ph i l o s o ph y
 f  ɪ l ɔ́ s ə f  ɪj
 TPHRAUS/TPAE
@@ -9146,223 +11115,275 @@ TPHRAUS/-F/AE
 TPEU/HRAUS/TPAE
 TPEU/HRAUS/-F/AE
 
+phone
 ph o  n e
 f  ə́w n
 TPOEPB
 
+photo
 ph o  t o
 f  ə́w t əw
 TPOET/OE
 
+photograph
 ph o  t o g r a  ph
 f  ə́w t ə g r ɑː f
 TPOET/TKPWRAUF
 TPOET/UG/RAUF
 
+photographer
 ph o t o g r a ph e r
 f  ə t ɔ́ g r ə f  ə
 TPU/TAUG/RU/TP-R
 TPU/TAUG/R-F/-R
 
+photography
 ph o t o g r a ph y
 f  ə t ɔ́ g r ə f  ɪj
 TPU/TAUG/RU/TPAE
 TPU/TAUG/R-F/AE
 
+phrase
 ph r a  s e
 f  r ɛ́j z
 TPRAEUZ
 
+physical
 ph y s i c a l
 f  ɪ́ z ɪ k ə l
 TPEUZ/K-L
 TPEUZ/-BG/-L
 
+physics
 ph y s i c s
 f  ɪ́ z ɪ k s
 TPEUZ/-BGS
 
+piano
 p i  a  n o
 p ɪj ɑ́ː n əw
 PAE/AUPB/OE
 
+piano
 p i a n o
 p j á n əw
 PU/KWRAPB/OE
 
+pick
 p i c k
 p ɪ́   k
 PEUBG
 
+picture
 p i c t  u r e
 p ɪ́ k tʃ ə
 PEUBG/KH-R
 
+piece
 p ie c e
 p ɪ́j s
 PAOES
 
+pig
 p i g
 p ɪ́ g
 PEUG
 
+pile
 p i  l e
 p ɑ́j l
 PAOEUL
 
+pilot
 p i  l o t
 p ɑ́j l ə t
 PAOEUL/-T
 
+pin
 p i n
 p ɪ́ n
 PEUPB
 
+pink
 p i n k
 p ɪ́ ŋ k
 PEUPBG/-BG
 
+pipe
 p i  p e
 p ɑ́j p
 PAOEUP
 
+pitch
 p i tch
 p ɪ́ tʃ
 PEUFP
 
+place
 p l a  c e
 p l ɛ́j s
 PHRAEUS
 
+plain
 p l ai n
 p l ɛ́j n
 PHRAEUPB
 
+plan
 p l a n
 p l á n
 PHRAPB
 
+plane
 p l a  n e
 p l ɛ́j n
 PHRAEUPB
 
+planet
 p l a n e t
 p l á n ɪ t
 PHRAPB/-T
 
+planning
 p l a nn i ng
 p l á n  ɪ ŋ
 PHRAPB/-PBG
 
+plant
 p l a  n t
 p l ɑ́ː n t
 PHRAUPBT
 
+plastic
 p l a s t i c
 p l á s t ɪ k
 PHRA*S/-BG
 PHRAS/T-BG
 
+plate
 p l a  t e
 p l ɛ́j t
 PHRAEUT
 
+platform
 p l a t f o  r m
 p l á t f oː   m
 PHRAT/TPAURPL
 
+play
 p l ay
 p l ɛ́j
 PHRAEU
 
+player
 p l ay e r
 p l ɛ́j ə
 PHRAEU/-R
 
+pleasant
 p l ea s a n t
 p l ɛ́  z ə n t
 PHREZ/-PBT
 
+please
 p l ea s e
 p l ɪ́j z
 PHRAOEZ
 
+pleased
 p l ea s e d
 p l ɪ́j z   d
 PHRAOEZ/-D
 
+pleasure
 p l ea s u r e
 p l ɛ́  ʒ ə
 
+plenty
 p l e n t y
 p l ɛ́ n t ɪj
 PHREPB/TAE
 PHREPBT/AE
 
+plot
 p l o t
 p l ɔ́ t
 PHRAUT
 
+plus
 p l u s
 p l ʌ́ s
 PHRUS
 
+pocket
 p o c k e t
 p ɔ́   k ɪ t
 PAU/K-T
 PAUBG/-T
 
+poem
 p o  e m
 p ə́w ɪ m
 POE/-PL
 
+poet
 p o  e t
 p ə́w ɪ t
 POE/-T
 
+poetry
 p o  e t r y
 p ə́w ɪ t r ɪj
 POE/TRAE
 POE/-T/RAE
 
+point
 p oi n t
 p ój n t
 POEUPBT
 
+pointed
 p oi n t e d
 p ój n t ɪ d
 POEUPB/T-D
 POEUPBT/UD
 
+poison
 p oi s o n
 p ój z ə n
 POEUZ/-PB
 
+poisonous
 p oi s o n ou s
 p ój z ə n ə  s
 POEUZ/TPH-S
 POEUZ/-PB/-S
 
+police
 p o l i  c e
 p ə l ɪ́j s
 PHRAOES
 PU/HRAOES
 
+policeman
 p o l i  c e m a n
 p ə l ɪ́j s   m ə n
 PHRAOES/PH-PB
 PU/HRAOES/PH-PB
 
+policy
 p o l i c y
 p ɔ́ l ə s ɪj
 PAUL/SAE
 PAUL/-S/AE
 
+polite
 p o l i  t e
 p ə l ɑ́j t
 PHRAOEUT
 PU/HRAOEUT
 
+political
 p o l i t i c a l
 p ə l ɪ́ t ɪ k ə l
 PHREUT/K-L
@@ -9370,32 +11391,39 @@ PHREUT/-BG/-L
 PU/HREUT/K-L
 PU/HREUT/-BG/-L
 
+politician
 p o l i t i ci a n
 p ɔ́ l ɪ t ɪ́ ʃ  ə n
 PAUL/TEUGZ
 
+politics
 p o l i t i c s
 p ɔ́ l ɪ t ɪ k s
 PAUL/T-BGS
 PAUL/-T/-BGS
 
+pollution
 p o ll u  ti o n
 p ə l  ʉ́w ʃ  ə n
 PHRAOUGZ
 PU/HRAOUGZ
 
+pool
 p oo l
 p ʉ́w l
 PAOUL
 
+poor
 p oo r
 p óː
 PAUR
 
+pop
 p o p
 p ɔ́ p
 PAUP
 
+popular
 p o p   u l a r
 p ɔ́ p j ə l ə
 PAUP/KWRU/HR-R
@@ -9403,6 +11431,7 @@ PAUP/KWR-L/-R
 PAUP/HR-R
 PAUP/-L/-R
 
+popularity
 p o p   u l a r i t y
 p ɔ́ p j ə l á r ə t ɪj
 PAUP/KWRU/HRAR/TAE
@@ -9410,105 +11439,128 @@ PAUP/KWRU/HRAR/-T/AE
 PAUP/HRAR/TAE
 PAUP/HRAR/-T/AE
 
+population
 p o p   u l a  ti o n
 p ɔ́ p j ə l ɛ́j ʃ  ə n
 PAUP/KWRU/HRAEUGZ
 PAUP/HRAEUGZ
 
+port
 p o  r t
 p óː   t
 PAURT
 
+portrait
 p o  r t r ai t
 p óː   t r ɛj t
 PAUR/TRAEUT
 PAURT/RAEUT
 
+pose
 p o  s e
 p ə́w z
 POEZ
 
+position
 p o s i ti o n
 p ə z ɪ́ ʃ  ə n
 PU/SWREUGZ
 
+positive
 p o s i t i v e
 p ɔ́ z ə t ɪ v
 PAUZ/T-FB
 PAUZ/-T/-FB
 
+possess
 p o ss e ss
 p ə z  ɛ́ s
 PU/SWRES
 
+possession
 p o ss e ssi o n
 p ə z  ɛ́ ʃ   ə n
 PU/SWREGZ
 
+possibility
 p o ss i b i l i t y
 p ɔ́ s  ə b ɪ́ l ə t ɪj
 PAUS/PWEUL/TAE
 PAUS/PWEUL/-T/AE
 
+possible
 p o ss i b   l e
 p ɔ́ s  ə b ə l
 PAUS/PW-L
 PAUS/-B/-L
 
+possibly
 p o ss i b l y
 p ɔ́ s  ə b l ɪj
 PAUS/PWHRAE
 PAUS/-B/HRAE
 
+post
 p o  s t
 p ə́w s t
 PO*ES
 
+poster
 p o  s t e r
 p ə́w s t ə
 PO*ES/-R
 POES/T-R
 
+pot
 p o t
 p ɔ́ t
 PAUT
 
+potato
 p o t a  t o
 p ə t ɛ́j t əw
 PU/TAEUT/OE
 
+potential
 p o t e n ti a l
 p ə t ɛ́ n ʃ  ə l
 PU/TEPB/SH-L
 
+pound
 p ou n d
 p áw n d
 POUPBD
 
+pour
 p ou r
 p óː
 PAUR
 
+poverty
 p o v e r t y
 p ɔ́ v ə   t ɪj
 PAUFB/TAE
 PAUFB/-R/TAE
 PAUFB/-RT/AE
 
+powder
 p ow d e r
 p áw d ə
 POUD/-R
 
+power
 p ow e r
 p áw ə
 POU/-R
 
+powerful
 p ow e r f u l
 p áw ə   f ə l
 POU/TP-L
 POU/-R/TP-L
 POU/-R/-F/-L
 
+practical
 p r a c t i c a l
 p r á k t ɪ k ə l
 PRABG/TK-L
@@ -9517,145 +11569,177 @@ PRABG/T-BG/-L
 PRABGT/K-L
 PRABGT/-BG/-L
 
+practice
 p r a c t i c e
 p r á k t ɪ s
 PRABG/T-S
 PRABGT/-S
 
+practise
 p r a c t i s e
 p r á k t ɪ s
 PRABG/T-S
 PRABGT/-S
 
+praise
 p r ai s e
 p r ɛ́j z
 PRAEUZ
 
+pray
 p r ay
 p r ɛ́j
 PRAEU
 
+prayer
 p r aye r
 p r ɛ́ː
 PRAEUR
 
+predict
 p r e d i c t
 p r ɪ d ɪ́ k t
 PREU/TKEUBGT
 PRU/TKEUBGT
 
+prediction
 p r e d i c ti o n
 p r ɪ d ɪ́ k ʃ  ə n
 PREU/TKEUBG/SH-PB
 PRU/TKEUBG/SH-PB
 
+prefer
 p r e f e  r
 p r ɪ f ə́ː
 PREU/TPUR
 PRU/TPUR
 
+pregnant
 p r e g n a n t
 p r ɛ́ g n ə n t
 PREG/TPH-PBT
 
+preparation
 p r e p a r a  ti o n
 p r ɛ́ p ə r ɛ́j ʃ  ə n
 PREP/RAEUGZ
 
+prepare
 p r e p a  r e
 p r ɪ p ɛ́ː
 PREU/PAEUR
 PRU/PAEUR
 
+prepared
 p r e p a  r e d
 p r ɪ p ɛ́ː     d
 PREU/PAEURD
 PRU/PAEURD
 
+presence
 p r e s e n c e
 p r ɛ́ z ə n s
 PREZ/-PBS
 
+present
 p r e s e n t
 p r ɛ́ z ə n t
 PREZ/-PBT
 
+present
 p r e s e n t
 p r ɪ z ɛ́ n t
 PREU/SWREPBT
 PRU/SWREPBT
 
+presentation
 p r e s e n t a  ti o n
 p r ɛ́ z ə n t ɛ́j ʃ  ə n
 PREZ/-PB/TAEUGZ
 
+preserve
 p r e s e  r v e
 p r ɪ z ə́ː   v
 PREU/SWRUR/-FB
 PRU/SWRUR/-FB
 
+president
 p r e s i d e n t
 p r ɛ́ z ɪ d ə n t
 PREZ/TK-PBT
 PREZ/UD/-PBT
 
+press
 p r e ss
 p r ɛ́ s
 PRES
 
+pressure
 p r e ss u r e
 p r ɛ́ ʃ  ə
 PREGS/-R
 
+pretend
 p r e t e n d
 p r ɪ t ɛ́ n d
 PREU/TEPBD
 PRU/TEPBD
 
+pretty
 p r e tt y
 p r ɪ́ t  ɪj
 PREUT/AE
 
+prevent
 p r e v e n t
 p r ɪ v ɛ́ n t
 PREU/SREPBT
 PRU/SREPBT
 
+previous
 p r e  v i  ou s
 p r ɪ́j v ɪj ə  s
 PRAOEFB/AE/-S
 
+previously
 p r e  v i  ou s l y
 p r ɪ́j v ɪj ə  s l ɪj
 PRAOEFB/AE/SHRAE
 PRAOEFB/AE/-S/HRAE
 
+price
 p r i  c e
 p r ɑ́j s
 PRAOEUS
 
+priest
 p r ie s t
 p r ɪ́j s t
 PRAO*ES
 
+primary
 p r i  m a r y
 p r ɑ́j m ə r ɪj
 PRAOEUPL/RAE
 PRAOEUPL/-R/AE
 
+prime
 p r i  m e
 p r ɑ́j m
 PRAOEUPL
 
+prince
 p r i n c e
 p r ɪ́ n s
 PREUPBS
 
+princess
 p r i n c e ss
 p r ɪ́ n s ɛ́ s
 PREUPB/SES
 PREUPBS/ES
 
+principle
 p r i n c i p   l e
 p r ɪ́ n s ə p ə l
 PREUPB/SP-L
@@ -9664,273 +11748,336 @@ PREUPB/S-P/-L
 PREUPBS/P-L
 PREUPBS/-P/-L
 
+print
 p r i n t
 p r ɪ́ n t
 PREUPBT
 
+printer
 p r i n t e r
 p r ɪ́ n t ə
 PREUPB/T-R
 PREUPBT/-R
 
+printing
 p r i n t i ng
 p r ɪ́ n t ɪ ŋ
 PREUPB/T-PBG
 PREUPBT/-PBG
 
+priority
 p r i  o r i t y
 p r ɑj ɔ́ r ə t ɪj
 PRAOEU/AUR/TAE
 PRAOEU/AUR/-T/AE
 
+prison
 p r i s o n
 p r ɪ́ z ə n
 PREUZ/-PB
 
+prisoner
 p r i s o n e r
 p r ɪ́ z ə n ə
 PREUZ/TPH-R
 PREUZ/-PB/-R
 
+privacy
 p r i v a c y
 p r ɪ́ v ə s ɪj
 PREUFB/SAE
 PREUFB/-S/AE
 
+private
 p r i  v a t e
 p r ɑ́j v ɪ t
 PRAOEUFB/-T
 
+prize
 p r i  z e
 p r ɑ́j z
 PRAOEUZ
 
+probably
 p r o b a b l y
 p r ɔ́ b ə b l ɪj
 PRAUB/PWHRAE
 PRAUB/-B/HRAE
 
+problem
 p r o b l e m
 p r ɔ́ b l ə m
 PRAUB/HR-PL
 
+procedure
 p r o c e  d  u r e
 p r ə s ɪ́j dʒ ə
 PRU/SAOEPBLG/-R
 
+process
 p r o c e ss
 p r ə s ɛ́ s
 PRU/SES
 
+process
 p r o  c e ss
 p r ə́w s ɛ s
 PROES/ES
 
+produce
 p r o d  u  c e
 p r ɔ́ dʒ ʉw s
 PRAUPBLG/AOUS
 
+produce
 p r o d  u  c e
 p r ə dʒ ʉ́w s
 PRU/SKWRAOUS
 
+producer
 p r o d  u  c e r
 p r ə dʒ ʉ́w s ə
 PRU/SKWRAOUS/-R
 
+product
 p r o d u c t
 p r ɔ́ d ʌ k t
 PRAUD/-BGT
 
+production
 p r o d u c ti o n
 p r ə d ʌ́ k ʃ  ə n
 PRU/TKUBG/SH-PB
 
+profession
 p r o f e ssi o n
 p r ə f ɛ́ ʃ   ə n
 PRU/TPEGZ
 
+professional
 p r o f e ssi o n a l
 p r ə f ɛ́ ʃ     n ə l
 PRU/TPEGS/TPH-L
 
+professor
 p r o f e ss o r
 p r ə f ɛ́ s  ə
 PRU/TPES/-R
 
+profile
 p r o  f i  l e
 p r ə́w f ɑj l
 PROEF/AOEUL
 
+profit
 p r o f i t
 p r ɔ́ f ɪ t
 PRAUF/-T
 
+program
 p r o  g r a m
 p r ə́w g r a m
 PROEG/RAPL
 
+programme
 p r o  g r a mm e
 p r ə́w g r a m
 PROEG/RAPL
 
+progress
 p r o g r e ss
 p r ə g r ɛ́ s
 PRU/TKPWRES
 PRUG/RES
 
+progress
 p r o  g r e ss
 p r ə́w g r ɛ s
 PROEG/RES
 
+project
 p r o j  e c t
 p r ɔ́ dʒ ɛ k t
 PRAUPBLG/EBGT
 
+project
 p r o j  e c t
 p r ə dʒ ɛ́ k t
 PRU/SKWREBGT
 
+promise
 p r o m i s e
 p r ɔ́ m ɪ s
 PRAUPL/-S
 
+promote
 p r o m o  t e
 p r ə m ə́w t
 PRU/PHOET
 
+pronounce
 p r o n ou n c e
 p r ə n áw n s
 PRU/TPHOUPBS
 
+proof
 p r oo f
 p r ʉ́w f
 PRAOUF
 
+proper
 p r o p e r
 p r ɔ́ p ə
 PRAUP/-R
 
+properly
 p r o p e r l y
 p r ɔ́ p ə   l ɪj
 PRAUP/HRAE
 PRAUP/-R/HRAE
 PRAUP/-RL/AE
 
+property
 p r o p e r t y
 p r ɔ́ p ə   t ɪj
 PRAUP/TAE
 PRAUP/-R/TAE
 PRAUP/-RT/AE
 
+proposal
 p r o p o  s a l
 p r ə p ə́w z ə l
 PRU/POEZ/-L
 
+propose
 p r o p o  s e
 p r ə p ə́w z
 PRU/POEZ
 
+prospect
 p r o s p e c t
 p r ɔ́ s p ɛ k t
 PRAUS/PEBGT
 PRAUS/-P/EBGT
 
+prospect
 p r o s p e c t
 p r ə s p ɛ́ k t
 PRU/SPEBGT
 PRUS/PEBGT
 
+protect
 p r o t e c t
 p r ə t ɛ́ k t
 PRU/TEBGT
 
+protection
 p r o t e c ti o n
 p r ə t ɛ́ k ʃ  ə n
 PRU/TEBG/SH-PB
 
+protest
 p r o t e s t
 p r ə t ɛ́ s t
 PRU/T*ES
 
+protest
 p r o  t e s t
 p r ə́w t ɛ s t
 PROET/*ES
 
+proud
 p r ou d
 p r áw d
 PROUD
 
+prove
 p r o  v e
 p r ʉ́w v
 PRAOUFB
 
+provide
 p r o v i  d e
 p r ə v ɑ́j d
 PRU/SRAOEUD
 
+psychologist
 p s y  ch o l o g  i s t
   s ɑj k  ɔ́ l ə dʒ ɪ s t
 SAOEU/KAUL/SKWR*S
 SAOEU/KAUL/-PBLG/*S
 
+psychology
 p s y  ch o l o g  y
   s ɑj k  ɔ́ l ə dʒ ɪj
 SAOEU/KAUL/SKWRAE
 SAOEU/KAUL/-PBLG/AE
 
+pub
 p u b
 p ʌ́ b
 PUB
 
+public
 p u b l i c
 p ʌ́ b l ɪ k
 PUB/HR-BG
 
+publication
 p u b l i c a  ti o n
 p ʌ́ b l ɪ k ɛ́j ʃ  ə n
 PUB/HREU/KAEUGZ
 PUB/HRU/KAEUGZ
 
+publish
 p u b l i sh
 p ʌ́ b l ɪ ʃ
 PUB/HR-GS
 
+pull
 p u ll
 p ɵ́ l
 PAOL
 
+punish
 p u n i sh
 p ʌ́ n ɪ ʃ
 PUPB/-GS
 
+punishment
 p u n i sh m e n t
 p ʌ́ n ɪ ʃ  m ə n t
 PUPB/-GS/PH-PBT
 
+pupil
 p   u  p i l
 p j ʉ́w p ə l
 PU/KWRAOUP/-L
 
+purchase
 p u  r ch a s e
 p ə́ː   tʃ ə s
 PUR/KH-S
 PUR/-FP/-S
 
+pure
 p   u  r e
 p j óː
 PU/KWRAUR
 
+purple
 p u  r p   l e
 p ə́ː   p ə l
 PUR/P-L
 PURP/-L
 
+purpose
 p u  r p o s e
 p ə́ː   p ə s
 PUR/P-S
 PURP/-S
 
+pursue
 p u r s   ue
 p ə   s j ʉ́w
 PU/SKWRAOU
@@ -9940,39 +12087,47 @@ PUR/SAOU
 PURS/KWRAOU
 PURS/AOU
 
+push
 p u sh
 p ɵ́ ʃ
 PAOGS
 
+put
 p u t
 p ɵ́ t
 PAOT
 
+put
 p u t
 p ʌ́ t
 PUT
 
+qualification
 q u a l i f i c a  ti o n
 k w ɔ́ l ɪ f ɪ k ɛ́j ʃ  ə n
 KWAUL/TPEU/KAEUGZ
 KWAUL/TPU/KAEUGZ
 KWAUL/-F/KAEUGZ
 
+qualified
 q u a l i f ie d
 k w ɔ́ l ɪ f ɑj d
 KWAUL/TPAOEUD
 KWAUL/-F/AOEUD
 
+qualify
 q u a l i f y
 k w ɔ́ l ɪ f ɑj
 KWAUL/TPAOEU
 KWAUL/-F/AOEU
 
+quality
 q u a l i t y
 k w ɔ́ l ə t ɪj
 KWAUL/TAE
 KWAUL/-T/AE
 
+quantity
 q u a n t i t y
 k w ɔ́ n t ə t ɪj
 KWAUPB/TU/TAE
@@ -9980,236 +12135,291 @@ KWAUPB/T-T/AE
 KWAUPBT/TAE
 KWAUPBT/-T/AE
 
+quarter
 q u a  r t e r
 k w óː   t ə
 KWAUR/T-R
 KWAURT/-R
 
+queen
 q u ee n
 k w ɪ́j n
 KWAOEPB
 
+question
 q u e s ti o n
 k w ɛ́ s tʃ ə n
 KWES/KH-PB
 
+queue
 q   ue u e
 k j ʉ́w
 KU/KWRAOU
 
+quick
 q u i c k
 k w ɪ́   k
 KWEUBG
 
+quickly
 q u i c k l y
 k w ɪ́   k l ɪj
 KWEU/KHRAE
 KWEUBG/HRAE
 
+quiet
 q u i  e t
 k w ɑ́j ə t
 KWAOEU/-T
 
+quietly
 q u i  e t l y
 k w ɑ́j ə t l ɪj
 KWAOEU/-T/HRAE
 
+quit
 q u i t
 k w ɪ́ t
 KWEUT
 
+quite
 q u i  t e
 k w ɑ́j t
 KWAOEUT
 
+quotation
 q u o  t a  ti o n
 k w əw t ɛ́j ʃ  ə n
 KWOE/TAEUGZ
 
+quote
 q u o  t e
 k w ə́w t
 KWOET
 
+race
 r a  c e
 r ɛ́j s
 RAEUS
 
+racing
 r a  c i ng
 r ɛ́j s ɪ ŋ
 RAEUS/-PBG
 
+radio
 r a  d i  o
 r ɛ́j d ɪj əw
 RAEUD/AE/OE
 
+railway
 r ai l w ay
 r ɛ́j l w ɛj
 RAEUL/WAEU
 
+rain
 r ai n
 r ɛ́j n
 RAEUPB
 
+raise
 r ai s e
 r ɛ́j z
 RAEUZ
 
+range
 r a  n g  e
 r ɛ́j n dʒ
 RAEUPB/-PBLG
 
+rank
 r a n k
 r á ŋ k
 RAPBG/-BG
 
+rapid
 r a p i d
 r á p ɪ d
 RAP/UD
 
+rapidly
 r a p i d l y
 r á p ɪ d l ɪj
 RAP/UD/HRAE
 
+rare
 r a  r e
 r ɛ́ː
 RAEUR
 
+rarely
 r a  r e l y
 r ɛ́ː     l ɪj
 RAEUR/HRAE
 RAEURL/AE
 
+rate
 r a  t e
 r ɛ́j t
 RAEUT
 
+rather
 r a  th e r
 r ɑ́ː ð  ə
 RAUGT/-R
 
+raw
 r aw
 r óː
 RAU
 
+reach
 r ea ch
 r ɪ́j tʃ
 RAOEFP
 
+react
 r e  a c t
 r ɪj á k t
 RAE/ABGT
 
+reaction
 r e  a c ti o n
 r ɪj á k ʃ  ə n
 RAE/ABG/SH-PB
 
+read
 r ea d
 r ɛ́  d
 RED
 
+read
 r ea d
 r ɪ́j d
 RAOED
 
+reader
 r ea d e r
 r ɪ́j d ə
 RAOED/-R
 
+reading
 r ea d i ng
 r ɪ́j d ɪ ŋ
 RAOED/-PBG
 
+ready
 r ea d y
 r ɛ́  d ɪj
 RED/AE
 
+real
 r e  a l
 r ɪ́j ə l
 RAE/-L
 
+realistic
 r e  a l i s t i c
 r ɪ́j ə l ɪ́ s t ɪ k
 RAE/HR*EUS/-BG
 RAE/HREUS/T-BG
 
+reality
 r e  a l i t y
 r ɪj á l ə t ɪj
 RAE/AL/TAE
 RAE/AL/-T/AE
 
+realize
 r e  a l i  z e
 r ɪ́j ə l ɑj z
 RAE/HRAOEUZ
 RAE/-L/AOEUZ
 
+really
 r ea ll y
 r ɪ́ː l  ɪj
 RAOEL/AE
 
+reason
 r ea s o n
 r ɪ́j z ə n
 RAOEZ/-PB
 
+reasonable
 r ea s o n a b   l e
 r ɪ́j z   n ə b ə l
 RAOEZ/TPHU/PW-L
 RAOEZ/TPH-B/-L
 
+recall
 r e c a  ll
 r ɪ k óː l
 REU/KAUL
 RU/KAUL
 
+receipt
 r e c ei p t
 r ɪ s ɪ́j   t
 REU/SAOET
 RU/SAOET
 
+receive
 r e c ei v e
 r ɪ s ɪ́j v
 REU/SAOEFB
 RU/SAOEFB
 
+recent
 r e  c e n t
 r ɪ́j s ə n t
 RAOES/-PBT
 
+recently
 r e  c e n t l y
 r ɪ́j s ə n t l ɪj
 RAOES/-PBT/HRAE
 
+reception
 r e c e p ti o n
 r ɪ s ɛ́ p ʃ  ə n
 REU/SEP/SH-PB
 RU/SEP/SH-PB
 
+recipe
 r e c i p e
 r ɛ́ s ə p ɪj
 RES/PAE
 RES/-P/AE
 
+recognize
 r e c o g n i  z e
 r ɛ́ k ə g n ɑj z
 REBG/UG/TPHAOEUZ
 
+recommend
 r e c o mm e n d
 r ɛ́ k ə m  ɛ́ n d
 REBG/PHEPBD
 
+recommendation
 r e c o mm e n d a  ti o n
 r ɛ́ k ə m  ɛ n d ɛ́j ʃ  ə n
 REBG/PHEPB/TKAEUGZ
 REBG/-PL/EPB/TKAEUGZ
 
+record
 r e c o  r d
 r ɛ́ k oː   d
 REBG/AURD
 
+record
 r e c o  r d
 r ɪ k óː   d
 REU/KAURD
 RU/KAURD
 
+recording
 r e c o  r d i ng
 r ɪ k óː   d ɪ ŋ
 REU/KAUR/TK-PBG
@@ -10217,50 +12427,60 @@ REU/KAURD/-PBG
 RU/KAUR/TK-PBG
 RU/KAURD/-PBG
 
+recover
 r e c o v e r
 r ɪ k ʌ́ v ə
 REU/KUFB/-R
 RU/KUFB/-R
 
+recycle
 r e  c y  c   l e
 r ɪ́j s ɑ́j k ə l
 RAOES/AOEUBG/-L
 RAE/SAOEUBG/-L
 
+red
 r e d
 r ɛ́ d
 RED
 
+reduce
 r e d  u  c e
 r ɪ dʒ ʉ́w s
 REU/SKWRAOUS
 RU/SKWRAOUS
 
+reduction
 r e d u c ti o n
 r ɪ d ʌ́ k ʃ  ə n
 REU/TKUBG/SH-PB
 RU/TKUBG/SH-PB
 
+refer
 r e f e  r
 r ɪ f ə́ː
 REU/TPUR
 RU/TPUR
 
+reference
 r e f e r e n c e
 r ɛ́ f   r ə n s
 REF/R-PBS
 
+reflect
 r e f l e c t
 r ɪ f l ɛ́ k t
 REU/TPHREBGT
 REUF/HREBGT
 RU/TPHREBGT
 
+refuse
 r e f   u  s e
 r ɛ́ f j ʉw s
 REF/KWRAOUS
 REF/AOUS
 
+refuse
 r e f   u  s e
 r ɪ f j ʉ́w z
 REU/TPAOUZ
@@ -10270,32 +12490,38 @@ REUF/AOUZ
 RU/TPAOUZ
 RU/TPU/KWRAOUZ
 
+regard
 r e g a  r d
 r ɪ g ɑ́ː   d
 REU/TKPWAURD
 RU/TKPWAURD
 
+region
 r e  gi o n
 r ɪ́j dʒ ə n
 RAOEPBLG/-PB
 
+regional
 r e  gi o n a l
 r ɪ́j dʒ ə n ə l
 RAOEPBLG/TPH-L
 RAOEPBLG/-PB/-L
 
+register
 r e g  i s t e r
 r ɛ́ dʒ ɪ s t ə
 REPBLG/ST-R
 REPBLG/*S/-R
 REPBLG/-S/T-R
 
+regret
 r e g r e t
 r ɪ g r ɛ́ t
 REU/TKPWRET
 REUG/RET
 RU/TKPWRET
 
+regular
 r e g   u l a r
 r ɛ́ g j ə l ə
 REG/KWRU/HR-R
@@ -10303,6 +12529,7 @@ REG/KWR-L/-R
 REG/HR-R
 REG/-L/-R
 
+regularly
 r e g   u l a r l y
 r ɛ́ g j ə l ə   l ɪj
 REG/KWRU/HRU/HRAE
@@ -10318,60 +12545,72 @@ REG/-L/HRAE
 REG/-L/-R/HRAE
 REG/-L/-RL/AE
 
+regulation
 r e g   u l a  ti o n
 r ɛ́ g j ə l ɛ́j ʃ  ə n
 REG/KWRU/HRAEUGZ
 REG/HRAEUGZ
 
+reject
 r e j  e c t
 r ɪ dʒ ɛ́ k t
 REU/SKWREBGT
 RU/SKWREBGT
 
+reject
 r e  j  e c t
 r ɪ́j dʒ ɛ k t
 RAOEPBLG/EBGT
 
+relate
 r e l a  t e
 r ɪ l ɛ́j t
 REU/HRAEUT
 RU/HRAEUT
 
+related
 r e l a  t e d
 r ɪ l ɛ́j t ɪ d
 REU/HRAEUT/UD
 RU/HRAEUT/UD
 
+relation
 r e l a  ti o n
 r ɪ l ɛ́j ʃ  ə n
 REU/HRAEUGZ
 RU/HRAEUGZ
 
+relationship
 r e l a  ti o n sh i p
 r ɪ l ɛ́j ʃ  ə n ʃ  ɪ p
 REU/HRAEUGZ/SH-P
 RU/HRAEUGZ/SH-P
 
+relative
 r e l a t i v e
 r ɛ́ l ə t ɪ v
 REL/T-FB
 REL/-T/-FB
 
+relatively
 r e l a t i v e l y
 r ɛ́ l ə t ɪ v   l ɪj
 REL/T-FB/HRAE
 REL/-T/-FB/HRAE
 
+relax
 r e l a x -
 r ɪ l á k s
 REU/HRABGS
 RU/HRABGS
 
+relaxed
 r e l a x - e d
 r ɪ l á k s   t
 REU/HRABGS/-T
 RU/HRABGS/-T
 
+relaxing
 r e l a x - i ng
 r ɪ l á k s ɪ ŋ
 REU/HRABG/S-PBG
@@ -10379,16 +12618,19 @@ REU/HRABGS/-PBG
 RU/HRABG/S-PBG
 RU/HRABGS/-PBG
 
+release
 r e l ea s e
 r ɪ l ɪ́j s
 REU/HRAOES
 RU/HRAOES
 
+relevant
 r e l e v a n t
 r ɛ́ l ə v ə n t
 REL/SR-PBT
 REL/-FB/-PBT
 
+reliable
 r e l i  a b   l e
 r ɪ l ɑ́j ə b ə l
 REU/HRAOEU/PW-L
@@ -10396,92 +12638,110 @@ REU/HRAOEU/-B/-L
 RU/HRAOEU/PW-L
 RU/HRAOEU/-B/-L
 
+relief
 r e l ie f
 r ɪ l ɪ́j f
 REU/HRAOEF
 RU/HRAOEF
 
+religion
 r e l i gi o n
 r ɪ l ɪ́ dʒ ə n
 REU/HREUPBLG/-PB
 RU/HREUPBLG/-PB
 
+religious
 r e l i gi ou s
 r ɪ l ɪ́ dʒ ə  s
 REU/HREUPBLG/-S
 RU/HREUPBLG/-S
 
+rely
 r e l y
 r ɪ l ɑ́j
 REU/HRAOEU
 RU/HRAOEU
 
+remain
 r e m ai n
 r ɪ m ɛ́j n
 REU/PHAEUPB
 RU/PHAEUPB
 
+remark
 r e m a  r k
 r ɪ m ɑ́ː   k
 REU/PHAURBG
 RU/PHAURBG
 
+remember
 r e m e m b e r
 r ɪ m ɛ́ m b ə
 REU/PHEPL/PW-R
 RU/PHEPL/PW-R
 
+remind
 r e m i  n d
 r ɪ m ɑ́j n d
 REU/PHAOEUPBD
 RU/PHAOEUPBD
 
+remote
 r e m o  t e
 r ɪ m ə́w t
 REU/PHOET
 RU/PHOET
 
+remove
 r e m o  v e
 r ɪ m ʉ́w v
 REU/PHAOUFB
 RU/PHAOUFB
 
+rent
 r e n t
 r ɛ́ n t
 REPBT
 
+repair
 r e p ai r
 r ɪ p ɛ́ː
 REU/PAEUR
 RU/PAEUR
 
+repeat
 r e p ea t
 r ɪ p ɪ́j t
 REU/PAOET
 RU/PAOET
 
+repeated
 r e p ea t e d
 r ɪ p ɪ́j t ɪ d
 REU/PAOET/UD
 RU/PAOET/UD
 
+replace
 r e p l a  c e
 r ɪ p l ɛ́j s
 REU/PHRAEUS
 REUP/HRAEUS
 RU/PHRAEUS
 
+reply
 r e p l y
 r ɪ p l ɑ́j
 REU/PHRAOEU
 REUP/HRAOEU
 RU/PHRAOEU
 
+report
 r e p o  r t
 r ɪ p óː   t
 REU/PAURT
 RU/PAURT
 
+reporter
 r e p o  r t e r
 r ɪ p óː   t ə
 REU/PAUR/T-R
@@ -10489,10 +12749,12 @@ REU/PAURT/-R
 RU/PAUR/T-R
 RU/PAURT/-R
 
+represent
 r e p r e s e n t
 r ɛ́ p r ə z ɛ́ n t
 REP/RU/SWREPBT
 
+representative
 r e p r e s e n t a t i v e
 r ɛ́ p r ɪ z ɛ́ n t ə t ɪ v
 REP/REU/SWREPB/TU/T-FB
@@ -10504,23 +12766,27 @@ REP/RU/SWREPB/T-T/-FB
 REP/RU/SWREPBT/T-FB
 REP/RU/SWREPBT/-T/-FB
 
+reputation
 r e p   u t a  ti o n
 r ɛ́ p j ə t ɛ́j ʃ  ə n
 REP/TAEUGZ
 REP/KWRU/TAEUGZ
 
+request
 r e q u e s t
 r ɪ k w ɛ́ s t
 REU/KW*ES
 REUBG/W*ES
 RU/KW*ES
 
+require
 r e q u i  r e
 r ɪ k w ɑ́j ə
 REU/KWAOEU/
 REUBG/WAOEU/
 RU/KWAOEU/
 
+requirement
 r e q u i  r e m e n t
 r ɪ k w ɑ́j ə   m ə n t
 REU/KWAOEU//PH-PBT
@@ -10533,6 +12799,7 @@ RU/KWAOEU//PH-PBT
 RU/KWAOEU/PH-PBT
 RU/KWAOEU/-PL/-PBT
 
+rescue
 r e s c   ue
 r ɛ́ s k j ʉw
 RES/KAOU
@@ -10540,11 +12807,13 @@ RES/KU/KWRAOU
 RES/-BG/KWRAOU
 RES/-BG/AOU
 
+research
 r e s ea r ch
 r ɪ s ə́ː   tʃ
 REU/SUR/-FP
 RU/SUR/-FP
 
+researcher
 r e s ea r ch e r
 r ɪ s ə́ː   tʃ ə
 REU/SUR/KH-R
@@ -10552,59 +12821,70 @@ REU/SUR/-FP/-R
 RU/SUR/KH-R
 RU/SUR/-FP/-R
 
+reservation
 r e s e r v a  ti o n
 r ɛ́ z ə   v ɛ́j ʃ  ə n
 REZ/SRAEUGZ
 REZ/-R/SRAEUGZ
 
+reserve
 r e s e  r v e
 r ɪ z ə́ː   v
 REU/SWRUR/-FB
 RU/SWRUR/-FB
 
+resident
 r e s i d e n t
 r ɛ́ z ɪ d ə n t
 REZ/TK-PBT
 REZ/UD/-PBT
 
+resist
 r e s i s t
 r ɪ z ɪ́ s t
 REU/SWR*EUS
 RU/SWR*EUS
 
+resolve
 r e s o l v e
 r ɪ z ɔ́ l v
 REU/SWRAUL/-FB
 RU/SWRAUL/-FB
 
+resort
 r e s o  r t
 r ɪ z óː   t
 REU/SWRAURT
 RU/SWRAURT
 
+resource
 r e s ou r c e
 r ɪ z óː   s
 REU/SWRAURS
 RU/SWRAURS
 
+respect
 r e s p e c t
 r ɪ s p ɛ́ k t
 REU/SPEBGT
 REUS/PEBGT
 RU/SPEBGT
 
+respond
 r e s p o n d
 r ɪ s p ɔ́ n d
 REU/SPAUPBD
 REUS/PAUPBD
 RU/SPAUPBD
 
+response
 r e s p o n s e
 r ɪ s p ɔ́ n s
 REU/SPAUPBS
 REUS/PAUPBS
 RU/SPAUPBS
 
+responsibility
 r e s p o n s i b i l i t y
 r ɪ s p ɔ́ n s ə b ɪ́ l ə t ɪj
 REU/SPAUPB/SPWEUL/TAE
@@ -10626,6 +12906,7 @@ RU/SPAUPB/SU/PWEUL/-T/AE
 RU/SPAUPBS/PWEUL/TAE
 RU/SPAUPBS/PWEUL/-T/AE
 
+responsible
 r e s p o n s i b   l e
 r ɪ s p ɔ́ n s ə b ə l
 REU/SPAUPB/SPW-L
@@ -10644,45 +12925,54 @@ RU/SPAUPB/S-B/-L
 RU/SPAUPBS/PW-L
 RU/SPAUPBS/-B/-L
 
+rest
 r e s t
 r ɛ́ s t
 R*ES
 
+restaurant
 r e s t au r a n t
 r ɛ́ s t    r ɔ n t
 R*ES/RAUPBT
 RES/TRAUPBT
 
+result
 r e s u l t
 r ɪ z ʌ́ l t
 REU/SWRULT
 RU/SWRULT
 
+retain
 r e t ai n
 r ɪ t ɛ́j n
 REU/TAEUPB
 RU/TAEUPB
 
+retire
 r e t i  r e
 r ɪ t ɑ́j ə
 REU/TAOEU/
 RU/TAOEU/
 
+retired
 r e t i  r e d
 r ɪ t ɑ́j ə   d
 REU/TAOEU/-D
 RU/TAOEU/-D
 
+return
 r e t u  r n
 r ɪ t ə́ː   n
 REU/TURPB
 RU/TURPB
 
+reveal
 r e v ea l
 r ɪ v ɪ́j l
 REU/SRAOEL
 RU/SRAOEL
 
+review
 r e v i ew
 r ɪ v j ʉ́w
 REU/SRAOU
@@ -10692,390 +12982,483 @@ REUFB/AOU
 RU/SRAOU
 RU/SRU/KWRAOU
 
+revise
 r e v i  s e
 r ɪ v ɑ́j z
 REU/SRAOEUZ
 RU/SRAOEUZ
 
+revolution
 r e v o l u  ti o n
 r ɛ́ v ə l ʉ́w ʃ  ə n
 REFB/HRAOUGZ
 
+reward
 r e w a  r d
 r ɪ w óː   d
 REU/WAURD
 RU/WAURD
 
+rhythm
 r h y th   m
 r   ɪ́ ð  ə m
 RU/HEUGT/-PL
 
+rice
 r i  c e
 r ɑ́j s
 RAOEUS
 
+rich
 r i ch
 r ɪ́ tʃ
 REUFP
 
+rid
 r i d
 r ɪ́ d
 REUD
 
+ride
 r i  d e
 r ɑ́j d
 RAOEUD
 
+right
 r i  gh t
 r ɑ́j    t
 ROEUGT
 
+ring
 r i ng
 r ɪ́ ŋ
 REUPBG
 
+rise
 r i  s e
 r ɑ́j z
 RAOEUZ
 
+risk
 r i s k
 r ɪ́ s k
 REUS/-BG
 
+river
 r i v e r
 r ɪ́ v ə
 REUFB/-R
 
+road
 r oa d
 r ə́w d
 ROED
 
+robot
 r o  b o t
 r ə́w b ɔ t
 ROEB/AUT
 
+rock
 r o c k
 r ɔ́   k
 RAUBG
 
+role
 r o  l e
 r ə́w l
 ROEL
 
+roll
 r o  ll
 r ə́w l
 ROEL
 
+romantic
 r o  m a n t i c
 r əw m á n t ɪ k
 ROE/PHAPB/T-BG
 ROE/PHAPBT/-BG
 
+roof
 r oo f
 r ʉ́w f
 RAOUF
 
+room
 r oo m
 r ʉ́w m
 RAOUPL
 
+root
 r oo t
 r ʉ́w t
 RAOUT
 
+rope
 r o  p e
 r ə́w p
 ROEP
 
+rough
 r ou gh
 r ʌ́  f
 RUF
 
+round
 r ou n d
 r áw n d
 ROUPBD
 
+route
 r ou t e
 r ʉ́w t
 RAOUT
 
+routine
 r ou t i  n e
 r ʉw t ɪ́j n
 RAOU/TAOEPB
 
+row
 r ow
 r áw
 ROU
 
+row
 r ow
 r ə́w
 ROE
 
+royal
 r oy a l
 r ój ə l
 ROEU/-L
 
+rub
 r u b
 r ʌ́ b
 RUB
 
+rubber
 r u bb e r
 r ʌ́ b  ə
 RUB/-R
 
+rubbish
 r u bb i sh
 r ʌ́ b  ɪ ʃ
 RUB/-GS
 
+rude
 r u  d e
 r ʉ́w d
 RAOUD
 
+rugby
 r u g b y
 r ʌ́ g b ɪj
 RUG/PWAE
 
+rule
 r u  l e
 r ʉ́w l
 RAOUL
 
+run
 r u n
 r ʌ́ n
 RUPB
 
+runner
 r u nn e r
 r ʌ́ n  ə
 RUPB/-R
 
+running
 r u nn i ng
 r ʌ́ n  ɪ ŋ
 RUPB/-PBG
 
+rural
 r u  r a l
 r ɵ́ː r ə l
 RAOUR/-L
 
+rush
 r u sh
 r ʌ́ ʃ
 RUGS
 
+sad
 s a d
 s á d
 SAD
 
+sadly
 s a d l y
 s á d l ɪj
 SAD/HRAE
 
+safe
 s a  f e
 s ɛ́j f
 SAEUF
 
+safety
 s a  f e t y
 s ɛ́j f   t ɪj
 SAEUF/TAE
 SAEUFT/AE
 
+sail
 s ai l
 s ɛ́j l
 SAEUL
 
+sailing
 s ai l i ng
 s ɛ́j l ɪ ŋ
 SAEUL/-PBG
 
+sailor
 s ai l o r
 s ɛ́j l ə
 SAEUL/-R
 
+salad
 s a l a d
 s á l ə d
 SAL/UD
 
+salary
 s a l a r y
 s á l ə r ɪj
 SAL/RAE
 SAL/-R/AE
 
+sale
 s a  l e
 s ɛ́j l
 SAEUL
 
+salt
 s a l t
 s ɔ́ l t
 SAULT
 
+same
 s a  m e
 s ɛ́j m
 SAEUPL
 
+sample
 s a  m p   l e
 s ɑ́ː m p ə l
 SAUFPL/-L
 SAUPL/P-L
 
+sand
 s a n d
 s á n d
 SAPBD
 
+sandwich
 s a n d w i ch
 s á n   w ɪ dʒ
 SAPB/W-PBLG
 
+satellite
 s a t e ll i  t e
 s á t ə l  ɑj t
 SAT/HRAOEUT
 SAT/-L/AOEUT
 
+satisfied
 s a t i s f ie d
 s á t ɪ s f ɑj d
 SAT/STPAOEUD
 SAT/-S/TPAOEUD
 
+satisfy
 s a t i s f y
 s á t ɪ s f ɑj
 SAT/STPAOEU
 SAT/-S/TPAOEU
 
+Saturday
 S a t u r d ay
 s á t ə   d ɛj
 SAT/TKAEU
 SAT/-R/TKAEU
 SAT/-RD/AEU
 
+sauce
 s au c e
 s óː s
 SAUS
 
+save
 s a  v e
 s ɛ́j v
 SAEUFB
 
+saving
 s a  v i ng
 s ɛ́j v ɪ ŋ
 SAEUFB/-PBG
 
+say
 s ay
 s ɛ́j
 SAEU
 
+scale
 s c a  l e
 s k ɛ́j l
 SKAEUL
 
+scan
 s c a n
 s k á n
 SKAPB
 
+scared
 s c a  r e d
 s k ɛ́ː     d
 SKAEURD
 
+scary
 s c a  r y
 s k ɛ́ː r ɪj
 SKAEUR/AE
 
+scene
 s c e  n e
 s   ɪ́j n
 SAOEPB
 
+schedule
 sch e d  u  l e
 ʃ   ɛ́ dʒ ʉw l
 SHEPBLG/AOUL
 
+scheme
 s ch e  m e
 s k  ɪ́j m
 SKAOEPL
 
+school
 s ch oo l
 s k  ʉ́w l
 SKAOUL
 
+science
 s c i  e n c e
 s   ɑ́j ə n s
 SAOEU/-PBS
 
+scientific
 s c i  e n t i f i c
 s   ɑ́j ə n t ɪ́ f ɪ k
 SAOEU/-PB/TEUF/-BG
 
+scientist
 s c i  e n t i s t
 s   ɑ́j ə n t ɪ s t
 SAOEU/-PB/T*S
 SAOEU/-PBT/*S
 
+score
 s c o  r e
 s k óː
 SKAUR
 
+scream
 s c r ea m
 s k r ɪ́j m
 SKRAOEPL
 
+screen
 s c r ee n
 s k r ɪ́j n
 SKRAOEPB
 
+script
 s c r i p t
 s k r ɪ́ p t
 SKREUPT
 
+sculpture
 s c u l p t  u r e
 s k ʌ́ l p tʃ ə
 SKUL/-P/KH-R
 
+sea
 s ea
 s ɪ́j
 SAE
 
+search
 s ea r ch
 s ə́ː   tʃ
 SUR/-FP
 
+season
 s ea s o n
 s ɪ́j z ə n
 SAOEZ/-PB
 
+seat
 s ea t
 s ɪ́j t
 SAOET
 
+second
 s e c o n d
 s ɛ́ k ə n d
 SEBG/-PBD
 
+second
 s e c o n d
 s ɪ k ɔ́ n d
 SKAUPBD
 SEU/KAUPBD
 
+secondary
 s e c o n d a r y
 s ɛ́ k ə n d   r ɪj
 SEBG/-PB/TKRAE
 SEBG/-PBD/RAE
 
+secondly
 s e c o n d l y
 s ɛ́ k ə n d l ɪj
 SEBG/-PBD/HRAE
 
+secret
 s e  c r e t
 s ɪ́j k r ə t
 SAOEBG/R-T
 
+secretary
 s e c r e t a r y
 s ɛ́ k r ə t   r ɪj
 SEBG/RU/TRAE
 SEBG/R-T/RAE
 
+section
 s e c ti o n
 s ɛ́ k ʃ  ə n
 SEBG/SH-PB
 
+sector
 s e c t o r
 s ɛ́ k t ə
 SEBG/T-R
 SEBGT/-R
 
+secure
 s e c   u  r e
 s ɪ k j ɵ́ː
 SKU/KWRAOUR
@@ -11084,6 +13467,7 @@ SEU/KU/KWRAOUR
 SEUBG/KWRAOUR
 SEUBG/AOUR
 
+security
 s e c   u  r i t y
 s ɪ k j ɵ́ː r ə t ɪj
 SKU/KWRAOUR/TAE
@@ -11097,52 +13481,64 @@ SEUBG/KWRAOUR/-T/AE
 SEUBG/AOUR/TAE
 SEUBG/AOUR/-T/AE
 
+see
 s ee
 s ɪ́j
 SAE
 
+seed
 s ee d
 s ɪ́j d
 SAOED
 
+seek
 s ee k
 s ɪ́j k
 SAOEBG
 
+seem
 s ee m
 s ɪ́j m
 SAOEPL
 
+select
 s e l e c t
 s ɪ l ɛ́ k t
 SHREBGT
 SEU/HREBGT
 
+selection
 s e l e c ti o n
 s ɪ l ɛ́ k ʃ  ə n
 SHREBG/SH-PB
 SEU/HREBG/SH-PB
 
+self
 s e l f
 s ɛ́ l f
 SEL/-F
 
+sell
 s e ll
 s ɛ́ l
 SEL
 
+send
 s e n d
 s ɛ́ n d
 SEPBD
 
+senior
 s e  n i  o r
 s ɪ́j n ɪj ə
 SAOEPB/AE/-R
 
+sense
 s e n s e
 s ɛ́ n s
 SEPBS
 
+sensible
 s e n s i b   l e
 s ɛ́ n s ə b ə l
 SEPB/SPW-L
@@ -11151,6 +13547,7 @@ SEPB/S-B/-L
 SEPBS/PW-L
 SEPBS/-B/-L
 
+sensitive
 s e n s i t i v e
 s ɛ́ n s ə t ɪ v
 SEPB/ST-FB
@@ -11159,316 +13556,391 @@ SEPB/S-T/-FB
 SEPBS/T-FB
 SEPBS/-T/-FB
 
+sentence
 s e n t e n c e
 s ɛ́ n t ə n s
 SEPB/T-PBS
 SEPBT/-PBS
 
+separate
 s e p a r a t e
 s ɛ́ p   r ə t
 SEP/R-T
 
+separate
 s e p a r a  t e
 s ɛ́ p ə r ɛj t
 SEP/RAEUT
 SEP/-R/AEUT
 
+September
 S e p t e m b e r
 s ɛ p t ɛ́ m b ə
 SEP/TEPL/PW-R
 
+sequence
 s e  q u e n c e
 s ɪ́j k w ə n s
 SAOEBG/W-PBS
 
+series
 s e  r ie s
 s ɪ́ː r ɪj z
 SAOER/AOEZ
 
+serious
 s e  r i  ou s
 s ɪ́ː r ɪj ə  s
 SAOER/AE/-S
 
+seriously
 s e  r i  ou s l y
 s ɪ́ː r ɪj ə  s l ɪj
 SAOER/AE/SHRAE
 SAOER/AE/-S/HRAE
 
+servant
 s e  r v a n t
 s ə́ː   v ə n t
 SUR/SR-PBT
 SUR/-FB/-PBT
 
+serve
 s e  r v e
 s ə́ː   v
 SUR/-FB
 
+service
 s e  r v i c e
 s ə́ː   v ɪ s
 SUR/SR-S
 SUR/-FB/-S
 
+session
 s e ssi o n
 s ɛ́ ʃ   ə n
 SEGZ
 
+set
 s e t
 s ɛ́ t
 SET
 
+setting
 s e tt i ng
 s ɛ́ t  ɪ ŋ
 SET/-PBG
 
+settle
 s e tt   l e
 s ɛ́ t  ə l
 SET/-L
 
+seven
 s e v e n
 s ɛ́ v ə n
 SEFB/-PB
 
+seventeen
 s e v e n t ee n
 s ɛ́ v ə n t ɪ́j n
 SEFB/-PB/TAOEPB
 
+seventy
 s e v e n t y
 s ɛ́ v ə n t ɪj
 SEFB/-PB/TAE
 SEFB/-PBT/AE
 
+several
 s e v e r a l
 s ɛ́ v   r ə l
 SEFB/R-L
 
+severe
 s e v e  r e
 s ɪ v ɪ́ː
 SEU/SRAOER
 SU/SRAOER
 
+sex
 s e x -
 s ɛ́ k s
 SEBGS
 
+sexual
 s e x - u  a l
 s ɛ́ k ʃ ʉw ə l
 SEBG/SHAOU/-L
 
+shade
 sh a  d e
 ʃ  ɛ́j d
 SHAEUD
 
+shadow
 sh a d ow
 ʃ  á d əw
 SHAD/OE
 
+shake
 sh a  k e
 ʃ  ɛ́j k
 SHAEUBG
 
+shall
 sh a ll
 ʃ  á l
 SHAL
 
+shall
 sh a ll
 ʃ  ə l
 SHUL
 
+shallow
 sh a ll ow
 ʃ  á l  əw
 SHAL/OE
 
+shame
 sh a  m e
 ʃ  ɛ́j m
 SHAEUPL
 
+shape
 sh a  p e
 ʃ  ɛ́j p
 SHAEUP
 
+share
 sh a  r e
 ʃ  ɛ́ː
 SHAEUR
 
+sharp
 sh a  r p
 ʃ  ɑ́ː   p
 SHAURP
 
+she
 sh e
 ʃ  ɪ́j
 SHAE
 
+sheep
 sh ee p
 ʃ  ɪ́j p
 SHAOEP
 
+sheet
 sh ee t
 ʃ  ɪ́j t
 SHAOET
 
+shelf
 sh e l f
 ʃ  ɛ́ l f
 SHEL/-F
 
+shell
 sh e ll
 ʃ  ɛ́ l
 SHEL
 
+shelter
 sh e l t e r
 ʃ  ɛ́ l t ə
 SHEL/T-R
 SHELT/-R
 
+shift
 sh i f t
 ʃ  ɪ́ f t
 SHEUFT
 
+shine
 sh i  n e
 ʃ  ɑ́j n
 SHAOEUPB
 
+shiny
 sh i  n y
 ʃ  ɑ́j n ɪj
 SHAOEUPB/AE
 
+ship
 sh i p
 ʃ  ɪ́ p
 SHEUP
 
+shirt
 sh i  r t
 ʃ  ə́ː   t
 SHURT
 
+shock
 sh o c k
 ʃ  ɔ́   k
 SHAUBG
 
+shocked
 sh o c k e d
 ʃ  ɔ́   k   t
 SHAUBGT
 
+shoe
 sh oe
 ʃ  ʉ́w
 SHAOU
 
+shoot
 sh oo t
 ʃ  ʉ́w t
 SHAOUT
 
+shooting
 sh oo t i ng
 ʃ  ʉ́w t ɪ ŋ
 SHAOUT/-PBG
 
+shop
 sh o p
 ʃ  ɔ́ p
 SHAUP
 
+shopping
 sh o pp i ng
 ʃ  ɔ́ p  ɪ ŋ
 SHAUP/-PBG
 
+short
 sh o  r t
 ʃ  óː   t
 SHAURT
 
+shot
 sh o t
 ʃ  ɔ́ t
 SHAUT
 
+should
 sh ou l d
 ʃ  ɵ́    d
 SHAOD
 
+should
 sh ou l d
 ʃ  ə    d
 SHUD
 
+shoulder
 sh ou l d e r
 ʃ  ə́w l d ə
 SHOEL/TK-R
 SHOELD/-R
 
+shout
 sh ou t
 ʃ  áw t
 SHOUT
 
+show
 sh ow
 ʃ  ə́w
 SHOE
 
+shower
 sh ow e r
 ʃ  áw ə
 SHOU/-R
 
+shut
 sh u t
 ʃ  ʌ́ t
 SHUT
 
+shy
 sh y
 ʃ  ɑ́j
 SHAOEU
 
+sick
 s i c k
 s ɪ́   k
 SEUBG
 
+side
 s i  d e
 s ɑ́j d
 SAOEUD
 
+sight
 s i  gh t
 s ɑ́j    t
 SOEUGT
 
+sign
 s i  g n
 s ɑ́j   n
 SAOEUPB
 
+signal
 s i g n a l
 s ɪ́ g n ə l
 SEUG/TPH-L
 
+significant
 s i g n i f i c a n t
 s ɪ g n ɪ́ f ɪ k ə n t
 SEUG/TPHEUF/K-PBT
 SEUG/TPHEUF/-BG/-PBT
 
+significantly
 s i g n i f i c a n t l y
 s ɪ g n ɪ́ f ɪ k ə n t l ɪj
 SEUG/TPHEUF/K-PBT/HRAE
 SEUG/TPHEUF/-BG/-PBT/HRAE
 
+silence
 s i  l e n c e
 s ɑ́j l ə n s
 SAOEUL/-PBS
 
+silent
 s i  l e n t
 s ɑ́j l ə n t
 SAOEUL/-PBT
 
+silk
 s i l k
 s ɪ́ l k
 SEUL/-BG
 
+silly
 s i ll y
 s ɪ́ l  ɪj
 SEUL/AE
 
+silver
 s i l v e r
 s ɪ́ l v ə
 SEUL/SR-R
 SEUL/-FB/-R
 
+similar
 s i m i l a r
 s ɪ́ m ə l ə
 SEUPL/HR-R
 SEUPL/-L/-R
 
+similarity
 s i m i l a r i t y
 s ɪ́ m ə l á r ə t ɪj
 SEUPL/HRAR/TAE
 SEUPL/HRAR/-T/AE
 
+similarly
 s i m i l a r l y
 s ɪ́ m ə l ə   l ɪj
 SEUPL/HRU/HRAE
@@ -11478,765 +13950,948 @@ SEUPL/-L/HRAE
 SEUPL/-L/-R/HRAE
 SEUPL/-L/-RL/AE
 
+simple
 s i m p   l e
 s ɪ́ m p ə l
 SEUFPL/-L
 SEUPL/P-L
 
+simply
 s i m p l y
 s ɪ́ m p l ɪj
 SEUFPL/HRAE
 SEUPL/PHRAE
 
+since
 s i n c e
 s ɪ́ n s
 SEUPBS
 
+sincere
 s i n c e  r e
 s ɪ n s ɪ́ː
 SEUPB/SAOER
 
+sing
 s i ng
 s ɪ́ ŋ
 SEUPBG
 
+singer
 s i ng e r
 s ɪ́ ŋ  ə
 SEUPBG/-R
 
+singing
 s i ng i ng
 s ɪ́ ŋ  ɪ ŋ
 SEUPBG/-PBG
 
+single
 s i n g   l e
 s ɪ́ ŋ g ə l
 SEUPBG/TKPW-L
 SEUPBG/-G/-L
 
+sink
 s i n k
 s ɪ́ ŋ k
 SEUPBG/-BG
 
+sir
 s i  r
 s ə́ː
 SUR
 
+sister
 s i s t e r
 s ɪ́ s t ə
 S*EUS/-R
 SEUS/T-R
 
+sit
 s i t
 s ɪ́ t
 SEUT
 
+site
 s i  t e
 s ɑ́j t
 SAOEUT
 
+situation
 s i t  u  a  ti o n
 s ɪ́ tʃ ʉw ɛ́j ʃ  ə n
 SEUFP/AOU/AEUGZ
 
+six
 s i x -
 s ɪ́ k s
 SEUBGS
 
+sixteen
 s i x - t ee n
 s ɪ́ k s t ɪ́j n
 S*EUBGS/AOEPB
 SEUBG/STAOEPB
 SEUBGS/TAOEPB
 
+sixty
 s i x - t y
 s ɪ́ k s t ɪj
 S*EUBGS/AE
 SEUBG/STAE
 SEUBGS/TAE
 
+size
 s i  z e
 s ɑ́j z
 SAOEUZ
 
+ski
 s k i
 s k ɪ́j
 SKAE
 
+skiing
 s k i  i ng
 s k ɪ́j ɪ ŋ
 SKAE/-PBG
 
+skill
 s k i ll
 s k ɪ́ l
 SKEUL
 
+skin
 s k i n
 s k ɪ́ n
 SKEUPB
 
+skirt
 s k i  r t
 s k ə́ː   t
 SKURT
 
+sky
 s k y
 s k ɑ́j
 SKAOEU
 
+slave
 s l a  v e
 s l ɛ́j v
 SHRAEUFB
 
+sleep
 s l ee p
 s l ɪ́j p
 SHRAOEP
 
+slice
 s l i  c e
 s l ɑ́j s
 SHRAOEUS
 
+slide
 s l i  d e
 s l ɑ́j d
 SHRAOEUD
 
+slight
 s l i  gh t
 s l ɑ́j    t
 SHROEUGT
 
+slightly
 s l i  gh t l y
 s l ɑ́j    t l ɪj
 SHROEUGT/HRAE
 
+slip
 s l i p
 s l ɪ́ p
 SHREUP
 
+slope
 s l o  p e
 s l ə́w p
 SHROEP
 
+slow
 s l ow
 s l ə́w
 SHROE
 
+slowly
 s l ow l y
 s l ə́w l ɪj
 SHROEL/AE
 
+small
 s m a  ll
 s m óː l
 SPHAUL
 
+smart
 s m a  r t
 s m ɑ́ː   t
 SPHAURT
 
+smell
 s m e ll
 s m ɛ́ l
 SPHEL
 
+smile
 s m i  l e
 s m ɑ́j l
 SPHAOEUL
 
+smoke
 s m o  k e
 s m ə́w k
 SPHOEBG
 
+smoking
 s m o  k i ng
 s m ə́w k ɪ ŋ
 SPHOEBG/-PBG
 
+smooth
 s m oo th
 s m ʉ́w ð
 SPHAOUGT
 
+snake
 s n a  k e
 s n ɛ́j k
 STPHAEUBG
 
+snow
 s n ow
 s n ə́w
 STPHOE
 
+so
 s o
 s ə́w
 SOE
 
+soap
 s oa p
 s ə́w p
 SOEP
 
+soccer
 s o cc e r
 s ɔ́ k  ə
 SAUBG/-R
 
+social
 s o  ci a l
 s ə́w ʃ  ə l
 SOEGS/-L
 
+society
 s o c i  e t y
 s ə s ɑ́j ə t ɪj
 SU/SAOEU/TAE
 SU/SAOEU/-T/AE
 
+sock
 s o c k
 s ɔ́   k
 SAUBG
 
+soft
 s o f t
 s ɔ́ f t
 SAUFT
 
+software
 s o f t w a  r e
 s ɔ́ f t w ɛː
 SAUF/TWAEUR
 SAUFT/WAEUR
 
+soil
 s oi l
 s ój l
 SOEUL
 
+solar
 s o  l a r
 s ə́w l ə
 SOEL/-R
 
+soldier
 s o  l d  i e r
 s ə́w l dʒ ə
 SOEL/SKWR-R
 SOEL/-PBLG/-R
 
+solid
 s o l i d
 s ɔ́ l ɪ d
 SAUL/UD
 
+solution
 s o l u  ti o n
 s ə l ʉ́w ʃ  ə n
 SHRAOUGZ
 SU/HRAOUGZ
 
+solve
 s o l v e
 s ɔ́ l v
 SAUL/-FB
 
+some
 s o m e
 s ə m
 SUPL
 
+some
 s o m e
 s ʌ́ m
 SUPL
 
+somebody
 s o m e b o d y
 s ʌ́ m   b ə d ɪj
 SUPL/PWU/TKAE
 SUPL/PW-D/AE
 
+someone
 s o m e o - n e
 s ʌ́ m   w ʌ n
 SUPL/W-PB
 
+something
 s o m e th i ng
 s ʌ́ m   θ  ɪ ŋ
 SUPL/TH-PBG
 SUPLGT/-PBG
 
+sometimes
 s o m e t i  m e s
 s ʌ́ m   t ɑj m   z
 SUPL/TAOEUPLZ
 SUPLT/AOEUPLZ
 
+somewhat
 s o m e w h a t
 s ʌ́ m   w   ɔ t
 SUPL/WHAUT
 
+somewhere
 s o m e w h e  r e
 s ʌ́ m   w   ɛː
 SUPL/WHAEUR
 
+son
 s o n
 s ʌ́ n
 SUPB
 
+song
 s o ng
 s ɔ́ ŋ
 SAUPBG
 
+soon
 s oo n
 s ʉ́w n
 SAOUPB
 
+sorry
 s o rr y
 s ɔ́ r  ɪj
 SAUR/AE
 
+sort
 s o  r t
 s óː   t
 SAURT
 
+soul
 s ou l
 s ə́w l
 SOEL
 
+sound
 s ou n d
 s áw n d
 SOUPBD
 
+soup
 s ou p
 s ʉ́w p
 SAOUP
 
+source
 s ou r c e
 s óː   s
 SAURS
 
+south
 s ou th
 s áw θ
 SOUGT
 
+southern
 s ou th e r n
 s ʌ́  ð  ə   n
 SUGT/-RPB
 
+space
 s p a  c e
 s p ɛ́j s
 SPAEUS
 
+speak
 s p ea k
 s p ɪ́j k
 SPAOEBG
 
+speaker
 s p ea k e r
 s p ɪ́j k ə
 SPAOEBG/-R
 
+special
 s p e ci a l
 s p ɛ́ ʃ  ə l
 SPEGS/-L
 
+specialist
 s p e ci a l i s t
 s p ɛ́ ʃ  ə l ɪ s t
 SPEGS/HR*S
 SPEGS/-L/*S
 
+species
 s p e  c ie s
 s p ɪ́j ʃ ɪj z
 SPAOEGS/AOEZ
 
+specific
 s p e c i f i c
 s p ə s ɪ́ f ɪ k
 SPU/SEUF/-BG
 
+specifically
 s p e c i f i c a ll y
 s p ə s ɪ́ f ɪ k   l  ɪj
 SPU/SEUF/KHRAE
 SPU/SEUF/-BG/HRAE
 
+speech
 s p ee ch
 s p ɪ́j tʃ
 SPAOEFP
 
+speed
 s p ee d
 s p ɪ́j d
 SPAOED
 
+spell
 s p e ll
 s p ɛ́ l
 SPEL
 
+spelling
 s p e ll i ng
 s p ɛ́ l  ɪ ŋ
 SPEL/-PBG
 
+spend
 s p e n d
 s p ɛ́ n d
 SPEPBD
 
+spending
 s p e n d i ng
 s p ɛ́ n d ɪ ŋ
 SPEPB/TK-PBG
 SPEPBD/-PBG
 
+spicy
 s p i  c y
 s p ɑ́j s ɪj
 SPAOEUS/AE
 
+spider
 s p i  d e r
 s p ɑ́j d ə
 SPAOEUD/-R
 
+spirit
 s p i r i t
 s p ɪ́ r ɪ t
 SPEUR/-T
 
+spiritual
 s p i r i t  u  a l
 s p ɪ́ r ɪ tʃ ʉw ə l
 SPEUR/KHAOU/-L
 SPEUR/-FP/AOU/-L
 
+split
 s p l i t
 s p l ɪ́ t
 SPHREUT
 
+spoken
 s p o  k e n
 s p ə́w k ə n
 SPOEBG/-PB
 
+sponsor
 s p o n s o r
 s p ɔ́ n s ə
 SPAUPB/S-R
 SPAUPBS/-R
 
+spoon
 s p oo n
 s p ʉ́w n
 SPAOUPB
 
+sport
 s p o  r t
 s p óː   t
 SPAURT
 
+spot
 s p o t
 s p ɔ́ t
 SPAUT
 
+spread
 s p r ea d
 s p r ɛ́  d
 SPRED
 
+spring
 s p r i ng
 s p r ɪ́ ŋ
 SPREUPBG
 
+square
 s q u a  r e
 s k w ɛ́ː
 SKWAEUR
 
+stable
 s t a  b   l e
 s t ɛ́j b ə l
 STAEUB/-L
 
+stadium
 s t a  d i  u m
 s t ɛ́j d ɪj ə m
 STAEUD/AE/-PL
 
+staff
 s t a  ff
 s t ɑ́ː f
 STAUF
 
+stage
 s t a  g  e
 s t ɛ́j dʒ
 STAEUPBLG
 
+stair
 s t ai r
 s t ɛ́ː
 STAEUR
 
+stamp
 s t a m p
 s t á m p
 STAFPL
 
+stand
 s t a n d
 s t á n d
 STAPBD
 
+standard
 s t a n d a r d
 s t á n d ə   d
 STAPB/TK-RD
 STAPBD/-RD
 
+star
 s t a  r
 s t ɑ́ː
 STAUR
 
+stare
 s t a  r e
 s t ɛ́ː
 STAEUR
 
+start
 s t a  r t
 s t ɑ́ː   t
 STAURT
 
+state
 s t a  t e
 s t ɛ́j t
 STAEUT
 
+statement
 s t a  t e m e n t
 s t ɛ́j t   m ə n t
 STAEUT/PH-PBT
 
+station
 s t a  ti o n
 s t ɛ́j ʃ  ə n
 STAEUGZ
 
+statistic
 s t a t i s t i c
 s t ə t ɪ́ s t ɪ k
 STU/T*EUS/-BG
 STU/TEUS/T-BG
 
+statue
 s t a t  ue
 s t á tʃ ʉw
 STAFP/AOU
 
+status
 s t a  t u s
 s t ɛ́j t ə s
 STAEUT/-S
 
+stay
 s t ay
 s t ɛ́j
 STAEU
 
+steady
 s t ea d y
 s t ɛ́  d ɪj
 STED/AE
 
+steal
 s t ea l
 s t ɪ́j l
 STAOEL
 
+steel
 s t ee l
 s t ɪ́j l
 STAOEL
 
+steep
 s t ee p
 s t ɪ́j p
 STAOEP
 
+step
 s t e p
 s t ɛ́ p
 STEP
 
+stick
 s t i c k
 s t ɪ́   k
 STEUBG
 
+sticky
 s t i c k y
 s t ɪ́   k ɪj
 STEU/KAE
 STEUBG/AE
 
+stiff
 s t i ff
 s t ɪ́ f
 STEUF
 
+still
 s t i ll
 s t ɪ́ l
 STEUL
 
+stock
 s t o c k
 s t ɔ́   k
 STAUBG
 
+stomach
 s t o m a ch
 s t ʌ́ m ə k
 STUPL/-BG
 
+stone
 s t o  n e
 s t ə́w n
 STOEPB
 
+stop
 s t o p
 s t ɔ́ p
 STAUP
 
+store
 s t o  r e
 s t óː
 STAUR
 
+storm
 s t o  r m
 s t óː   m
 STAURPL
 
+story
 s t o  r y
 s t óː r ɪj
 STAUR/AE
 
+straight
 s t r ai gh t
 s t r ɛ́j    t
 STRAEUT
 
+strange
 s t r a  n g  e
 s t r ɛ́j n dʒ
 STRAEUPB/-PBLG
 
+stranger
 s t r a  n g  e r
 s t r ɛ́j n dʒ ə
 STRAEUPB/SKWR-R
 STRAEUPB/-PBLG/-R
 
+strategy
 s t r a t e g  y
 s t r á t ə dʒ ɪj
 STRAT/SKWRAE
 STRAT/-PBLG/AE
 
+stream
 s t r ea m
 s t r ɪ́j m
 STRAOEPL
 
+street
 s t r ee t
 s t r ɪ́j t
 STRAOET
 
+strength
 s t r e ng   th
 s t r ɛ́ ŋ  k θ
 STREPBG/-BG/-GT
 
+stress
 s t r e ss
 s t r ɛ́ s
 STRES
 
+stretch
 s t r e tch
 s t r ɛ́ tʃ
 STREFP
 
+strict
 s t r i c t
 s t r ɪ́ k t
 STREUBGT
 
+strike
 s t r i  k e
 s t r ɑ́j k
 STRAOEUBG
 
+string
 s t r i ng
 s t r ɪ́ ŋ
 STREUPBG
 
+strong
 s t r o ng
 s t r ɔ́ ŋ
 STRAUPBG
 
+strongly
 s t r o ng l y
 s t r ɔ́ ŋ  l ɪj
 STRAUPBG/HRAE
 
+structure
 s t r u c t  u r e
 s t r ʌ́ k tʃ ə
 STRUBG/KH-R
 
+struggle
 s t r u gg   l e
 s t r ʌ́ g  ə l
 STRUG/-L
 
+student
 s t  u  d e n t
 s tʃ ʉ́w d ə n t
 SKHAOUD/-PBT
 
+studio
 s t  u  d i  o
 s tʃ ʉ́w d ɪj əw
 SKHAOUD/AE/OE
 
+study
 s t u d y
 s t ʌ́ d ɪj
 STUD/AE
 
+stuff
 s t u ff
 s t ʌ́ f
 STUF
 
+stupid
 s t  u  p i d
 s tʃ ʉ́w p ɪ d
 SKHAOUP/UD
 
+style
 s t y  l e
 s t ɑ́j l
 STAOEUL
 
+subject
 s u b j  e c t
 s ə b dʒ ɛ́ k t
 SUB/SKWREBGT
 
+subject
 s u b j  e c t
 s ʌ́ b dʒ ɛ k t
 SUB/SKWREBGT
 
+submit
 s u b m i t
 s ə b m ɪ́ t
 SUB/PHEUT
 
+substance
 s u b s t a n c e
 s ʌ́ b s t ə n s
 SUB/ST-PBS
 
+succeed
 s u c c ee d
 s ə k s ɪ́j d
 SUBG/SAOED
 
+success
 s u c c e ss
 s ə k s ɛ́ s
 SUBG/SES
 
+successful
 s u c c e ss f u l
 s ə k s ɛ́ s  f ə l
 SUBG/SES/TP-L
 
+successfully
 s u c c e ss f u ll y
 s ə k s ɛ́ s  f ə l  ɪj
 SUBG/SES/TPHRAE
 SUBG/SES/TPU/HRAE
 SUBG/SES/TP-L/AE
 
+such
 s u ch
 s ʌ́ tʃ
 SUFP
 
+sudden
 s u dd e n
 s ʌ́ d  ə n
 SUD/-PB
 
+suddenly
 s u dd e n l y
 s ʌ́ d  ə n l ɪj
 SUD/-PB/HRAE
 
+suffer
 s u ff e r
 s ʌ́ f  ə
 SUF/-R
 
+sugar
 s u g a r
 ʃ ɵ́ g ə
 SHAOG/-R
 
+suggest
 s u gg e s t
 s ə dʒ ɛ́ s t
 SU/SKWR*ES
 
+suggestion
 s u gg e s ti o n
 s ə dʒ ɛ́ s tʃ ə n
 SU/SKWRES/KH-PB
 
+suit
 s ui t
 s ʉ́w t
 SAOUT
 
+suitable
 s ui t a b   l e
 s ʉ́w t ə b ə l
 SAOUT/PW-L
 SAOUT/-B/-L
 
+sum
 s u m
 s ʌ́ m
 SUPL
 
+summarize
 s u mm a r i  z e
 s ʌ́ m  ə r ɑj z
 SUPL/RAOEUZ
 SUPL/-R/AOEUZ
 
+summary
 s u mm a r y
 s ʌ́ m  ə r ɪj
 SUPL/RAE
 SUPL/-R/AE
 
+summer
 s u mm e r
 s ʌ́ m  ə
 SUPL/-R
 
+sun
 s u n
 s ʌ́ n
 SUPB
 
+Sunday
 S u n d ay
 s ʌ́ n d ɛj
 SUPB/TKAEU
 SUPBD/AEU
 
+supermarket
 s u  p e r m a  r k e t
 s ʉ́w p ə   m ɑː   k ɪ t
 SAOUP/PHAU/K-T
@@ -12249,17 +14904,20 @@ SAOUP/-RPL/AU/K-T
 SAOUP/-RPL/AUR/K-T
 SAOUP/-RPL/AURBG/-T
 
+supply
 s u pp l y
 s ə p  l ɑ́j
 SPHRAOEU
 SU/PHRAOEU
 SUP/HRAOEU
 
+support
 s u pp o  r t
 s ə p  óː   t
 SPAURT
 SU/PAURT
 
+supporter
 s u pp o  r t e r
 s ə p  óː   t ə
 SPAUR/T-R
@@ -12267,25 +14925,30 @@ SPAURT/-R
 SU/PAUR/T-R
 SU/PAURT/-R
 
+suppose
 s u pp o  s e
 s ə p  ə́w z
 SPOEZ
 SU/POEZ
 
+sure
 s u  r e
 ʃ óː
 SHAUR
 
+surely
 s u  r e l y
 ʃ óː     l ɪj
 SHAUR/HRAE
 SHAURL/AE
 
+surface
 s u  r f a c e
 s ə́ː   f ɪ s
 SUR/TP-S
 SUR/-F/-S
 
+surgery
 s u  r g  e r y
 s ə́ː   dʒ ə r ɪj
 SUR/SKWRU/RAE
@@ -12293,6 +14956,7 @@ SUR/SKWR-R/AE
 SURPBLG/RAE
 SURPBLG/-R/AE
 
+surprise
 s u r p r i  s e
 s ə   p r ɑ́j z
 SPRAOEUZ
@@ -12300,6 +14964,7 @@ SU/PRAOEUZ
 SUR/PRAOEUZ
 SURP/RAOEUZ
 
+surprised
 s u r p r i  s e d
 s ə   p r ɑ́j z   d
 SPRAOEUZ/-D
@@ -12307,6 +14972,7 @@ SU/PRAOEUZ/-D
 SUR/PRAOEUZ/-D
 SURP/RAOEUZ/-D
 
+surprising
 s u r p r i  s i ng
 s ə   p r ɑ́j z ɪ ŋ
 SPRAOEUZ/-PBG
@@ -12314,11 +14980,13 @@ SU/PRAOEUZ/-PBG
 SUR/PRAOEUZ/-PBG
 SURP/RAOEUZ/-PBG
 
+surround
 s u rr ou n d
 s ə r  áw n d
 SROUPBD
 SU/ROUPBD
 
+surrounding
 s u rr ou n d i ng
 s ə r  áw n d ɪ ŋ
 SROUPB/TK-PBG
@@ -12326,63 +14994,77 @@ SROUPBD/-PBG
 SU/ROUPB/TK-PBG
 SU/ROUPBD/-PBG
 
+survey
 s u r v ey
 s ə   v ɛ́j
 SU/SRAEU
 SUR/SRAEU
 
+survey
 s u  r v ey
 s ə́ː   v ɛj
 SUR/SRAEU
 SUR/-FB/AEU
 
+survive
 s u r v i  v e
 s ə   v ɑ́j v
 SU/SRAOEUFB
 SUR/SRAOEUFB
 
+suspect
 s u s p e c t
 s ə s p ɛ́ k t
 SU/SPEBGT
 SUS/PEBGT
 
+suspect
 s u s p e c t
 s ʌ́ s p ɛ k t
 SUS/PEBGT
 SUS/-P/EBGT
 
+swear
 s w ea r
 s w ɛ́ː
 SWAEUR
 
+sweater
 s w ea t e r
 s w ɛ́  t ə
 SWET/-R
 
+sweep
 s w ee p
 s w ɪ́j p
 SWAOEP
 
+sweet
 s w ee t
 s w ɪ́j t
 SWAOET
 
+swim
 s w i m
 s w ɪ́ m
 SWEUPL
 
+swimming
 s w i mm i ng
 s w ɪ́ m  ɪ ŋ
 SWEUPL/-PBG
 
+switch
 s w i tch
 s w ɪ́ tʃ
 SWEUFP
 
+symbol
 s y m b o l
 s ɪ́ m b ə l
 SEUPL/PW-L
 
+sympathy
 s y m p a th y
 s ɪ́ m p ə θ  ɪj
 SEUFPL/THAE
@@ -12390,147 +15072,181 @@ SEUFPL/-GT/AE
 SEUPL/PU/THAE
 SEUPL/P-GT/AE
 
+symptom
 s y m p t o m
 s ɪ́ m p t ə m
 SEUFPL/T-PL
 SEUFPLT/-PL
 
+system
 s y s t e m
 s ɪ́ s t ə m
 S*EUS/-PL
 SEUS/T-PL
 
+table
 t a  b   l e
 t ɛ́j b ə l
 TAEUB/-L
 
+tablet
 t a b l e t
 t á b l ə t
 TAB/HR-T
 
+tail
 t ai l
 t ɛ́j l
 TAEUL
 
+take
 t a  k e
 t ɛ́j k
 TAEUBG
 
+tale
 t a  l e
 t ɛ́j l
 TAEUL
 
+talent
 t a l e n t
 t á l ə n t
 TAL/-PBT
 
+talented
 t a l e n t e d
 t á l ə n t ɪ d
 TAL/-PB/T-D
 TAL/-PBT/UD
 
+talk
 t a  l k
 t óː   k
 TAUBG
 
+tall
 t a  ll
 t óː l
 TAUL
 
+tank
 t a n k
 t á ŋ k
 TAPBG/-BG
 
+tape
 t a  p e
 t ɛ́j p
 TAEUP
 
+target
 t a  r g e t
 t ɑ́ː   g ɪ t
 TAUR/TKPW-T
 TAURG/-T
 
+task
 t a  s k
 t ɑ́ː s k
 TAUS/-BG
 
+taste
 t a  s t e
 t ɛ́j s t
 TA*EUS
 
+tax
 t a x -
 t á k s
 TABGS
 
+taxi
 t a x - i
 t á k s ɪj
 TABG/SAE
 TABGS/AE
 
+tea
 t ea
 t ɪ́j
 TAE
 
+teach
 t ea ch
 t ɪ́j tʃ
 TAOEFP
 
+teacher
 t ea ch e r
 t ɪ́j tʃ ə
 TAOEFP/-R
 
+teaching
 t ea ch i ng
 t ɪ́j tʃ ɪ ŋ
 TAOEFP/-PBG
 
+team
 t ea m
 t ɪ́j m
 TAOEPL
 
+tear
 t ea r
 t ɛ́ː
 TAEUR
 
+tear
 t ea r
 t ɪ́ː
 TAOER
 
+technical
 t e ch n i c a l
 t ɛ́ k  n ɪ k ə l
 TEBG/TPHEU/K-L
 TEBG/TPHU/K-L
 TEBG/TPH-BG/-L
 
+technique
 t e ch n i  q u e
 t ɛ k  n ɪ́j k
 TEBG/TPHAOEBG
 
+technology
 t e ch n o l o g  y
 t ɛ k  n ɔ́ l ə dʒ ɪj
 TEBG/TPHAUL/SKWRAE
 TEBG/TPHAUL/-PBLG/AE
 
+teenage
 t ee n a  g  e
 t ɪ́j n ɛj dʒ
 TAOEPB/AEUPBLG
 
+teenager
 t ee n a  g  e r
 t ɪ́j n ɛj dʒ ə
 TAOEPB/AEU/SKWR-R
 TAOEPB/AEUPBLG/-R
 
+telephone
 t e l e ph o  n e
 t ɛ́ l ɪ f  əw n
 TEL/TPOEPB
 TEL/-F/OEPB
 
+television
 t e l e v i si o n
 t ɛ́ l ɪ v ɪ ʒ  ə n
 
+tell
 t e ll
 t ɛ́ l
 TEL
 
+temperature
 t e m p e r a t  u r e
 t ɛ́ m p   r ə tʃ ə
 TEFPL/RU/KH-R
@@ -12538,6 +15254,7 @@ TEFPL/R-FP/-R
 TEPL/PRU/KH-R
 TEPL/PR-FP/-R
 
+temporary
 t e m p o r a r y
 t ɛ́ m p   r ə r ɪj
 TEFPL/RU/RAE
@@ -12545,601 +15262,743 @@ TEFPL/R-R/AE
 TEPL/PRU/RAE
 TEPL/PR-R/AE
 
+ten
 t e n
 t ɛ́ n
 TEPB
 
+tend
 t e n d
 t ɛ́ n d
 TEPBD
 
+tennis
 t e nn i s
 t ɛ́ n  ɪ s
 TEPB/-S
 
+tent
 t e n t
 t ɛ́ n t
 TEPBT
 
+term
 t e  r m
 t ə́ː   m
 TURPL
 
+terrible
 t e rr i b   l e
 t ɛ́ r  ə b ə l
 TER/PW-L
 TER/-B/-L
 
+test
 t e s t
 t ɛ́ s t
 T*ES
 
+text
 t e x - t
 t ɛ́ k s t
 T*EBGS
 
+than
 th a n
 ð  á n
 THAPB
 
+than
 th a n
 ð  ə n
 THUPB
 
+thank
 th a n k
 θ  á ŋ k
 THAPBG/-BG
 
+thanks
 th a n k s
 θ  á ŋ k s
 THAPBG/-BGS
 
+that
 th a t
 ð  á t
 THAT
 
+that
 th a t
 ð  ə t
 THUT
 
+the
 th e
 ð  ɪ́j
 THAE
 
+the
 th e
 ð  ə
 
 THU
 
+theatre
 th e  a t r e
 θ  ɪ́j ə t ə
 THAE/T
 THAE/-T/
 
+their
 th ei r
 ð  ɛ́ː
 THAEUR
 
+theirs
 th ei r s
 ð  ɛ́ː   z
 THAEURZ
 
+them
 th e m
 ð  ɛ́ m
 THEPL
 
+them
 th e m
 ð  ə m
 THUPL
 
+theme
 th e  m e
 θ  ɪ́j m
 THAOEPL
 
+themselves
 th e m s e l v e s
 ð  ə m s ɛ́ l v   z
 THUPL/SEL/-FBZ
 
+then
 th e n
 ð  ɛ́ n
 THEPB
 
+theory
 th e  o r y
 θ  ɪ́j ə r ɪj
 THAE/RAE
 THAE/-R/AE
 
+therapy
 th e r a p y
 θ  ɛ́ r ə p ɪj
 THER/PAE
 THER/-P/AE
 
+there
 th e  r e
 ð  ɛ́ː
 THAEUR
 
+there
 th e r e
 ð  ə
 THUR
 
+therefore
 th e  r e f o  r e
 ð  ɛ́ː     f oː
 THAEUR/TPAUR
 THAEUR/-F/AUR
 
+they
 th ey
 ð  ɛ́j
 THAEU
 
+thick
 th i c k
 θ  ɪ́   k
 THEUBG
 
+thief
 th ie f
 θ  ɪ́j f
 THAOEF
 
+thin
 th i n
 θ  ɪ́ n
 THEUPB
 
+thing
 th i ng
 θ  ɪ́ ŋ
 THEUPBG
 
+think
 th i n k
 θ  ɪ́ ŋ k
 THEUPBG/-BG
 
+thinking
 th i n k i ng
 θ  ɪ́ ŋ k ɪ ŋ
 THEUPBG/K-PBG
 THEUPBG/-BG/-PBG
 
+third
 th i  r d
 θ  ə́ː   d
 THURD
 
+thirsty
 th i  r s t y
 θ  ə́ː   s t ɪj
 TH*URS/AE
 THUR/STAE
 THURS/TAE
 
+thirteen
 th i  r t ee n
 θ  ə́ː   t ɪ́j n
 THU/TAOEPB
 THUR/TAOEPB
 THURT/AOEPB
 
+thirty
 th i  r t y
 θ  ə́ː   t ɪj
 THUR/TAE
 THURT/AE
 
+this
 th i s
 ð  ɪ́ s
 THEUS
 
+though
 th ou gh
 ð  ə́w
 THOE
 
+thought
 th ou gh t
 θ  óː    t
 THAUT
 
+thousand
 th ou s a n d
 θ  áw z ə n d
 THOUZ/-PBD
 
+threat
 th r ea t
 θ  r ɛ́  t
 THRET
 
+threaten
 th r ea t e n
 θ  r ɛ́  t ə n
 THRET/-PB
 
+three
 th r ee
 θ  r ɪ́j
 THRAE
 
+throat
 th r oa t
 θ  r ə́w t
 THROET
 
+through
 th r ou gh
 θ  r ʉ́w
 THRAOU
 
+throughout
 th r ou gh ou t
 θ  r ʉw    áw t
 THRAOU/OUT
 
+throw
 th r ow
 θ  r ə́w
 THROE
 
+Thursday
 Th u  r s d ay
 θ  ə́ː   z d ɛj
 THURZ/TKAEU
 THURZ/-D/AEU
 
+thus
 th u s
 ð  ʌ́ s
 THUS
 
+ticket
 t i c k e t
 t ɪ́   k ɪ t
 TEU/K-T
 TEUBG/-T
 
+tidy
 t i  d y
 t ɑ́j d ɪj
 TAOEUD/AE
 
+tie
 t ie
 t ɑ́j
 TAOEU
 
+tight
 t i  gh t
 t ɑ́j    t
 TOEUGT
 
+till
 t i ll
 t ɪ́ l
 TEUL
 
+time
 t i  m e
 t ɑ́j m
 TAOEUPL
 
+tin
 t i n
 t ɪ́ n
 TEUPB
 
+tiny
 t i  n y
 t ɑ́j n ɪj
 TAOEUPB/AE
 
+tip
 t i p
 t ɪ́ p
 TEUP
 
+tired
 t i  r e d
 t ɑ́j ə   d
 TAOEU/-D
 
+title
 t i  t   l e
 t ɑ́j t ə l
 TAOEUT/-L
 
+to
 t o
 t ʉ́w
 TAOU
 
+to
 t o
 t ə
 
 TU
 
+today
 t o d ay
 t ə d ɛ́j
 TU/TKAEU
 
+toe
 t oe
 t ə́w
 TOE
 
+together
 t o g e th e r
 t ə g ɛ́ ð  ə
 TU/TKPWEGT/-R
 
+toilet
 t oi l e t
 t ój l ə t
 TOEUL/-T
 
+tomato
 t o m a  t o
 t ə m ɑ́ː t əw
 TPHAUT/OE
 TU/PHAUT/OE
 
+tomorrow
 t o m o rr ow
 t ə m ɔ́ r  əw
 TPHAUR/OE
 TU/PHAUR/OE
 
+tone
 t o  n e
 t ə́w n
 TOEPB
 
+tongue
 t o ng u e
 t ʌ́ ŋ
 TUPBG
 
+tonight
 t o n i  gh t
 t ə n ɑ́j    t
 TU/TPHOEUGT
 
+too
 t oo
 t ʉ́w
 TAOU
 
+tool
 t oo l
 t ʉ́w l
 TAOUL
 
+tooth
 t oo th
 t ʉ́w θ
 TAOUGT
 
+top
 t o p
 t ɔ́ p
 TAUP
 
+topic
 t o p i c
 t ɔ́ p ɪ k
 TAUP/-BG
 
+total
 t o  t a l
 t ə́w t ə l
 TOET/-L
 
+totally
 t o  t a ll y
 t ə́w t ə l  ɪj
 TOET/HRAE
 TOET/-L/AE
 
+touch
 t ou ch
 t ʌ́  tʃ
 TUFP
 
+tough
 t ou gh
 t ʌ́  f
 TUF
 
+tour
 t ou r
 t óː
 TAUR
 
+tourism
 t ou r i s   m
 t óː r ɪ z ə m
 TAUR/SWR-PL
 TAUR/UZ/-PL
 
+tourist
 t ou r i s t
 t óː r ɪ s t
 TAUR/*S
 
+towards
 t o w a  r d s
 t ə w óː   d z
 TWAURDZ
 TU/WAURDZ
 
+towel
 t ow e l
 t áw ə l
 TOU/-L
 
+tower
 t ow e r
 t áw ə
 TOU/-R
 
+town
 t ow n
 t áw n
 TOUPB
 
+toy
 t oy
 t ój
 TOEU
 
+track
 t r a c k
 t r á   k
 TRABG
 
+trade
 t r a  d e
 t r ɛ́j d
 TRAEUD
 
+tradition
 t r a d i ti o n
 t r ə d ɪ́ ʃ  ə n
 TRU/TKEUGZ
 
+traditional
 t r a d i ti o n a l
 t r ə d ɪ́ ʃ  ə n ə l
 TRU/TKEUGS/TPH-L
 TRU/TKEUGZ/-L
 
+traffic
 t r a ff i c
 t r á f  ɪ k
 TRAF/-BG
 
+train
 t r ai n
 t r ɛ́j n
 TRAEUPB
 
+trainer
 t r ai n e r
 t r ɛ́j n ə
 TRAEUPB/-R
 
+training
 t r ai n i ng
 t r ɛ́j n ɪ ŋ
 TRAEUPB/-PBG
 
+transfer
 t r a n s f e  r
 t r a n s f ə́ː
 TRAPB/STPUR
 TRAPBS/TPUR
 
+transfer
 t r a n s f e  r
 t r á n s f əː
 TRAPB/STPUR
 TRAPBS/TPUR
 
+transform
 t r a n s f o  r m
 t r a n s f óː   m
 TRAPB/STPAURPL
 TRAPBS/TPAURPL
 
+transition
 t r a n s i ti o n
 t r a n z ɪ́ ʃ  ə n
 TRAPB/SWREUGZ
 
+translate
 t r a n s l a  t e
 t r a n z l ɛ́j t
 TRAPBZ/HRAEUT
 
+translation
 t r a n s l a  ti o n
 t r a n z l ɛ́j ʃ  ə n
 TRAPBZ/HRAEUGZ
 
+transport
 t r a n s p o  r t
 t r a n s p óː   t
 TRAPB/SPAURT
 TRAPBS/PAURT
 
+transport
 t r a n s p o  r t
 t r á n s p oː   t
 TRAPB/SPAURT
 TRAPBS/PAURT
 
+travel
 t r a v e l
 t r á v ə l
 TRAFB/-L
 
+traveller
 t r a v e ll e r
 t r á v   l  ə
 TRAFB/HR-R
 
+treat
 t r ea t
 t r ɪ́j t
 TRAOET
 
+treatment
 t r ea t m e n t
 t r ɪ́j t m ə n t
 TRAOET/PH-PBT
 
+tree
 t r ee
 t r ɪ́j
 TRAE
 
+trend
 t r e n d
 t r ɛ́ n d
 TREPBD
 
+trial
 t r i  a l
 t r ɑ́j ə l
 TRAOEU/-L
 
+trick
 t r i c k
 t r ɪ́   k
 TREUBG
 
+trip
 t r i p
 t r ɪ́ p
 TREUP
 
+tropical
 t r o p i c a l
 t r ɔ́ p ɪ k ə l
 TRAUP/K-L
 TRAUP/-BG/-L
 
+trouble
 t r ou b   l e
 t r ʌ́  b ə l
 TRUB/-L
 
+trousers
 t r ou s e r s
 t r áw z ə   z
 TROUZ/-RZ
 
+truck
 t r u c k
 t r ʌ́   k
 TRUBG
 
+true
 t r ue
 t r ʉ́w
 TRAOU
 
+truly
 t r u  l y
 t r ʉ́w l ɪj
 TRAOUL/AE
 
+trust
 t r u s t
 t r ʌ́ s t
 TR*US
 
+truth
 t r u  th
 t r ʉ́w θ
 TRAOUGT
 
+try
 t r y
 t r ɑ́j
 TRAOEU
 
+tube
 t  u  b e
 tʃ ʉ́w b
 KHAOUB
 
+Tuesday
 T  ue s d ay
 tʃ ʉ́w z d ɛj
 KHAOUZ/TKAEU
 KHAOUZ/-D/AEU
 
+tune
 t  u  n e
 tʃ ʉ́w n
 KHAOUPB
 
+tunnel
 t u nn e l
 t ʌ́ n  ə l
 TUPB/-L
 
+turn
 t u  r n
 t ə́ː   n
 TURPB
 
+twelve
 t w e l v e
 t w ɛ́ l v
 TWEL/-FB
 
+twenty
 t w e n t y
 t w ɛ́ n t ɪj
 TWEPB/TAE
 TWEPBT/AE
 
+twice
 t w i  c e
 t w ɑ́j s
 TWAOEUS
 
+twin
 t w i n
 t w ɪ́ n
 TWEUPB
 
+two
 t w o
 t   ʉ́w
 TWAOU
 
+type
 t y  p e
 t ɑ́j p
 TAOEUP
 
+typical
 t y p i c a l
 t ɪ́ p ɪ k ə l
 TEUP/K-L
 TEUP/-BG/-L
 
+typically
 t y p i c a ll y
 t ɪ́ p ɪ k   l  ɪj
 TEUP/KHRAE
 TEUP/-BG/HRAE
 
+tyre
 t y  r e
 t ɑ́j ə
 TAOEU/
 
+ugly
 u g l y
 ʌ́ g l ɪj
 UG/HRAE
 
+ultimately
 u l t i m a t e l y
 ʌ́ l t ɪ m ə t   l ɪj
 UL/TPH-T/HRAE
@@ -13148,20 +16007,24 @@ UL/T-PL/-T/HRAE
 ULT/PH-T/HRAE
 ULT/-PL/-T/HRAE
 
+umbrella
 u m b r e ll a
 ʌ m b r ɛ́ l  ə
 UPL/PWREL
 
+unable
 u n a  b   l e
 ʌ́ n ɛ́j b ə l
 U/TPHAEUB/-L
 UPB/AEUB/-L
 
+uncle
 u n c   l e
 ʌ́ ŋ k ə l
 UPBG/K-L
 UPBG/-BG/-L
 
+uncomfortable
 u n c o m f o r t a b   l e
 ʌ́ n k ʌ́ m f     t ə b ə l
 UPB/KUPL/-F/TPW-L
@@ -13171,15 +16034,18 @@ UPB/KUPL/-FR/TPW-L
 UPB/KUPL/-FR/TU/PW-L
 UPB/KUPL/-FR/T-B/-L
 
+unconscious
 u n c o n sci ou s
 ʌ́ n k ɔ́ n ʃ   ə  s
 UPB/KAUPB/SH-S
 
+under
 u n d e r
 ʌ́ n d ə
 UPB/TK-R
 UPBD/-R
 
+underground
 u n d e r g r ou n d
 ʌ́ n d ə   g r aw n d
 UPB/TKU/TKPWROUPBD
@@ -13189,6 +16055,7 @@ UPBD/TKPWROUPBD
 UPBD/-R/TKPWROUPBD
 UPBD/-RG/ROUPBD
 
+understand
 u n d e r s t a n d
 ʌ́ n d ə   s t á n d
 UPB/TKU/STAPBD
@@ -13198,6 +16065,7 @@ UPBD/STAPBD
 UPBD/-R/STAPBD
 UPBD/-RS/TAPBD
 
+understanding
 u n d e r s t a n d i ng
 ʌ́ n d ə   s t á n d ɪ ŋ
 UPB/TKU/STAPB/TK-PBG
@@ -13213,6 +16081,7 @@ UPBD/-R/STAPBD/-PBG
 UPBD/-RS/TAPB/TK-PBG
 UPBD/-RS/TAPBD/-PBG
 
+underwear
 u n d e r w ea r
 ʌ́ n d ə   w ɛː
 UPB/TKWAEUR
@@ -13221,16 +16090,19 @@ UPB/TK-R/WAEUR
 UPBD/WAEUR
 UPBD/-R/WAEUR
 
+unemployed
 u n e m p l oy e d
 ʌ́ n ɪ m p l ój   d
 UPB/-FPL/HROEUD
 UPB/-PL/PHROEUD
 
+unemployment
 u n e m p l oy m e n t
 ʌ́ n ɪ m p l ój m ə n t
 UPB/-FPL/HROEUPL/-PBT
 UPB/-PL/PHROEUPL/-PBT
 
+unexpected
 u n e x - p e c t e d
 ʌ́ n ɪ k s p ɛ́ k t ɪ d
 UPB/-BG/SPEBG/T-D
@@ -13238,10 +16110,12 @@ UPB/-BG/SPEBGT/UD
 UPB/-BGS/PEBG/T-D
 UPB/-BGS/PEBGT/UD
 
+unfair
 u n f ai r
 ʌ́ n f ɛ́ː
 UPB/TPAEUR
 
+unfortunately
 u n f o  r t  u n a t e l y
 ʌ́ n f óː   tʃ ə n ə t   l ɪj
 UPB/TPAUR/KHU/TPH-T/HRAE
@@ -13249,36 +16123,44 @@ UPB/TPAUR/KH-PB/-T/HRAE
 UPB/TPAUR/-FP/TPH-T/HRAE
 UPB/TPAUR/-FP/-PB/-T/HRAE
 
+unhappy
 u n h a pp y
 ʌ́ n h á p  ɪj
 UPB/HAP/AE
 
+uniform
   u  n i f o  r m
 j ʉ́w n ɪ f oː   m
 KWRAOUPB/TPAURPL
 KWRAOUPB/-F/AURPL
 
+union
   u  n i  o n
 j ʉ́w n ɪj ə n
 KWRAOUPB/AE/-PB
 
+unique
   u  n i  q u e
 j ʉw n ɪ́j k
 KWRAOU/TPHAOEBG
 
+unit
   u  n i t
 j ʉ́w n ɪ t
 KWRAOUPB/-T
 
+united
   u  n i  t e d
 j ʉw n ɑ́j t ɪ d
 KWRAOU/TPHAOEUT/UD
 
+universe
   u  n i v e  r s e
 j ʉ́w n ɪ v əː   s
 KWRAOUPB/SRURS
 KWRAOUPB/-FB/URS
 
+university
   u  n i v e  r s i t y
 j ʉ́w n ɪ v ə́ː   s ə t ɪj
 KWRAOUPB/SRUR/STAE
@@ -13287,22 +16169,27 @@ KWRAOUPB/SRUR/S-T/AE
 KWRAOUPB/SRURS/TAE
 KWRAOUPB/SRURS/-T/AE
 
+unknown
 u n k n ow n
 ʌ́ n   n ə́w n
 UPB/TPHOEPB
 
+unless
 u n l e ss
 ə n l ɛ́ s
 UPB/HRES
 
+unlike
 u n l i  k e
 ʌ́ n l ɑ́j k
 UPB/HRAOEUBG
 
+unlikely
 u n l i  k e l y
 ʌ́ n l ɑ́j k   l ɪj
 UPB/HRAOEUBG/HRAE
 
+unnecessary
 u n n e c e ss a r y
 ʌ́ n n ɛ́ s ə s  ɛ r ɪj
 UPB/TPHES/SE/RAE
@@ -13310,112 +16197,139 @@ UPB/TPHES/SER/AE
 UPB/TPHES/-S/E/RAE
 UPB/TPHES/-S/ER/AE
 
+unpleasant
 u n p l ea s a n t
 ʌ́ n p l ɛ́  z ə n t
 UPB/PHREZ/-PBT
 
+until
 u n t i l
 ʌ́ n t ɪ́ l
 UPB/TEUL
 UPBT/EUL
 
+unusual
 u n   u  s u  a l
 ʌ n j ʉ́w ʒ ʉw ə l
 
+up
 u p
 ʌ́ p
 UP
 
+update
 u p d a  t e
 ʌ́ p d ɛ́j t
 UP/TKAEUT
 
+update
 u p d a  t e
 ʌ́ p d ɛj t
 UP/TKAEUT
 
+upon
 u p o n
 ə p ɔ́ n
 U/PAUPB
 
+upper
 u pp e r
 ʌ́ p  ə
 UP/-R
 
+upset
 u p s e t
 ʌ́ p s ɛ́ t
 UP/SET
 UPS/ET
 
+upset
 u p s e t
 ʌ́ p s ɛ t
 UP/SET
 UPS/ET
 
+upstairs
 u p s t ai r s
 ʌ́ p s t ɛ́ː   z
 UP/STAEURZ
 UPS/TAEURZ
 
+upwards
 u p w a r d s
 ʌ́ p w ə   d z
 UP/W-RDZ
 
+urban
 u  r b a n
 ə́ː   b ə n
 UR/PW-PB
 URB/-PB
 
+urge
 u  r g  e
 ə́ː   dʒ
 URPBLG
 
+us
 u s
 ə s
 US
 
+us
 u s
 ʌ́ s
 US
 
+use
   u  s e
 j ʉ́w s
 KWRAOUS
 
+use
   u  s e
 j ʉ́w z
 KWRAOUZ
 
+used
   u  s e d
 j ʉ́w s   t
 KWRAOUS/-T
 
+used
   u  s e d
 j ʉ́w z   d
 KWRAOUZ/-D
 
+useful
   u  s e f u l
 j ʉ́w s   f ə l
 KWRAOUS/TP-L
 
+user
   u  s e r
 j ʉ́w z ə
 KWRAOUZ/-R
 
+usual
   u  s u  a l
 j ʉ́w ʒ ʉw ə l
 
+usually
   u  s u a ll y
 j ʉ́w ʒ   ə l  ɪj
 
+vacation
 v a  c a  ti o n
 v ɛj k ɛ́j ʃ  ə n
 SRAEU/KAEUGZ
 
+valley
 v a ll ey
 v á l  ɪj
 SRAL/AE
 
+valuable
 v a l   u a b   l e
 v á l j   ə b ə l
 SRAL/KWRU/PW-L
@@ -13424,64 +16338,78 @@ SRAL/PW-L
 SRAL/U/PW-L
 SRAL/-B/-L
 
+value
 v a l   ue
 v á l j ʉw
 SRAL/KWRAOU
 SRAL/AOU
 
+van
 v a n
 v á n
 SRAPB
 
+variety
 v a r i  e t y
 v ə r ɑ́j ə t ɪj
 SRU/RAOEU/TAE
 SRU/RAOEU/-T/AE
 
+various
 v a  r i  ou s
 v ɛ́ː r ɪj ə  s
 SRAEUR/AE/-S
 
+vary
 v a  r y
 v ɛ́ː r ɪj
 SRAEUR/AE
 
+vast
 v a  s t
 v ɑ́ː s t
 SRA*US
 
+vegetable
 v e g  e t a b   l e
 v ɛ́ dʒ   t ə b ə l
 SREPBLG/TPW-L
 SREPBLG/TU/PW-L
 SREPBLG/T-B/-L
 
+vehicle
 v e  h i c   l e
 v ɪ́j   ɪ k ə l
 SRAOE/K-L
 SRAOE/-BG/-L
 
+venue
 v e n   ue
 v ɛ́ n j ʉw
 SREPB/KWRAOU
 SREPB/AOU
 
+version
 v e  r si o n
 v ə́ː   ʒ  ə n
 
+very
 v e r y
 v ɛ́ r ɪj
 SRER/AE
 
+via
 v i  a
 v ɑ́j ə
 SRAOEU
 
+victim
 v i c t i m
 v ɪ́ k t ɪ m
 SREUBG/T-PL
 SREUBGT/-PL
 
+victory
 v i c t o r y
 v ɪ́ k t ə r ɪj
 SREUBG/TRAE
@@ -13490,426 +16418,528 @@ SREUBG/T-R/AE
 SREUBGT/RAE
 SREUBGT/-R/AE
 
+video
 v i d e  o
 v ɪ́ d ɪj əw
 SREUD/AE/OE
 
+view
 v i ew
 v j ʉ́w
 SRU/KWRAOU
 
+viewer
 v i ew e r
 v j ʉ́w ə
 SRU/KWRAOU/-R
 
+village
 v i ll a g  e
 v ɪ́ l  ɪ dʒ
 SREUL/-PBLG
 
+violence
 v i  o l e n c e
 v ɑ́j ə l ə n s
 SRAOEU/HR-PBS
 SRAOEU/-L/-PBS
 
+violent
 v i  o l e n t
 v ɑ́j ə l ə n t
 SRAOEU/HR-PBT
 SRAOEU/-L/-PBT
 
+virtual
 v i  r t  u  a l
 v ə́ː   tʃ ʉw ə l
 SRUR/KHAOU/-L
 SRUR/-FP/AOU/-L
 
+virus
 v i  r u s
 v ɑ́j r ə s
 SRAOEUR/-S
 
+vision
 v i si o n
 v ɪ́ ʒ  ə n
 
+visit
 v i s i t
 v ɪ́ z ɪ t
 SREUZ/-T
 
+visitor
 v i s i t o r
 v ɪ́ z ɪ t ə
 SREUZ/T-R
 SREUZ/-T/-R
 
+visual
 v i s u  a l
 v ɪ́ ʒ ʉw ə l
 
+vital
 v i  t a l
 v ɑ́j t ə l
 SRAOEUT/-L
 
+vitamin
 v i t a m i n
 v ɪ́ t ə m ɪ n
 SREUT/PH-PB
 SREUT/-PL/-PB
 
+voice
 v oi c e
 v ój s
 SROEUS
 
+volume
 v o l   u  m e
 v ɔ́ l j ʉw m
 SRAUL/KWRAOUPL
 SRAUL/AOUPL
 
+volunteer
 v o l u n t ee r
 v ɔ́ l ə n t ɪ́ː
 SRAUL/-PB/TAOER
 
+vote
 v o  t e
 v ə́w t
 SROET
 
+wage
 w a  g  e
 w ɛ́j dʒ
 WAEUPBLG
 
+wait
 w ai t
 w ɛ́j t
 WAEUT
 
+waiter
 w ai t e r
 w ɛ́j t ə
 WAEUT/-R
 
+wake
 w a  k e
 w ɛ́j k
 WAEUBG
 
+walk
 w a  l k
 w óː   k
 WAUBG
 
+wall
 w a  ll
 w óː l
 WAUL
 
+want
 w a n t
 w ɔ́ n t
 WAUPBT
 
+war
 w a  r
 w óː
 WAUR
 
+warm
 w a  r m
 w óː   m
 WAURPL
 
+warn
 w a  r n
 w óː   n
 WAURPB
 
+warning
 w a  r n i ng
 w óː   n ɪ ŋ
 WAUR/TPH-PBG
 WAURPB/-PBG
 
+wash
 w a sh
 w ɔ́ ʃ
 WAUGS
 
+washing
 w a sh i ng
 w ɔ́ ʃ  ɪ ŋ
 WAUGS/-PBG
 
+waste
 w a  s t e
 w ɛ́j s t
 WA*EUS
 
+watch
 w a tch
 w ɔ́ tʃ
 WAUFP
 
+water
 w a  t e r
 w óː t ə
 WAUT/-R
 
+wave
 w a  v e
 w ɛ́j v
 WAEUFB
 
+way
 w ay
 w ɛ́j
 WAEU
 
+we
 w e
 w ɪ́j
 WAE
 
+weak
 w ea k
 w ɪ́j k
 WAOEBG
 
+weakness
 w ea k n e ss
 w ɪ́j k n ə s
 WAOEBG/TPH-S
 
+wealth
 w ea l th
 w ɛ́  l θ
 WELGT
 
+wealthy
 w ea l th y
 w ɛ́  l θ  ɪj
 WEL/THAE
 WELGT/AE
 
+weapon
 w ea p o n
 w ɛ́  p ə n
 WEP/-PB
 
+wear
 w ea r
 w ɛ́ː
 WAEUR
 
+weather
 w ea th e r
 w ɛ́  ð  ə
 WEGT/-R
 
+web
 w e b
 w ɛ́ b
 WEB
 
+website
 w e b s i  t e
 w ɛ́ b s ɑj t
 WEB/SAOEUT
 
+wedding
 w e dd i ng
 w ɛ́ d  ɪ ŋ
 WED/-PBG
 
+Wednesday
 W e d n e s d ay
 w ɛ́   n   z d ɛj
 WEPBZ/TKAEU
 
+week
 w ee k
 w ɪ́j k
 WAOEBG
 
+weekend
 w ee k e n d
 w ɪj k ɛ́ n d
 WAE/KEPBD
 
+weigh
 w ei gh
 w ɛ́j
 WAEU
 
+weight
 w ei gh t
 w ɛ́j    t
 WAEUT
 
+welcome
 w e l c o m e
 w ɛ́ l k ə m
 WEL/K-PL
 WEL/-BG/-PL
 
+well
 w e ll
 w ɛ́ l
 WEL
 
+west
 w e s t
 w ɛ́ s t
 W*ES
 
+western
 w e s t e r n
 w ɛ́ s t ə   n
 W*ES/-RPB
 WES/T-RPB
 
+wet
 w e t
 w ɛ́ t
 WET
 
+what
 w h a t
 w   ɔ́ t
 WHAUT
 
+whatever
 w h a t e v e r
 w   ɔ t ɛ́ v ə
 WHAU/TEFB/-R
 
+wheel
 w h ee l
 w   ɪ́j l
 WHAOEL
 
+when
 w h e n
 w   ɛ́ n
 WHEPB
 
+whenever
 w h e n e v e r
 w   ɛ n ɛ́ v ə
 WHE/TPHEFB/-R
 
+where
 w h e  r e
 w   ɛ́ː
 WHAEUR
 
+whereas
 w h e  r e a s
 w   ɛ́ː r   á z
 WHAEU/RAZ
 WHAEUR/AZ
 
+wherever
 w h e  r e v e r
 w   ɛ́ː r ɛ́ v ə
 WHAEU/REFB/-R
 WHAEUR/EFB/-R
 
+whether
 w h e th e r
 w   ɛ́ ð  ə
 WHEGT/-R
 
+which
 w h i ch
 w   ɪ́ tʃ
 WHEUFP
 
+while
 w h i  l e
 w   ɑ́j l
 WHAOEUL
 
+whisper
 w h i s p e r
 w   ɪ́ s p ə
 WHEUS/P-R
 WHEUS/-P/-R
 
+white
 w h i  t e
 w   ɑ́j t
 WHAOEUT
 
+who
 w h o
   h ʉ́w
 WHAOU
 
+whole
 w h o  l e
   h ə́w l
 WHOEL
 
+whom
 w h o  m
   h ʉ́w m
 WHAOUPL
 
+whose
 w h o  s e
   h ʉ́w z
 WHAOUZ
 
+why
 w h y
 w   ɑ́j
 WHAOEU
 
+wide
 w i  d e
 w ɑ́j d
 WAOEUD
 
+widely
 w i  d e l y
 w ɑ́j d   l ɪj
 WAOEUD/HRAE
 
+wife
 w i  f e
 w ɑ́j f
 WAOEUF
 
+wild
 w i  l d
 w ɑ́j l d
 WAOEULD
 
+wildlife
 w i  l d l i  f e
 w ɑ́j l d l ɑj f
 WAOEULD/HRAOEUF
 
+will
 w i ll
 w ɪ́ l
 WEUL
 
+will
 w i ll
 w ɪ l
 WEUL
 
+willing
 w i ll i ng
 w ɪ́ l  ɪ ŋ
 WEUL/-PBG
 
+win
 w i n
 w ɪ́ n
 WEUPB
 
+wind
 w i  n d
 w ɑ́j n d
 WAOEUPBD
 
+wind
 w i n d
 w ɪ́ n d
 WEUPBD
 
+window
 w i n d ow
 w ɪ́ n d əw
 WEUPB/TKOE
 WEUPBD/OE
 
+wine
 w i  n e
 w ɑ́j n
 WAOEUPB
 
+wing
 w i ng
 w ɪ́ ŋ
 WEUPBG
 
+winner
 w i nn e r
 w ɪ́ n  ə
 WEUPB/-R
 
+winter
 w i n t e r
 w ɪ́ n t ə
 WEUPB/T-R
 WEUPBT/-R
 
+wire
 w i  r e
 w ɑ́j ə
 WAOEU/
 
+wise
 w i  s e
 w ɑ́j z
 WAOEUZ
 
+wish
 w i sh
 w ɪ́ ʃ
 WEUGS
 
+with
 w i th
 w ɪ ð
 WEUGT
 
+with
 w i th
 w ɪ́ ð
 WEUGT
 
+within
 w i th i n
 w ɪ ð  ɪ́ n
 WEU/THEUPB
 WU/THEUPB
 
+without
 w i th ou t
 w ɪ ð  áw t
 WEU/THOUT
 WU/THOUT
 
+witness
 w i t n e ss
 w ɪ́ t n ə s
 WEUT/TPH-S
 
+woman
 w o m a n
 w ɵ́ m ə n
 WAOPL/-PB
 
+wonder
 w o n d e r
 w ʌ́ n d ə
 WUPB/TK-R
 WUPBD/-R
 
+wonderful
 w o n d e r f u l
 w ʌ́ n d ə   f ə l
 WUPB/TKU/TP-L
@@ -13919,129 +16949,160 @@ WUPBD/TP-L
 WUPBD/-R/TP-L
 WUPBD/-R/-F/-L
 
+wood
 w oo d
 w ɵ́  d
 WAOD
 
+wooden
 w oo d e n
 w ɵ́  d ə n
 WAOD/-PB
 
+wool
 w oo l
 w ɵ́  l
 WAOL
 
+word
 w o  r d
 w ə́ː   d
 WURD
 
+work
 w o  r k
 w ə́ː   k
 WURBG
 
+worker
 w o  r k e r
 w ə́ː   k ə
 WUR/K-R
 WURBG/-R
 
+working
 w o  r k i ng
 w ə́ː   k ɪ ŋ
 WUR/K-PBG
 WURBG/-PBG
 
+world
 w o  r l d
 w ə́ː   l d
 WURLD
 
+worldwide
 w o  r l d w i  d e
 w ə́ː   l d w ɑj d
 WURL/TKWAOEUD
 WURLD/WAOEUD
 
+worried
 w o rr ie d
 w ʌ́ r  ɪj d
 WUR/AOED
 
+worry
 w o rr y
 w ʌ́ r  ɪj
 WUR/AE
 
+worse
 w o  r s e
 w ə́ː   s
 WURS
 
+worst
 w o  r s t
 w ə́ː   s t
 W*URS
 
+worth
 w o  r th
 w ə́ː   θ
 WURGT
 
+would
 w ou l d
 w ɵ́    d
 WAOD
 
+would
 w ou l d
 w ə    d
 WUD
 
+wound
 w ou n d
 w áw n d
 WOUPBD
 
+wound
 w ou n d
 w ʉ́w n d
 WAOUPBD
 
+wow
 w ow
 w áw
 WOU
 
+wrap
 w r a p
   r á p
 WRAP
 
+write
 w r i  t e
   r ɑ́j t
 WRAOEUT
 
+writer
 w r i  t e r
   r ɑ́j t ə
 WRAOEUT/-R
 
+writing
 w r i  t i ng
   r ɑ́j t ɪ ŋ
 WRAOEUT/-PBG
 
+written
 w r i tt e n
   r ɪ́ t  ə n
 WREUT/-PB
 
+wrong
 w r o ng
   r ɔ́ ŋ
 WRAUPBG
 
+yard
 y a  r d
 j ɑ́ː   d
 KWRAURD
 
+yeah
 y ea h
 j ɛ́
 KWRE
 
+year
 y ea r
 j ɪ́ː
 KWRAOER
 
+yellow
 y e ll ow
 j ɛ́ l  əw
 KWREL/OE
 
+yes
 y e s
 j ɛ́ s
 KWRES
 
+yesterday
 y e s t e r d ay
 j ɛ́ s t ə   d ɛj
 KWR*ES/TKAEU
@@ -14051,39 +17112,48 @@ KWRES/TU/TKAEU
 KWRES/T-R/TKAEU
 KWRES/T-RD/AEU
 
+yet
 y e t
 j ɛ́ t
 KWRET
 
+you
 y ou
 j ʉ́w
 KWRAOU
 
+young
 y ou ng
 j ʌ́  ŋ
 KWRUPBG
 
+your
 y ou r
 j óː
 KWRAUR
 
+yours
 y ou r s
 j óː   z
 KWRAURZ
 
+yourself
 y ou r s e l f
 j oː   s ɛ́ l f
 KWRAU/SEL/-F
 KWRAUR/SEL/-F
 
+youth
 y ou th
 j ʉ́w θ
 KWRAOUGT
 
+zero
 z e  r o
 z ɪ́ː r əw
 SWRAOER/OE
 
+zone
 z o  n e
 z ə́w n
 SWROEPB

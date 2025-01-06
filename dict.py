@@ -28,6 +28,7 @@ with open('dict.tsv', encoding='utf-8') as f, open('dict.txt', 'w', encoding='ut
         ipas, spells = zip(*pairs)
         if i:
             tee()
+        tee(word)
         for items in [spells, ipas]:
             line = ' '.join(pad(item, width) for item, width in zip(items, widths))
             tee(line.rstrip())
