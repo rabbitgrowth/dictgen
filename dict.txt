@@ -128,7 +128,7 @@ U/KHAOEFB
 achievement
 a ch ie v e m e n t
 ə tʃ ɪ́j v   m ə n t
-U/KHAOEFB/PH-PBT
+U/KHAOEFB/-PLT
 
 acknowledge
 a c k n ow l e dg e
@@ -283,10 +283,10 @@ AD/SR-RT/AOEUZ
 advertisement
 a d v e  r t i s e m e n t
 ə d v ə́ː   t ɪ s   m ə n t
-UD/SRUR/TEU/SPH-PBT
-UD/SRUR/T-S/PH-PBT
-UD/SRURT/SPH-PBT
-UD/SRURT/-S/PH-PBT
+UD/SRUR/TEU/S-PLT
+UD/SRUR/T-S/-PLT
+UD/SRURT/S-PLT
+UD/SRURT/-S/-PLT
 
 advertising
 a d v e r t i  s i ng
@@ -666,8 +666,8 @@ U/TPHOUPBS
 announcement
 a nn ou n c e m e n t
 ə n  áw n s   m ə n t
-U/TPHOUPB/SPH-PBT
-U/TPHOUPBS/PH-PBT
+U/TPHOUPB/S-PLT
+U/TPHOUPBS/-PLT
 
 annoy
 a nn oy
@@ -749,7 +749,7 @@ U/PART
 apartment
 a p a  r t m e n t
 ə p ɑ́ː   t m ə n t
-U/PART/PH-PBT
+U/PART/-PLT
 
 apologize
 a p o l o g  i  z e
@@ -806,7 +806,7 @@ UP/HRAOEU
 appointment
 a pp oi n t m e n t
 ə p  ój n t m ə n t
-U/POEUPBT/PH-PBT
+U/POEUPBT/-PLT
 
 appreciate
 a pp r e  c i  a  t e
@@ -894,11 +894,13 @@ ARG/AOU
 argument
 a  r g   u m e n t
 ɑ́ː   g j ə m ə n t
-AR/TKPWU/PH-PBT
+AR/TKPWU/-PLT
 AR/TKPW-PL/-PBT
+AR/TKPW-PLT
 ARG/KWR-PL/-PBT
-ARG/PH-PBT
+ARG/KWR-PLT
 ARG/-PL/-PBT
+ARG/-PLT
 
 arise
 a r i  s e
@@ -939,7 +941,7 @@ U/RAEUPB/-PBLG
 arrangement
 a rr a  n g  e m e n t
 ə r  ɛ́j n dʒ   m ə n t
-U/RAEUPB/-PBLG/PH-PBT
+U/RAEUPB/-PBLG/-PLT
 
 arrest
 a rr e s t
@@ -1030,12 +1032,12 @@ U/SES
 assessment
 a ss e ss m e n t
 ə s  ɛ́ s  m ə n t
-U/SES/PH-PBT
+U/SES/-PLT
 
 assignment
 a ss i  g n m e n t
 ə s  ɑ́j   n m ə n t
-U/SAOEUPB/PH-PBT
+U/SAOEUPB/-PLT
 
 assist
 a ss i s t
@@ -2845,8 +2847,8 @@ KU/PHEUT
 commitment
 c o mm i t m e n t
 k ə m  ɪ́ t m ə n t
-KPHEUT/PH-PBT
-KU/PHEUT/PH-PBT
+KPHEUT/-PLT
+KU/PHEUT/-PLT
 
 committee
 c o mm i tt ee
@@ -4047,8 +4049,8 @@ TKU/TPHAOEU
 department
 d e p a  r t m e n t
 d ə p ɑ́ː   t m ə n t
-TKPART/PH-PBT
-TKU/PART/PH-PBT
+TKPART/-PLT
+TKU/PART/-PLT
 
 departure
 d e p a  r t  u r e
@@ -4199,7 +4201,7 @@ TKU/SREL/-P
 development
 d e v e l o p m e n t
 d ə v ɛ́ l ə p m ə n t
-TKU/SREL/-P/PH-PBT
+TKU/SREL/-P/-PLT
 
 device
 d e v i  c e
@@ -4526,8 +4528,9 @@ document
 d o c   u m e n t
 d ɔ́ k j ə m ə n t
 TKAUBG/KWR-PL/-PBT
-TKAUBG/PH-PBT
+TKAUBG/KWR-PLT
 TKAUBG/-PL/-PBT
+TKAUBG/-PLT
 
 documentary
 d o c   u m e n t a r y
@@ -4941,8 +4944,8 @@ EL/EBGT/RAUPB/-BG
 element
 e l e m e n t
 ɛ́ l ɪ m ə n t
-EL/PH-PBT
 EL/-PL/-PBT
+EL/-PLT
 
 elephant
 e l e ph a n t
@@ -5168,10 +5171,10 @@ EPBT/-R/TAEUPB
 entertainment
 e n t e r t ai n m e n t
 ɛ́ n t ə   t ɛ́j n m ə n t
-EPB/TU/TAEUPB/PH-PBT
-EPB/T-R/TAEUPB/PH-PBT
-EPBT/TAEUPB/PH-PBT
-EPBT/-R/TAEUPB/PH-PBT
+EPB/TU/TAEUPB/-PLT
+EPB/T-R/TAEUPB/-PLT
+EPBT/TAEUPB/-PLT
+EPBT/-R/TAEUPB/-PLT
 
 enthusiasm
 e n th   u  s i  a s   m
@@ -5226,7 +5229,7 @@ EPBT/RAE
 environment
 e n v i  r o n m e n t
 ɪ n v ɑ́j r ə n m ə n t
-EUPB/SRAOEUR/-PB/PH-PBT
+EUPB/SRAOEUR/-PB/-PLT
 
 environmental
 e n v i  r o n m e n t a l
@@ -5255,8 +5258,8 @@ AOEBG/W-L/AE
 equipment
 e q u i p m e n t
 ɪ k w ɪ́ p m ə n t
-EU/KWEUP/PH-PBT
-EUBG/WEUP/PH-PBT
+EU/KWEUP/-PLT
+EUBG/WEUP/-PLT
 
 error
 e rr o r
@@ -5474,8 +5477,8 @@ EUBGS/AOEUT/UD
 excitement
 e x - c i  t e m e n t
 ɪ k s   ɑ́j t   m ə n t
-EUBG/SAOEUT/PH-PBT
-EUBGS/AOEUT/PH-PBT
+EUBG/SAOEUT/-PLT
+EUBGS/AOEUT/-PLT
 
 exciting
 e x - c i  t i ng
@@ -5591,10 +5594,10 @@ EUBGS/PAOER/AE/-PBS/-T
 experiment
 e x - p e r i m e n t
 ɪ k s p ɛ́ r ɪ m ə n t
-EUBG/SPER/PH-PBT
 EUBG/SPER/-PL/-PBT
-EUBGS/PER/PH-PBT
+EUBG/SPER/-PLT
 EUBGS/PER/-PL/-PBT
+EUBGS/PER/-PLT
 
 expert
 e x - p e  r t
@@ -6788,7 +6791,7 @@ TKPWUFB/-RPB
 government
 g o v e r n m e n t
 g ʌ́ v ə   n m ə n t
-TKPWUFB/-RPB/PH-PBT
+TKPWUFB/-RPB/-PLT
 
 grab
 g r a b
@@ -7705,8 +7708,8 @@ EUPL/PRAOUFB
 improvement
 i m p r o  v e m e n t
 ɪ m p r ʉ́w v   m ə n t
-EUFPL/RAOUFB/PH-PBT
-EUPL/PRAOUFB/PH-PBT
+EUFPL/RAOUFB/-PLT
+EUPL/PRAOUFB/-PLT
 
 in
 i n
@@ -8011,10 +8014,12 @@ EUPBS/TRUBGT/-R
 instrument
 i n s t r u m e n t
 ɪ́ n s t r ə m ə n t
-EUPB/STRU/PH-PBT
+EUPB/STRU/-PLT
 EUPB/STR-PL/-PBT
-EUPBS/TRU/PH-PBT
+EUPB/STR-PLT
+EUPBS/TRU/-PLT
 EUPBS/TR-PL/-PBT
+EUPBS/TR-PLT
 
 insurance
 i n s u  r a n c e
@@ -8186,7 +8191,7 @@ EUPB/SRES/TEU/TKPWAEUGZ
 investment
 i n v e s t m e n t
 ɪ n v ɛ́ s t m ə n t
-EUPB/SR*ES/PH-PBT
+EUPB/SR*ES/-PLT
 
 invitation
 i n v i t a  ti o n
@@ -8332,7 +8337,7 @@ SKWRUPBLG
 judgement
 j  u dg e m e n t
 dʒ ʌ́ dʒ   m ə n t
-SKWRUPBLG/PH-PBT
+SKWRUPBLG/-PLT
 
 juice
 j  ui c e
@@ -9101,7 +9106,7 @@ PHAPB/-PBLG
 management
 m a n a g  e m e n t
 m á n ɪ dʒ   m ə n t
-PHAPB/-PBLG/PH-PBT
+PHAPB/-PBLG/-PLT
 
 manager
 m a n a g  e r
@@ -9639,7 +9644,7 @@ PHAOUFB
 movement
 m o  v e m e n t
 m ʉ́w v   m ə n t
-PHAOUFB/PH-PBT
+PHAOUFB/-PLT
 
 movie
 m o  v ie
@@ -10647,10 +10652,11 @@ PARBG/-PBG
 parliament
 p a  r l ia m e n t
 p ɑ́ː   l ə  m ə n t
-PAR/HRU/PH-PBT
+PAR/HRU/-PLT
 PAR/HR-PL/-PBT
-PARL/PH-PBT
+PAR/HR-PLT
 PARL/-PL/-PBT
+PARL/-PLT
 
 part
 p a  r t
@@ -11910,7 +11916,7 @@ PUPB/-GS
 punishment
 p u n i sh m e n t
 p ʌ́ n ɪ ʃ  m ə n t
-PUPB/-GS/PH-PBT
+PUPB/-GS/-PLT
 
 pupil
 p   u  p i l
@@ -12592,12 +12598,12 @@ REUBG/WAOEU/
 requirement
 r e q u i  r e m e n t
 r ɪ k w ɑ́j ə   m ə n t
-REU/KWAOEU//PH-PBT
-REU/KWAOEU/PH-PBT
+REU/KWAOEU//-PLT
 REU/KWAOEU/-PL/-PBT
-REUBG/WAOEU//PH-PBT
-REUBG/WAOEU/PH-PBT
+REU/KWAOEU/-PLT
+REUBG/WAOEU//-PLT
 REUBG/WAOEU/-PL/-PBT
+REUBG/WAOEU/-PLT
 
 rescue
 r e s c   ue
@@ -14310,7 +14316,7 @@ STAEUT
 statement
 s t a  t e m e n t
 s t ɛ́j t   m ə n t
-STAEUT/PH-PBT
+STAEUT/-PLT
 
 station
 s t a  ti o n
@@ -15606,7 +15612,7 @@ TRAOET
 treatment
 t r ea t m e n t
 t r ɪ́j t m ə n t
-TRAOET/PH-PBT
+TRAOET/-PLT
 
 tree
 t r ee
