@@ -157,7 +157,7 @@ ABGT
 action
 a c ti o n
 á k ʃ  ə n
-ABG/SH-PB
+ABGZ
 
 active
 a c t i v e
@@ -1140,8 +1140,8 @@ UT/RABGT
 attraction
 a tt r a c ti o n
 ə t  r á k ʃ  ə n
-U/TRABG/SH-PB
-UT/RABG/SH-PB
+U/TRABGZ
+UT/RABGZ
 
 attractive
 a tt r a c t i v e
@@ -2748,8 +2748,8 @@ KU/HREBGT
 collection
 c o ll e c ti o n
 k ə l  ɛ́ k ʃ  ə n
-KHREBG/SH-PB
-KU/HREBG/SH-PB
+KHREBGZ
+KU/HREBGZ
 
 college
 c o ll e g  e
@@ -3125,7 +3125,7 @@ KU/TPHEBGT/UD
 connection
 c o nn e c ti o n
 k ə n  ɛ́ k ʃ  ə n
-KU/TPHEBG/SH-PB
+KU/TPHEBGZ
 
 conscious
 c o n sci ou s
@@ -3197,8 +3197,8 @@ KUPBS/TRUBGT
 construction
 c o n s t r u c ti o n
 k ə n s t r ʌ́ k ʃ  ə n
-KUPB/STRUBG/SH-PB
-KUPBS/TRUBG/SH-PB
+KUPB/STRUBGZ
+KUPBS/TRUBGZ
 
 consume
 c o n s   u  m e
@@ -4236,7 +4236,7 @@ TKAOEU/-R/AE
 dictionary
 d i c ti o n a r y
 d ɪ́ k ʃ  ə n   r ɪj
-TKEUBG/SH-PB/RAE
+TKEUBGZ/RAE
 
 die
 d ie
@@ -4301,7 +4301,7 @@ TKAOEU/REBGT
 direction
 d i  r e c ti o n
 d ɑj r ɛ́ k ʃ  ə n
-TKAOEU/REBG/SH-PB
+TKAOEU/REBGZ
 
 directly
 d i  r e c t l y
@@ -4910,7 +4910,7 @@ EU/HREBGT
 election
 e l e c ti o n
 ɪ l ɛ́ k ʃ  ə n
-EU/HREBG/SH-PB
+EU/HREBGZ
 
 electric
 e l e c t r i c
@@ -5991,7 +5991,7 @@ TPAOU
 fiction
 f i c ti o n
 f ɪ́ k ʃ  ə n
-TPEUBG/SH-PB
+TPEUBGZ
 
 field
 f ie l d
@@ -6525,7 +6525,7 @@ TPUPB
 function
 f u n c ti o n
 f ʌ́ ŋ k ʃ  ə n
-TPUPBG/-BG/SH-PB
+TPUPBG/-BGZ
 
 fund
 f u n d
@@ -7856,7 +7856,7 @@ EUPBD/-S/TRAE
 infection
 i n f e c ti o n
 ɪ n f ɛ́ k ʃ  ə n
-EUPB/TPEBG/SH-PB
+EUPB/TPEBGZ
 
 influence
 i n f l u  e n c e
@@ -8007,8 +8007,8 @@ EUPBS/TEU/KHAOUGZ
 instruction
 i n s t r u c ti o n
 ɪ n s t r ʌ́ k ʃ  ə n
-EUPB/STRUBG/SH-PB
-EUPBS/TRUBG/SH-PB
+EUPB/STRUBGZ
+EUPBS/TRUBGZ
 
 instructor
 i n s t r u c t o r
@@ -8161,8 +8161,8 @@ EUPBT/RU/SKWRAOUS
 introduction
 i n t r o d u c ti o n
 ɪ́ n t r ə d ʌ́ k ʃ  ə n
-EUPB/TRU/TKUBG/SH-PB
-EUPBT/RU/TKUBG/SH-PB
+EUPB/TRU/TKUBGZ
+EUPBT/RU/TKUBGZ
 
 invent
 i n v e n t
@@ -11490,7 +11490,7 @@ PREU/TKEUBGT
 prediction
 p r e d i c ti o n
 p r ɪ d ɪ́ k ʃ  ə n
-PREU/TKEUBG/SH-PB
+PREU/TKEUBGZ
 
 prefer
 p r e f e  r
@@ -11724,7 +11724,7 @@ PRAUD/-BGT
 production
 p r o d u c ti o n
 p r ə d ʌ́ k ʃ  ə n
-PRU/TKUBG/SH-PB
+PRU/TKUBGZ
 
 profession
 p r o f e ssi o n
@@ -11851,7 +11851,7 @@ PRU/TEBGT
 protection
 p r o t e c ti o n
 p r ə t ɛ́ k ʃ  ə n
-PRU/TEBG/SH-PB
+PRU/TEBGZ
 
 protest
 p r o t e s t
@@ -12161,7 +12161,7 @@ RAE/ABGT
 reaction
 r e  a c ti o n
 r ɪj á k ʃ  ə n
-RAE/ABG/SH-PB
+RAE/ABGZ
 
 read
 r ea d
@@ -12319,7 +12319,7 @@ REU/SKWRAOUS
 reduction
 r e d u c ti o n
 r ɪ d ʌ́ k ʃ  ə n
-REU/TKUBG/SH-PB
+REU/TKUBGZ
 
 refer
 r e f e  r
@@ -13236,7 +13236,7 @@ SEBG/R-T/RAE
 section
 s e c ti o n
 s ɛ́ k ʃ  ə n
-SEBG/SH-PB
+SEBGZ
 
 sector
 s e c t o r
@@ -13293,8 +13293,8 @@ SEU/HREBGT
 selection
 s e l e c ti o n
 s ɪ l ɛ́ k ʃ  ə n
-SHREBG/SH-PB
-SEU/HREBG/SH-PB
+SHREBGZ
+SEU/HREBGZ
 
 self
 s e l f
