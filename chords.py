@@ -28,22 +28,22 @@ LEFT_CHORDS = {
 MID_CHORDS = {
     'ɪ':  Stroke('EU'),
     'ɪj': Stroke('AOE'),
-    'ɪː': Stroke('AOER'), # TODO except in "idea"?
+    'ɪː': Stroke('AOE'), # TODO except in "idea"?
     'ɛ':  Stroke('E'),
     'ɛj': Stroke('AEU'),
-    'ɛː': Stroke('AEUR'),
+    'ɛː': Stroke('AEU'),
     'a':  Stroke('A'),
     'ɑj': Stroke('AOEU'),
     'ɑː': Stroke('AU'),
     'ʌ':  Stroke('U'),
     'əw': Stroke('OE'),
-    'əː': Stroke('UR'),
+    'əː': Stroke('U'),
     'ɔ':  Stroke('AU'), # TODO use O?
     'oj': Stroke('OEU'),
     'oː': Stroke('AU'),
     'ɵ':  Stroke('AO'), # TODO except in "put" etc.?
     'ʉw': Stroke('AOU'),
-    'ɵː': Stroke('AOUR'), # TODO to be confirmed
+    'ɵː': Stroke('AOU'), # TODO to be confirmed
     'ə':  Stroke('U'),
     'aw': Stroke('OU'),
 }
