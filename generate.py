@@ -100,7 +100,6 @@ def gen(sounds, pos=0, right=False, stroke=Stroke(''), outline=[]):
 
     if sounds[pos] == BREAK:
         yield from gen(sounds, pos+1, False, Stroke(''), outline+[stroke])
-        return
 
     matches = []
 
