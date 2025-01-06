@@ -254,18 +254,18 @@ AD/-LT
 advance
 a d v a  n c e
 ə d v ɑ́ː n s
-UD/SRAUPBS
+UD/SRAPBS
 
 advanced
 a d v a  n c e d
 ə d v ɑ́ː n s   t
-UD/SRAUPBS/-T
+UD/SRAPBS/-T
 
 advantage
 a d v a  n t a g  e
 ə d v ɑ́ː n t ɪ dʒ
-UD/SRAUPB/T-PBLG
-UD/SRAUPBT/-PBLG
+UD/SRAPB/T-PBLG
+UD/SRAPBT/-PBLG
 
 adventure
 a d v e n t  u r e
@@ -332,25 +332,25 @@ UF/RAEUD
 after
 a  f t e r
 ɑ́ː f t ə
-AUF/T-R
-AUFT/-R
+AF/T-R
+AFT/-R
 
 afternoon
 a  f t e r n oo n
 ɑ́ː f t ə   n ʉ́w n
-AUF/TU/TPHAOUPB
-AUF/T-R/TPHAOUPB
-AUFT/TPHAOUPB
-AUFT/-R/TPHAOUPB
+AF/TU/TPHAOUPB
+AF/T-R/TPHAOUPB
+AFT/TPHAOUPB
+AFT/-R/TPHAOUPB
 
 afterwards
 a  f t e r w a r d s
 ɑ́ː f t ə   w ə   d z
-AUF/TW-RDZ
-AUF/TU/W-RDZ
-AUF/T-R/W-RDZ
-AUFT/W-RDZ
-AUFT/-R/W-RDZ
+AF/TW-RDZ
+AF/TU/W-RDZ
+AF/T-R/W-RDZ
+AFT/W-RDZ
+AFT/-R/W-RDZ
 
 again
 a g ai n
@@ -421,7 +421,7 @@ UG/RAOEPL/-PBT
 ah
 a  h
 ɑ́ː
-AU
+A
 
 ahead
 a h ea d
@@ -446,8 +446,8 @@ AEUR
 aircraft
 ai r c r a  f t
 ɛ́ː   k r ɑː f t
-AEUR/KRAUFT
-AEURBG/RAUFT
+AEUR/KRAFT
+AEURBG/RAFT
 
 airline
 ai r l i  n e
@@ -464,7 +464,7 @@ AEURP/AURT
 alarm
 a l a  r m
 ə l ɑ́ː   m
-U/HRAURPL
+U/HRARPL
 
 album
 a l b u m
@@ -698,9 +698,9 @@ U/TPHUGT/-R
 answer
 a  n s w e r
 ɑ́ː n s   ə
-AUPB/SW-R
-AUPBS/W-R
-AUPBS/-R
+APB/SW-R
+APBS/W-R
+APBS/-R
 
 anxious
 a n xi - ou s
@@ -744,12 +744,12 @@ EPB/AE/WHAEUR
 apart
 a p a  r t
 ə p ɑ́ː   t
-U/PAURT
+U/PART
 
 apartment
 a p a  r t m e n t
 ə p ɑ́ː   t m ə n t
-U/PAURT/PH-PBT
+U/PART/PH-PBT
 
 apologize
 a p o l o g  i  z e
@@ -866,18 +866,18 @@ AEUP/R-L
 architect
 a  r ch i t e c t
 ɑ́ː   k  ɪ t ɛ k t
-AUR/KEU/TEBGT
-AUR/K-T/EBGT
-AURBG/TEBGT
-AURBG/-T/EBGT
+AR/KEU/TEBGT
+AR/K-T/EBGT
+ARBG/TEBGT
+ARBG/-T/EBGT
 
 architecture
 a  r ch i t e c t  u r e
 ɑ́ː   k  ɪ t ɛ k tʃ ə
-AUR/KEU/TEBG/KH-R
-AUR/K-T/EBG/KH-R
-AURBG/TEBG/KH-R
-AURBG/-T/EBG/KH-R
+AR/KEU/TEBG/KH-R
+AR/K-T/EBG/KH-R
+ARBG/TEBG/KH-R
+ARBG/-T/EBG/KH-R
 
 area
 a  r e  a
@@ -887,18 +887,18 @@ AEUR/AE
 argue
 a  r g   ue
 ɑ́ː   g j ʉw
-AUR/TKPWAOU
-AURG/KWRAOU
-AURG/AOU
+AR/TKPWAOU
+ARG/KWRAOU
+ARG/AOU
 
 argument
 a  r g   u m e n t
 ɑ́ː   g j ə m ə n t
-AUR/TKPWU/PH-PBT
-AUR/TKPW-PL/-PBT
-AURG/KWR-PL/-PBT
-AURG/PH-PBT
-AURG/-PL/-PBT
+AR/TKPWU/PH-PBT
+AR/TKPW-PL/-PBT
+ARG/KWR-PL/-PBT
+ARG/PH-PBT
+ARG/-PL/-PBT
 
 arise
 a r i  s e
@@ -908,23 +908,23 @@ U/RAOEUZ
 arm
 a  r m
 ɑ́ː   m
-AURPL
+ARPL
 
 armed
 a  r m e d
 ɑ́ː   m   d
-AURPLD
+ARPLD
 
 arms
 a  r m s
 ɑ́ː   m z
-AURPLZ
+ARPLZ
 
 army
 a  r m y
 ɑ́ː   m ɪj
-AUR/PHAE
-AURPL/AE
+AR/PHAE
+ARPL/AE
 
 around
 a r ou n d
@@ -959,36 +959,36 @@ U/RAOEUFB
 art
 a  r t
 ɑ́ː   t
-AURT
+ART
 
 article
 a  r t i c   l e
 ɑ́ː   t ɪ k ə l
-AUR/TK-L
-AUR/TEU/K-L
-AUR/T-BG/-L
-AURT/K-L
-AURT/-BG/-L
+AR/TK-L
+AR/TEU/K-L
+AR/T-BG/-L
+ART/K-L
+ART/-BG/-L
 
 artificial
 a  r t i f i ci a l
 ɑ́ː   t ɪ f ɪ́ ʃ  ə l
-AUR/TEU/TPEUGS/-L
-AURT/TPEUGS/-L
+AR/TEU/TPEUGS/-L
+ART/TPEUGS/-L
 
 artist
 a  r t i s t
 ɑ́ː   t ɪ s t
-AUR/T*S
-AURT/*S
+AR/T*S
+ART/*S
 
 artistic
 a  r t i s t i c
 ɑː   t ɪ́ s t ɪ k
-AU/T*EUS/-BG
-AU/TEUS/T-BG
-AUR/T*EUS/-BG
-AUR/TEUS/T-BG
+A/T*EUS/-BG
+A/TEUS/T-BG
+AR/T*EUS/-BG
+AR/TEUS/T-BG
 
 as
 a s
@@ -1008,7 +1008,7 @@ U/SHAEUPLD
 ask
 a  s k
 ɑ́ː s k
-AUS/-BG
+AS/-BG
 
 asleep
 a s l ee p
@@ -1162,7 +1162,7 @@ AUG/*S
 aunt
 au n t
 ɑ́ː n t
-AUPBT
+APBT
 
 author
 au th o r
@@ -1281,7 +1281,7 @@ PWAPB
 banana
 b a n a  n a
 b ə n ɑ́ː n ə
-PWU/TPHAUPB
+PWU/TPHAPB
 
 band
 b a n d
@@ -1296,7 +1296,7 @@ PWAPBG/-BG
 bar
 b a  r
 b ɑ́ː
-PWAUR
+PWAR
 
 barrier
 b a rr i  e r
@@ -1337,18 +1337,18 @@ PWAEUS/-S
 basketball
 b a  s k e t b a  ll
 b ɑ́ː s k ɪ t b oː l
-PWAUS/K-T/PWAUL
-PWAUS/-BG/-T/PWAUL
+PWAS/K-T/PWAUL
+PWAS/-BG/-T/PWAUL
 
 bath
 b a  th
 b ɑ́ː θ
-PWAUGT
+PWAGT
 
 bathroom
 b a  th r oo m
 b ɑ́ː θ  r ʉw m
-PWAUGT/RAOUPL
+PWAGT/RAOUPL
 
 battery
 b a tt e r y
@@ -1804,7 +1804,7 @@ PWRAEUPB
 branch
 b r a  n ch
 b r ɑ́ː n tʃ
-PWRAUPB/-FP
+PWRAPB/-FP
 
 brand
 b r a n d
@@ -1890,7 +1890,7 @@ PWRAUD
 broadcast
 b r oa d c a  s t
 b r óː d k ɑː s t
-PWRAUD/KA*US
+PWRAUD/KA*S
 
 broken
 b r o  k e n
@@ -2042,7 +2042,7 @@ KAUL
 calm
 c a  l m
 k ɑ́ː   m
-KAUPL
+KAPL
 
 camera
 c a m e r a
@@ -2146,12 +2146,12 @@ KAP/KH-R
 car
 c a  r
 k ɑ́ː
-KAUR
+KAR
 
 card
 c a  r d
 k ɑ́ː   d
-KAURD
+KARD
 
 care
 c a  r e
@@ -2188,8 +2188,8 @@ KAEURL/-S
 carpet
 c a  r p e t
 k ɑ́ː   p ɪ t
-KAUR/P-T
-KAURP/-T
+KAR/P-T
+KARP/-T
 
 carrot
 c a rr o t
@@ -2204,8 +2204,8 @@ KAR/AE
 cartoon
 c a  r t oo n
 k ɑː   t ʉ́w n
-KAU/TAOUPB
-KAUR/TAOUPB
+KA/TAOUPB
+KAR/TAOUPB
 
 case
 c a  s e
@@ -2220,12 +2220,12 @@ KAGS
 cast
 c a  s t
 k ɑ́ː s t
-KA*US
+KA*S
 
 castle
 c a  s t   l e
 k ɑ́ː s   ə l
-KAUS/-L
+KAS/-L
 
 cat
 c a t
@@ -2357,7 +2357,7 @@ KHAPL/PAE/-PB
 chance
 ch a  n c e
 tʃ ɑ́ː n s
-KHAUPBS
+KHAPBS
 
 change
 ch a  n g  e
@@ -2394,7 +2394,7 @@ KAR/-BGT/REUS/T-BG
 charge
 ch a  r g  e
 tʃ ɑ́ː   dʒ
-KHAURPBLG
+KHARPBLG
 
 charity
 ch a r i t y
@@ -2405,7 +2405,7 @@ KHAR/-T/AE
 chart
 ch a  r t
 tʃ ɑ́ː   t
-KHAURT
+KHART
 
 chat
 ch a t
@@ -2515,8 +2515,8 @@ SEUG/RET
 cinema
 c i n e m a
 s ɪ́ n ə m ɑː
-SEUPB/PHAU
-SEUPB/-PL/AU
+SEUPB/PHA
+SEUPB/-PL/A
 
 circle
 c i  r c   l e
@@ -2559,7 +2559,7 @@ KHRAEUPL
 class
 c l a  ss
 k l ɑ́ː s
-KHRAUS
+KHRAS
 
 classic
 c l a ss i c
@@ -2575,7 +2575,7 @@ KHRAS/-BG/-L
 classroom
 c l a  ss r oo m
 k l ɑ́ː s  r ʉw m
-KHRAUS/RAOUPL
+KHRAS/RAOUPL
 
 clause
 c l au s e
@@ -2811,8 +2811,8 @@ KUPL/-FR/T-B/-L
 command
 c o mm a  n d
 k ə m  ɑ́ː n d
-KPHAUPBD
-KU/PHAUPBD
+KPHAPBD
+KU/PHAPBD
 
 comment
 c o mm e n t
@@ -3293,14 +3293,14 @@ KUPBT/RABGT
 contrast
 c o n t r a  s t
 k ɔ́ n t r ɑː s t
-KAUPB/TRA*US
-KAUPBT/RA*US
+KAUPB/TRA*S
+KAUPBT/RA*S
 
 contrast
 c o n t r a  s t
 k ə n t r ɑ́ː s t
-KUPB/TRA*US
-KUPBT/RA*US
+KUPB/TRA*S
+KUPBT/RA*S
 
 contribute
 c o n t r i b   u  t e
@@ -3752,19 +3752,19 @@ TKAPL/-PBLG
 dance
 d a  n c e
 d ɑ́ː n s
-TKAUPBS
+TKAPBS
 
 dancer
 d a  n c e r
 d ɑ́ː n s ə
-TKAUPB/S-R
-TKAUPBS/-R
+TKAPB/S-R
+TKAPBS/-R
 
 dancing
 d a  n c i ng
 d ɑ́ː n s ɪ ŋ
-TKAUPB/S-PBG
-TKAUPBS/-PBG
+TKAPB/S-PBG
+TKAPBS/-PBG
 
 danger
 d a  n g  e r
@@ -3783,7 +3783,7 @@ TKAEUPB/-PBLG/-R/-S
 dark
 d a  r k
 d ɑ́ː   k
-TKAURBG
+TKARBG
 
 data
 d a  t a
@@ -4015,8 +4015,8 @@ TKU/HREUFB/-R/AE
 demand
 d e m a  n d
 d ə m ɑ́ː n d
-TKPHAUPBD
-TKU/PHAUPBD
+TKPHAPBD
+TKU/PHAPBD
 
 demonstrate
 d e m o n s t r a  t e
@@ -4038,16 +4038,16 @@ TKU/TPHAOEU
 department
 d e p a  r t m e n t
 d ə p ɑ́ː   t m ə n t
-TKPAURT/PH-PBT
-TKU/PAURT/PH-PBT
+TKPART/PH-PBT
+TKU/PART/PH-PBT
 
 departure
 d e p a  r t  u r e
 d ə p ɑ́ː   tʃ ə
-TKPAUR/KH-R
-TKPAUR/-FP/-R
-TKU/PAUR/KH-R
-TKU/PAUR/-FP/-R
+TKPAR/KH-R
+TKPAR/-FP/-R
+TKU/PAR/KH-R
+TKU/PAR/-FP/-R
 
 depend
 d e p e n d
@@ -4316,8 +4316,8 @@ TKURT/AE
 disadvantage
 d i s a d v a  n t a g  e
 d ɪ́ s ə d v ɑ́ː n t ɪ dʒ
-TKEUS/UD/SRAUPB/T-PBLG
-TKEUS/UD/SRAUPBT/-PBLG
+TKEUS/UD/SRAPB/T-PBLG
+TKEUS/UD/SRAPBT/-PBLG
 
 disagree
 d i s a g r ee
@@ -4345,8 +4345,8 @@ TKEUS/POEUPBT/-PBG
 disaster
 d i s a  s t e r
 d ɪ z ɑ́ː s t ə
-TKEU/SWRA*US/-R
-TKEU/SWRAUS/T-R
+TKEU/SWRA*S/-R
+TKEU/SWRAS/T-R
 
 disc
 d i s c
@@ -4604,7 +4604,7 @@ TKUZ/-PB
 draft
 d r a  f t
 d r ɑ́ː f t
-TKRAUFT
+TKRAFT
 
 drag
 d r a g
@@ -4614,7 +4614,7 @@ TKRAG
 drama
 d r a  m a
 d r ɑ́ː m ə
-TKRAUPL
+TKRAPL
 
 dramatic
 d r a m a t i c
@@ -5114,7 +5114,7 @@ EPB/-PBLG/TPHAOER/-PBG
 enhance
 e n h a  n c e
 ɪ n h ɑ́ː n s
-EUPB/HAUPBS
+EUPB/HAPBS
 
 enjoy
 e n j  oy
@@ -5205,8 +5205,8 @@ EPBT/R-PBS
 entrance
 e n t r a  n c e
 ɪ n t r ɑ́ː n s
-EUPB/TRAUPBS
-EUPBT/RAUPBS
+EUPB/TRAPBS
+EUPBT/RAPBS
 
 entry
 e n t r y
@@ -5432,8 +5432,8 @@ EUG/SWRAPL/-PB
 example
 e x - a  m p   l e
 ɪ g z ɑ́ː m p ə l
-EUG/SWRAUFPL/-L
-EUG/SWRAUPL/P-L
+EUG/SWRAFPL/-L
+EUG/SWRAPL/P-L
 
 excellent
 e x - c e ll e n t
@@ -5820,24 +5820,24 @@ TPAPB/TAS/T-BG
 far
 f a  r
 f ɑ́ː
-TPAUR
+TPAR
 
 farm
 f a  r m
 f ɑ́ː   m
-TPAURPL
+TPARPL
 
 farmer
 f a  r m e r
 f ɑ́ː   m ə
-TPAUR/PH-R
-TPAURPL/-R
+TPAR/PH-R
+TPARPL/-R
 
 farming
 f a  r m i ng
 f ɑ́ː   m ɪ ŋ
-TPAUR/PH-PBG
-TPAURPL/-PBG
+TPAR/PH-PBG
+TPARPL/-PBG
 
 fascinating
 f a s c i n a  t i ng
@@ -5863,12 +5863,12 @@ TPAGS/TPH-B/-L
 fast
 f a  s t
 f ɑ́ː s t
-TPA*US
+TPA*S
 
 fasten
 f a  s t e n
 f ɑ́ː s   ə n
-TPAUS/-PB
+TPAS/-PB
 
 fat
 f a t
@@ -5878,7 +5878,7 @@ TPAT
 father
 f a  th e r
 f ɑ́ː ð  ə
-TPAUGT/-R
+TPAGT/-R
 
 fault
 f au l t
@@ -6602,8 +6602,8 @@ TKPWAR/-PBLG
 garden
 g a  r d e n
 g ɑ́ː   d ə n
-TKPWAUR/TK-PB
-TKPWAURD/-PB
+TKPWAR/TK-PB
+TKPWARD/-PB
 
 gas
 g a s
@@ -6716,7 +6716,7 @@ TKPWHRAD
 glass
 g l a  ss
 g l ɑ́ː s
-TKPWHRAUS
+TKPWHRAS
 
 global
 g l o  b a l
@@ -6817,8 +6817,8 @@ TKPWRAPBD
 grandfather
 g r a n d f a  th e r
 g r á n   f ɑː ð  ə
-TKPWRAPB/TPAU/TH-R
-TKPWRAPB/TPAUGT/-R
+TKPWRAPB/TPA/TH-R
+TKPWRAPB/TPAGT/-R
 
 grandmother
 g r a n d m o th e r
@@ -6835,12 +6835,12 @@ TKPWRAPB/PAEUR/-PBT
 grant
 g r a  n t
 g r ɑ́ː n t
-TKPWRAUPBT
+TKPWRAPBT
 
 grass
 g r a  ss
 g r ɑ́ː s
-TKPWRAUS
+TKPWRAS
 
 grateful
 g r a  t e f u l
@@ -6895,7 +6895,7 @@ TKPWAR/-PB/TAE
 guard
 g u a  r d
 g   ɑ́ː   d
-TKPWAURD
+TKPWARD
 
 guess
 g u e ss
@@ -6921,7 +6921,7 @@ TKPWEULT/AE
 guitar
 g u i t a  r
 g   ɪ t ɑ́ː
-TKPWEU/TAUR
+TKPWEU/TAR
 
 gun
 g u n
@@ -6951,7 +6951,7 @@ HAEUR
 half
 h a  l f
 h ɑ́ː   f
-HAUF
+HAF
 
 hall
 h a  ll
@@ -6999,23 +6999,23 @@ HAP/AE
 hard
 h a  r d
 h ɑ́ː   d
-HAURD
+HARD
 
 hardly
 h a  r d l y
 h ɑ́ː   d l ɪj
-HAURD/HRAE
+HARD/HRAE
 
 harm
 h a  r m
 h ɑ́ː   m
-HAURPL
+HARPL
 
 harmful
 h a  r m f u l
 h ɑ́ː   m f ə l
-HAURPL/TP-L
-HAURPL/-F/-L
+HARPL/TP-L
+HARPL/-F/-L
 
 hat
 h a t
@@ -7081,7 +7081,7 @@ HAOER/-PBG
 heart
 h ea r t
 h ɑ́ː   t
-HAURT
+HART
 
 heat
 h ea t
@@ -8519,17 +8519,17 @@ HRAPT/AUP
 large
 l a  r g  e
 l ɑ́ː   dʒ
-HRAURPBLG
+HRARPBLG
 
 largely
 l a  r g  e l y
 l ɑ́ː   dʒ   l ɪj
-HRAURPBLG/HRAE
+HRARPBLG/HRAE
 
 last
 l a  s t
 l ɑ́ː s t
-HRA*US
+HRA*S
 
 late
 l a  t e
@@ -8549,13 +8549,13 @@ HRAEUT/*S
 laugh
 l au gh
 l ɑ́ː f
-HRAUF
+HRAF
 
 laughter
 l au gh t e r
 l ɑ́ː f  t ə
-HRAUF/T-R
-HRAUFT/-R
+HRAF/T-R
+HRAFT/-R
 
 launch
 l au n ch
@@ -9110,26 +9110,26 @@ PHAP
 March
 M a  r ch
 m ɑ́ː   tʃ
-PHAUR/-FP
+PHAR/-FP
 
 mark
 m a  r k
 m ɑ́ː   k
-PHAURBG
+PHARBG
 
 market
 m a  r k e t
 m ɑ́ː   k ɪ t
-PHAUR/K-T
-PHAURBG/-T
+PHAR/K-T
+PHARBG/-T
 
 marketing
 m a  r k e t i ng
 m ɑ́ː   k ɪ t ɪ ŋ
-PHAUR/KEU/T-PBG
-PHAUR/K-T/-PBG
-PHAURBG/T-PBG
-PHAURBG/-T/-PBG
+PHAR/KEU/T-PBG
+PHAR/K-T/-PBG
+PHARBG/T-PBG
+PHARBG/-T/-PBG
 
 marriage
 m a rr ia g  e
@@ -9159,8 +9159,8 @@ PHAS/-FB
 master
 m a  s t e r
 m ɑ́ː s t ə
-PHA*US/-R
-PHAUS/T-R
+PHA*S/-R
+PHAS/T-R
 
 match
 m a tch
@@ -10420,12 +10420,12 @@ AUT
 our
 ou r
 ɑ́ː
-AUR
+AR
 
 ours
 ou r s
 ɑ́ː   z
-AURZ
+ARZ
 
 ourselves
 ou r s e l v e s
@@ -10596,8 +10596,8 @@ PAEUP/-R
 paragraph
 p a r a g r a  ph
 p á r ə g r ɑː f
-PAR/TKPWRAUF
-PAR/UG/RAUF
+PAR/TKPWRAF
+PAR/UG/RAF
 
 parent
 p a  r e n t
@@ -10607,42 +10607,42 @@ PAEUR/-PBT
 park
 p a  r k
 p ɑ́ː   k
-PAURBG
+PARBG
 
 parking
 p a  r k i ng
 p ɑ́ː   k ɪ ŋ
-PAUR/K-PBG
-PAURBG/-PBG
+PAR/K-PBG
+PARBG/-PBG
 
 parliament
 p a  r l ia m e n t
 p ɑ́ː   l ə  m ə n t
-PAUR/HRU/PH-PBT
-PAUR/HR-PL/-PBT
-PAURL/PH-PBT
-PAURL/-PL/-PBT
+PAR/HRU/PH-PBT
+PAR/HR-PL/-PBT
+PARL/PH-PBT
+PARL/-PL/-PBT
 
 part
 p a  r t
 p ɑ́ː   t
-PAURT
+PART
 
 participant
 p a  r t i c i p a n t
 p ɑː   t ɪ́ s ɪ p ə n t
-PAU/TEUS/P-PBT
-PAU/TEUS/-P/-PBT
-PAUR/TEUS/P-PBT
-PAUR/TEUS/-P/-PBT
+PA/TEUS/P-PBT
+PA/TEUS/-P/-PBT
+PAR/TEUS/P-PBT
+PAR/TEUS/-P/-PBT
 
 participate
 p a  r t i c i p a  t e
 p ɑː   t ɪ́ s ɪ p ɛj t
-PAU/TEUS/PAEUT
-PAU/TEUS/-P/AEUT
-PAUR/TEUS/PAEUT
-PAUR/TEUS/-P/AEUT
+PA/TEUS/PAEUT
+PA/TEUS/-P/AEUT
+PAR/TEUS/PAEUT
+PAR/TEUS/-P/AEUT
 
 particular
 p a r t i c   u l a r
@@ -10679,23 +10679,23 @@ PUR/TEUBG/-L/-RL/AE
 partly
 p a  r t l y
 p ɑ́ː   t l ɪj
-PAURT/HRAE
+PART/HRAE
 
 partner
 p a  r t n e r
 p ɑ́ː   t n ə
-PAURT/TPH-R
+PART/TPH-R
 
 party
 p a  r t y
 p ɑ́ː   t ɪj
-PAUR/TAE
-PAURT/AE
+PAR/TAE
+PART/AE
 
 pass
 p a  ss
 p ɑ́ː s
-PAUS
+PAS
 
 passage
 p a ss a g  e
@@ -10716,18 +10716,18 @@ PAGZ
 passport
 p a  ss p o  r t
 p ɑ́ː s  p oː   t
-PAUS/PAURT
-PAUS/-P/AURT
+PAS/PAURT
+PAS/-P/AURT
 
 past
 p a  s t
 p ɑ́ː s t
-PA*US
+PA*S
 
 path
 p a  th
 p ɑ́ː θ
-PAUGT
+PAGT
 
 patient
 p a  ti e n t
@@ -10976,8 +10976,8 @@ TPOET/OE
 photograph
 ph o  t o g r a  ph
 f  ə́w t ə g r ɑː f
-TPOET/TKPWRAUF
-TPOET/UG/RAUF
+TPOET/TKPWRAF
+TPOET/UG/RAF
 
 photographer
 ph o t o g r a ph e r
@@ -11010,7 +11010,7 @@ TPEUZ/-BGS
 piano
 p i  a  n o
 p ɪj ɑ́ː n əw
-PAE/AUPB/OE
+PAE/APB/OE
 
 piano
 p i a n o
@@ -11099,7 +11099,7 @@ PHRAPB/-PBG
 plant
 p l a  n t
 p l ɑ́ː n t
-PHRAUPBT
+PHRAPBT
 
 plastic
 p l a s t i c
@@ -12095,7 +12095,7 @@ RAEUT
 rather
 r a  th e r
 r ɑ́ː ð  ə
-RAUGT/-R
+RAGT/-R
 
 raw
 r aw
@@ -12307,7 +12307,7 @@ REUF/AOUZ
 regard
 r e g a  r d
 r ɪ g ɑ́ː   d
-REU/TKPWAURD
+REU/TKPWARD
 
 region
 r e  gi o n
@@ -12461,7 +12461,7 @@ REU/PHAEUPB
 remark
 r e m a  r k
 r ɪ m ɑ́ː   k
-REU/PHAURBG
+REU/PHARBG
 
 remember
 r e m e m b e r
@@ -12987,8 +12987,8 @@ SAEUPL
 sample
 s a  m p   l e
 s ɑ́ː m p ə l
-SAUFPL/-L
-SAUPL/P-L
+SAFPL/-L
+SAPL/P-L
 
 sand
 s a n d
@@ -13446,7 +13446,7 @@ SHAEUR
 sharp
 sh a  r p
 ʃ  ɑ́ː   p
-SHAURP
+SHARP
 
 she
 sh e
@@ -13861,7 +13861,7 @@ SPHAUL
 smart
 s m a  r t
 s m ɑ́ː   t
-SPHAURT
+SPHART
 
 smell
 s m e ll
@@ -14223,7 +14223,7 @@ STAEUD/AE/-PL
 staff
 s t a  ff
 s t ɑ́ː f
-STAUF
+STAF
 
 stage
 s t a  g  e
@@ -14254,7 +14254,7 @@ STAPBD/-RD
 star
 s t a  r
 s t ɑ́ː
-STAUR
+STAR
 
 stare
 s t a  r e
@@ -14264,7 +14264,7 @@ STAEUR
 start
 s t a  r t
 s t ɑ́ː   t
-STAURT
+START
 
 state
 s t a  t e
@@ -14619,15 +14619,15 @@ SUPBD/AEU
 supermarket
 s u  p e r m a  r k e t
 s ʉ́w p ə   m ɑː   k ɪ t
-SAOUP/PHAU/K-T
-SAOUP/PHAUR/K-T
-SAOUP/PHAURBG/-T
-SAOUP/-R/PHAU/K-T
-SAOUP/-R/PHAUR/K-T
-SAOUP/-R/PHAURBG/-T
-SAOUP/-RPL/AU/K-T
-SAOUP/-RPL/AUR/K-T
-SAOUP/-RPL/AURBG/-T
+SAOUP/PHA/K-T
+SAOUP/PHAR/K-T
+SAOUP/PHARBG/-T
+SAOUP/-R/PHA/K-T
+SAOUP/-R/PHAR/K-T
+SAOUP/-R/PHARBG/-T
+SAOUP/-RPL/A/K-T
+SAOUP/-RPL/AR/K-T
+SAOUP/-RPL/ARBG/-T
 
 supply
 s u pp l y
@@ -14868,13 +14868,13 @@ TAEUP
 target
 t a  r g e t
 t ɑ́ː   g ɪ t
-TAUR/TKPW-T
-TAURG/-T
+TAR/TKPW-T
+TARG/-T
 
 task
 t a  s k
 t ɑ́ː s k
-TAUS/-BG
+TAS/-BG
 
 taste
 t a  s t e
@@ -15354,8 +15354,8 @@ TOEUL/-T
 tomato
 t o m a  t o
 t ə m ɑ́ː t əw
-TPHAUT/OE
-TU/PHAUT/OE
+TPHAT/OE
+TU/PHAT/OE
 
 tomorrow
 t o m o rr ow
@@ -16092,7 +16092,7 @@ SRAEUR/AE
 vast
 v a  s t
 v ɑ́ː s t
-SRA*US
+SRA*S
 
 vegetable
 v e g  e t a b   l e
@@ -16800,7 +16800,7 @@ WRAUPBG
 yard
 y a  r d
 j ɑ́ː   d
-KWRAURD
+KWRARD
 
 yeah
 y ea h

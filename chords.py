@@ -34,7 +34,7 @@ MID_CHORDS = {
     'ɛː': Stroke('AEU'),
     'a':  Stroke('A'),
     'ɑj': Stroke('AOEU'),
-    'ɑː': Stroke('AU'),
+    'ɑː': Stroke('A'),
     'ʌ':  Stroke('U'),
     'əw': Stroke('OE'),
     'əː': Stroke('U'),
