@@ -109,7 +109,6 @@ U/KOUPBT
 accurate
 a cc   u r a t e
 á k  j ə r ə t
-ABG/KWRU/R-T
 ABG/KWR-R/-T
 ABG/R-T
 ABG/-R/-T
@@ -118,7 +117,6 @@ accuse
 a cc   u  s e
 ə k  j ʉ́w z
 U/KAOUZ
-U/KU/KWRAOUZ
 UBG/KWRAOUZ
 UBG/AOUZ
 
@@ -286,7 +284,6 @@ advertisement
 a d v e  r t i s e m e n t
 ə d v ə́ː   t ɪ s   m ə n t
 UD/SRUR/TEU/SPH-PBT
-UD/SRUR/TU/SPH-PBT
 UD/SRUR/T-S/PH-PBT
 UD/SRURT/SPH-PBT
 UD/SRURT/-S/PH-PBT
@@ -799,7 +796,6 @@ application
 a pp l i c a  ti o n
 á p  l ɪ k ɛ́j ʃ  ə n
 AP/HREU/KAEUGZ
-AP/HRU/KAEUGZ
 
 apply
 a pp l y
@@ -871,7 +867,6 @@ architect
 a  r ch i t e c t
 ɑ́ː   k  ɪ t ɛ k t
 AUR/KEU/TEBGT
-AUR/KU/TEBGT
 AUR/K-T/EBGT
 AURBG/TEBGT
 AURBG/-T/EBGT
@@ -880,7 +875,6 @@ architecture
 a  r ch i t e c t  u r e
 ɑ́ː   k  ɪ t ɛ k tʃ ə
 AUR/KEU/TEBG/KH-R
-AUR/KU/TEBG/KH-R
 AUR/K-T/EBG/KH-R
 AURBG/TEBG/KH-R
 AURBG/-T/EBG/KH-R
@@ -894,18 +888,14 @@ argue
 a  r g   ue
 ɑ́ː   g j ʉw
 AUR/TKPWAOU
-AUR/TKPWU/KWRAOU
 AURG/KWRAOU
 AURG/AOU
 
 argument
 a  r g   u m e n t
 ɑ́ː   g j ə m ə n t
-AUR/TKPWU/KWRU/PH-PBT
-AUR/TKPWU/KWR-PL/-PBT
 AUR/TKPWU/PH-PBT
 AUR/TKPW-PL/-PBT
-AURG/KWRU/PH-PBT
 AURG/KWR-PL/-PBT
 AURG/PH-PBT
 AURG/-PL/-PBT
@@ -984,7 +974,6 @@ artificial
 a  r t i f i ci a l
 ɑ́ː   t ɪ f ɪ́ ʃ  ə l
 AUR/TEU/TPEUGS/-L
-AUR/TU/TPEUGS/-L
 AURT/TPEUGS/-L
 
 artist
@@ -1400,26 +1389,21 @@ PWAOET
 beautiful
 b   eau t i f u l
 b j ʉ́w  t ɪ f ə l
-PWU/KWRAOUT/TP-L
-PWU/KWRAOUT/-F/-L
 
 beauty
 b   eau t y
 b j ʉ́w  t ɪj
-PWU/KWRAOUT/AE
 
 because
 b e c au s e
 b ɪ k ɔ́  z
 PWEU/KAUZ
-PWU/KAUZ
 
 because
 b e c au s e
 b ɪ k ə  z
 PWEU/K-Z
 PWEUBG/-Z
-PWU/K-Z
 
 become
 b e c o m e
@@ -2044,11 +2028,8 @@ calculate
 c a l c   u l a  t e
 k á l k j ə l ɛj t
 KAL/KHRAEUT
-KAL/KU/KWRU/HRAEUT
-KAL/KU/KWR-L/AEUT
 KAL/KU/HRAEUT
 KAL/K-L/AEUT
-KAL/-BG/KWRU/HRAEUT
 KAL/-BG/KWR-L/AEUT
 KAL/-BG/HRAEUT
 KAL/-BG/-L/AEUT
@@ -2117,7 +2098,6 @@ candidate
 c a n d i d a t e
 k á n d ɪ d ə t
 KAPB/TKEU/TK-T
-KAPB/TKU/TK-T
 KAPB/TK-D/-T
 KAPBD/TK-T
 KAPBD/UD/-T
@@ -2790,7 +2770,6 @@ combination
 c o m b i n a  ti o n
 k ɔ́ m b ɪ n ɛ́j ʃ  ə n
 KAUPL/PWEU/TPHAEUGZ
-KAUPL/PWU/TPHAEUGZ
 
 combine
 c o m b i  n e
@@ -2885,12 +2864,8 @@ KAUPL/-PB/HRAE
 communicate
 c o mm   u  n i c a  t e
 k ə m  j ʉ́w n ɪ k ɛj t
-KPHU/KWRAOUPB/KAEUT
-KPHU/KWRAOUPB/-BG/AEUT
 KU/PHAOUPB/KAEUT
 KU/PHAOUPB/-BG/AEUT
-KU/PHU/KWRAOUPB/KAEUT
-KU/PHU/KWRAOUPB/-BG/AEUT
 KUPL/KWRAOUPB/KAEUT
 KUPL/KWRAOUPB/-BG/AEUT
 KUPL/AOUPB/KAEUT
@@ -2899,21 +2874,15 @@ KUPL/AOUPB/-BG/AEUT
 communication
 c o mm   u  n i c a  ti o n
 k ə m  j ʉ́w n ɪ k ɛ́j ʃ  ə n
-KPHU/KWRAOUPB/KAEUGZ
 KU/PHAOUPB/KAEUGZ
-KU/PHU/KWRAOUPB/KAEUGZ
 KUPL/KWRAOUPB/KAEUGZ
 KUPL/AOUPB/KAEUGZ
 
 community
 c o mm   u  n i t y
 k ə m  j ʉ́w n ə t ɪj
-KPHU/KWRAOUPB/TAE
-KPHU/KWRAOUPB/-T/AE
 KU/PHAOUPB/TAE
 KU/PHAOUPB/-T/AE
-KU/PHU/KWRAOUPB/TAE
-KU/PHU/KWRAOUPB/-T/AE
 KUPL/KWRAOUPB/TAE
 KUPL/KWRAOUPB/-T/AE
 KUPL/AOUPB/TAE
@@ -2996,14 +2965,10 @@ c o m p l i c a  t e d
 k ɔ́ m p l ɪ k ɛj t ɪ d
 KAUFPL/HREU/KAEU/T-D
 KAUFPL/HREU/KAEUT/UD
-KAUFPL/HRU/KAEU/T-D
-KAUFPL/HRU/KAEUT/UD
 KAUFPL/HR-BG/AEU/T-D
 KAUFPL/HR-BG/AEUT/UD
 KAUPL/PHREU/KAEU/T-D
 KAUPL/PHREU/KAEUT/UD
-KAUPL/PHRU/KAEU/T-D
-KAUPL/PHRU/KAEUT/UD
 KAUPL/PHR-BG/AEU/T-D
 KAUPL/PHR-BG/AEUT/UD
 
@@ -3018,7 +2983,6 @@ k ə m p j ʉ́w t ə
 KUFPL/KWRAOUT/-R
 KUFPL/AOUT/-R
 KUPL/PAOUT/-R
-KUPL/PU/KWRAOUT/-R
 
 concentrate
 c o n c e n t r a  t e
@@ -3099,14 +3063,12 @@ confidence
 c o n f i d e n c e
 k ɔ́ n f ɪ d ə n s
 KAUPB/TPEU/TK-PBS
-KAUPB/TPU/TK-PBS
 KAUPB/TP-D/-PBS
 
 confident
 c o n f i d e n t
 k ɔ́ n f ɪ d ə n t
 KAUPB/TPEU/TK-PBT
-KAUPB/TPU/TK-PBT
 KAUPB/TP-D/-PBT
 
 confirm
@@ -3128,19 +3090,16 @@ confuse
 c o n f   u  s e
 k ə n f j ʉ́w z
 KUPB/TPAOUZ
-KUPB/TPU/KWRAOUZ
 
 confused
 c o n f   u  s e d
 k ə n f j ʉ́w z   d
 KUPB/TPAOUZ/-D
-KUPB/TPU/KWRAOUZ/-D
 
 confusing
 c o n f   u  s i ng
 k ə n f j ʉ́w z ɪ ŋ
 KUPB/TPAOUZ/-PBG
-KUPB/TPU/KWRAOUZ/-PBG
 
 connect
 c o nn e c t
@@ -3303,7 +3262,6 @@ continent
 c o n t i n e n t
 k ɔ́ n t ɪ n ə n t
 KAUPB/TEU/TPH-PBT
-KAUPB/TU/TPH-PBT
 KAUPB/T-PB/-PBT
 KAUPBT/TPH-PBT
 KAUPBT/-PB/-PBT
@@ -3356,15 +3314,9 @@ contribution
 c o n t r i b   u  ti o n
 k ɔ́ n t r ɪ b j ʉ́w ʃ  ə n
 KAUPB/TREU/PWAOUGZ
-KAUPB/TREU/PWU/KWRAOUGZ
-KAUPB/TRU/PWAOUGZ
-KAUPB/TRU/PWU/KWRAOUGZ
 KAUPB/TR-B/KWRAOUGZ
 KAUPB/TR-B/AOUGZ
 KAUPBT/REU/PWAOUGZ
-KAUPBT/REU/PWU/KWRAOUGZ
-KAUPBT/RU/PWAOUGZ
-KAUPBT/RU/PWU/KWRAOUGZ
 KAUPBT/R-B/KWRAOUGZ
 KAUPBT/R-B/AOUGZ
 
@@ -3644,7 +3596,6 @@ criticism
 c r i t i c i s   m
 k r ɪ́ t ɪ s ɪ z ə m
 KREUT/SEU/SWR-PL
-KREUT/SU/SWR-PL
 KREUT/S-Z/-PL
 KREUT/-S/SWR-PL
 KREUT/-S/UZ/-PL
@@ -3719,7 +3670,6 @@ KUB/-RD
 cure
 c   u  r e
 k j óː
-KU/KWRAUR
 
 curly
 c u  r l y
@@ -3896,7 +3846,6 @@ December
 D e c e m b e r
 d ɪ s ɛ́ m b ə
 TKEU/SEPL/PW-R
-TKU/SEPL/PW-R
 
 decent
 d e  c e n t
@@ -4192,7 +4141,6 @@ d e s t i n a  ti o n
 d ɛ́ s t ɪ n ɛ́j ʃ  ə n
 TK*ES/TPHAEUGZ
 TKES/TEU/TPHAEUGZ
-TKES/TU/TPHAEUGZ
 
 destroy
 d e s t r oy
@@ -4399,8 +4347,6 @@ d i s a  s t e r
 d ɪ z ɑ́ː s t ə
 TKEU/SWRA*US/-R
 TKEU/SWRAUS/T-R
-TKU/SWRA*US/-R
-TKU/SWRAUS/T-R
 
 disc
 d i s c
@@ -4419,7 +4365,6 @@ d i s c ou n t
 d ɪ s k áw n t
 TKEU/SKOUPBT
 TKEUS/KOUPBT
-TKU/SKOUPBT
 
 discount
 d i s c ou n t
@@ -4432,7 +4377,6 @@ d i s c o v e r
 d ɪ s k ʌ́ v ə
 TKEU/SKUFB/-R
 TKEUS/KUFB/-R
-TKU/SKUFB/-R
 
 discovery
 d i s c o v e r y
@@ -4441,28 +4385,23 @@ TKEU/SKUFB/RAE
 TKEU/SKUFB/-R/AE
 TKEUS/KUFB/RAE
 TKEUS/KUFB/-R/AE
-TKU/SKUFB/RAE
-TKU/SKUFB/-R/AE
 
 discuss
 d i s c u ss
 d ɪ s k ʌ́ s
 TKEU/SKUS
 TKEUS/KUS
-TKU/SKUS
 
 discussion
 d i s c u ssi o n
 d ɪ s k ʌ́ ʃ   ə n
 TKEU/SKUGZ
 TKEUS/KUGZ
-TKU/SKUGZ
 
 disease
 d i s ea s e
 d ɪ z ɪ́j z
 TKEU/SWRAOEZ
-TKU/SWRAOEZ
 
 dish
 d i sh
@@ -4474,7 +4413,6 @@ d i s h o n e s t
 d ɪ s   ɔ́ n ɪ s t
 TKEU/SHAUPB/*S
 TKEUS/HAUPB/*S
-TKU/SHAUPB/*S
 
 disk
 d i s k
@@ -4486,14 +4424,12 @@ d i s l i  k e
 d ɪ s l ɑ́j k
 TKEU/SHRAOEUBG
 TKEUS/HRAOEUBG
-TKU/SHRAOEUBG
 
 dismiss
 d i s m i ss
 d ɪ s m ɪ́ s
 TKEU/SPHEUS
 TKEUS/PHEUS
-TKU/SPHEUS
 
 display
 d i s p l ay
@@ -4501,7 +4437,6 @@ d ɪ s p l ɛ́j
 TKEU/SPHRAEU
 TKEUS/PHRAEU
 TKEUS/-P/HRAEU
-TKU/SPHRAEU
 
 distance
 d i s t a n c e
@@ -4518,22 +4453,14 @@ TKEU/STREUB/KWRAOUT
 TKEU/STREUB/AOUT
 TKEUS/TREUB/KWRAOUT
 TKEUS/TREUB/AOUT
-TKU/STREUB/KWRAOUT
-TKU/STREUB/AOUT
 
 distribution
 d i s t r i b   u  ti o n
 d ɪ́ s t r ɪ b j ʉ́w ʃ  ə n
 TK*EUS/REU/PWAOUGZ
-TK*EUS/REU/PWU/KWRAOUGZ
-TK*EUS/RU/PWAOUGZ
-TK*EUS/RU/PWU/KWRAOUGZ
 TK*EUS/R-B/KWRAOUGZ
 TK*EUS/R-B/AOUGZ
 TKEUS/TREU/PWAOUGZ
-TKEUS/TREU/PWU/KWRAOUGZ
-TKEUS/TRU/PWAOUGZ
-TKEUS/TRU/PWU/KWRAOUGZ
 TKEUS/TR-B/KWRAOUGZ
 TKEUS/TR-B/AOUGZ
 
@@ -4547,7 +4474,6 @@ divide
 d i v i  d e
 d ɪ v ɑ́j d
 TKEU/SRAOEUD
-TKU/SRAOEUD
 
 division
 d i v i si o n
@@ -4557,7 +4483,6 @@ divorced
 d i v o  r c e d
 d ɪ v óː   s   t
 TKEU/SRAURS/-T
-TKU/SRAURS/-T
 
 do
 d o
@@ -4584,7 +4509,6 @@ TKAUBGT/-R
 document
 d o c   u m e n t
 d ɔ́ k j ə m ɛ n t
-TKAUBG/KWRU/PHEPBT
 TKAUBG/KWR-PL/EPBT
 TKAUBG/PHEPBT
 TKAUBG/-PL/EPBT
@@ -4592,7 +4516,6 @@ TKAUBG/-PL/EPBT
 document
 d o c   u m e n t
 d ɔ́ k j ə m ə n t
-TKAUBG/KWRU/PH-PBT
 TKAUBG/KWR-PL/-PBT
 TKAUBG/PH-PBT
 TKAUBG/-PL/-PBT
@@ -4600,8 +4523,6 @@ TKAUBG/-PL/-PBT
 documentary
 d o c   u m e n t a r y
 d ɔ́ k j ə m ɛ́ n t   r ɪj
-TKAUBG/KWRU/PHEPB/TRAE
-TKAUBG/KWRU/PHEPBT/RAE
 TKAUBG/PHEPB/TRAE
 TKAUBG/PHEPBT/RAE
 
@@ -4990,10 +4911,8 @@ electrical
 e l e c t r i c a l
 ɪ l ɛ́ k t r ɪ k ə l
 EU/HREBG/TREU/K-L
-EU/HREBG/TRU/K-L
 EU/HREBG/TR-BG/-L
 EU/HREBGT/REU/K-L
-EU/HREBGT/RU/K-L
 EU/HREBGT/R-BG/-L
 
 electricity
@@ -5184,14 +5103,12 @@ engineer
 e n g  i n ee r
 ɛ́ n dʒ ɪ n ɪ́ː
 EPB/SKWREU/TPHAOER
-EPB/SKWRU/TPHAOER
 EPB/-PBLG/TPHAOER
 
 engineering
 e n g  i n ee r i ng
 ɛ́ n dʒ ɪ n ɪ́ː r ɪ ŋ
 EPB/SKWREU/TPHAOER/-PBG
-EPB/SKWRU/TPHAOER/-PBG
 EPB/-PBLG/TPHAOER/-PBG
 
 enhance
@@ -5252,8 +5169,6 @@ e n th   u  s i  a s   m
 ɪ n θ  j ʉ́w z ɪj a z ə m
 EUPB/THAOUZ/AE/A/SWR-PL
 EUPB/THAOUZ/AE/AZ/-PL
-EUPB/THU/KWRAOUZ/AE/A/SWR-PL
-EUPB/THU/KWRAOUZ/AE/AZ/-PL
 EUPBGT/KWRAOUZ/AE/A/SWR-PL
 EUPBGT/KWRAOUZ/AE/AZ/-PL
 EUPBGT/AOUZ/AE/A/SWR-PL
@@ -5264,8 +5179,6 @@ e n th   u  s i  a s t i c
 ɪ n θ  j ʉ́w z ɪj á s t ɪ k
 EUPB/THAOUZ/AE/A*S/-BG
 EUPB/THAOUZ/AE/AS/T-BG
-EUPB/THU/KWRAOUZ/AE/A*S/-BG
-EUPB/THU/KWRAOUZ/AE/AS/T-BG
 EUPBGT/KWRAOUZ/AE/A*S/-BG
 EUPBGT/KWRAOUZ/AE/AS/T-BG
 EUPBGT/AOUZ/AE/A*S/-BG
@@ -5565,23 +5478,18 @@ excuse
 e x - c   u  s e
 ɪ k s k j ʉ́w s
 EUBG/SKAOUS
-EUBG/SKU/KWRAOUS
 EUBGS/KAOUS
-EUBGS/KU/KWRAOUS
 
 excuse
 e x - c   u  s e
 ɪ k s k j ʉ́w z
 EUBG/SKAOUZ
-EUBG/SKU/KWRAOUZ
 EUBGS/KAOUZ
-EUBGS/KU/KWRAOUZ
 
 executive
 e x - e c   u t i v e
 ɪ g z ɛ́ k j ə t ɪ v
 EUG/SWREBG/T-FB
-EUG/SWREBG/KWRU/T-FB
 EUG/SWREBG/KWR-T/-FB
 EUG/SWREBG/-T/-FB
 
@@ -5599,10 +5507,8 @@ exhibition
 e x - h i b i ti o n
 ɛ́ k s   ɪ b ɪ́ ʃ  ə n
 EBG/SHEU/PWEUGZ
-EBG/SHU/PWEUGZ
 EBGS/PWEUGZ
 EBGS/HEU/PWEUGZ
-EBGS/HU/PWEUGZ
 
 exist
 e x - i s t
@@ -5645,9 +5551,7 @@ expedition
 e x - p e d i ti o n
 ɛ́ k s p ɪ d ɪ́ ʃ  ə n
 EBG/SPEU/TKEUGZ
-EBG/SPU/TKEUGZ
 EBGS/PEU/TKEUGZ
-EBGS/PU/TKEUGZ
 
 expense
 e x - p e n s e
@@ -6066,13 +5970,11 @@ f ɛ́ s t ɪ v ə l
 TP*ES/SR-L
 TP*ES/-FB/-L
 TPES/TEU/SR-L
-TPES/TU/SR-L
 TPES/T-FB/-L
 
 few
 f   ew
 f j ʉ́w
-TPU/KWRAOU
 
 fiction
 f i c ti o n
@@ -6588,7 +6490,6 @@ TPRAOEU
 fuel
 f   u  e l
 f j ʉ́w ə l
-TPU/KWRAOU/-L
 
 full
 f u ll
@@ -6645,7 +6546,6 @@ furniture
 f u  r n i t  u r e
 f ə́ː   n ɪ tʃ ə
 TPUR/TPHEU/KH-R
-TPUR/TPHU/KH-R
 TPUR/TPH-FP/-R
 TPURPB/KH-R
 TPURPB/-FP/-R
@@ -6667,7 +6567,6 @@ TPURGT/-R/PHAUR
 future
 f   u  t  u r e
 f j ʉ́w tʃ ə
-TPU/KWRAOUFP/-R
 
 gain
 g ai n
@@ -7023,7 +6922,6 @@ guitar
 g u i t a  r
 g   ɪ t ɑ́ː
 TKPWEU/TAUR
-TKPWU/TAUR
 
 gun
 g u n
@@ -7358,7 +7256,6 @@ h i s t o r i c
 h ɪ s t ɔ́ r ɪ k
 HEU/STAUR/-BG
 HEUS/TAUR/-BG
-HU/STAUR/-BG
 
 historical
 h i s t o r i c a l
@@ -7367,8 +7264,6 @@ HEU/STAUR/K-L
 HEU/STAUR/-BG/-L
 HEUS/TAUR/K-L
 HEUS/TAUR/-BG/-L
-HU/STAUR/K-L
-HU/STAUR/-BG/-L
 
 history
 h i s t o r y
@@ -7463,7 +7358,6 @@ hospital
 h o s p i t a l
 h ɔ́ s p ɪ t ə l
 HAUS/PEU/T-L
-HAUS/PU/T-L
 HAUS/P-T/-L
 HAUS/-P/T-L
 HAUS/-P/-T/-L
@@ -7521,23 +7415,18 @@ HOU/EFB/-R
 huge
 h   u  g  e
 h j ʉ́w dʒ
-HU/KWRAOUPBLG
 
 human
 h   u  m a n
 h j ʉ́w m ə n
-HU/KWRAOUPL/-PB
 
 humorous
 h   u  m o r ou s
 h j ʉ́w m ə r ə  s
-HU/KWRAOUPL/R-S
-HU/KWRAOUPL/-R/-S
 
 humour
 h   u  m ou r
 h j ʉ́w m ə
-HU/KWRAOUPL/-R
 
 hundred
 h u n d r e d
@@ -7607,7 +7496,6 @@ identify
 i  d e n t i f y
 ɑj d ɛ́ n t ɪ f ɑj
 AOEU/TKEPB/TEU/TPAOEU
-AOEU/TKEPB/TU/TPAOEU
 AOEU/TKEPB/T-F/AOEU
 AOEU/TKEPBT/TPAOEU
 AOEU/TKEPBT/-F/AOEU
@@ -7895,7 +7783,6 @@ indicate
 i n d i c a  t e
 ɪ́ n d ɪ k ɛj t
 EUPB/TKEU/KAEUT
-EUPB/TKU/KAEUT
 EUPB/TK-BG/AEUT
 EUPBD/KAEUT
 EUPBD/-BG/AEUT
@@ -7911,7 +7798,6 @@ individual
 i n d i v i d  u  a l
 ɪ́ n d ɪ v ɪ́ dʒ ʉw ə l
 EUPB/TKEU/SREUPBLG/AOU/-L
-EUPB/TKU/SREUPBLG/AOU/-L
 EUPBD/SREUPBLG/AOU/-L
 
 indoor
@@ -8218,15 +8104,11 @@ interview
 i n t e r v i ew
 ɪ́ n t ə   v j ʉw
 EUPB/TU/SRAOU
-EUPB/TU/SRU/KWRAOU
 EUPB/T-R/SRAOU
-EUPB/T-R/SRU/KWRAOU
 EUPB/T-R/-FB/KWRAOU
 EUPB/T-R/-FB/AOU
 EUPBT/SRAOU
-EUPBT/SRU/KWRAOU
 EUPBT/-R/SRAOU
-EUPBT/-R/SRU/KWRAOU
 EUPBT/-R/-FB/KWRAOU
 EUPBT/-R/-FB/AOU
 
@@ -8276,7 +8158,6 @@ i n v e s t i g a  t e
 EUPB/SR*ES/TKPWAEUT
 EUPB/SR*ES/UG/AEUT
 EUPB/SRES/TEU/TKPWAEUT
-EUPB/SRES/TU/TKPWAEUT
 EUPB/SRES/T-G/AEUT
 
 investigation
@@ -8284,7 +8165,6 @@ i n v e s t i g a  ti o n
 ɪ n v ɛ́ s t ɪ g ɛ́j ʃ  ə n
 EUPB/SR*ES/TKPWAEUGZ
 EUPB/SRES/TEU/TKPWAEUGZ
-EUPB/SRES/TU/TKPWAEUGZ
 
 investment
 i n v e s t m e n t
@@ -8295,7 +8175,6 @@ invitation
 i n v i t a  ti o n
 ɪ́ n v ɪ t ɛ́j ʃ  ə n
 EUPB/SREU/TAEUGZ
-EUPB/SRU/TAEUGZ
 
 invite
 i n v i  t e
@@ -8480,7 +8359,6 @@ dʒ ʌ́ s t ɪ f ɑj
 SKWR*US/TPAOEU
 SKWR*US/-F/AOEU
 SKWRUS/TEU/TPAOEU
-SKWRUS/TU/TPAOEU
 SKWRUS/T-F/AOEU
 
 keen
@@ -8630,7 +8508,6 @@ HRAPBD/SKAEUP
 language
 l a n g u a g  e
 l á ŋ g w ɪ dʒ
-HRAPBG/TKPWU/W-PBLG
 HRAPBG/-G/W-PBLG
 
 laptop
@@ -9250,7 +9127,6 @@ marketing
 m a  r k e t i ng
 m ɑ́ː   k ɪ t ɪ ŋ
 PHAUR/KEU/T-PBG
-PHAUR/KU/T-PBG
 PHAUR/K-T/-PBG
 PHAURBG/T-PBG
 PHAURBG/-T/-PBG
@@ -9553,7 +9429,6 @@ minute
 m i  n   u  t e
 m ɑj n j ʉ́w t
 PHAOEU/TPHAOUT
-PHAOEU/TPHU/KWRAOUT
 PHAOEUPB/KWRAOUT
 PHAOEUPB/AOUT
 
@@ -9587,7 +9462,6 @@ m i s t a  k e
 m ɪ s t ɛ́j k
 PHEU/STAEUBG
 PHEUS/TAEUBG
-PHU/STAEUBG
 
 mix
 m i x -
@@ -9769,7 +9643,6 @@ multiple
 m u l t i p   l e
 m ʌ́ l t ɪ p ə l
 PHUL/TEU/P-L
-PHUL/TU/P-L
 PHUL/T-P/-L
 PHULT/P-L
 PHULT/-P/-L
@@ -9778,7 +9651,6 @@ multiply
 m u l t i p l y
 m ʌ́ l t ɪ p l ɑj
 PHUL/TEU/PHRAOEU
-PHUL/TU/PHRAOEU
 PHUL/T-P/HRAOEU
 PHULT/PHRAOEU
 PHULT/-P/HRAOEU
@@ -9802,23 +9674,18 @@ PHUS/-L
 museum
 m   u  s e  u m
 m j ʉw z ɪ́j ə m
-PHU/KWRAOU/SWRAE/-PL
 
 music
 m   u  s i c
 m j ʉ́w z ɪ k
-PHU/KWRAOUZ/-BG
 
 musical
 m   u  s i c a l
 m j ʉ́w z ɪ k ə l
-PHU/KWRAOUZ/K-L
-PHU/KWRAOUZ/-BG/-L
 
 musician
 m   u  s i ci a n
 m j ʉw z ɪ́ ʃ  ə n
-PHU/KWRAOU/SWREUGZ
 
 must
 m u s t
@@ -9845,7 +9712,6 @@ m y s t e  r i  ou s
 m ɪ s t ɪ́ː r ɪj ə  s
 PHEU/STAOER/AE/-S
 PHEUS/TAOER/AE/-S
-PHU/STAOER/AE/-S
 
 mystery
 m y s t e r y
@@ -10012,18 +9878,14 @@ TPHEFB/-RGT/HRES
 new
 n   ew
 n j ʉ́w
-TPHU/KWRAOU
 
 news
 n   ew s
 n j ʉ́w z
-TPHU/KWRAOUZ
 
 newspaper
 n   ew s p a  p e r
 n j ʉ́w z p ɛj p ə
-TPHU/KWRAOUZ/PAEU/P-R
-TPHU/KWRAOUZ/PAEUP/-R
 
 next
 n e x - t
@@ -10170,7 +10032,6 @@ n ə́w w   ɛː
 nuclear
 n   u  c l ea r
 n j ʉ́w k l ɪj ə
-TPHU/KWRAOUBG/HRAE
 
 number
 n u m b e r
@@ -10180,8 +10041,6 @@ TPHUPL/PW-R
 numerous
 n   u  m e r ou s
 n j ʉ́w m ə r ə  s
-TPHU/KWRAOUPL/R-S
-TPHU/KWRAOUPL/-R/-S
 
 nurse
 n u  r s e
@@ -10218,7 +10077,6 @@ obligation
 o b l i g a  ti o n
 ɔ́ b l ɪ g ɛ́j ʃ  ə n
 AUB/HREU/TKPWAEUGZ
-AUB/HRU/TKPWAEUGZ
 
 observation
 o b s e r v a  ti o n
@@ -10789,11 +10647,9 @@ PAUR/TEUS/-P/AEUT
 particular
 p a r t i c   u l a r
 p ə   t ɪ́ k j ə l ə
-PU/TEUBG/KWRU/HR-R
 PU/TEUBG/KWR-L/-R
 PU/TEUBG/HR-R
 PU/TEUBG/-L/-R
-PUR/TEUBG/KWRU/HR-R
 PUR/TEUBG/KWR-L/-R
 PUR/TEUBG/HR-R
 PUR/TEUBG/-L/-R
@@ -10801,9 +10657,6 @@ PUR/TEUBG/-L/-R
 particularly
 p a r t i c   u l a r l y
 p ə   t ɪ́ k j ə l ə   l ɪj
-PU/TEUBG/KWRU/HRU/HRAE
-PU/TEUBG/KWRU/HR-R/HRAE
-PU/TEUBG/KWRU/HR-RL/AE
 PU/TEUBG/KWR-L/HRAE
 PU/TEUBG/KWR-L/-R/HRAE
 PU/TEUBG/KWR-L/-RL/AE
@@ -10813,9 +10666,6 @@ PU/TEUBG/HR-RL/AE
 PU/TEUBG/-L/HRAE
 PU/TEUBG/-L/-R/HRAE
 PU/TEUBG/-L/-RL/AE
-PUR/TEUBG/KWRU/HRU/HRAE
-PUR/TEUBG/KWRU/HR-R/HRAE
-PUR/TEUBG/KWRU/HR-RL/AE
 PUR/TEUBG/KWR-L/HRAE
 PUR/TEUBG/KWR-L/-R/HRAE
 PUR/TEUBG/KWR-L/-RL/AE
@@ -11104,8 +10954,6 @@ ph e n o m e n o n
 f  ɪ n ɔ́ m ɪ n ə n
 TPEU/TPHAUPL/TPH-PB
 TPEU/TPHAUPL/-PB/-PB
-TPU/TPHAUPL/TPH-PB
-TPU/TPHAUPL/-PB/-PB
 
 philosophy
 ph i l o s o ph y
@@ -11167,7 +11015,6 @@ PAE/AUPB/OE
 piano
 p i a n o
 p j á n əw
-PU/KWRAPB/OE
 
 pick
 p i c k
@@ -11426,7 +11273,6 @@ PAUP
 popular
 p o p   u l a r
 p ɔ́ p j ə l ə
-PAUP/KWRU/HR-R
 PAUP/KWR-L/-R
 PAUP/HR-R
 PAUP/-L/-R
@@ -11434,15 +11280,12 @@ PAUP/-L/-R
 popularity
 p o p   u l a r i t y
 p ɔ́ p j ə l á r ə t ɪj
-PAUP/KWRU/HRAR/TAE
-PAUP/KWRU/HRAR/-T/AE
 PAUP/HRAR/TAE
 PAUP/HRAR/-T/AE
 
 population
 p o p   u l a  ti o n
 p ɔ́ p j ə l ɛ́j ʃ  ə n
-PAUP/KWRU/HRAEUGZ
 PAUP/HRAEUGZ
 
 port
@@ -11600,19 +11443,16 @@ predict
 p r e d i c t
 p r ɪ d ɪ́ k t
 PREU/TKEUBGT
-PRU/TKEUBGT
 
 prediction
 p r e d i c ti o n
 p r ɪ d ɪ́ k ʃ  ə n
 PREU/TKEUBG/SH-PB
-PRU/TKEUBG/SH-PB
 
 prefer
 p r e f e  r
 p r ɪ f ə́ː
 PREU/TPUR
-PRU/TPUR
 
 pregnant
 p r e g n a n t
@@ -11628,13 +11468,11 @@ prepare
 p r e p a  r e
 p r ɪ p ɛ́ː
 PREU/PAEUR
-PRU/PAEUR
 
 prepared
 p r e p a  r e d
 p r ɪ p ɛ́ː     d
 PREU/PAEURD
-PRU/PAEURD
 
 presence
 p r e s e n c e
@@ -11650,7 +11488,6 @@ present
 p r e s e n t
 p r ɪ z ɛ́ n t
 PREU/SWREPBT
-PRU/SWREPBT
 
 presentation
 p r e s e n t a  ti o n
@@ -11661,7 +11498,6 @@ preserve
 p r e s e  r v e
 p r ɪ z ə́ː   v
 PREU/SWRUR/-FB
-PRU/SWRUR/-FB
 
 president
 p r e s i d e n t
@@ -11683,7 +11519,6 @@ pretend
 p r e t e n d
 p r ɪ t ɛ́ n d
 PREU/TEPBD
-PRU/TEPBD
 
 pretty
 p r e tt y
@@ -11694,7 +11529,6 @@ prevent
 p r e v e n t
 p r ɪ v ɛ́ n t
 PREU/SREPBT
-PRU/SREPBT
 
 previous
 p r e  v i  ou s
@@ -12027,7 +11861,6 @@ publication
 p u b l i c a  ti o n
 p ʌ́ b l ɪ k ɛ́j ʃ  ə n
 PUB/HREU/KAEUGZ
-PUB/HRU/KAEUGZ
 
 publish
 p u b l i sh
@@ -12052,7 +11885,6 @@ PUPB/-GS/PH-PBT
 pupil
 p   u  p i l
 p j ʉ́w p ə l
-PU/KWRAOUP/-L
 
 purchase
 p u  r ch a s e
@@ -12063,7 +11895,6 @@ PUR/-FP/-S
 pure
 p   u  r e
 p j óː
-PU/KWRAUR
 
 purple
 p u  r p   l e
@@ -12106,7 +11937,6 @@ qualification
 q u a l i f i c a  ti o n
 k w ɔ́ l ɪ f ɪ k ɛ́j ʃ  ə n
 KWAUL/TPEU/KAEUGZ
-KWAUL/TPU/KAEUGZ
 KWAUL/-F/KAEUGZ
 
 qualified
@@ -12154,7 +11984,6 @@ KWES/KH-PB
 queue
 q   ue u e
 k j ʉ́w
-KU/KWRAOU
 
 quick
 q u i c k
@@ -12356,19 +12185,16 @@ recall
 r e c a  ll
 r ɪ k óː l
 REU/KAUL
-RU/KAUL
 
 receipt
 r e c ei p t
 r ɪ s ɪ́j   t
 REU/SAOET
-RU/SAOET
 
 receive
 r e c ei v e
 r ɪ s ɪ́j v
 REU/SAOEFB
-RU/SAOEFB
 
 recent
 r e  c e n t
@@ -12384,7 +12210,6 @@ reception
 r e c e p ti o n
 r ɪ s ɛ́ p ʃ  ə n
 REU/SEP/SH-PB
-RU/SEP/SH-PB
 
 recipe
 r e c i p e
@@ -12417,21 +12242,17 @@ record
 r e c o  r d
 r ɪ k óː   d
 REU/KAURD
-RU/KAURD
 
 recording
 r e c o  r d i ng
 r ɪ k óː   d ɪ ŋ
 REU/KAUR/TK-PBG
 REU/KAURD/-PBG
-RU/KAUR/TK-PBG
-RU/KAURD/-PBG
 
 recover
 r e c o v e r
 r ɪ k ʌ́ v ə
 REU/KUFB/-R
-RU/KUFB/-R
 
 recycle
 r e  c y  c   l e
@@ -12448,19 +12269,16 @@ reduce
 r e d  u  c e
 r ɪ dʒ ʉ́w s
 REU/SKWRAOUS
-RU/SKWRAOUS
 
 reduction
 r e d u c ti o n
 r ɪ d ʌ́ k ʃ  ə n
 REU/TKUBG/SH-PB
-RU/TKUBG/SH-PB
 
 refer
 r e f e  r
 r ɪ f ə́ː
 REU/TPUR
-RU/TPUR
 
 reference
 r e f e r e n c e
@@ -12472,7 +12290,6 @@ r e f l e c t
 r ɪ f l ɛ́ k t
 REU/TPHREBGT
 REUF/HREBGT
-RU/TPHREBGT
 
 refuse
 r e f   u  s e
@@ -12484,17 +12301,13 @@ refuse
 r e f   u  s e
 r ɪ f j ʉ́w z
 REU/TPAOUZ
-REU/TPU/KWRAOUZ
 REUF/KWRAOUZ
 REUF/AOUZ
-RU/TPAOUZ
-RU/TPU/KWRAOUZ
 
 regard
 r e g a  r d
 r ɪ g ɑ́ː   d
 REU/TKPWAURD
-RU/TKPWAURD
 
 region
 r e  gi o n
@@ -12519,12 +12332,10 @@ r e g r e t
 r ɪ g r ɛ́ t
 REU/TKPWRET
 REUG/RET
-RU/TKPWRET
 
 regular
 r e g   u l a r
 r ɛ́ g j ə l ə
-REG/KWRU/HR-R
 REG/KWR-L/-R
 REG/HR-R
 REG/-L/-R
@@ -12532,9 +12343,6 @@ REG/-L/-R
 regularly
 r e g   u l a r l y
 r ɛ́ g j ə l ə   l ɪj
-REG/KWRU/HRU/HRAE
-REG/KWRU/HR-R/HRAE
-REG/KWRU/HR-RL/AE
 REG/KWR-L/HRAE
 REG/KWR-L/-R/HRAE
 REG/KWR-L/-RL/AE
@@ -12548,14 +12356,12 @@ REG/-L/-RL/AE
 regulation
 r e g   u l a  ti o n
 r ɛ́ g j ə l ɛ́j ʃ  ə n
-REG/KWRU/HRAEUGZ
 REG/HRAEUGZ
 
 reject
 r e j  e c t
 r ɪ dʒ ɛ́ k t
 REU/SKWREBGT
-RU/SKWREBGT
 
 reject
 r e  j  e c t
@@ -12566,25 +12372,21 @@ relate
 r e l a  t e
 r ɪ l ɛ́j t
 REU/HRAEUT
-RU/HRAEUT
 
 related
 r e l a  t e d
 r ɪ l ɛ́j t ɪ d
 REU/HRAEUT/UD
-RU/HRAEUT/UD
 
 relation
 r e l a  ti o n
 r ɪ l ɛ́j ʃ  ə n
 REU/HRAEUGZ
-RU/HRAEUGZ
 
 relationship
 r e l a  ti o n sh i p
 r ɪ l ɛ́j ʃ  ə n ʃ  ɪ p
 REU/HRAEUGZ/SH-P
-RU/HRAEUGZ/SH-P
 
 relative
 r e l a t i v e
@@ -12602,27 +12404,22 @@ relax
 r e l a x -
 r ɪ l á k s
 REU/HRABGS
-RU/HRABGS
 
 relaxed
 r e l a x - e d
 r ɪ l á k s   t
 REU/HRABGS/-T
-RU/HRABGS/-T
 
 relaxing
 r e l a x - i ng
 r ɪ l á k s ɪ ŋ
 REU/HRABG/S-PBG
 REU/HRABGS/-PBG
-RU/HRABG/S-PBG
-RU/HRABGS/-PBG
 
 release
 r e l ea s e
 r ɪ l ɪ́j s
 REU/HRAOES
-RU/HRAOES
 
 relevant
 r e l e v a n t
@@ -12635,68 +12432,56 @@ r e l i  a b   l e
 r ɪ l ɑ́j ə b ə l
 REU/HRAOEU/PW-L
 REU/HRAOEU/-B/-L
-RU/HRAOEU/PW-L
-RU/HRAOEU/-B/-L
 
 relief
 r e l ie f
 r ɪ l ɪ́j f
 REU/HRAOEF
-RU/HRAOEF
 
 religion
 r e l i gi o n
 r ɪ l ɪ́ dʒ ə n
 REU/HREUPBLG/-PB
-RU/HREUPBLG/-PB
 
 religious
 r e l i gi ou s
 r ɪ l ɪ́ dʒ ə  s
 REU/HREUPBLG/-S
-RU/HREUPBLG/-S
 
 rely
 r e l y
 r ɪ l ɑ́j
 REU/HRAOEU
-RU/HRAOEU
 
 remain
 r e m ai n
 r ɪ m ɛ́j n
 REU/PHAEUPB
-RU/PHAEUPB
 
 remark
 r e m a  r k
 r ɪ m ɑ́ː   k
 REU/PHAURBG
-RU/PHAURBG
 
 remember
 r e m e m b e r
 r ɪ m ɛ́ m b ə
 REU/PHEPL/PW-R
-RU/PHEPL/PW-R
 
 remind
 r e m i  n d
 r ɪ m ɑ́j n d
 REU/PHAOEUPBD
-RU/PHAOEUPBD
 
 remote
 r e m o  t e
 r ɪ m ə́w t
 REU/PHOET
-RU/PHOET
 
 remove
 r e m o  v e
 r ɪ m ʉ́w v
 REU/PHAOUFB
-RU/PHAOUFB
 
 rent
 r e n t
@@ -12707,47 +12492,39 @@ repair
 r e p ai r
 r ɪ p ɛ́ː
 REU/PAEUR
-RU/PAEUR
 
 repeat
 r e p ea t
 r ɪ p ɪ́j t
 REU/PAOET
-RU/PAOET
 
 repeated
 r e p ea t e d
 r ɪ p ɪ́j t ɪ d
 REU/PAOET/UD
-RU/PAOET/UD
 
 replace
 r e p l a  c e
 r ɪ p l ɛ́j s
 REU/PHRAEUS
 REUP/HRAEUS
-RU/PHRAEUS
 
 reply
 r e p l y
 r ɪ p l ɑ́j
 REU/PHRAOEU
 REUP/HRAOEU
-RU/PHRAOEU
 
 report
 r e p o  r t
 r ɪ p óː   t
 REU/PAURT
-RU/PAURT
 
 reporter
 r e p o  r t e r
 r ɪ p óː   t ə
 REU/PAUR/T-R
 REU/PAURT/-R
-RU/PAUR/T-R
-RU/PAURT/-R
 
 represent
 r e p r e s e n t
@@ -12761,30 +12538,23 @@ REP/REU/SWREPB/TU/T-FB
 REP/REU/SWREPB/T-T/-FB
 REP/REU/SWREPBT/T-FB
 REP/REU/SWREPBT/-T/-FB
-REP/RU/SWREPB/TU/T-FB
-REP/RU/SWREPB/T-T/-FB
-REP/RU/SWREPBT/T-FB
-REP/RU/SWREPBT/-T/-FB
 
 reputation
 r e p   u t a  ti o n
 r ɛ́ p j ə t ɛ́j ʃ  ə n
 REP/TAEUGZ
-REP/KWRU/TAEUGZ
 
 request
 r e q u e s t
 r ɪ k w ɛ́ s t
 REU/KW*ES
 REUBG/W*ES
-RU/KW*ES
 
 require
 r e q u i  r e
 r ɪ k w ɑ́j ə
 REU/KWAOEU/
 REUBG/WAOEU/
-RU/KWAOEU/
 
 requirement
 r e q u i  r e m e n t
@@ -12795,15 +12565,11 @@ REU/KWAOEU/-PL/-PBT
 REUBG/WAOEU//PH-PBT
 REUBG/WAOEU/PH-PBT
 REUBG/WAOEU/-PL/-PBT
-RU/KWAOEU//PH-PBT
-RU/KWAOEU/PH-PBT
-RU/KWAOEU/-PL/-PBT
 
 rescue
 r e s c   ue
 r ɛ́ s k j ʉw
 RES/KAOU
-RES/KU/KWRAOU
 RES/-BG/KWRAOU
 RES/-BG/AOU
 
@@ -12811,15 +12577,12 @@ research
 r e s ea r ch
 r ɪ s ə́ː   tʃ
 REU/SUR/-FP
-RU/SUR/-FP
 
 researcher
 r e s ea r ch e r
 r ɪ s ə́ː   tʃ ə
 REU/SUR/KH-R
 REU/SUR/-FP/-R
-RU/SUR/KH-R
-RU/SUR/-FP/-R
 
 reservation
 r e s e r v a  ti o n
@@ -12831,7 +12594,6 @@ reserve
 r e s e  r v e
 r ɪ z ə́ː   v
 REU/SWRUR/-FB
-RU/SWRUR/-FB
 
 resident
 r e s i d e n t
@@ -12843,46 +12605,39 @@ resist
 r e s i s t
 r ɪ z ɪ́ s t
 REU/SWR*EUS
-RU/SWR*EUS
 
 resolve
 r e s o l v e
 r ɪ z ɔ́ l v
 REU/SWRAUL/-FB
-RU/SWRAUL/-FB
 
 resort
 r e s o  r t
 r ɪ z óː   t
 REU/SWRAURT
-RU/SWRAURT
 
 resource
 r e s ou r c e
 r ɪ z óː   s
 REU/SWRAURS
-RU/SWRAURS
 
 respect
 r e s p e c t
 r ɪ s p ɛ́ k t
 REU/SPEBGT
 REUS/PEBGT
-RU/SPEBGT
 
 respond
 r e s p o n d
 r ɪ s p ɔ́ n d
 REU/SPAUPBD
 REUS/PAUPBD
-RU/SPAUPBD
 
 response
 r e s p o n s e
 r ɪ s p ɔ́ n s
 REU/SPAUPBS
 REUS/PAUPBS
-RU/SPAUPBS
 
 responsibility
 r e s p o n s i b i l i t y
@@ -12899,12 +12654,6 @@ REUS/PAUPB/SU/PWEUL/TAE
 REUS/PAUPB/SU/PWEUL/-T/AE
 REUS/PAUPBS/PWEUL/TAE
 REUS/PAUPBS/PWEUL/-T/AE
-RU/SPAUPB/SPWEUL/TAE
-RU/SPAUPB/SPWEUL/-T/AE
-RU/SPAUPB/SU/PWEUL/TAE
-RU/SPAUPB/SU/PWEUL/-T/AE
-RU/SPAUPBS/PWEUL/TAE
-RU/SPAUPBS/PWEUL/-T/AE
 
 responsible
 r e s p o n s i b   l e
@@ -12919,11 +12668,6 @@ REUS/PAUPB/SU/PW-L
 REUS/PAUPB/S-B/-L
 REUS/PAUPBS/PW-L
 REUS/PAUPBS/-B/-L
-RU/SPAUPB/SPW-L
-RU/SPAUPB/SU/PW-L
-RU/SPAUPB/S-B/-L
-RU/SPAUPBS/PW-L
-RU/SPAUPBS/-B/-L
 
 rest
 r e s t
@@ -12940,53 +12684,43 @@ result
 r e s u l t
 r ɪ z ʌ́ l t
 REU/SWRULT
-RU/SWRULT
 
 retain
 r e t ai n
 r ɪ t ɛ́j n
 REU/TAEUPB
-RU/TAEUPB
 
 retire
 r e t i  r e
 r ɪ t ɑ́j ə
 REU/TAOEU/
-RU/TAOEU/
 
 retired
 r e t i  r e d
 r ɪ t ɑ́j ə   d
 REU/TAOEU/-D
-RU/TAOEU/-D
 
 return
 r e t u  r n
 r ɪ t ə́ː   n
 REU/TURPB
-RU/TURPB
 
 reveal
 r e v ea l
 r ɪ v ɪ́j l
 REU/SRAOEL
-RU/SRAOEL
 
 review
 r e v i ew
 r ɪ v j ʉ́w
 REU/SRAOU
-REU/SRU/KWRAOU
 REUFB/KWRAOU
 REUFB/AOU
-RU/SRAOU
-RU/SRU/KWRAOU
 
 revise
 r e v i  s e
 r ɪ v ɑ́j z
 REU/SRAOEUZ
-RU/SRAOEUZ
 
 revolution
 r e v o l u  ti o n
@@ -12997,12 +12731,10 @@ reward
 r e w a  r d
 r ɪ w óː   d
 REU/WAURD
-RU/WAURD
 
 rhythm
 r h y th   m
 r   ɪ́ ð  ə m
-RU/HEUGT/-PL
 
 rice
 r i  c e
@@ -13461,21 +13193,15 @@ SEBGT/-R
 secure
 s e c   u  r e
 s ɪ k j ɵ́ː
-SKU/KWRAOUR
 SEU/KAOUR
-SEU/KU/KWRAOUR
 SEUBG/KWRAOUR
 SEUBG/AOUR
 
 security
 s e c   u  r i t y
 s ɪ k j ɵ́ː r ə t ɪj
-SKU/KWRAOUR/TAE
-SKU/KWRAOUR/-T/AE
 SEU/KAOUR/TAE
 SEU/KAOUR/-T/AE
-SEU/KU/KWRAOUR/TAE
-SEU/KU/KWRAOUR/-T/AE
 SEUBG/KWRAOUR/TAE
 SEUBG/KWRAOUR/-T/AE
 SEUBG/AOUR/TAE
@@ -13661,7 +13387,6 @@ severe
 s e v e  r e
 s ɪ v ɪ́ː
 SEU/SRAOER
-SU/SRAOER
 
 sex
 s e x -
@@ -15206,7 +14931,6 @@ technical
 t e ch n i c a l
 t ɛ́ k  n ɪ k ə l
 TEBG/TPHEU/K-L
-TEBG/TPHU/K-L
 TEBG/TPH-BG/-L
 
 technique
@@ -16426,12 +16150,10 @@ SREUD/AE/OE
 view
 v i ew
 v j ʉ́w
-SRU/KWRAOU
 
 viewer
 v i ew e r
 v j ʉ́w ə
-SRU/KWRAOU/-R
 
 village
 v i ll a g  e
@@ -16915,13 +16637,11 @@ within
 w i th i n
 w ɪ ð  ɪ́ n
 WEU/THEUPB
-WU/THEUPB
 
 without
 w i th ou t
 w ɪ ð  áw t
 WEU/THOUT
-WU/THOUT
 
 witness
 w i t n e ss

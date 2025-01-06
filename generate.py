@@ -123,7 +123,7 @@ def gen(sounds, pos=0, right=False, stroke=Stroke(''), outline=[]):
                 new_stroke |= chord
             else:
                 if not new_right:
-                    new_stroke |= Stroke('U')
+                    return
                 new_outline.append(new_stroke)
                 new_stroke = chord
             new_right = crosses_boundary(chord)
