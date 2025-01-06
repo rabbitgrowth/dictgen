@@ -139,7 +139,9 @@ acquire
 a c q u i  r e
 ə   k w ɑ́j ə
 U/KWAOEU/
+U/KWAOEUR
 UBG/WAOEU/
+UBG/WAOEUR
 
 across
 a c r o ss
@@ -235,6 +237,7 @@ admire
 a d m i  r e
 ə d m ɑ́j ə
 UD/PHAOEU/
+UD/PHAOEUR
 
 admit
 a d m i t
@@ -2299,6 +2302,7 @@ c e n t r e
 s ɛ́ n t ə
 SEPB/T
 SEPBT/
+SEPBT/-R
 
 century
 c e n t  u r y
@@ -4126,6 +4130,7 @@ desire
 d e s i  r e
 d ə z ɑ́j ə
 TKU/SWRAOEU/
+TKU/SWRAOEUR
 
 desk
 d e s k
@@ -5194,6 +5199,7 @@ entire
 e n t i  r e
 ɪ n t ɑ́j ə
 EUPB/TAOEU/
+EUPB/TAOEUR
 
 entirely
 e n t i  r e l y
@@ -5201,6 +5207,8 @@ e n t i  r e l y
 EUPB/TAOEU//HRAE
 EUPB/TAOEU/HRAE
 EUPB/TAOEU/-L/AE
+EUPB/TAOEUR/HRAE
+EUPB/TAOEURL/AE
 
 entrance
 e n t r a n c e
@@ -6091,6 +6099,7 @@ fire
 f i  r e
 f ɑ́j ə
 TPAOEU/
+TPAOEUR
 
 firm
 f i  r m
@@ -6195,6 +6204,7 @@ flour
 f l ou r
 f l áw ə
 TPHROU
+TPHROUR
 
 flow
 f l ow
@@ -7247,6 +7257,7 @@ hire
 h i  r e
 h ɑ́j ə
 HAOEU/
+HAOEUR
 
 his
 h i s
@@ -7388,6 +7399,7 @@ hour
 h ou r
   áw ə
 HOU
+HOUR
 
 house
 h ou s e
@@ -7951,7 +7963,9 @@ inspire
 i n s p i  r e
 ɪ n s p ɑ́j ə
 EUPB/SPAOEU/
+EUPB/SPAOEUR
 EUPBS/PAOEU/
+EUPBS/PAOEUR
 
 install
 i n s t a  ll
@@ -8418,8 +8432,10 @@ k i l o m e t r e
 k ɪ l ɔ́ m ɪ t ə
 KHRAUPL/T
 KHRAUPL/-T/
+KHRAUPL/-T/-R
 KEU/HRAUPL/T
 KEU/HRAUPL/-T/
+KEU/HRAUPL/-T/-R
 
 kind
 k i  n d
@@ -9354,6 +9370,7 @@ metre
 m e  t r e
 m ɪ́j t ə
 PHAOET/
+PHAOET/-R
 
 middle
 m i dd   l e
@@ -10054,6 +10071,7 @@ nuclear
 n   u  c l ea r
 n j ʉ́w k l ɪj ə
 TPHAOUBG/HRAE
+TPHAOUBG/HRAER
 
 number
 n u m b e r
@@ -10455,6 +10473,7 @@ ourselves
 ou r s e l v e s
 áw ə s ɛ́ l v   z
 OU/SEL/-FBZ
+OUR/SEL/-FBZ
 
 out
 ou t
@@ -12581,15 +12600,21 @@ require
 r e q u i  r e
 r ɪ k w ɑ́j ə
 REU/KWAOEU/
+REU/KWAOEUR
 REUBG/WAOEU/
+REUBG/WAOEUR
 
 requirement
 r e q u i  r e m e n t
 r ɪ k w ɑ́j ə   m ə n t
 REU/KWAOEU//-PLT
 REU/KWAOEU/-PLT
+REU/KWAOEUR/-PLT
+REU/KWAOEURPLT
 REUBG/WAOEU//-PLT
 REUBG/WAOEU/-PLT
+REUBG/WAOEUR/-PLT
+REUBG/WAOEURPLT
 
 rescue
 r e s c   ue
@@ -12719,11 +12744,13 @@ retire
 r e t i  r e
 r ɪ t ɑ́j ə
 REU/TAOEU/
+REU/TAOEUR
 
 retired
 r e t i  r e d
 r ɪ t ɑ́j ə   d
 REU/TAOEU/-D
+REU/TAOEURD
 
 return
 r e t u  r n
@@ -15101,6 +15128,7 @@ th e  a t r e
 θ  ɪ́j ə t ə
 THAE/T
 THAE/-T/
+THAE/-T/-R
 
 their
 th ei r
@@ -15342,6 +15370,7 @@ tired
 t i  r e d
 t ɑ́j ə   d
 TAOEU/-D
+TAOEURD
 
 title
 t i  t   l e
@@ -15744,6 +15773,7 @@ tyre
 t y  r e
 t ɑ́j ə
 TAOEU/
+TAOEUR
 
 ugly
 u g l y
@@ -16642,6 +16672,7 @@ wire
 w i  r e
 w ɑ́j ə
 WAOEU/
+WAOEUR
 
 wise
 w i  s e
