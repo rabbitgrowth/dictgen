@@ -29,7 +29,7 @@ class TestGenerate(unittest.TestCase):
         self.T('s c r i p t', 's k r ɪ́ p t', 'SKREUPT')
 
     def test_shr(self):
-        self.T('sh r e d', 'ʃ r ɛ́ d', 'SKHRED SHU/RED')
+        self.T('sh r e d', 'ʃ r ɛ́ d', 'SKHRED')
         self.T('s  l e d', 's l ɛ́ d', 'SHRED')
 
     def test_silent_h(self):

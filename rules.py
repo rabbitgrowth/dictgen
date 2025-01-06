@@ -56,10 +56,6 @@ SCHWA = Sound({'ə', 'ɪ', 'ʌ'}, stressed=False)
 
 NON_RIGHT_OPTIONAL_RULES = [
     Rule(
-        [Sound('ʃ'), Sound('r')],
-        [Stroke('SKHR')],
-    ),
-    Rule(
         [SCHWA, BREAK],
         [],
         lookbehind = [Sound()],
@@ -67,6 +63,10 @@ NON_RIGHT_OPTIONAL_RULES = [
 ]
 
 NON_RIGHT_RULES = [
+    Rule(
+        [Sound('ʃ'), Sound('r')],
+        [Stroke('SKHR')],
+    ),
     Rule(
         [Sound('ɪj')],
         [Stroke('AE')],
