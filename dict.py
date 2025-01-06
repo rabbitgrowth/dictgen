@@ -15,7 +15,7 @@ def width(item):
 def pad(string, width):
     return string.ljust(width + string.count(STRESS))
 
-with open('dict.tsv') as f, open('dict.txt', 'w') as g:
+with open('dict.tsv', encoding='utf-8') as f, open('dict.txt', 'w', encoding='utf-8') as g:
     def tee(string=''):
         print(string)
         g.write(string)
