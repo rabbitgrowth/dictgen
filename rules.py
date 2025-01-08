@@ -60,11 +60,6 @@ NON_RIGHT_OPTIONAL_RULES = [
         [],
         lookbehind = [Sound()],
     ),
-    Rule(
-        [Sound('j')],
-        [],
-        lookbehind = [Sound()],
-    ),
 ]
 
 NON_RIGHT_RULES = [
