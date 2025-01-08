@@ -118,6 +118,11 @@ NON_RIGHT_RULES = [
         [Sound('')],
         [],
     ),
+    Rule(
+        [Sound('j', '')],
+        [],
+        stroke = lambda stroke: stroke,
+    )
 ]
 
 RIGHT_RULES = [

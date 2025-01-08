@@ -114,6 +114,7 @@ ABG/KWR-R/-T
 accuse
 a cc   u  s e
 ə k  j ʉ́w z
+U/KAOUZ
 UBG/KWRAOUZ
 
 achieve
@@ -885,11 +886,14 @@ AEUR/AE
 argue
 a  r g   ue
 ɑ́ː   g j ʉw
+AR/TKPWAOU
 ARG/KWRAOU
 
 argument
 a  r g   u m e n t
 ɑ́ː   g j ə m ə n t
+AR/TKPWU/-PLT
+AR/TKPW-PLT
 ARG/KWR-PLT
 
 arise
@@ -1064,7 +1068,7 @@ U/SOES/AE/AEUGZ
 assume
 a ss   u  m e
 ə s  j ʉ́w m
-U/SKWRAOUPL
+U/SAOUPL
 US/KWRAOUPL
 
 at
@@ -1379,10 +1383,13 @@ PWAOET
 beautiful
 b   eau t i f u l
 b j ʉ́w  t ɪ f ə l
+PWAOUT/TP-L
+PWAOUT/-F/-L
 
 beauty
 b   eau t y
 b j ʉ́w  t ɪj
+PWAOUT/AE
 
 because
 b e c au s e
@@ -2013,6 +2020,9 @@ KAEUBG
 calculate
 c a l c   u l a  t e
 k á l k j ə l ɛj t
+KAL/KHRAEUT
+KAL/KU/HRAEUT
+KAL/K-L/AEUT
 KAL/-BG/KWR-L/AEUT
 
 call
@@ -2845,17 +2855,27 @@ KAUPL/-PB/HRAE
 communicate
 c o mm   u  n i c a  t e
 k ə m  j ʉ́w n ɪ k ɛj t
+KPHAOUPB/KAEUT
+KPHAOUPB/-BG/AEUT
+KU/PHAOUPB/KAEUT
+KU/PHAOUPB/-BG/AEUT
 KUPL/KWRAOUPB/KAEUT
 KUPL/KWRAOUPB/-BG/AEUT
 
 communication
 c o mm   u  n i c a  ti o n
 k ə m  j ʉ́w n ɪ k ɛ́j ʃ  ə n
+KPHAOUPB/KAEUGZ
+KU/PHAOUPB/KAEUGZ
 KUPL/KWRAOUPB/KAEUGZ
 
 community
 c o mm   u  n i t y
 k ə m  j ʉ́w n ə t ɪj
+KPHAOUPB/TAE
+KPHAOUPB/-T/AE
+KU/PHAOUPB/TAE
+KU/PHAOUPB/-T/AE
 KUPL/KWRAOUPB/TAE
 KUPL/KWRAOUPB/-T/AE
 
@@ -2952,6 +2972,7 @@ computer
 c o m p   u  t e r
 k ə m p j ʉ́w t ə
 KUFPL/KWRAOUT/-R
+KUPL/PAOUT/-R
 
 concentrate
 c o n c e n t r a  t e
@@ -3058,14 +3079,17 @@ KUPB/TPHREUBGT
 confuse
 c o n f   u  s e
 k ə n f j ʉ́w z
+KUPB/TPAOUZ
 
 confused
 c o n f   u  s e d
 k ə n f j ʉ́w z   d
+KUPB/TPAOUZ/-D
 
 confusing
 c o n f   u  s i ng
 k ə n f j ʉ́w z ɪ ŋ
+KUPB/TPAOUZ/-PBG
 
 connect
 c o nn e c t
@@ -3159,13 +3183,13 @@ KUPBS/TRUBGZ
 consume
 c o n s   u  m e
 k ə n s j ʉ́w m
-KUPB/SKWRAOUPL
+KUPB/SAOUPL
 KUPBS/KWRAOUPL
 
 consumer
 c o n s   u  m e r
 k ə n s j ʉ́w m ə
-KUPB/SKWRAOUPL/-R
+KUPB/SAOUPL/-R
 KUPBS/KWRAOUPL/-R
 
 contact
@@ -3271,7 +3295,9 @@ KUPBT/REUB/KWRAOUT
 contribution
 c o n t r i b   u  ti o n
 k ɔ́ n t r ɪ b j ʉ́w ʃ  ə n
+KAUPB/TREU/PWAOUGZ
 KAUPB/TR-B/KWRAOUGZ
+KAUPBT/REU/PWAOUGZ
 KAUPBT/R-B/KWRAOUGZ
 
 control
@@ -3624,6 +3650,7 @@ KUB/-RD
 cure
 c   u  r e
 k j óː
+KAUR
 
 curly
 c u  r l y
@@ -4409,7 +4436,9 @@ TKEUS/TREUB/KWRAOUT
 distribution
 d i s t r i b   u  ti o n
 d ɪ́ s t r ɪ b j ʉ́w ʃ  ə n
+TK*EUS/REU/PWAOUGZ
 TK*EUS/R-B/KWRAOUGZ
+TKEUS/TREU/PWAOUGZ
 TKEUS/TR-B/KWRAOUGZ
 
 district
@@ -5108,12 +5137,16 @@ EPBT/-R/TAEUPB/-PLT
 enthusiasm
 e n th   u  s i  a s   m
 ɪ n θ  j ʉ́w z ɪj a z ə m
+EUPB/THAOUZ/AE/A/SWR-PL
+EUPB/THAOUZ/AE/AZ/-PL
 EUPBGT/KWRAOUZ/AE/A/SWR-PL
 EUPBGT/KWRAOUZ/AE/AZ/-PL
 
 enthusiastic
 e n th   u  s i  a s t i c
 ɪ n θ  j ʉ́w z ɪj á s t ɪ k
+EUPB/THAOUZ/AE/A*S/-BG
+EUPB/THAOUZ/AE/AS/T-BG
 EUPBGT/KWRAOUZ/AE/A*S/-BG
 EUPBGT/KWRAOUZ/AE/AS/T-BG
 
@@ -5412,10 +5445,14 @@ EUBGS/AOEUT/-PBG
 excuse
 e x - c   u  s e
 ɪ k s k j ʉ́w s
+EUBG/SKAOUS
+EUBGS/KAOUS
 
 excuse
 e x - c   u  s e
 ɪ k s k j ʉ́w z
+EUBG/SKAOUZ
+EUBGS/KAOUZ
 
 executive
 e x - e c   u t i v e
@@ -5894,6 +5931,7 @@ TPES/T-FB/-L
 few
 f   ew
 f j ʉ́w
+TPAOU
 
 fiction
 f i c ti o n
@@ -6412,6 +6450,7 @@ TPRAOEU
 fuel
 f   u  e l
 f j ʉ́w ə l
+TPAOU/-L
 
 full
 f u ll
@@ -6489,6 +6528,7 @@ TPURGT/-R/PHAUR
 future
 f   u  t  u r e
 f j ʉ́w tʃ ə
+TPAOUFP/-R
 
 gain
 g ai n
@@ -7340,18 +7380,23 @@ HOU/EFB/-R
 huge
 h   u  g  e
 h j ʉ́w dʒ
+HAOUPBLG
 
 human
 h   u  m a n
 h j ʉ́w m ə n
+HAOUPL/-PB
 
 humorous
 h   u  m o r ou s
 h j ʉ́w m ə r ə  s
+HAOUPL/R-S
+HAOUPL/-R/-S
 
 humour
 h   u  m ou r
 h j ʉ́w m ə
+HAOUPL/-R
 
 hundred
 h u n d r e d
@@ -9344,6 +9389,7 @@ PHAOEU/TPHAUR/-T/AE
 minute
 m i  n   u  t e
 m ɑj n j ʉ́w t
+PHAOEU/TPHAOUT
 PHAOEUPB/KWRAOUT
 
 minute
@@ -9588,18 +9634,23 @@ PHUS/-L
 museum
 m   u  s e  u m
 m j ʉw z ɪ́j ə m
+PHAOU/SWRAE/-PL
 
 music
 m   u  s i c
 m j ʉ́w z ɪ k
+PHAOUZ/-BG
 
 musical
 m   u  s i c a l
 m j ʉ́w z ɪ k ə l
+PHAOUZ/K-L
+PHAOUZ/-BG/-L
 
 musician
 m   u  s i ci a n
 m j ʉw z ɪ́ ʃ  ə n
+PHAOU/SWREUGZ
 
 must
 m u s t
@@ -9792,14 +9843,18 @@ TPHEFB/-RGT/HRES
 new
 n   ew
 n j ʉ́w
+TPHAOU
 
 news
 n   ew s
 n j ʉ́w z
+TPHAOUZ
 
 newspaper
 n   ew s p a  p e r
 n j ʉ́w z p ɛj p ə
+TPHAOUZ/PAEU/P-R
+TPHAOUZ/PAEUP/-R
 
 next
 n e x - t
@@ -9946,6 +10001,9 @@ n ə́w w   ɛː
 nuclear
 n   u  c l ea r
 n j ʉ́w k l ɪj ə
+TPHAOUBG/HRAE
+TPHAOUBG/HRAE/-R
+TPHAOUBG/HRAER
 
 number
 n u m b e r
@@ -9955,6 +10013,8 @@ TPHUPL/PW-R
 numerous
 n   u  m e r ou s
 n j ʉ́w m ə r ə  s
+TPHAOUPL/R-S
+TPHAOUPL/-R/-S
 
 nurse
 n u  r s e
@@ -11777,6 +11837,7 @@ PUPB/-GS/-PLT
 pupil
 p   u  p i l
 p j ʉ́w p ə l
+PAOUP/-L
 
 purchase
 p u  r ch a s e
@@ -11787,6 +11848,7 @@ PUR/-FP/-S
 pure
 p   u  r e
 p j óː
+PAUR
 
 purple
 p u  r p   l e
@@ -11803,8 +11865,8 @@ PURP/-S
 pursue
 p u r s   ue
 p ə   s j ʉ́w
-PU/SKWRAOU
-PUR/SKWRAOU
+PU/SAOU
+PUR/SAOU
 PURS/KWRAOU
 
 push
@@ -11873,6 +11935,7 @@ KWES/KH-PB
 queue
 q   ue u e
 k j ʉ́w
+KAOU
 
 quick
 q u i c k
@@ -12188,6 +12251,7 @@ REF/KWRAOUS
 refuse
 r e f   u  s e
 r ɪ f j ʉ́w z
+REU/TPAOUZ
 REUF/KWRAOUZ
 
 regard
@@ -12451,6 +12515,7 @@ REUBG/WAOEURPLT
 rescue
 r e s c   ue
 r ɛ́ s k j ʉw
+RES/KAOU
 RES/-BG/KWRAOU
 
 research
@@ -13073,11 +13138,17 @@ SEBGT/-R
 secure
 s e c   u  r e
 s ɪ k j ɵ́ː
+SKAOUR
+SEU/KAOUR
 SEUBG/KWRAOUR
 
 security
 s e c   u  r i t y
 s ɪ k j ɵ́ː r ə t ɪj
+SKAOUR/TAE
+SKAOUR/-T/AE
+SEU/KAOUR/TAE
+SEU/KAOUR/-T/AE
 SEUBG/KWRAOUR/TAE
 SEUBG/KWRAOUR/-T/AE
 
