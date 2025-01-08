@@ -104,7 +104,7 @@ NON_RIGHT_RULES = [
         [SCHWA],
         [Stroke('')],
         negative_lookahead = [BREAK],
-        outline = lambda outline: bool(outline),
+        outline = lambda outline: outline,
     ),
     Rule(
         [Sound('', 'h')],
