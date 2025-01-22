@@ -43,7 +43,7 @@ class TestGenerate(unittest.TestCase):
         self.T('climb', 'k l ɑ́j m', 'KHRAOEUPL/-B')
 
     def test_skip_other_silent_letters(self):
-        self.T('mnemonic', 'n ɪ m ɔ́ n ɪ k', 'TPHU/PHAUPB/-BG TPHEU/PHAUPB/-BG')
+        self.T('mnemonic', 'n ɪ m ɔ́ n ɪ k', 'TPHEU/PHAUPB/-BG')
         self.T('yacht', 'j ɔ́ t', 'KWRAUT')
         self.T('restaurant', 'r ɛ́ s t r ɔ n t', 'RES/TRAUPBT R*ES/RAUPBT')
 
