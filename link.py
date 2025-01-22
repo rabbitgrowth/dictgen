@@ -266,6 +266,9 @@ PENALIZED_PATTERNS = [
     [('', ['k'])], # "leng[]th"
     [('', ['r'])], # "draw[]ing"
     [('', ['ə'])], # "simp[]le"
+
+    # Morpheme boundary
+    [('#', ['.'])],
 ]
 
 TRIE = Trie(Trie)
