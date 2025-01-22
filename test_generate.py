@@ -65,24 +65,24 @@ class TestGenerate(unittest.TestCase):
     def test_igh_t(self):
         self.T('hightail', 'h ɑ́j . t ɛj l', 'HAOEU/TAEUL') # not HOEUGT/AEUL
 
-    def test_omit_weak_schwa(self):
+    def test_omit_schwa(self):
         self.T('title', 't ɑ́j t ə l', 'TAOEUT/-L')
         self.T('children', 'tʃ ɪ́ l d r ə n', 'KHEUL/TKR-PB KHEULD/R-PB')
         self.T('visit', 'v ɪ́ z ɪ t', 'SREUZ/-T')
         self.T('mountain', 'm áw n t ɪ n', 'PHOUPB/T-PB PHOUPBT/-PB')
 
-    def test_not_omit_initial_weak_schwa(self):
+    def test_not_omit_initial_schwa(self):
         self.T('about', 'ə b áw t', 'U/PWOUT')
 
-    def test_not_omit_when_conflict_with_inflections(self):
+    def test_not_omit_schwa_when_conflict_with_inflectional_endings(self):
         self.T('rapid', 'r á p ɪ d', 'RAP/UD')
         self.T('designate', 'd ɛ́ z ɪ g n ɛj t', 'TKEZ/UG/TPHAEUT')
         self.T('talisman', 't á l ɪ z m ə n', 'TAL/UZ/PH-PB')
 
-    def test_omit_when_not_conflict_with_inflections(self):
+    def test_omit_schwa_when_not_conflict_with_inflectional_endings(self):
         self.T('rapids', 'r á p ɪ d z', 'RAP/-DZ')
 
-    def test_omit_weak_schwa_at_syllable_end(self):
+    def test_not_omit_schwa_when_no_consonant_on_right(self):
         self.T('conference', 'k ɔ́ n f ə r ə n s',
                'KAUPB/TPU/R-PBS KAUPB/TPR-PBS KAUPB/TP-R/-PBS') # not KAUPB/TP/R-PBS
 
