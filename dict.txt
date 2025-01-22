@@ -8471,6 +8471,7 @@ HRAPBD/SKAEUP
 language
 l a n g u a g  e
 l á ŋ g w ɪ dʒ
+HRAPBG/TKPWU/W-PBLG
 HRAPBG/-G/W-PBLG
 
 laptop

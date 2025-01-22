@@ -68,6 +68,10 @@ NON_RIGHT_RULES = [
         [Stroke('SKHR')],
     ),
     Rule(
+        [Sound('g'), Sound('w')],
+        [Stroke('TKPWU'), Stroke('W')],
+    ),
+    Rule(
         [Sound('ɪj')],
         [Stroke('AE')],
         lookahead = [BREAK],
