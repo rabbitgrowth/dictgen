@@ -30,6 +30,25 @@ class TestLink(unittest.TestCase):
             Sound('', 'b'),
         ])
 
+    def test_silent_letters(self):
+        self.T('light', 'l ɑ́j t', [
+            Sound('l', 'l'),
+            Sound('ɑj', 'i', stressed=True),
+            Sound('', 'gh'),
+            Sound('t', 't'),
+        ])
+        self.T('restaurant', 'r ɛ́ s t r ɔ n t', [
+            Sound('r', 'r'),
+            Sound('ɛ', 'e', stressed=True),
+            Sound('s', 's'),
+            Sound('t', 't'),
+            Sound('', 'au'),
+            Sound('r', 'r'),
+            Sound('ɔ', 'a'),
+            Sound('n', 'n'),
+            Sound('t', 't'),
+        ])
+
     def test_silent_letter_in_specific_position(self):
         self.T('back', 'b á k', [
             Sound('b', 'b'),
