@@ -63,7 +63,7 @@ class TestGenerate(unittest.TestCase):
         self.T('right', 'r ɑ́j t', 'ROEUGT')
 
     def test_igh_t(self):
-        self.T('high#tail', 'h ɑ́j . t ɛj l', 'HAOEU/TAEUL') # not HOEUGT/AEUL
+        self.T('hightail', 'h ɑ́j . t ɛj l', 'HAOEU/TAEUL') # not HOEUGT/AEUL
 
     def test_omit_weak_schwa(self):
         self.T('title', 't ɑ́j t ə l', 'TAOEUT/-L')
