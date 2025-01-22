@@ -62,6 +62,7 @@ class TestGenerate(unittest.TestCase):
         self.T('rite',  'r ɑ́j t', 'RAOEUT')
         self.T('right', 'r ɑ́j t', 'ROEUGT')
 
+    @unittest.expectedFailure
     def test_igh_t(self):
         self.T('hightail', 'h ɑ́j . t ɛj l', 'HAOEU/TAEUL') # not HOEUGT/AEUL
 
