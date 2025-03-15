@@ -70,6 +70,7 @@ NON_RIGHT_RULES = [
     Rule(
         [Sound('g'), Sound('w')],
         [Stroke('TKPWU'), Stroke('W')],
+        lookbehind = [START],
     ),
     Rule(
         [Sound('ɪj')],
@@ -139,8 +140,16 @@ RIGHT_RULES = [
         [Stroke('-FPG')],
     ),
     Rule(
+        [Sound('ŋ'), Sound('g')],
+        [Stroke('-PBG')],
+    ),
+    Rule(
         [Sound('m'), BREAK, Sound('ə'), Sound('n'), Sound('t')],
         [Stroke('-PLT')],
+    ),
+    Rule(
+        [Sound('ŋ'), Sound('k')],
+        [Stroke('-PG')],
     ),
     Rule(
         [Sound('k'), BREAK, Sound('ʃ'), Sound('ə'), Sound('n')],

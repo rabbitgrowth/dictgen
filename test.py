@@ -89,9 +89,11 @@ class TestGenerate(unittest.TestCase):
     def test_initial_consonants_out_of_steno_order(self):
         self.T('Gwen', 'g w ɛ́ n', 'TKPWU/WEPB')
 
-    @unittest.expectedFailure
     def test_medial_consonants_out_of_steno_order(self):
         self.T('language', 'l á ŋ g w ɪ dʒ', 'HRAPBG/W-PBLG') # not HRAPBG/TKPWU/W-PBLG
+
+    def test_final_consonants_out_of_steno_order(self):
+        self.T('help', 'h ɛ́ l p', 'HEL/-P')
 
     def test_left_vowel_attracts_consonant(self):
         self.T('follow', 'f ɔ́ l əw', 'TPAUL/OE')
