@@ -2,7 +2,7 @@ import re
 
 from clusters import ONSETS, CODAS
 from rules import RULES
-from sound import Sound, BREAK
+from sound import Sound, START, BREAK, END
 from stroke import Stroke
 
 def syllabify(sounds):
@@ -94,15 +94,16 @@ def stackable(a, b):
     )
 
 def gen(sounds, pos=0, right=False, stroke=Stroke(''), outline=[]):
-    if pos == len(sounds):
+    sound = sounds[pos]
+    if sound == START:
+        yield from gen(sounds, pos+1, right, stroke, outline)
+    elif sound == BREAK:
+        yield from gen(sounds, pos+1, False, Stroke(''), outline+[stroke])
+    elif sound == END:
         yield tuple(outline)
         return
 
-    if sounds[pos] == BREAK:
-        yield from gen(sounds, pos+1, False, Stroke(''), outline+[stroke])
-
     matches = []
-
     for rules in RULES[right]:
         for rule in rules:
             match = rule.match(sounds, pos, stroke, outline)
@@ -130,7 +131,7 @@ def gen(sounds, pos=0, right=False, stroke=Stroke(''), outline=[]):
         yield from gen(sounds, new_pos, new_right, new_stroke, new_outline)
 
 def generate(sounds):
-    sounds.append(BREAK)
+    sounds = [START, *sounds, BREAK, END]
     return sorted({
         outline
         for syllabifications in syllabify(sounds)

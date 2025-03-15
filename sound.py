@@ -50,4 +50,6 @@ class Sound:
         else:
             return True
 
+START = Sound('^')
 BREAK = Sound('.')
+END   = Sound('$')

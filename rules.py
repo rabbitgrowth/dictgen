@@ -1,5 +1,5 @@
 from chords import LEFT_CHORDS, MID_CHORDS, RIGHT_CHORDS
-from sound import Sound, BREAK
+from sound import Sound, START, BREAK, END
 from stroke import Stroke
 
 class Rule:
@@ -58,7 +58,7 @@ NON_RIGHT_OPTIONAL_RULES = [
     Rule(
         [SCHWA, BREAK],
         [],
-        lookbehind = [Sound()],
+        negative_lookbehind = [START],
     ),
 ]
 
