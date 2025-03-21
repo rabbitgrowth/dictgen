@@ -82,7 +82,7 @@ class TestGenerate(unittest.TestCase):
     def test_omit_schwa_when_not_conflict_with_inflectional_endings(self):
         self.T('rapids', 'r á p ɪ d z', 'RAP/-DZ')
 
-    def test_not_omit_schwa_when_no_consonant_on_right(self):
+    def test_not_omit_schwa_when_right_bank_empty(self):
         self.T('conference', 'k ɔ́ n f ə r ə n s',
                'KAUPB/TPU/R-PBS KAUPB/TPR-PBS KAUPB/TP-R/-PBS') # not KAUPB/TP/R-PBS
 
