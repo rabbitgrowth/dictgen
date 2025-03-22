@@ -145,6 +145,10 @@ RIGHT_RULES = [
         [Stroke('-PLT')],
     ),
     Rule(
+        [Sound('ŋ'), Sound('k'), BREAK, Sound('ʃ'), Sound('ə'), Sound('n')],
+        [Stroke('-PGZ')],
+    ),
+    Rule(
         [Sound('ŋ'), Sound('k')],
         [Stroke('-PG')],
     ),
