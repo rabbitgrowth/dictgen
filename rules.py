@@ -52,8 +52,8 @@ class Rule:
 
 NON_RIGHT_CHORDS = LEFT_CHORDS | MID_CHORDS
 
-SCHWA = Sound({'ə', 'ɪ', 'ʌ'}, stressed=False)
-SHORT_VOWEL = Sound({'ɪ', 'ɛ', 'a', 'ʌ', 'ɔ', 'ɵ', 'ə'})
+UNSTRESSED_SCHWA = Sound({'ə', 'ɪ', 'ʌ'}, stressed=False)
+SHORT_VOWEL      = Sound({'ɪ', 'ɛ', 'a', 'ʌ', 'ɔ', 'ɵ', 'ə'})
 
 def requires_separate_stroke_for_inflectional_s(stroke):
     right_bank = stroke & RIGHT_BANK
@@ -61,7 +61,7 @@ def requires_separate_stroke_for_inflectional_s(stroke):
 
 NON_RIGHT_OPTIONAL_RULES = [
     Rule(
-        [SCHWA, BREAK],
+        [UNSTRESSED_SCHWA, BREAK],
         [],
         negative_lookbehind = [START],
     ),
@@ -95,23 +95,23 @@ NON_RIGHT_RULES = [
         [Stroke('-R')],
     ),
     Rule(
-        [SCHWA, BREAK],
+        [UNSTRESSED_SCHWA, BREAK],
         [],
         lookbehind = [BREAK],
     ),
     Rule(
-        [SCHWA, BREAK],
+        [UNSTRESSED_SCHWA, BREAK],
         [],
         lookbehind = [BREAK, Sound('j')],
     ),
     Rule(
-        [SCHWA],
+        [UNSTRESSED_SCHWA],
         [Stroke('U')],
         lookahead = [Sound({'d', 'g', 'z'}), BREAK],
         lookbehind = [BREAK],
     ),
     Rule(
-        [SCHWA],
+        [UNSTRESSED_SCHWA],
         [Stroke('')],
         negative_lookahead = [BREAK],
         outline = lambda outline: outline,
