@@ -97,11 +97,6 @@ NON_RIGHT_RULES = [
         lookbehind = [BREAK],
     ),
     Rule(
-        [UNSTRESSED_SCHWA, BREAK],
-        [],
-        lookbehind = [BREAK, Sound('j')],
-    ),
-    Rule(
         [UNSTRESSED_SCHWA],
         [Stroke('U')],
         lookahead = [Sound({'d', 'g', 'z'}), BREAK],
