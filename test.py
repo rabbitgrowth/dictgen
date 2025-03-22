@@ -87,7 +87,7 @@ class TestGenerate(unittest.TestCase):
                'KAUPB/TPU/R-PBS KAUPB/TPR-PBS KAUPB/TP-R/-PBS') # not KAUPB/TP/R-PBS
 
     def test_omit_j(self):
-        self.T('few',    'f j ʉ́w',      'TPAOU')
+        self.T('new',    'n j ʉ́w',      'TPHAOU')
         self.T('beauty', 'b j ʉ́w t ɪj', 'PWAOUT/AE')
 
     def test_not_omit_initial_j(self):
