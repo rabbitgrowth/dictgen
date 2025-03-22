@@ -87,12 +87,15 @@ class TestGenerate(unittest.TestCase):
                'KAUPB/TPU/R-PBS KAUPB/TPR-PBS KAUPB/TP-R/-PBS') # not KAUPB/TP/R-PBS
 
     def test_omit_j(self):
-        self.T('few', 'f j ʉ́w', 'TPAOU')
+        self.T('few',    'f j ʉ́w',      'TPAOU')
+        self.T('beauty', 'b j ʉ́w t ɪj', 'PWAOUT/AE')
 
     def test_not_omit_initial_j(self):
-        self.T('year', 'j ɪ́ː', 'KWRAOER')
+        self.T('year', 'j ɪ́ː',   'KWRAOER')
+        self.T('use',  'j ʉ́w z', 'KWRAOUZ')
 
     def test_not_omit_j_when_left_bank_empty(self):
+        self.T('failure', 'f ɛ́j l j ə',  'TPAEUL/KWR-R')
         self.T('million', 'm ɪ́ l j ə n', 'PHEUL/KWR-PB')
 
     def test_omit_j_or_not_depending_on_syllabification(self):
