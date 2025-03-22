@@ -109,6 +109,11 @@ NON_RIGHT_RULES = [
         outline = lambda outline: outline,
     ),
     Rule(
+        [Sound('j', '')],
+        [],
+        stroke = lambda stroke: stroke,
+    ),
+    Rule(
         [Sound('', 'h')],
         [Stroke('H')],
     ),
@@ -119,11 +124,6 @@ NON_RIGHT_RULES = [
     Rule(
         [Sound('')],
         [],
-    ),
-    Rule(
-        [Sound('j', '')],
-        [],
-        stroke = lambda stroke: stroke,
     ),
 ]
 
