@@ -1,6 +1,6 @@
 from chords import LEFT_CHORDS, MID_CHORDS, RIGHT_CHORDS
 from sound import Sound, START, BREAK, END
-from stroke import Stroke
+from stroke import Stroke, RIGHT_BANK
 
 class Rule:
     def __init__(
@@ -53,6 +53,11 @@ class Rule:
 NON_RIGHT_CHORDS = LEFT_CHORDS | MID_CHORDS
 
 SCHWA = Sound({'ə', 'ɪ', 'ʌ'}, stressed=False)
+SHORT_VOWEL = Sound({'ɪ', 'ɛ', 'a', 'ʌ', 'ɔ', 'ɵ', 'ə'})
+
+def requires_separate_stroke_for_inflectional_s(stroke):
+    right_bank = stroke & RIGHT_BANK
+    return not right_bank or right_bank.last() == '-G'
 
 NON_RIGHT_OPTIONAL_RULES = [
     Rule(
@@ -174,6 +179,24 @@ RIGHT_RULES = [
     Rule(
         [Sound('', 'b')],
         [Stroke('-B')],
+    ),
+    Rule(
+        [Sound('s')],
+        [Stroke('-S')],
+        stroke = lambda stroke: stroke and stroke.last() == '-T',
+    ),
+    Rule(
+        [Sound({'s', 'z'}, {'s', 'es'})],
+        [Stroke(''), Stroke('-Z')],
+        lookahead = [BREAK, END],
+        negative_lookbehind = [SHORT_VOWEL],
+        stroke = requires_separate_stroke_for_inflectional_s,
+    ),
+    Rule(
+        [Sound({'s', 'z'}, {'s', 'es'})],
+        [Stroke('-Z')],
+        lookahead = [BREAK, END],
+        negative_lookbehind = [SHORT_VOWEL],
     ),
     Rule(
         [Sound('')],

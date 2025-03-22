@@ -90,7 +90,7 @@ class TestGenerate(unittest.TestCase):
         self.T('few', 'f j ʉ́w', 'TPAOU')
 
     def test_not_omit_initial_j(self):
-        self.T('yes', 'j ɛ́ s', 'KWRES')
+        self.T('year', 'j ɪ́ː', 'KWRAOER')
 
     def test_not_omit_j_when_left_bank_empty(self):
         self.T('million', 'm ɪ́ l j ə n', 'PHEUL/KWR-PB')
@@ -98,6 +98,33 @@ class TestGenerate(unittest.TestCase):
     def test_omit_j_or_not_depending_on_syllabification(self):
         self.T('abuse',  'ə b j ʉ́w s', 'U/PWAOUS UB/KWRAOUS')
         self.T('accuse', 'ə k j ʉ́w z', 'U/KAOUZ UBG/KWRAOUZ')
+
+    def test_fold_inflectional_s(self):
+        self.T('plans', 'p l á n z', 'PHRAPBZ')
+        self.T('terms', 't ə́ː m z',  'TURPLZ')
+
+    def test_come_back_for_inflectional_s(self):
+        self.T('bags',  'b á  g z', 'PWAG/-Z')
+        self.T('backs', 'b á  k s', 'PWABG/-Z')
+        self.T('barks', 'b ɑ́ː k s', 'PWARBG/-Z')
+
+    def test_write_z_for_inflectional_s_pronounced_s(self):
+        self.T('tips', 't ɪ́ p s', 'TEUPZ')
+
+    def test_write_s_for_inflectional_s_preceded_by_t(self):
+        self.T('gets', 'g ɛ́ t s', 'TKPWETS')
+
+    def test_write_noninflectional_s_phonetically(self):
+        self.T('yes', 'j ɛ́ s', 'KWRES')
+        self.T('has', 'h á z', 'HAZ')
+
+    def test_detect_whether_s_is_inflectional_based_on_spelling(self):
+        self.T('lapse',  'l á p s',  'HRAPS')
+        self.T('laps',   'l á p s',  'HRAPZ')
+        self.T('tease',  't ɪ́j z',   'TAOEZ')
+        self.T('tees',   't ɪ́j z',   'TAOE/-Z')
+        self.T('freeze', 'f r ɪ́j z', 'TPRAOEZ')
+        self.T('frees',  'f r ɪ́j z', 'TPRAOE/-Z')
 
     def test_initial_consonants_out_of_steno_order(self):
         self.T('Gwen', 'g w ɛ́ n', 'TKPWU/WEPB')

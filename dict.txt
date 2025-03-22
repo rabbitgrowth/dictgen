@@ -550,7 +550,7 @@ AUL/THOE
 always
 a  l w ay s
 óː l w ɛj z
-AUL/WAEUZ
+AUL/WAEU/-Z
 
 amazed
 a m a  z e d
@@ -9143,7 +9143,7 @@ PHU/TAOER/AE/-L
 mathematics
 m a th e m a t i c s
 m á θ  ə m á t ɪ k s
-PHAGT/PHAT/-BGS
+PHAGT/PHAT/-BG/-Z
 
 maths
 m a th s
@@ -9848,7 +9848,7 @@ TPHAOU
 news
 n   ew s
 n j ʉ́w z
-TPHAOUZ
+TPHAOU/-Z
 
 newspaper
 n   ew s p a  p e r
@@ -10800,9 +10800,9 @@ PUR/TPAURPL/-PBS
 perhaps
 p e r h a p s
 p ə   h á p s
-PHAPS
-PU/HAPS
-PUR/HAPS
+PHAPZ
+PU/HAPZ
+PUR/HAPZ
 
 period
 p e  r i  o d
@@ -10962,7 +10962,7 @@ TPEUZ/-BG/-L
 physics
 ph y s i c s
 f  ɪ́ z ɪ k s
-TPEUZ/-BGS
+TPEUZ/-BG/-Z
 
 piano
 p i  a  n o
@@ -11203,8 +11203,8 @@ PAUL/TEUGZ
 politics
 p o l i t i c s
 p ɔ́ l ɪ t ɪ k s
-PAUL/T-BGS
-PAUL/-T/-BGS
+PAUL/T-BG/-Z
+PAUL/-T/-BG/-Z
 
 pollution
 p o ll u  ti o n
@@ -13257,7 +13257,7 @@ SAOEBG/W-PBS
 series
 s e  r ie s
 s ɪ́ː r ɪj z
-SAOER/AOEZ
+SAOER/AOE/-Z
 
 serious
 s e  r i  ou s
@@ -14044,7 +14044,7 @@ SPEGS/-L/*S
 species
 s p e  c ie s
 s p ɪ́j ʃ ɪj z
-SPAOEGS/AOEZ
+SPAOEGS/AOE/-Z
 
 specific
 s p e c i f i c
@@ -14990,7 +14990,7 @@ THAPG
 thanks
 th a n k s
 θ  á ŋ k s
-THAPGS
+THAPG/-Z
 
 that
 th a t

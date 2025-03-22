@@ -3,7 +3,7 @@ import re
 from clusters import ONSETS, CODAS
 from rules import RULES
 from sound import Sound, START, BREAK, END
-from stroke import Stroke
+from stroke import Stroke, MID_BANK, RIGHT_BANK
 
 def syllabify(sounds):
     consonant_clusters, vowels = group_by_type(sounds)
@@ -69,7 +69,7 @@ def combine(parts):
         results = [result + choice for result in results for choice in part]
     return results
 
-MID_AND_RIGHT_BANKS = Stroke('AOEUFRPBLGTSDZ')
+MID_AND_RIGHT_BANKS = MID_BANK | RIGHT_BANK
 
 def crosses_boundary(chord):
     if not chord:
