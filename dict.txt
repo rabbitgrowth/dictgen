@@ -623,19 +623,19 @@ anger
 a n g e r
 á ŋ g ə
 APBG/TKPW-R
-APBG/-G/-R
+APBG/-R
 
 angle
 a n g   l e
 á ŋ g ə l
 APBG/TKPW-L
-APBG/-G/-L
+APBG/-L
 
 angry
 a n g r y
 á ŋ g r ɪj
 APBG/TKPWRAE
-APBG/-G/RAE
+APBG/RAE
 
 animal
 a n i m a l
@@ -647,7 +647,7 @@ ankle
 a n k   l e
 á ŋ k ə l
 APBG/K-L
-APBG/-BG/-L
+APG/-L
 
 anniversary
 a nn i v e  r s a r y
@@ -704,7 +704,7 @@ APBS/-R
 anxious
 a n xi - ou s
 á ŋ k  ʃ ə  s
-APBG/-BG/SH-S
+APG/SH-S
 
 any
 a n y
@@ -1285,7 +1285,7 @@ PWAPBD
 bank
 b a n k
 b á ŋ k
-PWAPBG/-BG
+PWAPG
 
 bar
 b a  r
@@ -1637,7 +1637,7 @@ PWHRAEUPL
 blank
 b l a n k
 b l á ŋ k
-PWHRAPBG/-BG
+PWHRAPG
 
 blind
 b l i  n d
@@ -4620,7 +4620,7 @@ TKRES/-T
 drink
 d r i n k
 d r ɪ́ ŋ k
-TKREUPBG/-BG
+TKREUPG
 
 drive
 d r i  v e
@@ -4655,7 +4655,7 @@ TKRUPL
 drunk
 d r u n k
 d r ʌ́ ŋ k
-TKRUPBG/-BG
+TKRUPG
 
 dry
 d r y
@@ -6032,7 +6032,7 @@ finger
 f i n g e r
 f ɪ́ ŋ g ə
 TPEUPBG/TKPW-R
-TPEUPBG/-G/-R
+TPEUPBG/-R
 
 finish
 f i n i sh
@@ -6470,7 +6470,7 @@ TPUPB
 function
 f u n c ti o n
 f ʌ́ ŋ k ʃ  ə n
-TPUPBG/-BGZ
+TPUPG/SH-PB
 
 fund
 f u n d
@@ -7408,7 +7408,7 @@ hungry
 h u n g r y
 h ʌ́ ŋ g r ɪj
 HUPBG/TKPWRAE
-HUPBG/-G/RAE
+HUPBG/RAE
 
 hunt
 h u n t
@@ -7704,7 +7704,7 @@ income
 i n c o m e
 ɪ́ ŋ k ʌ m
 EUPBG/K-PL
-EUPBG/-BG/-PL
+EUPG/-PL
 
 increase
 i n c r ea s e
@@ -7715,7 +7715,7 @@ increase
 i n c r ea s e
 ɪ́ ŋ k r ɪj s
 EUPBG/KRAOES
-EUPBG/-BG/RAOES
+EUPG/RAOES
 
 increasingly
 i n c r ea s i ng l y
@@ -8471,8 +8471,7 @@ HRAPBD/SKAEUP
 language
 l a n g u a g  e
 l á ŋ g w ɪ dʒ
-HRAPBG/TKPWU/W-PBLG
-HRAPBG/-G/W-PBLG
+HRAPBG/W-PBLG
 
 laptop
 l a p t o p
@@ -8661,7 +8660,7 @@ HREPBD
 length
 l e ng   th
 l ɛ́ ŋ  k θ
-HREPBG/-BG/-GT
+HREPG/-GT
 
 less
 l e ss
@@ -8753,7 +8752,7 @@ HRAOEUPB
 link
 l i n k
 l ɪ́ ŋ k
-HREUPBG/-BG
+HREUPG
 
 lion
 l i  o n
@@ -9486,7 +9485,7 @@ monkey
 m o n k ey
 m ʌ́ ŋ k ɪj
 PHUPBG/KAE
-PHUPBG/-BG/AE
+PHUPG/AE
 
 month
 m o n th
@@ -11012,7 +11011,7 @@ PEUPB
 pink
 p i n k
 p ɪ́ ŋ k
-PEUPBG/-BG
+PEUPG
 
 pipe
 p i  p e
@@ -12017,7 +12016,7 @@ RAEUFPG
 rank
 r a n k
 r á ŋ k
-RAPBG/-BG
+RAPG
 
 rapid
 r a p i d
@@ -13662,12 +13661,12 @@ single
 s i n g   l e
 s ɪ́ ŋ g ə l
 SEUPBG/TKPW-L
-SEUPBG/-G/-L
+SEUPBG/-L
 
 sink
 s i n k
 s ɪ́ ŋ k
-SEUPBG/-BG
+SEUPG
 
 sir
 s i  r
@@ -14364,7 +14363,7 @@ STRAOET
 strength
 s t r e ng   th
 s t r ɛ́ ŋ  k θ
-STREPBG/-BG/-GT
+STREPG/-GT
 
 stress
 s t r e ss
@@ -14804,7 +14803,7 @@ TAUL
 tank
 t a n k
 t á ŋ k
-TAPBG/-BG
+TAPG
 
 tape
 t a  p e
@@ -14986,12 +14985,12 @@ THUPB
 thank
 th a n k
 θ  á ŋ k
-THAPBG/-BG
+THAPG
 
 thanks
 th a n k s
 θ  á ŋ k s
-THAPBG/-BGS
+THAPGS
 
 that
 th a t
@@ -15111,13 +15110,13 @@ THEUPBG
 think
 th i n k
 θ  ɪ́ ŋ k
-THEUPBG/-BG
+THEUPG
 
 thinking
 th i n k i ng
 θ  ɪ́ ŋ k ɪ ŋ
 THEUPBG/K-PBG
-THEUPBG/-BG/-PBG
+THEUPG/-PBG
 
 third
 th i  r d
@@ -15694,7 +15693,7 @@ uncle
 u n c   l e
 ʌ́ ŋ k ə l
 UPBG/K-L
-UPBG/-BG/-L
+UPG/-L
 
 uncomfortable
 u n c o m f o r t a b   l e
