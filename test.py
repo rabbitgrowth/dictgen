@@ -114,7 +114,7 @@ class TestGenerate(unittest.TestCase):
     def test_write_s_for_inflectional_s_preceded_by_t(self):
         self.T('gets', 'g ɛ́ t s', 'TKPWETS')
 
-    def test_write_noninflectional_s_phonetically(self):
+    def test_write_noninflectional_s_normally(self):
         self.T('yes', 'j ɛ́ s', 'KWRES')
         self.T('has', 'h á z', 'HAZ')
 
