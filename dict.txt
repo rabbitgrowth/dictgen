@@ -714,31 +714,31 @@ EPB/AE
 anybody
 a n y  b o d y
 ɛ́ n ɪj b ɔ d ɪj
+EPB/AOE/PWAU/TKAE
+EPB/AOE/PWAUD/AE
 EPB/AOEB/AU/TKAE
 EPB/AOEB/AUD/AE
-EPB/AE/PWAU/TKAE
-EPB/AE/PWAUD/AE
 
 anyone
 a n y  o - n e
 ɛ́ n ɪj w ʌ n
-EPB/AE/W-PB
+EPB/AOE/W-PB
 
 anything
 a n y  th i ng
 ɛ́ n ɪj θ  ɪ ŋ
+EPB/AOE/TH-PBG
 EPB/AOEGT/-PBG
-EPB/AE/TH-PBG
 
 anyway
 a n y  w ay
 ɛ́ n ɪj w ɛj
-EPB/AE/WAEU
+EPB/AOE/WAEU
 
 anywhere
 a n y  w h e  r e
 ɛ́ n ɪj w   ɛː
-EPB/AE/WHAEUR
+EPB/AOE/WHAEUR
 
 apart
 a p a  r t
@@ -810,8 +810,8 @@ U/POEUPBT/-PLT
 appreciate
 a pp r e  c i  a  t e
 ə p  r ɪ́j ʃ ɪj ɛj t
-U/PRAOEGS/AE/AEUT
-UP/RAOEGS/AE/AEUT
+U/PRAOEGS/AOE/AEUT
+UP/RAOEGS/AOE/AEUT
 
 approach
 a pp r oa ch
@@ -822,14 +822,14 @@ UP/ROEFP
 appropriate
 a pp r o  p r i  a  t e
 ə p  r ə́w p r ɪj ɛj t
-U/PROEP/RAE/AEUT
-UP/ROEP/RAE/AEUT
+U/PROEP/RAOE/AEUT
+UP/ROEP/RAOE/AEUT
 
 appropriate
 a pp r o  p r i  a t e
 ə p  r ə́w p r ɪj ə t
-U/PROEP/RAE/-T
-UP/ROEP/RAE/-T
+U/PROEP/RAOE/-T
+UP/ROEP/RAOE/-T
 
 approval
 a pp r o  v a l
@@ -881,7 +881,7 @@ ARBG/-T/EBG/KH-R
 area
 a  r e  a
 ɛ́ː r ɪj ə
-AEUR/AE
+AEUR/AOE
 
 argue
 a  r g   ue
@@ -1047,23 +1047,23 @@ U/SEUS/T-PBT
 associate
 a ss o  c i  a  t e
 ə s  ə́w ʃ ɪj ɛj t
-U/SOEGS/AE/AEUT
+U/SOEGS/AOE/AEUT
 
 associate
 a ss o  c i  a t e
 ə s  ə́w ʃ ɪj ə t
-U/SOEGS/AE/-T
+U/SOEGS/AOE/-T
 
 associated
 a ss o  c i  a  t e d
 ə s  ə́w ʃ ɪj ɛj t ɪ d
-U/SOEGS/AE/AEU/T-D
-U/SOEGS/AE/AEUT/UD
+U/SOEGS/AOE/AEU/T-D
+U/SOEGS/AOE/AEUT/UD
 
 association
 a ss o  c i  a  ti o n
 ə s  ə́w s ɪj ɛ́j ʃ  ə n
-U/SOES/AE/AEUGZ
+U/SOES/AOE/AEUGZ
 
 assume
 a ss   u  m e
@@ -1146,7 +1146,7 @@ UT/RABGT/-FB
 audience
 au d i  e n c e
 óː d ɪj ə n s
-AUD/AE/-PBS
+AUD/AOE/-PBS
 
 August
 Au g u s t
@@ -1235,7 +1235,7 @@ PWABG/W-RDZ
 bacteria
 b a c t e  r i  a
 b a k t ɪ́ː r ɪj ə
-PWABG/TAOER/AE
+PWABG/TAOER/AOE
 
 bad
 b a d
@@ -1295,7 +1295,7 @@ PWAR
 barrier
 b a rr i  e r
 b á r  ɪj ə
-PWAR/AE/-R
+PWAR/AOE/-R
 
 base
 b a  s e
@@ -1473,7 +1473,7 @@ PWU/HAOEUPBD
 being
 b e  i ng
 b ɪ́j ɪ ŋ
-PWAE/-PBG
+PWAOE/-PBG
 
 belief
 b e l ie f
@@ -1549,7 +1549,7 @@ PWUT/WAOEPB
 beyond
 b ey o n d
 b ɪj ɔ́ n d
-PWAE/AUPBD
+PWAOE/AUPBD
 
 bicycle
 b i  c y c   l e
@@ -2342,8 +2342,8 @@ KHAL/-FPG
 champion
 ch a m p i  o n
 tʃ á m p ɪj ə n
-KHAFPL/AE/-PB
-KHAPL/PAE/-PB
+KHAFPL/AOE/-PB
+KHAPL/PAOE/-PB
 
 chance
 ch a  n c e
@@ -3309,7 +3309,7 @@ KUPBT/ROEL
 convenient
 c o n v e  n i  e n t
 k ə n v ɪ́j n ɪj ə n t
-KUPB/SRAOEPB/AE/-PBT
+KUPB/SRAOEPB/AOE/-PBT
 
 conversation
 c o n v e r s a  ti o n
@@ -3444,10 +3444,10 @@ KUPBT/RAE
 countryside
 c ou n t r y  s i  d e
 k ʌ́  n t r ɪj s ɑj d
+KUPB/TRAOE/SAOEUD
 KUPB/TRAOES/AOEUD
-KUPB/TRAE/SAOEUD
+KUPBT/RAOE/SAOEUD
 KUPBT/RAOES/AOEUD
-KUPBT/RAE/SAOEUD
 
 county
 c ou n t y
@@ -3513,17 +3513,17 @@ KRAOEPL
 create
 c r e  a  t e
 k r ɪj ɛ́j t
-KRAE/AEUT
+KRAOE/AEUT
 
 creation
 c r e  a  ti o n
 k r ɪj ɛ́j ʃ  ə n
-KRAE/AEUGZ
+KRAOE/AEUGZ
 
 creative
 c r e  a  t i v e
 k r ɪj ɛ́j t ɪ v
-KRAE/AEUT/-FB
+KRAOE/AEUT/-FB
 
 creature
 c r ea t  u r e
@@ -3559,7 +3559,7 @@ KRAOEUS/-S
 criterion
 c r i  t e  r i  o n
 k r ɑj t ɪ́ː r ɪj ə n
-KRAOEU/TAOER/AE/-PB
+KRAOEU/TAOER/AOE/-PB
 
 critic
 c r i t i c
@@ -5137,18 +5137,18 @@ EPBT/-R/TAEUPB/-PLT
 enthusiasm
 e n th   u  s i  a s   m
 ɪ n θ  j ʉ́w z ɪj a z ə m
-EUPB/THAOUZ/AE/A/SWR-PL
-EUPB/THAOUZ/AE/AZ/-PL
-EUPBGT/KWRAOUZ/AE/A/SWR-PL
-EUPBGT/KWRAOUZ/AE/AZ/-PL
+EUPB/THAOUZ/AOE/A/SWR-PL
+EUPB/THAOUZ/AOE/AZ/-PL
+EUPBGT/KWRAOUZ/AOE/A/SWR-PL
+EUPBGT/KWRAOUZ/AOE/AZ/-PL
 
 enthusiastic
 e n th   u  s i  a s t i c
 ɪ n θ  j ʉ́w z ɪj á s t ɪ k
-EUPB/THAOUZ/AE/A*S/-BG
-EUPB/THAOUZ/AE/AS/T-BG
-EUPBGT/KWRAOUZ/AE/A*S/-BG
-EUPBGT/KWRAOUZ/AE/AS/T-BG
+EUPB/THAOUZ/AOE/A*S/-BG
+EUPB/THAOUZ/AOE/AS/T-BG
+EUPBGT/KWRAOUZ/AOE/A*S/-BG
+EUPBGT/KWRAOUZ/AOE/AS/T-BG
 
 entire
 e n t i  r e
@@ -5334,32 +5334,32 @@ EFB/RAE
 everybody
 e v e r y  b o d y
 ɛ́ v   r ɪj b ɔ d ɪj
+EFB/RAOE/PWAU/TKAE
+EFB/RAOE/PWAUD/AE
 EFB/RAOEB/AU/TKAE
 EFB/RAOEB/AUD/AE
-EFB/RAE/PWAU/TKAE
-EFB/RAE/PWAUD/AE
 
 everyday
 e v e r y  d ay
 ɛ́ v   r ɪj d ɛj
+EFB/RAOE/TKAEU
 EFB/RAOED/AEU
-EFB/RAE/TKAEU
 
 everyone
 e v e r y  o - n e
 ɛ́ v   r ɪj w ʌ n
-EFB/RAE/W-PB
+EFB/RAOE/W-PB
 
 everything
 e v e r y  th i ng
 ɛ́ v   r ɪj θ  ɪ ŋ
+EFB/RAOE/TH-PBG
 EFB/RAOEGT/-PBG
-EFB/RAE/TH-PBG
 
 everywhere
 e v e r y  w h e  r e
 ɛ́ v   r ɪj w   ɛː
-EFB/RAE/WHAEUR
+EFB/RAOE/WHAEUR
 
 evidence
 e v i d e n c e
@@ -5536,14 +5536,14 @@ EUBGS/PEPBS/-FB
 experience
 e x - p e  r i  e n c e
 ɪ k s p ɪ́ː r ɪj ə n s
-EUBG/SPAOER/AE/-PBS
-EUBGS/PAOER/AE/-PBS
+EUBG/SPAOER/AOE/-PBS
+EUBGS/PAOER/AOE/-PBS
 
 experienced
 e x - p e  r i  e n c e d
 ɪ k s p ɪ́ː r ɪj ə n s   t
-EUBG/SPAOER/AE/-PBS/-T
-EUBGS/PAOER/AE/-PBS/-T
+EUBG/SPAOER/AOE/-PBS/-T
+EUBGS/PAOER/AOE/-PBS/-T
 
 experiment
 e x - p e r i m e n t
@@ -6950,8 +6950,8 @@ HAP/-L/AE
 happiness
 h a pp i  n e ss
 h á p  ɪj n ə s
+HAP/AOE/TPH-S
 HAP/AOEPB/-S
-HAP/AE/TPH-S
 
 happy
 h a pp y
@@ -7460,7 +7460,7 @@ AOEU/TKAOE
 ideal
 i  d e  a l
 ɑj d ɪ́j ə l
-AOEU/TKAE/-L
+AOEU/TKAOE/-L
 
 identify
 i  d e n t i f y
@@ -7550,12 +7550,12 @@ EU/PHAPBLG/-PB
 immediate
 i mm e  d i  a t e
 ɪ m  ɪ́j d ɪj ə t
-EU/PHAOED/AE/-T
+EU/PHAOED/AOE/-T
 
 immediately
 i mm e  d i  a t e l y
 ɪ m  ɪ́j d ɪj ə t   l ɪj
-EU/PHAOED/AE/-T/HRAE
+EU/PHAOED/AOE/-T/HRAE
 
 immigrant
 i mm i g r a n t
@@ -7785,8 +7785,8 @@ EUPBD/AURZ
 industrial
 i n d u s t r i  a l
 ɪ n d ʌ́ s t r ɪj ə l
-EUPB/TK*US/RAE/-L
-EUPB/TKUS/TRAE/-L
+EUPB/TK*US/RAOE/-L
+EUPB/TKUS/TRAOE/-L
 
 industry
 i n d u s t r y
@@ -7828,7 +7828,7 @@ EUPB/TP-R/PHAEUGZ
 ingredient
 i n g r e  d i  e n t
 ɪ n g r ɪ́j d ɪj ə n t
-EUPB/TKPWRAOED/AE/-PBT
+EUPB/TKPWRAOED/AOE/-PBT
 
 initial
 i n i ti a l
@@ -8303,7 +8303,7 @@ SKWRAOUPB
 junior
 j  u  n i  o r
 dʒ ʉ́w n ɪj ə
-SKWRAOUPB/AE/-R
+SKWRAOUPB/AOE/-R
 
 just
 j  u s t
@@ -9138,7 +9138,7 @@ PHAFP/-PBG
 material
 m a t e  r i  a l
 m ə t ɪ́ː r ɪj ə l
-PHU/TAOER/AE/-L
+PHU/TAOER/AOE/-L
 
 mathematics
 m a th e m a t i c s
@@ -9220,7 +9220,7 @@ PHAOET
 media
 m e  d i  a
 m ɪ́j d ɪj ə
-PHAOED/AE
+PHAOED/AOE
 
 medical
 m e d i c a l
@@ -9237,7 +9237,7 @@ PHED/-S/-PB
 medium
 m e  d i  u m
 m ɪ́j d ɪj ə m
-PHAOED/AE/-PL
+PHAOED/AOE/-PL
 
 meet
 m ee t
@@ -9634,7 +9634,7 @@ PHUS/-L
 museum
 m   u  s e  u m
 m j ʉw z ɪ́j ə m
-PHAOU/SWRAE/-PL
+PHAOU/SWRAOE/-PL
 
 music
 m   u  s i c
@@ -9675,8 +9675,8 @@ PHAOEU/SEL/-F
 mysterious
 m y s t e  r i  ou s
 m ɪ s t ɪ́ː r ɪj ə  s
-PHEU/STAOER/AE/-S
-PHEUS/TAOER/AE/-S
+PHEU/STAOER/AOE/-S
+PHEUS/TAOER/AOE/-S
 
 mystery
 m y s t e r y
@@ -10001,9 +10001,9 @@ n ə́w w   ɛː
 nuclear
 n   u  c l ea r
 n j ʉ́w k l ɪj ə
-TPHAOUBG/HRAE
-TPHAOUBG/HRAE/-R
-TPHAOUBG/HRAER
+TPHAOUBG/HRAOE
+TPHAOUBG/HRAOE/-R
+TPHAOUBG/HRAOER
 
 number
 n u m b e r
@@ -10073,13 +10073,13 @@ UB/TAEUPB
 obvious
 o b v i  ou s
 ɔ́ b v ɪj ə  s
-AUB/SRAE/-S
+AUB/SRAOE/-S
 
 obviously
 o b v i  ou s l y
 ɔ́ b v ɪj ə  s l ɪj
-AUB/SRAE/SHRAE
-AUB/SRAE/-S/HRAE
+AUB/SRAOE/SHRAE
+AUB/SRAOE/-S/HRAE
 
 occasion
 o cc a  si o n
@@ -10807,7 +10807,7 @@ PUR/HAPZ
 period
 p e  r i  o d
 p ɪ́ː r ɪj ə d
-PAOER/AE/UD
+PAOER/AOE/UD
 
 permanent
 p e  r m a n e n t
@@ -10967,7 +10967,7 @@ TPEUZ/-BG/-Z
 piano
 p i  a  n o
 p ɪj ɑ́ː n əw
-PAE/APB/OE
+PAOE/APB/OE
 
 piano
 p i a n o
@@ -11485,13 +11485,13 @@ PREU/SREPBT
 previous
 p r e  v i  ou s
 p r ɪ́j v ɪj ə  s
-PRAOEFB/AE/-S
+PRAOEFB/AOE/-S
 
 previously
 p r e  v i  ou s l y
 p r ɪ́j v ɪj ə  s l ɪj
-PRAOEFB/AE/SHRAE
-PRAOEFB/AE/-S/HRAE
+PRAOEFB/AOE/SHRAE
+PRAOEFB/AOE/-S/HRAE
 
 price
 p r i  c e
@@ -11991,7 +11991,7 @@ RAEUS/-PBG
 radio
 r a  d i  o
 r ɛ́j d ɪj əw
-RAEUD/AE/OE
+RAEUD/AOE/OE
 
 railway
 r ai l w ay
@@ -12062,12 +12062,12 @@ RAOEFP
 react
 r e  a c t
 r ɪj á k t
-RAE/ABGT
+RAOE/ABGT
 
 reaction
 r e  a c ti o n
 r ɪj á k ʃ  ə n
-RAE/ABGZ
+RAOE/ABGZ
 
 read
 r ea d
@@ -12097,25 +12097,25 @@ RED/AE
 real
 r e  a l
 r ɪ́j ə l
-RAE/-L
+RAOE/-L
 
 realistic
 r e  a l i s t i c
 r ɪ́j ə l ɪ́ s t ɪ k
-RAE/HR*EUS/-BG
-RAE/HREUS/T-BG
+RAOE/HR*EUS/-BG
+RAOE/HREUS/T-BG
 
 reality
 r e  a l i t y
 r ɪj á l ə t ɪj
-RAE/AL/TAE
-RAE/AL/-T/AE
+RAOE/AL/TAE
+RAOE/AL/-T/AE
 
 realize
 r e  a l i  z e
 r ɪ́j ə l ɑj z
-RAE/HRAOEUZ
-RAE/-L/AOEUZ
+RAOE/HRAOEUZ
+RAOE/-L/AOEUZ
 
 really
 r ea ll y
@@ -12209,8 +12209,8 @@ REU/KUFB/-R
 recycle
 r e  c y  c   l e
 r ɪ́j s ɑ́j k ə l
+RAOE/SAOEUBG/-L
 RAOES/AOEUBG/-L
-RAE/SAOEUBG/-L
 
 red
 r e d
@@ -13202,7 +13202,7 @@ SEPBD
 senior
 s e  n i  o r
 s ɪ́j n ɪj ə
-SAOEPB/AE/-R
+SAOEPB/AOE/-R
 
 sense
 s e n s e
@@ -13262,13 +13262,13 @@ SAOER/AOE/-Z
 serious
 s e  r i  ou s
 s ɪ́ː r ɪj ə  s
-SAOER/AE/-S
+SAOER/AOE/-S
 
 seriously
 s e  r i  ou s l y
 s ɪ́ː r ɪj ə  s l ɪj
-SAOER/AE/SHRAE
-SAOER/AE/-S/HRAE
+SAOER/AOE/SHRAE
+SAOER/AOE/-S/HRAE
 
 servant
 s e  r v a n t
@@ -13726,7 +13726,7 @@ SKAE
 skiing
 s k i  i ng
 s k ɪ́j ɪ ŋ
-SKAE/-PBG
+SKAOE/-PBG
 
 skill
 s k i ll
@@ -14163,7 +14163,7 @@ STAEUB/-L
 stadium
 s t a  d i  u m
 s t ɛ́j d ɪj ə m
-STAEUD/AE/-PL
+STAEUD/AOE/-PL
 
 staff
 s t a  ff
@@ -14418,7 +14418,7 @@ SKHAOUD/-PBT
 studio
 s t  u  d i  o
 s tʃ ʉ́w d ɪj əw
-SKHAOUD/AE/OE
+SKHAOUD/AOE/OE
 
 study
 s t u d y
@@ -15016,8 +15016,8 @@ THU
 theatre
 th e  a t r e
 θ  ɪ́j ə t ə
-THAE/T-R
-THAE/-T/-R
+THAOE/T-R
+THAOE/-T/-R
 
 their
 th ei r
@@ -15057,8 +15057,8 @@ THEPB
 theory
 th e  o r y
 θ  ɪ́j ə r ɪj
-THAE/RAE
-THAE/-R/AE
+THAOE/RAE
+THAOE/-R/AE
 
 therapy
 th e r a p y
@@ -15808,7 +15808,7 @@ KWRAOUPB/-F/AURPL
 union
   u  n i  o n
 j ʉ́w n ɪj ə n
-KWRAOUPB/AE/-PB
+KWRAOUPB/AOE/-PB
 
 unique
   u  n i  q u e
@@ -16025,7 +16025,7 @@ SRU/RAOEU/-T/AE
 various
 v a  r i  ou s
 v ɛ́ː r ɪj ə  s
-SRAEUR/AE/-S
+SRAEUR/AOE/-S
 
 vary
 v a  r y
@@ -16087,7 +16087,7 @@ SREUBGT/-R/AE
 video
 v i d e  o
 v ɪ́ d ɪj əw
-SREUD/AE/OE
+SREUD/AOE/OE
 
 view
 v i ew
@@ -16335,7 +16335,7 @@ WAOEBG
 weekend
 w ee k e n d
 w ɪj k ɛ́ n d
-WAE/KEPBD
+WAOE/KEPBD
 
 weigh
 w ei gh

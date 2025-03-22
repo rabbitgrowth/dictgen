@@ -77,7 +77,7 @@ NON_RIGHT_RULES = [
     Rule(
         [Sound('ɪj')],
         [Stroke('AE')],
-        lookahead = [BREAK],
+        lookahead = [BREAK, END],
     ),
     Rule(
         [Sound('ɑj', 'i'), Sound('', 'gh'), Sound('t')],
