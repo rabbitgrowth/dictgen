@@ -65,8 +65,9 @@ class TestGenerate(unittest.TestCase):
     def test_igh_t(self):
         self.T('hightail', 'h ɑ́j . t ɛj l', 'HAOEU/TAEUL') # not HOEUGT/AEUL
 
-    def test_orthographic_ss_if_one_stroke(self):
-        self.T('less', 'l ɛ́ s', 'HREFS')
+    def test_orthographic_ss(self):
+        self.T('mass',    'm á s',     'PHAFS')
+        self.T('massive', 'm á s ɪ v', 'PHAS/-FB')
 
     def test_not_orthographic_ss_if_multistroke(self):
         self.T('witness', 'w ɪ́ t n ə s', 'WEUT/TPH-S')
