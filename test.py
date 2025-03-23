@@ -58,11 +58,11 @@ class TestGenerate(unittest.TestCase):
         self.T('agency', 'ɛ́j dʒ ə n s ɪj',
                'AEUPBLG/-PB/SAE AEUPBLG/-PBS/AE AEUPBLG/AEPBS')
 
-    def test_ight(self):
+    def test_orthographic_ight(self):
         self.T('rite',  'r ɑ́j t', 'RAOEUT')
         self.T('right', 'r ɑ́j t', 'ROEUGT')
 
-    def test_igh_t(self):
+    def test_not_orthographic_ight_if_interrupted_by_break(self):
         self.T('hightail', 'h ɑ́j . t ɛj l', 'HAOEU/TAEUL') # not HOEUGT/AEUL
 
     def test_orthographic_ss(self):
