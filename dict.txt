@@ -111,6 +111,7 @@ a cc   u r a t e
 á k  j ə r ə t
 ABG/KWRU/R-T
 ABG/KWR-R/-T
+ABG/R-T
 
 accuse
 a cc   u  s e
@@ -897,6 +898,7 @@ AR/TKPWU/-PLT
 AR/TKPW-PLT
 ARG/KWRU/-PLT
 ARG/KWR-PLT
+ARG/-PLT
 
 arise
 a r i  s e
@@ -2027,6 +2029,7 @@ KAL/KU/HRAEUT
 KAL/K-L/AEUT
 KAL/-BG/KWRU/HRAEUT
 KAL/-BG/KWR-L/AEUT
+KAL/-BG/HRAEUT
 
 call
 c a  ll
@@ -4491,18 +4494,22 @@ d o c   u m e n t
 d ɔ́ k j ə m ɛ n t
 TKAUBG/KWRU/PHEPBT
 TKAUBG/KWR-PL/EPBT
+TKAUBG/PHEPBT
 
 document
 d o c   u m e n t
 d ɔ́ k j ə m ə n t
 TKAUBG/KWRU/-PLT
 TKAUBG/KWR-PLT
+TKAUBG/-PLT
 
 documentary
 d o c   u m e n t a r y
 d ɔ́ k j ə m ɛ́ n t   r ɪj
 TKAUBG/KWRU/PHEPB/TRAE
 TKAUBG/KWRU/PHEPBT/RAE
+TKAUBG/PHEPB/TRAE
+TKAUBG/PHEPBT/RAE
 
 dog
 d o g
@@ -5464,6 +5471,7 @@ EUBGS/KAOUZ
 executive
 e x - e c   u t i v e
 ɪ g z ɛ́ k j ə t ɪ v
+EUG/SWREBG/T-FB
 EUG/SWREBG/KWRU/T-FB
 EUG/SWREBG/KWR-T/-FB
 
@@ -10630,8 +10638,10 @@ p a r t i c   u l a r
 p ə   t ɪ́ k j ə l ə
 PU/TEUBG/KWRU/HR-R
 PU/TEUBG/KWR-L/-R
+PU/TEUBG/HR-R
 PUR/TEUBG/KWRU/HR-R
 PUR/TEUBG/KWR-L/-R
+PUR/TEUBG/HR-R
 
 particularly
 p a r t i c   u l a r l y
@@ -10642,12 +10652,18 @@ PU/TEUBG/KWRU/HR-RL/AE
 PU/TEUBG/KWR-L/HRAE
 PU/TEUBG/KWR-L/-R/HRAE
 PU/TEUBG/KWR-L/-RL/AE
+PU/TEUBG/HRU/HRAE
+PU/TEUBG/HR-R/HRAE
+PU/TEUBG/HR-RL/AE
 PUR/TEUBG/KWRU/HRU/HRAE
 PUR/TEUBG/KWRU/HR-R/HRAE
 PUR/TEUBG/KWRU/HR-RL/AE
 PUR/TEUBG/KWR-L/HRAE
 PUR/TEUBG/KWR-L/-R/HRAE
 PUR/TEUBG/KWR-L/-RL/AE
+PUR/TEUBG/HRU/HRAE
+PUR/TEUBG/HR-R/HRAE
+PUR/TEUBG/HR-RL/AE
 
 partly
 p a  r t l y
@@ -11248,17 +11264,21 @@ p o p   u l a r
 p ɔ́ p j ə l ə
 PAUP/KWRU/HR-R
 PAUP/KWR-L/-R
+PAUP/HR-R
 
 popularity
 p o p   u l a r i t y
 p ɔ́ p j ə l á r ə t ɪj
 PAUP/KWRU/HRAR/TAE
 PAUP/KWRU/HRAR/-T/AE
+PAUP/HRAR/TAE
+PAUP/HRAR/-T/AE
 
 population
 p o p   u l a  ti o n
 p ɔ́ p j ə l ɛ́j ʃ  ə n
 PAUP/KWRU/HRAEUGZ
+PAUP/HRAEUGZ
 
 port
 p o  r t
@@ -12308,6 +12328,7 @@ r e g   u l a r
 r ɛ́ g j ə l ə
 REG/KWRU/HR-R
 REG/KWR-L/-R
+REG/HR-R
 
 regularly
 r e g   u l a r l y
@@ -12318,11 +12339,15 @@ REG/KWRU/HR-RL/AE
 REG/KWR-L/HRAE
 REG/KWR-L/-R/HRAE
 REG/KWR-L/-RL/AE
+REG/HRU/HRAE
+REG/HR-R/HRAE
+REG/HR-RL/AE
 
 regulation
 r e g   u l a  ti o n
 r ɛ́ g j ə l ɛ́j ʃ  ə n
 REG/KWRU/HRAEUGZ
+REG/HRAEUGZ
 
 reject
 r e j  e c t
@@ -12508,6 +12533,7 @@ REP/REU/SWREPBT/-T/-FB
 reputation
 r e p   u t a  ti o n
 r ɛ́ p j ə t ɛ́j ʃ  ə n
+REP/TAEUGZ
 REP/KWRU/TAEUGZ
 
 request

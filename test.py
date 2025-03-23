@@ -102,6 +102,10 @@ class TestGenerate(unittest.TestCase):
         self.T('abuse',  'ə b j ʉ́w s', 'U/PWAOUS UB/KWRAOUS')
         self.T('accuse', 'ə k j ʉ́w z', 'U/KAOUZ UBG/KWRAOUZ')
 
+    def test_optionally_omit_j_schwa(self):
+        self.T('accurate', 'á k j ə r ə t', 'ABG/KWR-R/-T ABG/KWRU/R-T ABG/R-T')
+        self.T('regulation', 'r ɛ́ g j ə l ɛ́j ʃ ə n', 'REG/KWRU/HRAEUGZ REG/HRAEUGZ')
+
     def test_fold_inflectional_s(self):
         self.T('plans', 'p l á n z', 'PHRAPBZ')
         self.T('terms', 't ə́ː m z',  'TURPLZ')
