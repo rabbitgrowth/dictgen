@@ -66,6 +66,7 @@ NON_RIGHT_OPTIONAL_RULES = [
     Rule(
         [Sound('j', ''), UNSTRESSED_SCHWA, BREAK],
         [],
+        negative_lookahead = [END],
         lookbehind = [BREAK],
     ),
 ]
@@ -100,6 +101,7 @@ NON_RIGHT_RULES = [
     Rule(
         [UNSTRESSED_SCHWA, BREAK],
         [],
+        negative_lookahead = [END],
         lookbehind = [BREAK],
     ),
     Rule(
