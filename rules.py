@@ -60,6 +60,7 @@ NON_RIGHT_OPTIONAL_RULES = [
     Rule(
         [UNSTRESSED_SCHWA, BREAK],
         [],
+        negative_lookahead = [END],
         negative_lookbehind = [START],
     ),
     Rule(

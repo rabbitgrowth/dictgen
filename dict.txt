@@ -388,7 +388,6 @@ AEUPBLG/-PBS/AE
 agenda
 a g  e n d a
 ə dʒ ɛ́ n d ə
-U/SKWREPB
 U/SKWREPB/TKU
 U/SKWREPBD
 
@@ -2044,7 +2043,6 @@ KAPL
 camera
 c a m e r a
 k á m   r ə
-KAPL
 KAPL/RU
 
 camp
@@ -4475,7 +4473,6 @@ TKAOU
 do
 d o
 d ə
-
 TKU
 
 do
@@ -5660,11 +5657,8 @@ EUBGS/TURPB/-L
 extra
 e x - t r a
 ɛ́ k s t r ə
-*EBGS
 *EBGS/RU
-EBG
 EBG/STRU
-EBGS
 EBGS/TRU
 
 extraordinary
@@ -6163,7 +6157,6 @@ TPHRAUR
 flour
 f l ou r
 f l áw ə
-TPHROU
 TPHROU/-R
 TPHROUR
 
@@ -7359,7 +7352,6 @@ HOE/TEL
 hour
 h ou r
   áw ə
-HOU
 HOU/-R
 HOUR
 
@@ -8103,7 +8095,6 @@ EUPBT/AOU
 into
 i n t o
 ɪ́ n t ə
-EUPB
 EUPB/TU
 EUPBT
 
@@ -10017,7 +10008,6 @@ n ə́w w   ɛː
 nuclear
 n   u  c l ea r
 n j ʉ́w k l ɪj ə
-TPHAOUBG/HRAOE
 TPHAOUBG/HRAOE/-R
 TPHAOUBG/HRAOER
 
@@ -10230,7 +10220,6 @@ OEPB/HRAE
 onto
 o n t o
 ɔ́ n t ə
-AUPB
 AUPB/TU
 AUPBT
 
@@ -15062,7 +15051,6 @@ THAE
 the
 th e
 ð  ə
-
 THU
 
 theatre
@@ -15326,7 +15314,6 @@ TAOU
 to
 t o
 t ə
-
 TU
 
 today
