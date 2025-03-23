@@ -26,27 +26,6 @@ class TestGenerate(unittest.TestCase):
         self.T('shred', 'ʃ r ɛ́ d', 'SKHRED')
         self.T('sled',  's l ɛ́ d', 'SHRED')
 
-    def test_silent_h(self):
-        self.T('heir', 'ɛ́ː', 'HAEUR')
-        self.T('air',  'ɛ́ː', 'AEUR')
-
-    def test_silent_h_in_wh(self):
-        self.T('which', 'w ɪ́ tʃ', 'WHEUFP')
-        self.T('witch', 'w ɪ́ tʃ', 'WEUFP')
-
-    def test_silent_w_in_wh(self):
-        self.T('whole', 'h ə́w l', 'WHOEL')
-        self.T('hole',  'h ə́w l', 'HOEL')
-
-    def test_silent_b(self):
-        self.T('clime', 'k l ɑ́j m', 'KHRAOEUPL')
-        self.T('climb', 'k l ɑ́j m', 'KHRAOEUPL/-B')
-
-    def test_skip_other_silent_letters(self):
-        self.T('yacht', 'j ɔ́ t', 'KWRAUT')
-        self.T('mnemonic', 'n ɪ m ɔ́ n ɪ k', 'TPHEU/PHAUPB/-BG')
-        self.T('restaurant', 'r ɛ́ s t r ɔ n t', 'RES/TRAUPBT R*ES/RAUPBT')
-
     def test_y_ending(self):
         self.T('family', 'f á m l ɪj', 'TPAPL/HRAE')
         self.T('employee', 'ɛ́ m p l oj ɪ́j', 'EPL/PHROEU/AE EFPL/HROEU/AE')
@@ -71,6 +50,51 @@ class TestGenerate(unittest.TestCase):
 
     def test_not_orthographic_ss_if_multistroke(self):
         self.T('witness', 'w ɪ́ t n ə s', 'WEUT/TPH-S')
+
+    def test_silent_h(self):
+        self.T('heir', 'ɛ́ː', 'HAEUR')
+        self.T('air',  'ɛ́ː', 'AEUR')
+
+    def test_silent_h_in_wh(self):
+        self.T('which', 'w ɪ́ tʃ', 'WHEUFP')
+        self.T('witch', 'w ɪ́ tʃ', 'WEUFP')
+
+    def test_silent_w_in_wh(self):
+        self.T('whole', 'h ə́w l', 'WHOEL')
+        self.T('hole',  'h ə́w l', 'HOEL')
+
+    def test_silent_b(self):
+        self.T('clime', 'k l ɑ́j m', 'KHRAOEUPL')
+        self.T('climb', 'k l ɑ́j m', 'KHRAOEUPL/-B')
+
+    def test_skip_other_silent_letters(self):
+        self.T('yacht', 'j ɔ́ t', 'KWRAUT')
+        self.T('mnemonic', 'n ɪ m ɔ́ n ɪ k', 'TPHEU/PHAUPB/-BG')
+        self.T('restaurant', 'r ɛ́ s t r ɔ n t', 'RES/TRAUPBT R*ES/RAUPBT')
+
+    def test_left_vowel_attracts_consonant(self):
+        self.T('follow', 'f ɔ́ l əw', 'TPAUL/OE')
+
+    def test_left_vowel_attracts_consonants(self):
+        self.T('intro', 'ɪ́ n t r əw', 'EUPB/TROE EUPBT/ROE')
+
+    def test_right_vowel_attracts_consonant(self):
+        self.T('machine', 'm ə ʃ ɪ́j n', 'PHU/SHAOEPB')
+
+    def test_right_vowel_attracts_consonants(self):
+        self.T('complete', 'k ə m p l ɪ́j t', 'KUPL/PHRAOET KUFPL/HRAOET')
+
+    def test_not_start_with_impossible_onset(self):
+        self.T('admit', 'ə d m ɪ́ t', 'UD/PHEUT') # not U/TKPHEUT
+
+    def test_initial_consonants_out_of_steno_order(self):
+        self.T('Gwen', 'g w ɛ́ n', 'TKPWU/WEPB')
+
+    def test_medial_consonants_out_of_steno_order(self):
+        self.T('language', 'l á ŋ g w ɪ dʒ', 'HRAPBG/W-PBLG') # not HRAPBG/TKPWU/W-PBLG
+
+    def test_final_consonants_out_of_steno_order(self):
+        self.T('help', 'h ɛ́ l p', 'HEL/-P')
 
     def test_omit_schwa(self):
         self.T('title', 't ɑ́j t ə l', 'TAOEUT/-L')
@@ -139,30 +163,6 @@ class TestGenerate(unittest.TestCase):
         self.T('tees',   't ɪ́j z',   'TAOE/-Z')
         self.T('freeze', 'f r ɪ́j z', 'TPRAOEZ')
         self.T('frees',  'f r ɪ́j z', 'TPRAOE/-Z')
-
-    def test_initial_consonants_out_of_steno_order(self):
-        self.T('Gwen', 'g w ɛ́ n', 'TKPWU/WEPB')
-
-    def test_medial_consonants_out_of_steno_order(self):
-        self.T('language', 'l á ŋ g w ɪ dʒ', 'HRAPBG/W-PBLG') # not HRAPBG/TKPWU/W-PBLG
-
-    def test_final_consonants_out_of_steno_order(self):
-        self.T('help', 'h ɛ́ l p', 'HEL/-P')
-
-    def test_left_vowel_attracts_consonant(self):
-        self.T('follow', 'f ɔ́ l əw', 'TPAUL/OE')
-
-    def test_left_vowel_attracts_consonants(self):
-        self.T('intro', 'ɪ́ n t r əw', 'EUPB/TROE EUPBT/ROE')
-
-    def test_right_vowel_attracts_consonant(self):
-        self.T('machine', 'm ə ʃ ɪ́j n', 'PHU/SHAOEPB')
-
-    def test_right_vowel_attracts_consonants(self):
-        self.T('complete', 'k ə m p l ɪ́j t', 'KUPL/PHRAOET KUFPL/HRAOET')
-
-    def test_not_start_with_impossible_onset(self):
-        self.T('admit', 'ə d m ɪ́ t', 'UD/PHEUT') # not U/TKPHEUT
 
 if __name__ == '__main__':
     unittest.main()
