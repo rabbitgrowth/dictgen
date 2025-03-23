@@ -15,11 +15,11 @@ class TestGenerate(unittest.TestCase):
         )
         self.assertEqual(result, expected)
 
-    def test_consonant_vowel_consonant(self):
+    def test_basic(self):
         self.T('cat', 'k á t', 'KAT')
         self.T('dog', 'd ɔ́ g', 'TKAUG')
 
-    def test_consonants_vowel_consonants(self):
+    def test_consonant_clusters(self):
         self.T('script', 's k r ɪ́ p t', 'SKREUPT')
 
     def test_shr(self):
