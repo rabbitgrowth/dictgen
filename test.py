@@ -40,15 +40,11 @@ class TestGenerate(unittest.TestCase):
     def test_orthographic_ight(self):
         self.T('rite',  'r ɑ́j t', 'RAOEUT')
         self.T('right', 'r ɑ́j t', 'ROEUGT')
-
-    def test_not_orthographic_ight_if_interrupted_by_break(self):
         self.T('hightail', 'h ɑ́j . t ɛj l', 'HAOEU/TAEUL') # not HOEUGT/AEUL
 
     def test_orthographic_ss(self):
         self.T('mass',    'm á s',     'PHAFS')
         self.T('massive', 'm á s ɪ v', 'PHAS/-FB')
-
-    def test_not_orthographic_ss_if_multistroke(self):
         self.T('witness', 'w ɪ́ t n ə s', 'WEUT/TPH-S')
 
     def test_silent_h(self):
