@@ -47,6 +47,15 @@ class TestGenerate(unittest.TestCase):
         self.T('massive', 'm á s ɪ v', 'PHAS/-FB')
         self.T('witness', 'w ɪ́ t n ə s', 'WEUT/TPH-S')
 
+    def test_nonrhotic_silent_r(self):
+        self.T('car', 'k ɑ́ː', 'KAR')
+        self.T('near', 'n ɪ́ː', 'TPHAOER')
+        self.T('work', 'w ə́ː k', 'WURBG')      # we analyze the /əː/ to belong to the <o>
+        self.T('better', 'b ɛ́ t ə', 'PWET/-R') # we analyze the /ə/  to belong to the <e>
+
+    def test_nonrhotic_r_pronounced_schwa(self):
+        self.T('hour', 'áw ə', 'HOUR')
+
     def test_silent_h(self):
         self.T('heir', 'ɛ́ː', 'HAEUR')
         self.T('air',  'ɛ́ː', 'AEUR')
