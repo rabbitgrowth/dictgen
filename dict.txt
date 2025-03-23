@@ -1752,7 +1752,7 @@ PWAUR/OE
 boss
 b o ss
 b ɔ́ s
-PWAUS
+PWAUFS
 
 both
 b o  th
@@ -2556,7 +2556,7 @@ KHRAEUPL
 class
 c l a  ss
 k l ɑ́ː s
-KHRAS
+KHRAFS
 
 classic
 c l a ss i c
@@ -3600,7 +3600,7 @@ KRAUP
 cross
 c r o ss
 k r ɔ́ s
-KRAUS
+KRAUFS
 
 crowd
 c r ow d
@@ -4624,7 +4624,7 @@ TKRAOEPL
 dress
 d r e ss
 d r ɛ́ s
-TKRES
+TKREFS
 
 dressed
 d r e ss e d
@@ -6694,7 +6694,7 @@ TKPWHRAD
 glass
 g l a  ss
 g l ɑ́ː s
-TKPWHRAS
+TKPWHRAFS
 
 global
 g l o  b a l
@@ -6818,7 +6818,7 @@ TKPWRAPBT
 grass
 g r a  ss
 g r ɑ́ː s
-TKPWRAS
+TKPWRAFS
 
 grateful
 g r a  t e f u l
@@ -6878,7 +6878,7 @@ TKPWARD
 guess
 g u e ss
 g   ɛ́ s
-TKPWES
+TKPWEFS
 
 guest
 g u e s t
@@ -8401,7 +8401,7 @@ KEUPBG
 kiss
 k i ss
 k ɪ́ s
-KEUS
+KEUFS
 
 kitchen
 k i tch e n
@@ -8681,7 +8681,7 @@ HREPG/-GT
 less
 l e ss
 l ɛ́ s
-HRES
+HREFS
 
 lesson
 l e ss o n
@@ -8910,7 +8910,7 @@ HRAOUZ
 loss
 l o ss
 l ɔ́ s
-HRAUS
+HRAUFS
 
 lost
 l o s t
@@ -9128,7 +9128,7 @@ PHAR/AE
 mass
 m a ss
 m á s
-PHAS
+PHAFS
 
 massive
 m a ss i v e
@@ -9299,7 +9299,7 @@ PHEPB/KWRAOU
 mess
 m e ss
 m ɛ́ s
-PHES
+PHEFS
 
 message
 m e ss a g  e
@@ -9421,7 +9421,7 @@ PHEUR/-R
 miss
 m i ss
 m ɪ́ s
-PHEUS
+PHEUFS
 
 missing
 m i ss i ng
@@ -10684,7 +10684,7 @@ PART/AE
 pass
 p a  ss
 p ɑ́ː s
-PAS
+PAFS
 
 passage
 p a ss a g  e
@@ -11500,7 +11500,7 @@ PREZ/UD/-PBT
 press
 p r e ss
 p r ɛ́ s
-PRES
+PREFS
 
 pressure
 p r e ss u r e
@@ -14420,7 +14420,7 @@ STREPG/-GT
 stress
 s t r e ss
 s t r ɛ́ s
-STRES
+STREFS
 
 stretch
 s t r e tch

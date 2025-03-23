@@ -170,6 +170,12 @@ RIGHT_RULES = [
         [Stroke('*S')],
     ),
     Rule(
+        [Sound('s', 'ss')],
+        [Stroke('-FS')],
+        lookahead = [BREAK, END],
+        outline = lambda outline: not outline,
+    ),
+    Rule(
         [Sound('', 'r')],
         [Stroke('-R')],
     ),
