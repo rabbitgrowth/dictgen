@@ -18,6 +18,7 @@ ability
 a b i l i t y
 ə b ɪ́ l ə t ɪj
 U/PWEUL/TAE
+U/PWEUL/AET
 U/PWEUL/-T/AE
 
 able
@@ -97,7 +98,9 @@ accompany
 a cc o m p a n y
 ə k  ʌ́ m p ə n ɪj
 U/KUFPL/TPHAE
+U/KUFPL/AEPB
 U/KUFPL/-PB/AE
+U/KUPL/PAEPB
 U/KUPL/PU/TPHAE
 U/KUPL/P-PB/AE
 
@@ -168,6 +171,7 @@ activity
 a c t i v i t y
 a k t ɪ́ v ə t ɪj
 ABG/TEUFB/TAE
+ABG/TEUFB/AET
 ABG/TEUFB/-T/AE
 
 actor
@@ -190,6 +194,7 @@ ABG/KHAOU/-L
 actually
 a c t  u a ll y
 á k tʃ   ə l  ɪj
+ABG/KHAEL
 ABG/KHU/HRAE
 ABG/KH-L/AE
 
@@ -382,6 +387,7 @@ AEUPBLG/UD
 agency
 a  g  e n c y
 ɛ́j dʒ ə n s ɪj
+AEUPBLG/AEPBS
 AEUPBLG/-PB/SAE
 AEUPBLG/-PBS/AE
 
@@ -654,9 +660,11 @@ anniversary
 a nn i v e  r s a r y
 á n  ɪ v ə́ː   s ə r ɪj
 APB/SRUR/SRAE
+APB/SRUR/SAER
 APB/SRUR/SU/RAE
 APB/SRUR/S-R/AE
 APB/SRURS/RAE
+APB/SRURS/AER
 APB/SRURS/-R/AE
 
 announce
@@ -1170,6 +1178,7 @@ authority
 au th o r i t y
 oː θ  ɔ́ r ə t ɪj
 AU/THAUR/TAE
+AU/THAUR/AET
 AU/THAUR/-T/AE
 
 autumn
@@ -1351,6 +1360,7 @@ battery
 b a tt e r y
 b á t  ə r ɪj
 PWAT/RAE
+PWAT/AER
 PWAT/-R/AE
 
 battle
@@ -1589,6 +1599,7 @@ biology
 b i  o l o g  y
 b ɑj ɔ́ l ə dʒ ɪj
 PWAOEU/AUL/SKWRAE
+PWAOEU/AUL/AEPBLG
 PWAOEU/AUL/-PBLG/AE
 
 bird
@@ -2117,8 +2128,10 @@ capacity
 c a p a c i t y
 k ə p á s ə t ɪj
 KPAS/TAE
+KPAS/AET
 KPAS/-T/AE
 KU/PAS/TAE
+KU/PAS/AET
 KU/PAS/-T/AE
 
 capital
@@ -2169,9 +2182,11 @@ carefully
 c a  r e f u ll y
 k ɛ́ː     f ə l  ɪj
 KAEUR/TPHRAE
+KAEUR/TPAEL
 KAEUR/TPU/HRAE
 KAEUR/TP-L/AE
 KAEUR/-F/HRAE
+KAEUR/-F/AEL
 KAEUR/-F/-L/AE
 
 careless
@@ -2236,9 +2251,11 @@ category
 c a t e g o r y
 k á t ɪ g ə r ɪj
 KAT/TKPWRAE
+KAT/TKPWAER
 KAT/TKPWU/RAE
 KAT/TKPW-R/AE
 KAT/UG/RAE
+KAT/UG/AER
 KAT/UG/-R/AE
 
 cause
@@ -2266,8 +2283,10 @@ SEL/-B/RAEUGZ
 celebrity
 c e l e b r i t y
 s ɪ l ɛ́ b r ə t ɪj
+SHREB/RAET
 SHREB/RU/TAE
 SHREB/R-T/AE
+SEU/HREB/RAET
 SEU/HREB/RU/TAE
 SEU/HREB/R-T/AE
 
@@ -2297,17 +2316,21 @@ century
 c e n t  u r y
 s ɛ́ n tʃ ə r ɪj
 SEPB/KHRAE
+SEPB/KHAER
 SEPB/KHU/RAE
 SEPB/KH-R/AE
 SEPB/-FP/RAE
+SEPB/-FP/AER
 SEPB/-FP/-R/AE
 
 ceremony
 c e r e m o n y
 s ɛ́ r ɪ m ə n ɪj
+SER/PHAEPB
 SER/PHU/TPHAE
 SER/PH-PB/AE
 SER/-PL/TPHAE
+SER/-PL/AEPB
 SER/-PL/-PB/AE
 
 certain
@@ -2395,6 +2418,7 @@ charity
 ch a r i t y
 tʃ á r ə t ɪj
 KHAR/TAE
+KHAR/AET
 KHAR/-T/AE
 
 chart
@@ -2877,17 +2901,22 @@ community
 c o mm   u  n i t y
 k ə m  j ʉ́w n ə t ɪj
 KPHAOUPB/TAE
+KPHAOUPB/AET
 KPHAOUPB/-T/AE
 KU/PHAOUPB/TAE
+KU/PHAOUPB/AET
 KU/PHAOUPB/-T/AE
 KUPL/KWRAOUPB/TAE
+KUPL/KWRAOUPB/AET
 KUPL/KWRAOUPB/-T/AE
 
 company
 c o m p a n y
 k ʌ́ m p ə n ɪj
 KUFPL/TPHAE
+KUFPL/AEPB
 KUFPL/-PB/AE
+KUPL/PAEPB
 KUPL/PU/TPHAE
 KUPL/P-PB/AE
 
@@ -3215,8 +3244,10 @@ KUPB/TAEUPB/-R
 contemporary
 c o n t e m p o r a r y
 k ə n t ɛ́ m p   r ə r ɪj
+KUPB/TEFPL/RAER
 KUPB/TEFPL/RU/RAE
 KUPB/TEFPL/R-R/AE
+KUPB/TEPL/PRAER
 KUPB/TEPL/PRU/RAE
 KUPB/TEPL/PR-R/AE
 
@@ -3665,6 +3696,7 @@ KURL/AE
 currency
 c u rr e n c y
 k ʌ́ r  ə n s ɪj
+KUR/AEPBS
 KUR/-PB/SAE
 KUR/-PBS/AE
 
@@ -3993,8 +4025,10 @@ delivery
 d e l i v e r y
 d ə l ɪ́ v ə r ɪj
 TKHREUFB/RAE
+TKHREUFB/AER
 TKHREUFB/-R/AE
 TKU/HREUFB/RAE
+TKU/HREUFB/AER
 TKU/HREUFB/-R/AE
 
 demand
@@ -4205,6 +4239,7 @@ diary
 d i  a r y
 d ɑ́j ə r ɪj
 TKAOEU/RAE
+TKAOEU/AER
 TKAOEU/-R/AE
 
 dictionary
@@ -4246,8 +4281,10 @@ TKEUF/-BG/-LT
 difficulty
 d i ff i c u l t y
 d ɪ́ f  ɪ k ə l t ɪj
+TKEUF/KAELT
 TKEUF/K-L/TAE
 TKEUF/K-LT/AE
+TKEUF/-BG/AELT
 TKEUF/-BG/-L/TAE
 TKEUF/-BG/-LT/AE
 
@@ -4368,8 +4405,10 @@ discovery
 d i s c o v e r y
 d ɪ s k ʌ́ v ə r ɪj
 TKEU/SKUFB/RAE
+TKEU/SKUFB/AER
 TKEU/SKUFB/-R/AE
 TKEUS/KUFB/RAE
+TKEUS/KUFB/AER
 TKEUS/KUFB/-R/AE
 
 discuss
@@ -4728,6 +4767,7 @@ easily
 ea s i l y
 ɪ́j z ɪ l ɪj
 AOEZ/HRAE
+AOEZ/AEL
 AOEZ/-L/AE
 
 east
@@ -4760,6 +4800,7 @@ economy
 e c o n o m y
 ɪ k ɔ́ n ə m ɪj
 EU/KAUPB/PHAE
+EU/KAUPB/AEPL
 EU/KAUPB/-PL/AE
 
 edge
@@ -4866,10 +4907,12 @@ elderly
 e l d e r l y
 ɛ́ l d ə   l ɪj
 EL/TKHRAE
+EL/TKAERL
 EL/TKU/HRAE
 EL/TK-R/HRAE
 EL/TK-RL/AE
 ELD/HRAE
+ELD/AERL
 ELD/-R/HRAE
 ELD/-RL/AE
 
@@ -4901,8 +4944,10 @@ electricity
 e l e c t r i c i t y
 ɪ l ɛ́ k t r ɪ́ s ə t ɪj
 EU/HREBG/TREUS/TAE
+EU/HREBG/TREUS/AET
 EU/HREBG/TREUS/-T/AE
 EU/HREBGT/REUS/TAE
+EU/HREBGT/REUS/AET
 EU/HREBGT/REUS/-T/AE
 
 electronic
@@ -4962,8 +5007,10 @@ EU/PHURPBLG
 emergency
 e m e  r g  e n c y
 ɪ m ə́ː   dʒ ə n s ɪj
+EU/PHUR/SKWRAEPBS
 EU/PHUR/SKWR-PB/SAE
 EU/PHUR/SKWR-PBS/AE
+EU/PHURPBLG/AEPBS
 EU/PHURPBLG/-PB/SAE
 EU/PHURPBLG/-PBS/AE
 
@@ -5055,12 +5102,14 @@ enemy
 e n e m y
 ɛ́ n ə m ɪj
 EPB/PHAE
+EPB/AEPL
 EPB/-PL/AE
 
 energy
 e n e r g  y
 ɛ́ n ə   dʒ ɪj
 EPB/SKWRAE
+EPB/AERPBLG
 EPB/-R/SKWRAE
 EPB/-RPBLG/AE
 
@@ -5171,6 +5220,7 @@ entirely
 e n t i  r e l y
 ɪ n t ɑ́j ə   l ɪj
 EUPB/TAOEU/HRAE
+EUPB/TAOEU/AERL
 EUPB/TAOEU/-R/HRAE
 EUPB/TAOEU/-RL/AE
 EUPB/TAOEUR/HRAE
@@ -5220,6 +5270,7 @@ equally
 e  q u a ll y
 ɪ́j k w ə l  ɪj
 AOEBG/WHRAE
+AOEBG/WAEL
 AOEBG/WU/HRAE
 AOEBG/W-L/AE
 
@@ -5244,8 +5295,10 @@ especially
 e s p e ci a ll y
 ɪ s p ɛ́ ʃ  ə l  ɪj
 EU/SPEGS/HRAE
+EU/SPEGS/AEL
 EU/SPEGS/-L/AE
 EUS/PEGS/HRAE
+EUS/PEGS/AEL
 EUS/PEGS/-L/AE
 
 essay
@@ -5328,8 +5381,10 @@ eventually
 e v e n t  u  a ll y
 ɪ v ɛ́ n tʃ ʉw ə l  ɪj
 EU/SREPB/KHAOU/HRAE
+EU/SREPB/KHAOU/AEL
 EU/SREPB/KHAOU/-L/AE
 EU/SREPB/-FP/AOU/HRAE
+EU/SREPB/-FP/AOU/AEL
 EU/SREPB/-FP/AOU/-L/AE
 
 ever
@@ -5699,6 +5754,7 @@ facility
 f a c i l i t y
 f ə s ɪ́ l ə t ɪj
 TPU/SEUL/TAE
+TPU/SEUL/AET
 TPU/SEUL/-T/AE
 
 fact
@@ -5716,9 +5772,11 @@ factory
 f a c t o r y
 f á k t ə r ɪj
 TPABG/TRAE
+TPABG/TAER
 TPABG/TU/RAE
 TPABG/T-R/AE
 TPABGT/RAE
+TPABGT/AER
 TPABGT/-R/AE
 
 fail
@@ -5885,8 +5943,10 @@ TPAOEFP/-R
 February
 F e b r   u a r y
 f ɛ́ b   j   ə r ɪj
+TPEB/KWRAER
 TPEB/KWRU/RAE
 TPEB/KWR-R/AE
+TPEB/-R/KWRAER
 TPEB/-R/KWRU/RAE
 TPEB/-R/KWR-R/AE
 
@@ -6010,6 +6070,7 @@ finally
 f i  n a ll y
 f ɑ́j n ə l  ɪj
 TPAOEUPB/HRAE
+TPAOEUPB/AEL
 TPAOEUPB/-L/AE
 
 finance
@@ -6366,6 +6427,7 @@ TPRAOEZ
 frequency
 f r e  q u e n c y
 f r ɪ́j k w ə n s ɪj
+TPRAOEBG/WAEPBS
 TPRAOEBG/W-PB/SAE
 TPRAOEBG/W-PBS/AE
 
@@ -6548,6 +6610,7 @@ gallery
 g a ll e r y
 g á l  ə r ɪj
 TKPWAL/RAE
+TKPWAL/AER
 TKPWAL/-R/AE
 
 game
@@ -6599,6 +6662,7 @@ SKWREPB/R-L
 generally
 g  e n e r a ll y
 dʒ ɛ́ n   r ə l  ɪj
+SKWREPB/RAEL
 SKWREPB/RU/HRAE
 SKWREPB/R-L/AE
 
@@ -6640,6 +6704,7 @@ SKWREPBT/-L/-PL/-PB
 geography
 g  e o g r a ph y
 dʒ   ɔ́ g r ə f  ɪj
+SKWRAUG/RAEF
 SKWRAUG/RU/TPAE
 SKWRAUG/R-F/AE
 
@@ -6763,6 +6828,7 @@ gradually
 g r a d  u  a ll y
 g r á dʒ ʉw ə l  ɪj
 TKPWRAPBLG/AOU/HRAE
+TKPWRAPBLG/AOU/AEL
 TKPWRAPBLG/AOU/-L/AE
 
 graduate
@@ -6954,6 +7020,7 @@ happily
 h a pp i l y
 h á p  ɪ l ɪj
 HAP/HRAE
+HAP/AEL
 HAP/-L/AE
 
 happiness
@@ -7073,6 +7140,7 @@ heavily
 h ea v i l y
 h ɛ́  v ɪ l ɪj
 HEFB/HRAE
+HEFB/AEL
 HEFB/-L/AE
 
 heavy
@@ -7481,9 +7549,11 @@ AOEU/TKEPBT/-F/AOEU
 identity
 i  d e n t i t y
 ɑj d ɛ́ n t ə t ɪj
+AOEU/TKEPB/TAET
 AOEU/TKEPB/TU/TAE
 AOEU/TKEPB/T-T/AE
 AOEU/TKEPBT/TAE
+AOEU/TKEPBT/AET
 AOEU/TKEPBT/-T/AE
 
 if
@@ -7540,9 +7610,11 @@ imaginary
 i m a g  i n a r y
 ɪ m á dʒ ɪ n ə r ɪj
 EU/PHAPBLG/TPHRAE
+EU/PHAPBLG/TPHAER
 EU/PHAPBLG/TPHU/RAE
 EU/PHAPBLG/TPH-R/AE
 EU/PHAPBLG/-PB/RAE
+EU/PHAPBLG/-PB/AER
 EU/PHAPBLG/-PB/-R/AE
 
 imagination
@@ -7847,6 +7919,7 @@ initially
 i n i ti a ll y
 ɪ n ɪ́ ʃ  ə l  ɪj
 EU/TPHEUGS/HRAE
+EU/TPHEUGS/AEL
 EU/TPHEUGS/-L/AE
 
 initiative
@@ -7871,7 +7944,9 @@ injury
 i n j  u r y
 ɪ́ n dʒ ə r ɪj
 EUFPG/RAE
+EUFPG/AER
 EUFPG/-R/AE
+EUPB/SKWRAER
 EUPB/SKWRU/RAE
 EUPB/SKWR-R/AE
 
@@ -8219,6 +8294,7 @@ SKWRAPL
 January
 J  a n   u a r y
 dʒ á n j   ə r ɪj
+SKWRAPB/KWRAER
 SKWRAPB/KWRU/RAE
 SKWRAPB/KWR-R/AE
 
@@ -8697,6 +8773,7 @@ HREFB/-L
 library
 l i  b r a r y
 l ɑ́j b r ə r ɪj
+HRAOEUB/RAER
 HRAOEUB/RU/RAE
 HRAOEUB/R-R/AE
 
@@ -8972,6 +9049,7 @@ HRUPBG
 luxury
 l u x - u r y
 l ʌ́ k ʃ ə r ɪj
+HRUBG/SHAER
 HRUBG/SHU/RAE
 HRUBG/SH-R/AE
 
@@ -9024,6 +9102,7 @@ majority
 m a j  o r i t y
 m ə dʒ ɔ́ r ə t ɪj
 PHU/SKWRAUR/TAE
+PHU/SKWRAUR/AET
 PHU/SKWRAUR/-T/AE
 
 make
@@ -9391,6 +9470,7 @@ minority
 m i  n o r i t y
 m ɑj n ɔ́ r ə t ɪj
 PHAOEU/TPHAUR/TAE
+PHAOEU/TPHAUR/AET
 PHAOEU/TPHAUR/-T/AE
 
 minute
@@ -9735,6 +9815,7 @@ TPHAFP/R-L
 naturally
 n a t  u r a ll y
 n á tʃ   r ə l  ɪj
+TPHAFP/RAEL
 TPHAFP/RU/HRAE
 TPHAFP/R-L/AE
 
@@ -9763,6 +9844,7 @@ necessarily
 n e c e ss a r i l y
 n ɛ́ s ə s  ɛ́ r ɪ l ɪj
 TPHES/SER/HRAE
+TPHES/SER/AEL
 TPHES/SER/-L/AE
 
 necessary
@@ -9940,9 +10022,11 @@ TPHAURPL/-L
 normally
 n o  r m a ll y
 n óː   m ə l  ɪj
+TPHAUR/PHAEL
 TPHAUR/PHU/HRAE
 TPHAUR/PH-L/AE
 TPHAURPL/HRAE
+TPHAURPL/AEL
 TPHAURPL/-L/AE
 
 north
@@ -10259,8 +10343,10 @@ opportunity
 o pp o r t  u  n i t y
 ɔ́ p  ə   tʃ ʉ́w n ə t ɪj
 AUP/KHAOUPB/TAE
+AUP/KHAOUPB/AET
 AUP/KHAOUPB/-T/AE
 AUP/-R/KHAOUPB/TAE
+AUP/-R/KHAOUPB/AET
 AUP/-R/KHAOUPB/-T/AE
 
 oppose
@@ -10373,9 +10459,11 @@ U/REUPBLG/-PB/-L
 originally
 o r i g  i n a ll y
 ə r ɪ́ dʒ ə n ə l  ɪj
+U/REUPBLG/TPHAEL
 U/REUPBLG/TPHU/HRAE
 U/REUPBLG/TPH-L/AE
 U/REUPBLG/-PB/HRAE
+U/REUPBLG/-PB/AEL
 U/REUPBLG/-PB/-L/AE
 
 other
@@ -10635,21 +10723,27 @@ PUR/TEUBG/HR-R
 particularly
 p a r t i c   u l a r l y
 p ə   t ɪ́ k j ə l ə   l ɪj
+PU/TEUBG/KWRU/HRAERL
 PU/TEUBG/KWRU/HRU/HRAE
 PU/TEUBG/KWRU/HR-R/HRAE
 PU/TEUBG/KWRU/HR-RL/AE
 PU/TEUBG/KWR-L/HRAE
+PU/TEUBG/KWR-L/AERL
 PU/TEUBG/KWR-L/-R/HRAE
 PU/TEUBG/KWR-L/-RL/AE
+PU/TEUBG/HRAERL
 PU/TEUBG/HRU/HRAE
 PU/TEUBG/HR-R/HRAE
 PU/TEUBG/HR-RL/AE
+PUR/TEUBG/KWRU/HRAERL
 PUR/TEUBG/KWRU/HRU/HRAE
 PUR/TEUBG/KWRU/HR-R/HRAE
 PUR/TEUBG/KWRU/HR-RL/AE
 PUR/TEUBG/KWR-L/HRAE
+PUR/TEUBG/KWR-L/AERL
 PUR/TEUBG/KWR-L/-R/HRAE
 PUR/TEUBG/KWR-L/-RL/AE
+PUR/TEUBG/HRAERL
 PUR/TEUBG/HRU/HRAE
 PUR/TEUBG/HR-R/HRAE
 PUR/TEUBG/HR-RL/AE
@@ -10875,24 +10969,32 @@ personality
 p e  r s o n a l i t y
 p ə́ː   s ə n á l ə t ɪj
 PUR/STPHAL/TAE
+PUR/STPHAL/AET
 PUR/STPHAL/-T/AE
 PUR/SU/TPHAL/TAE
+PUR/SU/TPHAL/AET
 PUR/SU/TPHAL/-T/AE
 PURS/TPHAL/TAE
+PURS/TPHAL/AET
 PURS/TPHAL/-T/AE
 
 personally
 p e  r s o n a ll y
 p ə́ː   s ə n ə l  ɪj
+PUR/STPHAEL
 PUR/STPHU/HRAE
 PUR/STPH-L/AE
+PUR/SU/TPHAEL
 PUR/SU/TPHU/HRAE
 PUR/SU/TPH-L/AE
 PUR/S-PB/HRAE
+PUR/S-PB/AEL
 PUR/S-PB/-L/AE
+PURS/TPHAEL
 PURS/TPHU/HRAE
 PURS/TPH-L/AE
 PURS/-PB/HRAE
+PURS/-PB/AEL
 PURS/-PB/-L/AE
 
 perspective
@@ -10937,8 +11039,10 @@ philosophy
 ph i l o s o ph y
 f  ɪ l ɔ́ s ə f  ɪj
 TPHRAUS/TPAE
+TPHRAUS/AEF
 TPHRAUS/-F/AE
 TPEU/HRAUS/TPAE
+TPEU/HRAUS/AEF
 TPEU/HRAUS/-F/AE
 
 phone
@@ -10966,6 +11070,7 @@ TPU/TAUG/R-F/-R
 photography
 ph o t o g r a ph y
 f  ə t ɔ́ g r ə f  ɪj
+TPU/TAUG/RAEF
 TPU/TAUG/RU/TPAE
 TPU/TAUG/R-F/AE
 
@@ -11200,6 +11305,7 @@ policy
 p o l i c y
 p ɔ́ l ə s ɪj
 PAUL/SAE
+PAUL/AES
 PAUL/-S/AE
 
 polite
@@ -11259,8 +11365,10 @@ popularity
 p o p   u l a r i t y
 p ɔ́ p j ə l á r ə t ɪj
 PAUP/KWRU/HRAR/TAE
+PAUP/KWRU/HRAR/AET
 PAUP/KWRU/HRAR/-T/AE
 PAUP/HRAR/TAE
+PAUP/HRAR/AET
 PAUP/HRAR/-T/AE
 
 population
@@ -11310,6 +11418,7 @@ possibility
 p o ss i b i l i t y
 p ɔ́ s  ə b ɪ́ l ə t ɪj
 PAUS/PWEUL/TAE
+PAUS/PWEUL/AET
 PAUS/PWEUL/-T/AE
 
 possible
@@ -11364,6 +11473,7 @@ poverty
 p o v e r t y
 p ɔ́ v ə   t ɪj
 PAUFB/TAE
+PAUFB/AERT
 PAUFB/-R/TAE
 PAUFB/-RT/AE
 
@@ -11536,6 +11646,7 @@ primary
 p r i  m a r y
 p r ɑ́j m ə r ɪj
 PRAOEUPL/RAE
+PRAOEUPL/AER
 PRAOEUPL/-R/AE
 
 prime
@@ -11584,6 +11695,7 @@ priority
 p r i  o r i t y
 p r ɑj ɔ́ r ə t ɪj
 PRAOEU/AUR/TAE
+PRAOEU/AUR/AET
 PRAOEU/AUR/-T/AE
 
 prison
@@ -11601,6 +11713,7 @@ privacy
 p r i v a c y
 p r ɪ́ v ə s ɪj
 PREUFB/SAE
+PREUFB/AES
 PREUFB/-S/AE
 
 private
@@ -11749,6 +11862,7 @@ properly
 p r o p e r l y
 p r ɔ́ p ə   l ɪj
 PRAUP/HRAE
+PRAUP/AERL
 PRAUP/-R/HRAE
 PRAUP/-RL/AE
 
@@ -11756,6 +11870,7 @@ property
 p r o p e r t y
 p r ɔ́ p ə   t ɪj
 PRAUP/TAE
+PRAUP/AERT
 PRAUP/-R/TAE
 PRAUP/-RT/AE
 
@@ -11826,6 +11941,7 @@ psychology
 p s y  ch o l o g  y
   s ɑj k  ɔ́ l ə dʒ ɪj
 SAOEU/KAUL/SKWRAE
+SAOEU/KAUL/AEPBLG
 SAOEU/KAUL/-PBLG/AE
 
 pub
@@ -11935,14 +12051,17 @@ quality
 q u a l i t y
 k w ɔ́ l ə t ɪj
 KWAUL/TAE
+KWAUL/AET
 KWAUL/-T/AE
 
 quantity
 q u a n t i t y
 k w ɔ́ n t ə t ɪj
+KWAUPB/TAET
 KWAUPB/TU/TAE
 KWAUPB/T-T/AE
 KWAUPBT/TAE
+KWAUPBT/AET
 KWAUPBT/-T/AE
 
 quarter
@@ -12138,6 +12257,7 @@ reality
 r e  a l i t y
 r ɪj á l ə t ɪj
 RAOE/AL/TAE
+RAOE/AL/AET
 RAOE/AL/-T/AE
 
 realize
@@ -12196,6 +12316,7 @@ recipe
 r e c i p e
 r ɛ́ s ə p ɪj
 RES/PAE
+RES/AEP
 RES/-P/AE
 
 recognize
@@ -12322,12 +12443,15 @@ REG/HR-R
 regularly
 r e g   u l a r l y
 r ɛ́ g j ə l ə   l ɪj
+REG/KWRU/HRAERL
 REG/KWRU/HRU/HRAE
 REG/KWRU/HR-R/HRAE
 REG/KWRU/HR-RL/AE
 REG/KWR-L/HRAE
+REG/KWR-L/AERL
 REG/KWR-L/-R/HRAE
 REG/KWR-L/-RL/AE
+REG/HRAERL
 REG/HRU/HRAE
 REG/HR-R/HRAE
 REG/HR-RL/AE
@@ -12629,16 +12753,22 @@ responsibility
 r e s p o n s i b i l i t y
 r ɪ s p ɔ́ n s ə b ɪ́ l ə t ɪj
 REU/SPAUPB/SPWEUL/TAE
+REU/SPAUPB/SPWEUL/AET
 REU/SPAUPB/SPWEUL/-T/AE
 REU/SPAUPB/SU/PWEUL/TAE
+REU/SPAUPB/SU/PWEUL/AET
 REU/SPAUPB/SU/PWEUL/-T/AE
 REU/SPAUPBS/PWEUL/TAE
+REU/SPAUPBS/PWEUL/AET
 REU/SPAUPBS/PWEUL/-T/AE
 REUS/PAUPB/SPWEUL/TAE
+REUS/PAUPB/SPWEUL/AET
 REUS/PAUPB/SPWEUL/-T/AE
 REUS/PAUPB/SU/PWEUL/TAE
+REUS/PAUPB/SU/PWEUL/AET
 REUS/PAUPB/SU/PWEUL/-T/AE
 REUS/PAUPBS/PWEUL/TAE
+REUS/PAUPBS/PWEUL/AET
 REUS/PAUPBS/PWEUL/-T/AE
 
 responsible
@@ -12953,6 +13083,7 @@ salary
 s a l a r y
 s á l ə r ɪj
 SAL/RAE
+SAL/AER
 SAL/-R/AE
 
 sale
@@ -13187,10 +13318,13 @@ security
 s e c   u  r i t y
 s ɪ k j ɵ́ː r ə t ɪj
 SKAOUR/TAE
+SKAOUR/AET
 SKAOUR/-T/AE
 SEU/KAOUR/TAE
+SEU/KAOUR/AET
 SEU/KAOUR/-T/AE
 SEUBG/KWRAOUR/TAE
+SEUBG/KWRAOUR/AET
 SEUBG/KWRAOUR/-T/AE
 
 see
@@ -13361,6 +13495,7 @@ SEFB/-PB/TAOEPB
 seventy
 s e v e n t y
 s ɛ́ v ə n t ɪj
+SEFB/AEPBT
 SEFB/-PB/TAE
 SEFB/-PBT/AE
 
@@ -13649,15 +13784,18 @@ similarity
 s i m i l a r i t y
 s ɪ́ m ə l á r ə t ɪj
 SEUPL/HRAR/TAE
+SEUPL/HRAR/AET
 SEUPL/HRAR/-T/AE
 
 similarly
 s i m i l a r l y
 s ɪ́ m ə l ə   l ɪj
+SEUPL/HRAERL
 SEUPL/HRU/HRAE
 SEUPL/HR-R/HRAE
 SEUPL/HR-RL/AE
 SEUPL/-L/HRAE
+SEUPL/-L/AERL
 SEUPL/-L/-R/HRAE
 SEUPL/-L/-RL/AE
 
@@ -13908,6 +14046,7 @@ society
 s o c i  e t y
 s ə s ɑ́j ə t ɪj
 SU/SAOEU/TAE
+SU/SAOEU/AET
 SU/SAOEU/-T/AE
 
 sock
@@ -13971,6 +14110,7 @@ SUPL
 somebody
 s o m e b o d y
 s ʌ́ m   b ə d ɪj
+SUPL/PWAED
 SUPL/PWU/TKAE
 SUPL/PW-D/AE
 
@@ -14389,6 +14529,7 @@ strategy
 s t r a t e g  y
 s t r á t ə dʒ ɪj
 STRAT/SKWRAE
+STRAT/AEPBLG
 STRAT/-PBLG/AE
 
 stream
@@ -14520,6 +14661,7 @@ successfully
 s u c c e ss f u ll y
 s ə k s ɛ́ s  f ə l  ɪj
 SUBG/SES/TPHRAE
+SUBG/SES/TPAEL
 SUBG/SES/TPU/HRAE
 SUBG/SES/TP-L/AE
 
@@ -14584,6 +14726,7 @@ summary
 s u mm a r y
 s ʌ́ m  ə r ɪj
 SUPL/RAE
+SUPL/AER
 SUPL/-R/AE
 
 summer
@@ -14662,9 +14805,11 @@ SUR/-F/-S
 surgery
 s u  r g  e r y
 s ə́ː   dʒ ə r ɪj
+SUR/SKWRAER
 SUR/SKWRU/RAE
 SUR/SKWR-R/AE
 SURPBLG/RAE
+SURPBLG/AER
 SURPBLG/-R/AE
 
 surprise
@@ -14779,7 +14924,9 @@ sympathy
 s y m p a th y
 s ɪ́ m p ə θ  ɪj
 SEUFPL/THAE
+SEUFPL/AEGT
 SEUFPL/-GT/AE
+SEUPL/PAEGT
 SEUPL/PU/THAE
 SEUPL/P-GT/AE
 
@@ -14928,6 +15075,7 @@ technology
 t e ch n o l o g  y
 t ɛ k  n ɔ́ l ə dʒ ɪj
 TEBG/TPHAUL/SKWRAE
+TEBG/TPHAUL/AEPBLG
 TEBG/TPHAUL/-PBLG/AE
 
 teenage
@@ -14967,8 +15115,10 @@ TEPL/PR-FP/-R
 temporary
 t e m p o r a r y
 t ɛ́ m p   r ə r ɪj
+TEFPL/RAER
 TEFPL/RU/RAE
 TEFPL/R-R/AE
+TEPL/PRAER
 TEPL/PRU/RAE
 TEPL/PR-R/AE
 
@@ -15098,12 +15248,14 @@ theory
 th e  o r y
 θ  ɪ́j ə r ɪj
 THAOE/RAE
+THAOE/AER
 THAOE/-R/AE
 
 therapy
 th e r a p y
 θ  ɛ́ r ə p ɪj
 THER/PAE
+THER/AEP
 THER/-P/AE
 
 there
@@ -15397,6 +15549,7 @@ totally
 t o  t a ll y
 t ə́w t ə l  ɪj
 TOET/HRAE
+TOET/AEL
 TOET/-L/AE
 
 touch
@@ -15874,9 +16027,11 @@ university
   u  n i v e  r s i t y
 j ʉ́w n ɪ v ə́ː   s ə t ɪj
 KWRAOUPB/SRUR/STAE
+KWRAOUPB/SRUR/SAET
 KWRAOUPB/SRUR/SU/TAE
 KWRAOUPB/SRUR/S-T/AE
 KWRAOUPB/SRURS/TAE
+KWRAOUPB/SRURS/AET
 KWRAOUPB/SRURS/-T/AE
 
 unknown
@@ -16059,6 +16214,7 @@ variety
 v a r i  e t y
 v ə r ɑ́j ə t ɪj
 SRU/RAOEU/TAE
+SRU/RAOEU/AET
 SRU/RAOEU/-T/AE
 
 various
@@ -16118,9 +16274,11 @@ victory
 v i c t o r y
 v ɪ́ k t ə r ɪj
 SREUBG/TRAE
+SREUBG/TAER
 SREUBG/TU/RAE
 SREUBG/T-R/AE
 SREUBGT/RAE
+SREUBGT/AER
 SREUBGT/-R/AE
 
 video
