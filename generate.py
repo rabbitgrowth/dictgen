@@ -52,7 +52,7 @@ def group_by_type(sounds):
     return consonant_clusters, vowels
 
 def split(sounds):
-    return [(sounds[:i], sounds[i:]) for i in range(len(sounds)+1)]
+    return [(sounds[:i], sounds[i:]) for i in range(len(sounds) + 1)]
 
 def to_string(sounds):
     return ''.join(sound.ipa for sound in sounds)
@@ -96,9 +96,9 @@ def stackable(a, b):
 def gen(sounds, pos=0, right=False, stroke=Stroke(''), outline=[]):
     sound = sounds[pos]
     if sound == START:
-        yield from gen(sounds, pos+1, right, stroke, outline)
+        yield from gen(sounds, pos + 1, right, stroke, outline)
     elif sound == BREAK:
-        yield from gen(sounds, pos+1, False, Stroke(''), outline+[stroke])
+        yield from gen(sounds, pos + 1, False, Stroke(''), outline + [stroke])
     elif sound == END:
         yield tuple(outline)
         return
