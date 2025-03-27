@@ -54,7 +54,7 @@ class TestGenerate(unittest.TestCase):
         self.T('better', 'b ɛ́ t ə', 'PWET/-R') # we analyze the /ə/  to belong to the <e>
 
     def test_nonrhotic_r_pronounced_schwa(self):
-        self.T('hour', 'áw ə', 'HOUR')
+        self.T('hour', 'áw ə', 'HOUR HOU/-R')
 
     def test_silent_h(self):
         self.T('heir', 'ɛ́ː', 'HAEUR')
