@@ -142,22 +142,26 @@ class TestGenerate(unittest.TestCase):
 
     def test_fold_inflectional_s(self):
         self.T('plans', 'p l á n z', 'PHRAPBZ')
-        self.T('terms', 't ə́ː m z',  'TURPLZ')
+        self.T('times', 't ɑ́j m z', 'TAOEUPLZ')
 
     def test_come_back_for_inflectional_s(self):
-        self.T('bags',  'b á  g z', 'PWAG/-Z')
-        self.T('backs', 'b á  k s', 'PWABG/-Z')
-        self.T('barks', 'b ɑ́ː k s', 'PWARBG/-Z')
+        self.T('sees', 's ɪ́j z', 'SAOE/-Z')
+        self.T('legs', 'l ɛ́ g z', 'HREG/-Z')
+        self.T('takes', 't ɛ́j k s', 'TAEUBG/-Z')
+        self.T('works', 'w ə́ː k s', 'WURBG/-Z')
 
     def test_write_z_for_inflectional_s_pronounced_s(self):
         self.T('tips', 't ɪ́ p s', 'TEUPZ')
+        self.T('chefs', 'ʃ ɛ́ f s', 'SHEFZ')
 
     def test_write_s_for_inflectional_s_preceded_by_t(self):
         self.T('gets', 'g ɛ́ t s', 'TKPWETS')
+        self.T('points', 'p ój n t s', 'POEUPBTS')
 
     def test_write_noninflectional_s_normally(self):
         self.T('yes', 'j ɛ́ s', 'KWRES')
         self.T('has', 'h á z', 'HAZ')
+        self.T('was', 'w ə z', 'WUZ')
 
     def test_detect_whether_s_is_inflectional_based_on_spelling(self):
         self.T('lapse',  'l á p s',  'HRAPS')
