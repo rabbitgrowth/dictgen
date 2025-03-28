@@ -53,8 +53,11 @@ class Rule:
 NON_RIGHT_CHORDS = LEFT_CHORDS | MID_CHORDS
 
 UNSTRESSED_SCHWA = Sound({'ə', 'ɪ', 'ʌ'}, stressed=False)
-INFLECTIONAL_S   = Sound({'s', 'z'}, {'s', 'es'})
-SHORT_VOWEL      = Sound({'ɪ', 'ɛ', 'a', 'ʌ', 'ɔ', 'ɵ', 'ə'})
+
+DIPHTHONG_OR_LONG_VOWEL = Sound({
+    'ɪj', 'ɛj', 'ɑj', 'əw', 'oj', 'ʉw', 'aw',
+    'ɪː', 'ɛː', 'ɑː', 'əː', 'oː', 'ɵː',
+})
 
 NON_RIGHT_OPTIONAL_RULES = [
     Rule(
@@ -195,24 +198,29 @@ RIGHT_RULES = [
         [],
     ),
     Rule(
-        [INFLECTIONAL_S],
+        [Sound('z', 's')],
         [Stroke(''), Stroke('-Z')],
         lookahead = [BREAK, END],
-        negative_lookbehind = [SHORT_VOWEL],
-        stroke = lambda stroke: not stroke & RIGHT_BANK,
+        lookbehind = [Sound('ə')],
+        outline = lambda outline: outline,
     ),
     Rule(
-        [INFLECTIONAL_S],
+        [Sound('z', 's')],
+        [Stroke(''), Stroke('-Z')],
+        lookahead = [BREAK, END],
+        lookbehind = [DIPHTHONG_OR_LONG_VOWEL],
+    ),
+    Rule(
+        [Sound({'s', 'z'}, 's')],
         [Stroke(''), Stroke('-Z')],
         lookahead = [BREAK, END],
         stroke = lambda stroke: stroke and stroke.last() == '-G',
     ),
     Rule(
-        [INFLECTIONAL_S],
+        [Sound({'s', 'z'}, 's')],
         [Stroke('-Z')],
         lookahead = [BREAK, END],
-        negative_lookbehind = [SHORT_VOWEL],
-        stroke = lambda stroke: stroke and stroke.last() != '-T',
+        stroke = lambda stroke: stroke & RIGHT_BANK and stroke.last() != '-T',
     ),
 ]
 
