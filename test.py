@@ -131,8 +131,7 @@ class TestGenerate(unittest.TestCase):
         self.T('rapids', 'r á p ɪ d z', 'RAP/-DZ')
 
     def test_not_omit_schwa_when_right_bank_empty(self):
-        self.T('conference', 'k ɔ́ n f ə r ə n s',
-               'KAUPB/TPU/R-PBS KAUPB/TPR-PBS KAUPB/TP-R/-PBS') # not KAUPB/TP/R-PBS
+        self.T('atmosphere', 'á t m ə s f ɪː', 'AT/PHU/STPAOER AT/PH-S/TPAOER')
 
     def test_omit_j(self):
         self.T('new',    'n j ʉ́w',      'TPHAOU')
