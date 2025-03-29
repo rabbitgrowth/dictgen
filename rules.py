@@ -189,6 +189,10 @@ RIGHT_RULES = [
         [Stroke('-PG')],
     ),
     Rule(
+        [Sound('b'), BREAK, Sound('ə'), Sound('l')],
+        [Stroke('-BL')],
+    ),
+    Rule(
         [Sound('k'), BREAK, Sound('ʃ'), Sound('ə'), Sound('n')],
         [Stroke('-BGZ')],
     ),

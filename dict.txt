@@ -24,7 +24,7 @@ U/PWEUL/-T/AE
 able
 a  b   l e
 ɛ́j b ə l
-AEUB/-L
+AEUBL
 
 about
 a b ou t
@@ -70,9 +70,9 @@ a c c e p t a b   l e
 ə k s ɛ́ p t ə b ə l
 UBG/SEP/TPW-L
 UBG/SEP/TU/PW-L
-UBG/SEP/T-B/-L
+UBG/SEP/T-BL
 UBG/SEPT/PW-L
-UBG/SEPT/-B/-L
+UBG/SEPT/-BL
 
 access
 a c c e ss
@@ -1190,7 +1190,7 @@ available
 a v ai l a b   l e
 ə v ɛ́j l ə b ə l
 U/SRAEUL/PW-L
-U/SRAEUL/-B/-L
+U/SRAEUL/-BL
 
 average
 a v e r a g  e
@@ -1922,7 +1922,7 @@ PWRUGS
 bubble
 b u bb   l e
 b ʌ́ b  ə l
-PWUB/-L
+PWUBL
 
 budget
 b u dg e t
@@ -2024,7 +2024,7 @@ PWAOEU
 cable
 c a  b   l e
 k ɛ́j b ə l
-KAEUB/-L
+KAEUBL
 
 cake
 c a  k e
@@ -2122,7 +2122,7 @@ capable
 c a  p a b   l e
 k ɛ́j p ə b ə l
 KAEUP/PW-L
-KAEUP/-B/-L
+KAEUP/-BL
 
 capacity
 c a p a c i t y
@@ -2822,10 +2822,10 @@ c o m f o r t a b   l e
 k ʌ́ m f     t ə b ə l
 KUPL/-F/TPW-L
 KUPL/-F/TU/PW-L
-KUPL/-F/T-B/-L
+KUPL/-F/T-BL
 KUPL/-FR/TPW-L
 KUPL/-FR/TU/PW-L
-KUPL/-FR/T-B/-L
+KUPL/-FR/T-BL
 
 command
 c o mm a  n d
@@ -4584,7 +4584,7 @@ TKAUR
 double
 d ou b   l e
 d ʌ́  b ə l
-TKUB/-L
+TKUBL
 
 doubt
 d ou b t
@@ -5074,7 +5074,7 @@ EFPLT/AE
 enable
 e n a  b   l e
 ɪ n ɛ́j b ə l
-EU/TPHAEUB/-L
+EU/TPHAEUBL
 
 encounter
 e n c ou n t e r
@@ -5888,7 +5888,7 @@ fashionable
 f a shi o n a b   l e
 f á ʃ     n ə b ə l
 TPAGS/TPHU/PW-L
-TPAGS/TPH-B/-L
+TPAGS/TPH-BL
 
 fast
 f a  s t
@@ -6191,9 +6191,9 @@ f l e x - i b   l e
 f l ɛ́ k s ə b ə l
 TPHREBG/SPW-L
 TPHREBG/SU/PW-L
-TPHREBG/S-B/-L
+TPHREBG/S-BL
 TPHREBGS/PW-L
-TPHREBGS/-B/-L
+TPHREBGS/-BL
 
 flight
 f l i  gh t
@@ -6757,7 +6757,7 @@ TKPWHRAFS
 global
 g l o  b a l
 g l ə́w b ə l
-TKPWHROEB/-L
+TKPWHROEBL
 
 glove
 g l o v e
@@ -7382,7 +7382,7 @@ horrible
 h o rr i b   l e
 h ɔ́ r  ə b ə l
 HAUR/PW-L
-HAUR/-B/-L
+HAUR/-BL
 
 horror
 h o rr o r
@@ -7697,7 +7697,7 @@ impossible
 i m p o ss i b   l e
 ɪ m p ɔ́ s  ə b ə l
 EUPL/PAUS/PW-L
-EUPL/PAUS/-B/-L
+EUPL/PAUS/-BL
 
 impress
 i m p r e ss
@@ -7806,7 +7806,7 @@ incredible
 i n c r e d i b   l e
 ɪ n k r ɛ́ d ə b ə l
 EUPB/KRED/PW-L
-EUPB/KRED/-B/-L
+EUPB/KRED/-BL
 
 incredibly
 i n c r e d i b l y
@@ -8508,7 +8508,7 @@ HRAB
 label
 l a  b e l
 l ɛ́j b ə l
-HRAEUB/-L
+HRAEUBL
 
 laboratory
 l a b o r a t o r y
@@ -11425,7 +11425,7 @@ possible
 p o ss i b   l e
 p ɔ́ s  ə b ə l
 PAUS/PW-L
-PAUS/-B/-L
+PAUS/-BL
 
 possibly
 p o ss i b l y
@@ -12280,7 +12280,7 @@ reasonable
 r ea s o n a b   l e
 r ɪ́j z   n ə b ə l
 RAOEZ/TPHU/PW-L
-RAOEZ/TPH-B/-L
+RAOEZ/TPH-BL
 
 recall
 r e c a  ll
@@ -12535,7 +12535,7 @@ reliable
 r e l i  a b   l e
 r ɪ l ɑ́j ə b ə l
 REU/HRAOEU/PW-L
-REU/HRAOEU/-B/-L
+REU/HRAOEU/-BL
 
 relief
 r e l ie f
@@ -12776,14 +12776,14 @@ r e s p o n s i b   l e
 r ɪ s p ɔ́ n s ə b ə l
 REU/SPAUPB/SPW-L
 REU/SPAUPB/SU/PW-L
-REU/SPAUPB/S-B/-L
+REU/SPAUPB/S-BL
 REU/SPAUPBS/PW-L
-REU/SPAUPBS/-B/-L
+REU/SPAUPBS/-BL
 REUS/PAUPB/SPW-L
 REUS/PAUPB/SU/PW-L
-REUS/PAUPB/S-B/-L
+REUS/PAUPB/S-BL
 REUS/PAUPBS/PW-L
-REUS/PAUPBS/-B/-L
+REUS/PAUPBS/-BL
 
 rest
 r e s t
@@ -13389,9 +13389,9 @@ s e n s i b   l e
 s ɛ́ n s ə b ə l
 SEPB/SPW-L
 SEPB/SU/PW-L
-SEPB/S-B/-L
+SEPB/S-BL
 SEPBS/PW-L
-SEPBS/-B/-L
+SEPBS/-BL
 
 sensitive
 s e n s i t i v e
@@ -14339,7 +14339,7 @@ SKWAEUR
 stable
 s t a  b   l e
 s t ɛ́j b ə l
-STAEUB/-L
+STAEUBL
 
 stadium
 s t a  d i  u m
@@ -14709,7 +14709,7 @@ suitable
 s ui t a b   l e
 s ʉ́w t ə b ə l
 SAOUT/PW-L
-SAOUT/-B/-L
+SAOUT/-BL
 
 sum
 s u m
@@ -14945,7 +14945,7 @@ SEUS/T-PL
 table
 t a  b   l e
 t ɛ́j b ə l
-TAEUB/-L
+TAEUBL
 
 tablet
 t a b l e t
@@ -15151,7 +15151,7 @@ terrible
 t e rr i b   l e
 t ɛ́ r  ə b ə l
 TER/PW-L
-TER/-B/-L
+TER/-BL
 
 test
 t e s t
@@ -15744,7 +15744,7 @@ TRAUP/-BG/-L
 trouble
 t r ou b   l e
 t r ʌ́  b ə l
-TRUB/-L
+TRUBL
 
 trousers
 t r ou s e r s
@@ -15878,8 +15878,8 @@ UPL/PWREL/AU
 unable
 u n a  b   l e
 ʌ́ n ɛ́j b ə l
-U/TPHAEUB/-L
-UPB/AEUB/-L
+U/TPHAEUBL
+UPB/AEUBL
 
 uncle
 u n c   l e
@@ -15892,10 +15892,10 @@ u n c o m f o r t a b   l e
 ʌ́ n k ʌ́ m f     t ə b ə l
 UPB/KUPL/-F/TPW-L
 UPB/KUPL/-F/TU/PW-L
-UPB/KUPL/-F/T-B/-L
+UPB/KUPL/-F/T-BL
 UPB/KUPL/-FR/TPW-L
 UPB/KUPL/-FR/TU/PW-L
-UPB/KUPL/-FR/T-B/-L
+UPB/KUPL/-FR/T-BL
 
 unconscious
 u n c o n sci ou s
@@ -16198,7 +16198,7 @@ valuable
 v a l   u a b   l e
 v á l j   ə b ə l
 SRAL/KWRU/PW-L
-SRAL/KWR-B/-L
+SRAL/KWR-BL
 
 value
 v a l   ue
@@ -16237,7 +16237,7 @@ v e g  e t a b   l e
 v ɛ́ dʒ   t ə b ə l
 SREPBLG/TPW-L
 SREPBLG/TU/PW-L
-SREPBLG/T-B/-L
+SREPBLG/T-BL
 
 vehicle
 v e  h i c   l e
