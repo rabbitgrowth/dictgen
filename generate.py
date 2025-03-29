@@ -101,8 +101,13 @@ def gen(sounds, pos=0, right=False, stroke=Stroke(''), outline=[]):
         yield from gen(sounds, pos + 1, False, Stroke(''), outline + [stroke])
     elif sound == END:
         yield tuple(outline)
-        if len(outline) >= 2 and not outline[-2] & MID_BANK and outline[-1] == Stroke('AE'):
-            yield tuple(outline[:-2] + [outline[-2] | outline[-1]])
+        try:
+            i = outline.index(Stroke('AE'), 1)
+        except ValueError:
+            pass
+        else:
+            if not outline[i-1] & MID_BANK:
+                yield tuple(outline[:i-1] + [outline[i-1] | outline[i]] + outline[i+1:])
         return
 
     matches = []
