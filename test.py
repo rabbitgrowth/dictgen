@@ -56,8 +56,8 @@ class TestGenerate(unittest.TestCase):
 
     def test_orthographic_ss(self):
         self.T('mass',    'm á s',     'PHAFS')
-        self.T('massive', 'm á s ɪ v', 'PHAS/-FB')
-        self.T('witness', 'w ɪ́ t n ə s', 'WEUT/TPH-S')
+        self.T('massive', 'm á s ɪ v', 'PHAS/-FB')     # not when in first  of two strokes
+        self.T('witness', 'w ɪ́ t n ə s', 'WEUT/TPH-S') # or  when in second of two strokes
 
     def test_nonrhotic_silent_r(self):
         self.T('car', 'k ɑ́ː', 'KAR')
@@ -123,18 +123,16 @@ class TestGenerate(unittest.TestCase):
         self.T('about', 'ə b áw t', 'U/PWOUT')
 
     def test_not_omit_schwa_when_conflict_with_inflectional_endings(self):
-        self.T('rapid', 'r á p ɪ d', 'RAP/UD')
+        self.T('rapid',  'r á p ɪ d',   'RAP/UD')
+        self.T('rapids', 'r á p ɪ d z', 'RAP/-DZ') # -eds is not a thing so no conflict here
         self.T('designate', 'd ɛ́ z ɪ g n ɛj t', 'TKEZ/UG/TPHAEUT')
         self.T('talisman', 't á l ɪ z m ə n', 'TAL/UZ/PH-PB')
-
-    def test_omit_schwa_when_not_conflict_with_inflectional_endings(self):
-        self.T('rapids', 'r á p ɪ d z', 'RAP/-DZ')
 
     def test_not_omit_schwa_when_right_bank_empty(self):
         self.T('atmosphere', 'á t m ə s f ɪː', 'AT/PHU/STPAOER AT/PH-S/TPAOER')
 
     def test_omit_j(self):
-        self.T('new',    'n j ʉ́w',      'TPHAOU')
+        self.T('new', 'n j ʉ́w', 'TPHAOU')
         self.T('beauty', 'b j ʉ́w t ɪj', 'PWAOUT/AE')
 
     def test_not_omit_initial_j(self):
@@ -142,7 +140,7 @@ class TestGenerate(unittest.TestCase):
         self.T('use',  'j ʉ́w z', 'KWRAOUZ')
 
     def test_not_omit_j_when_left_bank_empty(self):
-        self.T('failure', 'f ɛ́j l j ə',  'TPAEUL/KWR-R')
+        self.T('failure', 'f ɛ́j l j ə', 'TPAEUL/KWR-R')
         self.T('million', 'm ɪ́ l j ə n', 'PHEUL/KWR-PB')
 
     def test_omit_j_or_not_depending_on_syllabification(self):
@@ -176,7 +174,7 @@ class TestGenerate(unittest.TestCase):
         self.T('has', 'h á z', 'HAZ')
         self.T('was', 'w ə z', 'WUZ')
 
-    def test_detect_whether_s_is_inflectional_based_on_spelling(self):
+    def test_inflectional_s_minimal_pairs(self):
         self.T('lapse',  'l á p s',  'HRAPS')
         self.T('laps',   'l á p s',  'HRAPZ')
         self.T('tease',  't ɪ́j z',   'TAOEZ')
