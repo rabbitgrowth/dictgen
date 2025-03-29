@@ -97,6 +97,11 @@ NON_RIGHT_RULES = [
         [Stroke('-PLT')],
     ),
     Rule(
+        [Sound('b'), Sound('ə'), Sound('l')],
+        [Stroke('-BL')],
+        lookbehind = [BREAK, UNSTRESSED_SCHWA, BREAK],
+    ),
+    Rule(
         [Sound('ɪj')],
         [Stroke('AE')],
         lookahead = [BREAK, END],

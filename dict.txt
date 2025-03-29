@@ -71,7 +71,6 @@ a c c e p t a b   l e
 UBG/SEP/TPW-L
 UBG/SEP/TU/PW-L
 UBG/SEP/T-BL
-UBG/SEPT/PW-L
 UBG/SEPT/-BL
 
 access
@@ -1189,7 +1188,6 @@ AUT/-PL
 available
 a v ai l a b   l e
 ə v ɛ́j l ə b ə l
-U/SRAEUL/PW-L
 U/SRAEUL/-BL
 
 average
@@ -2121,7 +2119,6 @@ KAP
 capable
 c a  p a b   l e
 k ɛ́j p ə b ə l
-KAEUP/PW-L
 KAEUP/-BL
 
 capacity
@@ -6192,7 +6189,6 @@ f l ɛ́ k s ə b ə l
 TPHREBG/SPW-L
 TPHREBG/SU/PW-L
 TPHREBG/S-BL
-TPHREBGS/PW-L
 TPHREBGS/-BL
 
 flight
@@ -7381,7 +7377,6 @@ HOEP
 horrible
 h o rr i b   l e
 h ɔ́ r  ə b ə l
-HAUR/PW-L
 HAUR/-BL
 
 horror
@@ -7696,7 +7691,6 @@ EUPL/POEZ
 impossible
 i m p o ss i b   l e
 ɪ m p ɔ́ s  ə b ə l
-EUPL/PAUS/PW-L
 EUPL/PAUS/-BL
 
 impress
@@ -7805,7 +7799,6 @@ EUPB/KRAOES/-PBG/HRAE
 incredible
 i n c r e d i b   l e
 ɪ n k r ɛ́ d ə b ə l
-EUPB/KRED/PW-L
 EUPB/KRED/-BL
 
 incredibly
@@ -11424,7 +11417,6 @@ PAUS/PWEUL/-T/AE
 possible
 p o ss i b   l e
 p ɔ́ s  ə b ə l
-PAUS/PW-L
 PAUS/-BL
 
 possibly
@@ -12534,7 +12526,6 @@ REL/-FB/-PBT
 reliable
 r e l i  a b   l e
 r ɪ l ɑ́j ə b ə l
-REU/HRAOEU/PW-L
 REU/HRAOEU/-BL
 
 relief
@@ -12777,12 +12768,10 @@ r ɪ s p ɔ́ n s ə b ə l
 REU/SPAUPB/SPW-L
 REU/SPAUPB/SU/PW-L
 REU/SPAUPB/S-BL
-REU/SPAUPBS/PW-L
 REU/SPAUPBS/-BL
 REUS/PAUPB/SPW-L
 REUS/PAUPB/SU/PW-L
 REUS/PAUPB/S-BL
-REUS/PAUPBS/PW-L
 REUS/PAUPBS/-BL
 
 rest
@@ -13390,7 +13379,6 @@ s ɛ́ n s ə b ə l
 SEPB/SPW-L
 SEPB/SU/PW-L
 SEPB/S-BL
-SEPBS/PW-L
 SEPBS/-BL
 
 sensitive
@@ -14708,7 +14696,6 @@ SAOUT
 suitable
 s ui t a b   l e
 s ʉ́w t ə b ə l
-SAOUT/PW-L
 SAOUT/-BL
 
 sum
@@ -15150,7 +15137,6 @@ TURPL
 terrible
 t e rr i b   l e
 t ɛ́ r  ə b ə l
-TER/PW-L
 TER/-BL
 
 test
