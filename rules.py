@@ -85,11 +85,6 @@ NON_RIGHT_RULES = [
         lookbehind = [START],
     ),
     Rule(
-        [Sound('ɪj')],
-        [Stroke('AE')],
-        lookahead = [BREAK, END],
-    ),
-    Rule(
         [Sound('ɑj', 'i'), Sound('', 'gh'), Sound('t')],
         [Stroke('OEUGT')],
     ),
@@ -100,6 +95,18 @@ NON_RIGHT_RULES = [
     Rule(
         [Sound('ə', 'r')],
         [Stroke('-R')],
+    ),
+    Rule(
+        [Sound('ɪj')],
+        [Stroke('AE')],
+        lookahead = [BREAK, END],
+        outline = lambda outline: outline,
+    ),
+    Rule(
+        [Sound('ɪj'), Sound('z', 's')],
+        [Stroke('AE'), Stroke('-Z')],
+        lookahead = [BREAK, END],
+        outline = lambda outline: outline,
     ),
     Rule(
         [UNSTRESSED_SCHWA],

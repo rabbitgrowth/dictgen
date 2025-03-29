@@ -31,11 +31,12 @@ class TestGenerate(unittest.TestCase):
         self.T('umbrella',  'ʌ m b r ɛ́ l ə',   'UPL/PWREL/AU')
         self.T('umbrellas', 'ʌ m b r ɛ́ l ə z', 'UPL/PWREL/AU/-Z')
 
-    def test_y_ending(self):
-        self.T('family', 'f á m l ɪj', 'TPAPL/HRAE')
-        self.T('employee', 'ɛ́ m p l oj ɪ́j', 'EPL/PHROEU/AE EFPL/HROEU/AE')
+    def test_final_y(self):
+        self.T('coffee', 'k ɔ́ f ɪj', 'KAUF/AE')
+        self.T('family',   'f á m l ɪj',   'TPAPL/HRAE')
+        self.T('families', 'f á m l ɪj z', 'TPAPL/HRAE/-Z')
 
-    def test_y_ending_foldable(self):
+    def test_final_y_foldable(self):
         self.T('privacy', 'p r ɪ́ v ə s ɪj', 'PREUFB/SAE PREUFB/-S/AE PREUFB/AES')
         self.T('agency', 'ɛ́j dʒ ə n s ɪj', 'AEUPBLG/-PB/SAE AEUPBLG/-PBS/AE AEUPBLG/AEPBS')
         self.T('library', 'l ɑ́j b r ə r ɪj', 'HRAOEUB/RU/RAE HRAOEUB/R-R/AE HRAOEUB/RAER')

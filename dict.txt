@@ -1371,7 +1371,7 @@ PWAT/-L
 be
 b e
 b ɪ́j
-PWAE
+PWAOE
 
 beach
 b ea ch
@@ -1433,7 +1433,7 @@ PWED/RAOUPL
 bee
 b ee
 b ɪ́j
-PWAE
+PWAOE
 
 beef
 b ee f
@@ -5953,7 +5953,7 @@ TPEB/-R/KWR-R/AE
 fee
 f ee
 f ɪ́j
-TPAE
+TPAOE
 
 feed
 f ee d
@@ -6412,7 +6412,7 @@ TPRAEUPL
 free
 f r ee
 f r ɪ́j
-TPRAE
+TPRAOE
 
 freedom
 f r ee d o m
@@ -7078,7 +7078,7 @@ HUFB
 he
 h e
 h ɪ́j
-HAE
+HAOE
 
 head
 h ea d
@@ -8420,7 +8420,7 @@ KAOEP
 key
 k ey
 k ɪ́j
-KAE
+KAOE
 
 keyboard
 k ey b oa r d
@@ -8478,7 +8478,7 @@ KEUFP/-PB
 knee
 k n ee
   n ɪ́j
-TPHAE
+TPHAOE
 
 knife
 k n i  f e
@@ -9263,7 +9263,7 @@ PHAEUB/AE
 me
 m e
 m ɪ́j
-PHAE
+PHAOE
 
 meal
 m ea l
@@ -13246,7 +13246,7 @@ SKUL/-P/KH-R
 sea
 s ea
 s ɪ́j
-SAE
+SAOE
 
 search
 s ea r ch
@@ -13330,7 +13330,7 @@ SEUBG/KWRAOUR/-T/AE
 see
 s ee
 s ɪ́j
-SAE
+SAOE
 
 seed
 s ee d
@@ -13432,7 +13432,7 @@ SAOEBG/W-PBS
 series
 s e  r ie s
 s ɪ́ː r ɪj z
-SAOER/AOE/-Z
+SAOER/AE/-Z
 
 serious
 s e  r i  ou s
@@ -13572,7 +13572,7 @@ SHARP
 she
 sh e
 ʃ  ɪ́j
-SHAE
+SHAOE
 
 sheep
 sh ee p
@@ -13900,7 +13900,7 @@ SAOEUZ
 ski
 s k i
 s k ɪ́j
-SKAE
+SKAOE
 
 skiing
 s k i  i ng
@@ -14225,7 +14225,7 @@ SPEGS/-L/*S
 species
 s p e  c ie s
 s p ɪ́j ʃ ɪj z
-SPAOEGS/AOE/-Z
+SPAOEGS/AE/-Z
 
 specific
 s p e c i f i c
@@ -15028,7 +15028,7 @@ TABGS/AE
 tea
 t ea
 t ɪ́j
-TAE
+TAOE
 
 teach
 t ea ch
@@ -15196,7 +15196,7 @@ THUT
 the
 th e
 ð  ɪ́j
-THAE
+THAOE
 
 the
 th e
@@ -15368,7 +15368,7 @@ THRET/-PB
 three
 th r ee
 θ  r ɪ́j
-THRAE
+THRAOE
 
 throat
 th r oa t
@@ -15713,7 +15713,7 @@ TRAOET/-PLT
 tree
 t r ee
 t r ɪ́j
-TRAE
+TRAOE
 
 trend
 t r e n d
@@ -16466,7 +16466,7 @@ WAEU
 we
 w e
 w ɪ́j
-WAE
+WAOE
 
 weak
 w ea k
