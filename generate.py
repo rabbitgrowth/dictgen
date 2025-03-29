@@ -105,8 +105,8 @@ def gen(sounds, pos=0, right=False, stroke=Stroke(''), outline=[]):
         except ValueError:
             pass
         else:
-            if not outline[i-1] & MID_BANK:
-                outline = outline[:i-1] + [outline[i-1] | outline[i]] + outline[i+1:]
+            if not outline[i - 1] & MID_BANK:
+                outline[i - 1] |= outline.pop(i)
         yield tuple(outline)
         return
 
