@@ -247,10 +247,7 @@ for chords, rules in [
     (RIGHT_CHORDS, RIGHT_RULES),
 ]:
     for ipa, chord in chords.items():
-        rules.append(Rule(
-            [Sound(ipa)],
-            [chord],
-        ))
+        rules.append(Rule([Sound(ipa)], [chord]))
 
 RULES = [
     [NON_RIGHT_OPTIONAL_RULES, NON_RIGHT_RULES],
