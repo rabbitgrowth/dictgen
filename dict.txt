@@ -395,7 +395,7 @@ agenda
 a g  e n d a
 ə dʒ ɛ́ n d ə
 U/SKWREPB/TKU
-U/SKWREPBD/U
+U/SKWREPBD/AU
 
 agent
 a  g  e n t
@@ -890,7 +890,7 @@ ARBG/-T/EBG/KH-R
 area
 a  r e  a
 ɛ́ː r ɪj ə
-AEUR/AOE/U
+AEUR/AOE/AU
 
 argue
 a  r g   ue
@@ -1247,7 +1247,7 @@ PWABG/W-RDZ
 bacteria
 b a c t e  r i  a
 b a k t ɪ́ː r ɪj ə
-PWABG/TAOER/AOE/U
+PWABG/TAOER/AOE/AU
 
 bad
 b a d
@@ -1287,7 +1287,7 @@ PWAPB
 banana
 b a n a  n a
 b ə n ɑ́ː n ə
-PWU/TPHAPB/U
+PWU/TPHAPB/AU
 
 band
 b a n d
@@ -3805,7 +3805,7 @@ TKARBG
 data
 d a  t a
 d ɛ́j t ə
-TKAEUT/U
+TKAEUT/AU
 
 date
 d a  t e
@@ -4635,7 +4635,7 @@ TKRAG
 drama
 d r a  m a
 d r ɑ́ː m ə
-TKRAPL/U
+TKRAPL/AU
 
 dramatic
 d r a m a t i c
@@ -8171,7 +8171,7 @@ into
 i n t o
 ɪ́ n t ə
 EUPB/TU
-EUPBT/U
+EUPBT/AU
 
 introduce
 i n t r o d  u  c e
@@ -9306,7 +9306,7 @@ PHAOET
 media
 m e  d i  a
 m ɪ́j d ɪj ə
-PHAOED/AOE/U
+PHAOED/AOE/AU
 
 medical
 m e d i c a l
@@ -10305,7 +10305,7 @@ onto
 o n t o
 ɔ́ n t ə
 AUPB/TU
-AUPBT/U
+AUPBT/AU
 
 open
 o  p e n
@@ -15873,7 +15873,7 @@ ULT/-PL/-T/HRAE
 umbrella
 u m b r e ll a
 ʌ m b r ɛ́ l  ə
-UPL/PWREL/U
+UPL/PWREL/AU
 
 unable
 u n a  b   l e
@@ -16262,7 +16262,7 @@ SRER/AE
 via
 v i  a
 v ɑ́j ə
-SRAOEU/U
+SRAOEU/AU
 
 victim
 v i c t i m

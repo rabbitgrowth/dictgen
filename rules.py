@@ -102,15 +102,33 @@ NON_RIGHT_RULES = [
         [Stroke('-R')],
     ),
     Rule(
-        [UNSTRESSED_SCHWA, BREAK],
-        [],
-        negative_lookahead = [END],
+        [UNSTRESSED_SCHWA],
+        [Stroke('AU')],
+        lookahead = [BREAK, END],
         lookbehind = [BREAK],
+    ),
+    Rule(
+        [UNSTRESSED_SCHWA, Sound('z', 's')],
+        [Stroke('AU'), Stroke('-Z')],
+        lookahead = [BREAK, END],
+        lookbehind = [BREAK],
+        outline = lambda outline: outline,
+    ),
+    Rule(
+        [UNSTRESSED_SCHWA, Sound('z', 's')],
+        [Stroke('U'), Stroke('-Z')],
+        lookahead = [BREAK, END],
+        outline = lambda outline: outline,
     ),
     Rule(
         [UNSTRESSED_SCHWA],
         [Stroke('U')],
         lookahead = [Sound({'d', 'g', 'z'}), BREAK],
+        lookbehind = [BREAK],
+    ),
+    Rule(
+        [UNSTRESSED_SCHWA, BREAK],
+        [],
         lookbehind = [BREAK],
     ),
     Rule(
@@ -196,13 +214,6 @@ RIGHT_RULES = [
     Rule(
         [Sound('')],
         [],
-    ),
-    Rule(
-        [Sound('z', 's')],
-        [Stroke(''), Stroke('-Z')],
-        lookahead = [BREAK, END],
-        lookbehind = [Sound('ə')],
-        outline = lambda outline: outline,
     ),
     Rule(
         [Sound('z', 's')],

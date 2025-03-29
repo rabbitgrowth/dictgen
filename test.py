@@ -26,6 +26,11 @@ class TestGenerate(unittest.TestCase):
         self.T('shred', 'ʃ r ɛ́ d', 'SKHRED')
         self.T('sled',  's l ɛ́ d', 'SHRED')
 
+    def test_final_schwa(self):
+        self.T('data', 'd ɛ́j t ə', 'TKAEUT/AU')
+        self.T('umbrella',  'ʌ m b r ɛ́ l ə',   'UPL/PWREL/AU')
+        self.T('umbrellas', 'ʌ m b r ɛ́ l ə z', 'UPL/PWREL/AU/-Z')
+
     def test_y_ending(self):
         self.T('family', 'f á m l ɪj', 'TPAPL/HRAE')
         self.T('employee', 'ɛ́ m p l oj ɪ́j', 'EPL/PHROEU/AE EFPL/HROEU/AE')
