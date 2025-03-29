@@ -26,6 +26,12 @@ class TestGenerate(unittest.TestCase):
         self.T('shred', 'ʃ r ɛ́ d', 'SKHRED')
         self.T('sled',  's l ɛ́ d', 'SHRED')
 
+    def test_ble_and_able(self):
+        self.T('able', 'ɛ́j b ə l', 'AEUBL')
+        self.T('payable', 'p ɛ́j ə b ə l', 'PAEU/-BL')
+        self.T('humble',   'h ʌ́ m b ə l',   'HUPL/PW-L')
+        self.T('hummable', 'h ʌ́ m ə b ə l', 'HUPL/-BL')
+
     def test_final_schwa(self):
         self.T('data', 'd ɛ́j t ə', 'TKAEUT/AU')
         self.T('umbrella',  'ʌ m b r ɛ́ l ə',   'UPL/PWREL/AU')
