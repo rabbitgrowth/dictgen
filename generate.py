@@ -100,14 +100,14 @@ def gen(sounds, pos=0, right=False, stroke=Stroke(''), outline=[]):
     elif sound == BREAK:
         yield from gen(sounds, pos + 1, False, Stroke(''), outline + [stroke])
     elif sound == END:
-        yield tuple(outline)
         try:
             i = outline.index(Stroke('AE'), 1)
         except ValueError:
             pass
         else:
             if not outline[i-1] & MID_BANK:
-                yield tuple(outline[:i-1] + [outline[i-1] | outline[i]] + outline[i+1:])
+                outline = outline[:i-1] + [outline[i-1] | outline[i]] + outline[i+1:]
+        yield tuple(outline)
         return
 
     matches = []

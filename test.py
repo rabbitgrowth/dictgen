@@ -43,11 +43,11 @@ class TestGenerate(unittest.TestCase):
         self.T('families', 'f á m l ɪj z', 'TPAPL/HRAE/-Z')
 
     def test_final_y_foldable(self):
-        self.T('privacy', 'p r ɪ́ v ə s ɪj', 'PREUFB/SAE PREUFB/-S/AE PREUFB/AES')
-        self.T('agency',   'ɛ́j dʒ ə n s ɪj',   'AEUPBLG/-PB/SAE    AEUPBLG/-PBS/AE    AEUPBLG/AEPBS')
-        self.T('agencies', 'ɛ́j dʒ ə n s ɪj z', 'AEUPBLG/-PB/SAE/-Z AEUPBLG/-PBS/AE/-Z AEUPBLG/AEPBS/-Z')
-        self.T('library',   'l ɑ́j b r ə r ɪj',   'HRAOEUB/RU/RAE    HRAOEUB/R-R/AE    HRAOEUB/RAER')
-        self.T('libraries', 'l ɑ́j b r ə r ɪj z', 'HRAOEUB/RU/RAE/-Z HRAOEUB/R-R/AE/-Z HRAOEUB/RAER/-Z')
+        self.T('privacy', 'p r ɪ́ v ə s ɪj', 'PREUFB/SAE PREUFB/AES')
+        self.T('agency',   'ɛ́j dʒ ə n s ɪj',   'AEUPBLG/-PB/SAE    AEUPBLG/AEPBS')
+        self.T('agencies', 'ɛ́j dʒ ə n s ɪj z', 'AEUPBLG/-PB/SAE/-Z AEUPBLG/AEPBS/-Z')
+        self.T('library',   'l ɑ́j b r ə r ɪj',   'HRAOEUB/RU/RAE    HRAOEUB/RAER')
+        self.T('libraries', 'l ɑ́j b r ə r ɪj z', 'HRAOEUB/RU/RAE/-Z HRAOEUB/RAER/-Z')
 
     def test_orthographic_ight(self):
         self.T('rite',  'r ɑ́j t', 'RAOEUT')
