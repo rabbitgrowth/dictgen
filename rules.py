@@ -89,12 +89,12 @@ NON_RIGHT_RULES = [
         [Stroke('OEUGT')],
     ),
     Rule(
-        [Sound('m'), Sound('ə'), Sound('n'), Sound('t')],
-        [Stroke('-PLT')],
-    ),
-    Rule(
         [Sound('ə', 'r')],
         [Stroke('-R')],
+    ),
+    Rule(
+        [Sound('m'), Sound('ə'), Sound('n'), Sound('t')],
+        [Stroke('-PLT')],
     ),
     Rule(
         [Sound('ɪj')],
