@@ -28,13 +28,10 @@ def syllabify(sounds):
             start = 0
             end = len(prev_cluster) + 1
             if len(consonant_indices):
-                if len(consonant_indices) == 1 and prev_vowel.stressed and vowel.stressed:
+                if prev_vowel.stressed and (len(consonant_indices) > 1 or not vowel.stressed):
+                    start = consonant_indices[0] + 1
+                if vowel.stressed:
                     end = consonant_indices[-1] + 1
-                else:
-                    if prev_vowel.stressed:
-                        start = consonant_indices[0] + 1
-                    if vowel.stressed:
-                        end = consonant_indices[-1] + 1
             splits = [(prev_cluster[:i], prev_cluster[i:]) for i in range(start, end)]
             parts.append([
                 [*coda, BREAK, *onset]
