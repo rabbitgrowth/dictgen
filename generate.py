@@ -27,7 +27,7 @@ def syllabify(sounds):
             ]
             start = 0
             end = len(prev_cluster) + 1
-            if len(consonant_indices):
+            if consonant_indices:
                 if prev_vowel.stressed and (len(consonant_indices) > 1 or not vowel.stressed):
                     start = consonant_indices[0] + 1
                 if vowel.stressed:
