@@ -6,21 +6,21 @@ from sound import Sound, START, BREAK, END
 from stroke import Stroke, MID_BANK, RIGHT_BANK
 
 def syllabify(sounds):
-    consonant_clusters, vowels = group_by_type(sounds)
+    clusters, vowels = group_by_type(sounds)
     if len(vowels) < 2:
         return [sounds]
     prev = None
-    parts = [[consonant_clusters.pop(0)]]
-    assert len(vowels) == len(consonant_clusters)
-    for vowel, consonant_cluster in zip(vowels, consonant_clusters):
+    parts = [[clusters.pop(0)]]
+    assert len(vowels) == len(clusters)
+    for vowel, cluster in zip(vowels, clusters):
         if prev is not None:
-            prev_vowel, prev_consonant_cluster = prev
+            prev_vowel, prev_cluster = prev
             parts.append([[prev_vowel]])
-            if BREAK in prev_consonant_cluster:
+            if BREAK in prev_cluster:
                 # Use the pre-inserted break
-                parts.append([prev_consonant_cluster])
+                parts.append([prev_cluster])
                 continue
-            splits = split(prev_consonant_cluster)
+            splits = split(prev_cluster)
             if len(splits) > 1:
                 # The stronger vowel attracts at least one consonant
                 if prev_vowel.stronger_than(vowel):
@@ -32,24 +32,24 @@ def syllabify(sounds):
                 for coda, onset in splits
                 if is_possible_coda(coda) and is_possible_onset(onset)
             ])
-        prev = vowel, consonant_cluster
-    parts.extend([[[vowel]], [consonant_cluster]])
+        prev = vowel, cluster
+    parts.extend([[[vowel]], [cluster]])
     return combine(parts)
 
 def group_by_type(sounds):
-    consonant_clusters = []
-    consonant_cluster  = []
+    clusters = []
+    cluster  = []
     vowels = []
     for sound in sounds:
         if sound.is_vowel():
-            consonant_clusters.append(consonant_cluster)
-            consonant_cluster = []
+            clusters.append(cluster)
+            cluster = []
             vowels.append(sound)
         else:
-            consonant_cluster.append(sound)
-    consonant_clusters.append(consonant_cluster)
-    assert len(consonant_clusters) == len(vowels) + 1
-    return consonant_clusters, vowels
+            cluster.append(sound)
+    clusters.append(cluster)
+    assert len(clusters) == len(vowels) + 1
+    return clusters, vowels
 
 def split(sounds):
     return [(sounds[:i], sounds[i:]) for i in range(len(sounds) + 1)]
