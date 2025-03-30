@@ -20,13 +20,22 @@ def syllabify(sounds):
                 # Use the pre-inserted break
                 parts.append([prev_cluster])
                 continue
-            splits = split(prev_cluster)
-            if len(splits) > 1:
-                # The stronger vowel attracts at least one consonant
-                if prev_vowel.stronger_than(vowel):
-                    splits.pop(0)
-                elif vowel.stronger_than(prev_vowel):
-                    splits.pop()
+            consonant_indices = [
+                i
+                for i, sound in enumerate(prev_cluster)
+                if sound.is_consonant() or sound.spell == 'r'
+            ]
+            start = 0
+            end = len(prev_cluster) + 1
+            if len(consonant_indices):
+                if len(consonant_indices) == 1 and prev_vowel.stressed and vowel.stressed:
+                    end = consonant_indices[-1] + 1
+                else:
+                    if prev_vowel.stressed:
+                        start = consonant_indices[0] + 1
+                    if vowel.stressed:
+                        end = consonant_indices[-1] + 1
+            splits = [(prev_cluster[:i], prev_cluster[i:]) for i in range(start, end)]
             parts.append([
                 [*coda, BREAK, *onset]
                 for coda, onset in splits
@@ -50,9 +59,6 @@ def group_by_type(sounds):
     clusters.append(cluster)
     assert len(clusters) == len(vowels) + 1
     return clusters, vowels
-
-def split(sounds):
-    return [(sounds[:i], sounds[i:]) for i in range(len(sounds) + 1)]
 
 def to_string(sounds):
     return ''.join(sound.ipa for sound in sounds)

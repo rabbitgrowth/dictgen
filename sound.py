@@ -2,7 +2,9 @@ import re
 from dataclasses import dataclass
 from typing import Optional, Set, Union
 
-from chords import MID_CHORDS
+from chords import LEFT_CHORDS, MID_CHORDS, RIGHT_CHORDS
+
+LEFT_AND_RIGHT_CHORDS = LEFT_CHORDS | RIGHT_CHORDS
 
 @dataclass
 class Sound:
@@ -26,10 +28,9 @@ class Sound:
         assert self.ipa is not None
         return self.ipa in MID_CHORDS
 
-    def stronger_than(self, other):
-        assert self.stressed  is not None
-        assert other.stressed is not None
-        return self.stressed and not other.stressed
+    def is_consonant(self):
+        assert self.ipa is not None
+        return self.ipa in LEFT_AND_RIGHT_CHORDS
 
     def __eq__(self, other):
         if not isinstance(other, Sound):

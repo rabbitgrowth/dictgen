@@ -1230,7 +1230,6 @@ PWABG/TKPWROUPBD
 backwards
 b a c k w a r d s
 b á   k w ə   d z
-PWA/KW-RDZ
 PWABG/W-RDZ
 
 bacteria
@@ -2456,7 +2455,6 @@ KH*ES
 chicken
 ch i c k e n
 tʃ ɪ́   k ɪ n
-KHEU/K-PB
 KHEUBG/-PB
 
 chief
@@ -3645,7 +3643,6 @@ KUP
 cupboard
 c u p b oa r d
 k ʌ́   b ə    d
-KU/PW-RD
 KUB/-RD
 
 cure
@@ -3780,7 +3777,6 @@ TKAEUT
 daughter
 d au gh t e r
 d óː    t ə
-TKAU/T-R
 TKAUT/-R
 
 day
@@ -3975,9 +3971,7 @@ TKU/HROEUGT
 delighted
 d e l i  gh t e d
 d ə l ɑ́j    t ɪ d
-TKHRAOEU/T-D
 TKHROEUGT/UD
-TKU/HRAOEU/T-D
 TKU/HROEUGT/UD
 
 deliver
@@ -4093,7 +4087,6 @@ TKU/SWRAOEUPB
 designer
 d e s i  g n e r
 d ə z ɑ́j   n ə
-TKU/SWRAOEU/TPH-R
 TKU/SWRAOEUPB/-R
 
 desire
@@ -4395,7 +4388,6 @@ dishonest
 d i s h o n e s t
 d ɪ s   ɔ́ n ɪ s t
 TKEU/SHAUPB/*S
-TKEUS/HAUPB/*S
 
 disk
 d i s k
@@ -4846,12 +4838,10 @@ eighteen
 ei gh t ee n
 ɛ́j    t ɪ́j n
 AEU/TAOEPB
-AEUT/AOEPB
 
 eighty
 ei gh t y
 ɛ́j    t ɪj
-AEU/TAE
 AEUT/AE
 
 either
@@ -5425,7 +5415,6 @@ except
 e x - c e p t
 ɪ k s   ɛ́ p t
 EUBG/SEPT
-EUBGS/EPT
 
 exchange
 e x - ch a  n g  e
@@ -5436,19 +5425,16 @@ excited
 e x - c i  t e d
 ɪ k s   ɑ́j t ɪ d
 EUBG/SAOEUT/UD
-EUBGS/AOEUT/UD
 
 excitement
 e x - c i  t e m e n t
 ɪ k s   ɑ́j t   m ə n t
 EUBG/SAOEUT/-PLT
-EUBGS/AOEUT/-PLT
 
 exciting
 e x - c i  t i ng
 ɪ k s   ɑ́j t ɪ ŋ
 EUBG/SAOEUT/-PBG
-EUBGS/AOEUT/-PBG
 
 excuse
 e x - c   u  s e
@@ -5954,7 +5940,6 @@ fifteen
 f i f t ee n
 f ɪ́ f t ɪ́j n
 TPEUF/TAOEPB
-TPEUFT/AOEPB
 
 fifth
 f i f th
@@ -5975,7 +5960,6 @@ TPOEUGT
 fighting
 f i  gh t i ng
 f ɑ́j    t ɪ ŋ
-TPAOEU/T-PBG
 TPOEUGT/-PBG
 
 figure
@@ -6330,9 +6314,7 @@ TPAUR
 fourteen
 f ou r t ee n
 f óː   t ɪ́j n
-TPAU/TAOEPB
 TPAUR/TAOEPB
-TPAURT/AOEPB
 
 fourth
 f ou r th
@@ -6403,13 +6385,11 @@ TPREPBD/SH-P
 frighten
 f r i  gh t e n
 f r ɑ́j    t ə n
-TPRAOEU/T-PB
 TPROEUGT/-PB
 
 frightened
 f r i  gh t e n e d
 f r ɑ́j    t ə n   d
-TPRAOEU/T-PBD
 TPROEUGT/-PBD
 
 frightening
@@ -7174,13 +7154,11 @@ HAOEU
 highlight
 h i  gh l i  gh t
 h ɑ́j    l ɑj    t
-HAOEU/HROEUGT
 HAOEUL/OEUGT
 
 highly
 h i  gh l y
 h ɑ́j    l ɪj
-HAOEU/HRAE
 HAOEUL/AE
 
 hill
@@ -7252,7 +7230,6 @@ HAUB/AE
 hockey
 h o c k ey
 h ɔ́   k ɪj
-HAU/KAE
 HAUBG/AE
 
 hold
@@ -7781,7 +7758,6 @@ indoors
 i n d oo r s
 ɪ́ n d óː   z
 EUPB/TKAURZ
-EUPBD/AURZ
 
 industrial
 i n d u s t r i  a l
@@ -8170,7 +8146,6 @@ AOEUR/-PB
 island
 i  s l a n d
 ɑ́j   l ə n d
-AOEU/HR-PBD
 AOEUL/-PBD
 
 issue
@@ -8201,7 +8176,6 @@ EUT/SEL/-F
 jacket
 j  a c k e t
 dʒ á   k ɪ t
-SKWRA/K-T
 SKWRABG/-T
 
 jam
@@ -8949,7 +8923,6 @@ HRUBG
 lucky
 l u c k y
 l ʌ́   k ɪj
-HRU/KAE
 HRUBG/AE
 
 lunch
@@ -9790,15 +9763,11 @@ TPHEG/-T/-FB
 neighbour
 n ei gh b ou r
 n ɛ́j    b ə
-TPHAEU/PW-R
 TPHAEUB/-R
 
 neighbourhood
 n ei gh b ou r h oo d
 n ɛ́j    b ə    h ɵ  d
-TPHAEU/PWHAOD
-TPHAEU/PWU/HAOD
-TPHAEU/PW-R/HAOD
 TPHAEUB/HAOD
 TPHAEUB/-R/HAOD
 
@@ -9885,7 +9854,6 @@ nineteen
 n i  n e t ee n
 n ɑ́j n   t ɪ́j n
 TPHAOEUPB/TAOEPB
-TPHAOEUPBT/AOEPB
 
 ninety
 n i  n e t y
@@ -10438,7 +10406,6 @@ outside
 ou t s i  d e
 áw t s ɑ́j d
 OUT/SAOEUD
-OUTS/AOEUD
 
 outside
 ou t s i  d e
@@ -10495,7 +10462,6 @@ PABG
 package
 p a c k a g  e
 p á   k ɪ dʒ
-PA/K-PBLG
 PABG/-PBLG
 
 page
@@ -11136,7 +11102,6 @@ PHRUS
 pocket
 p o c k e t
 p ɔ́   k ɪ t
-PAU/K-T
 PAUBG/-T
 
 poem
@@ -11544,7 +11509,6 @@ princess
 p r i n c e ss
 p r ɪ́ n s ɛ́ s
 PREUPB/SES
-PREUPBS/ES
 
 principle
 p r i n c i p   l e
@@ -11966,7 +11930,6 @@ KWEUBG
 quickly
 q u i c k l y
 k w ɪ́   k l ɪj
-KWEU/KHRAE
 KWEUBG/HRAE
 
 quiet
@@ -12231,7 +12194,6 @@ recycle
 r e  c y  c   l e
 r ɪ́j s ɑ́j k ə l
 RAOE/SAOEUBG/-L
-RAOES/AOEUBG/-L
 
 red
 r e d
@@ -13731,7 +13693,6 @@ SEUBGS
 sixteen
 s i x - t ee n
 s ɪ́ k s t ɪ́j n
-S*EUBGS/AOEPB
 SEUBG/STAOEPB
 SEUBGS/TAOEPB
 
@@ -14309,7 +14270,6 @@ STEUBG
 sticky
 s t i c k y
 s t ɪ́   k ɪj
-STEU/KAE
 STEUBG/AE
 
 stiff
@@ -15159,9 +15119,7 @@ THURS/TAE
 thirteen
 th i  r t ee n
 θ  ə́ː   t ɪ́j n
-THU/TAOEPB
 THUR/TAOEPB
-THURT/AOEPB
 
 thirty
 th i  r t y
@@ -15238,7 +15196,6 @@ THUS
 ticket
 t i c k e t
 t ɪ́   k ɪ t
-TEU/K-T
 TEUBG/-T
 
 tidy
@@ -15712,7 +15669,6 @@ unable
 u n a  b   l e
 ʌ́ n ɛ́j b ə l
 U/TPHAEUBL
-UPB/AEUBL
 
 uncle
 u n c   l e
@@ -15902,7 +15858,6 @@ until
 u n t i l
 ʌ́ n t ɪ́ l
 UPB/TEUL
-UPBT/EUL
 
 unusual
 u n   u  s u  a l
@@ -15937,7 +15892,6 @@ upset
 u p s e t
 ʌ́ p s ɛ́ t
 UP/SET
-UPS/ET
 
 upset
 u p s e t
@@ -16073,6 +16027,8 @@ vehicle
 v e  h i c   l e
 v ɪ́j   ɪ k ə l
 SRAOE/K-L
+SRAOE/HEU/K-L
+SRAOE/H-BG/-L
 SRAOE/-BG/-L
 
 venue
@@ -16433,13 +16389,11 @@ whereas
 w h e  r e a s
 w   ɛ́ː r   á z
 WHAEU/RAZ
-WHAEUR/AZ
 
 wherever
 w h e  r e v e r
 w   ɛ́ː r ɛ́ v ə
 WHAEU/REFB/-R
-WHAEUR/EFB/-R
 
 whether
 w h e th e r
