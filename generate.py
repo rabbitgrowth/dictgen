@@ -26,13 +26,13 @@ def syllabify(sounds):
                 if sound.is_consonant() or sound.spell == 'r'
             ]
             start = 0
-            end = len(prev_cluster) + 1
+            stop = len(prev_cluster) + 1
             if consonant_indices:
                 if prev_vowel.stressed and (len(consonant_indices) > 1 or not vowel.stressed):
                     start = consonant_indices[0] + 1
                 if vowel.stressed:
-                    end = consonant_indices[-1] + 1
-            splits = [(prev_cluster[:i], prev_cluster[i:]) for i in range(start, end)]
+                    stop = consonant_indices[-1] + 1
+            splits = [(prev_cluster[:i], prev_cluster[i:]) for i in range(start, stop)]
             parts.append([
                 [*coda, BREAK, *onset]
                 for coda, onset in splits
