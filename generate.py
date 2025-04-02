@@ -77,6 +77,6 @@ def generate(sounds):
     sounds = [START, *sounds, BREAK, END]
     return sorted({
         outline
-        for syllabifications in syllabify(sounds)
-        for outline in gen(syllabifications)
+        for syllabification in syllabify(sounds)
+        for outline in gen(syllabification)
     })
