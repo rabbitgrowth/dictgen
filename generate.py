@@ -2,7 +2,7 @@ import re
 
 from clusters import ONSETS, CODAS
 from rules import RULES
-from sound import Sound, START, BREAK, END
+from sound import START, BREAK, END
 from stroke import Stroke, MID_BANK, RIGHT_BANK
 
 def syllabify(sounds):
