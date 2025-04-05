@@ -41,7 +41,7 @@ def syllabify(sounds):
 def group_by_type(sounds):
     clusters = []
     cluster  = []
-    vowels = []
+    vowels   = []
     for sound in sounds:
         if sound.is_vowel():
             clusters.append(cluster)
