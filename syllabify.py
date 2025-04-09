@@ -3,8 +3,6 @@ from sound import BREAK
 
 def syllabify(sounds):
     clusters, vowels = group_by_type(sounds)
-    if len(vowels) < 2:
-        return [sounds]
     prev = None
     parts = [[clusters.pop(0)]]
     assert len(vowels) == len(clusters)
