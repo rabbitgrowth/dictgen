@@ -74,7 +74,6 @@ def gen(sounds, pos=0, right=False, stroke=Stroke(''), outline=[]):
         yield from gen(sounds, new_pos, new_right, new_stroke, new_outline)
 
 def generate(sounds):
-    sounds = [START, *sounds, BREAK, END]
     return sorted({
         outline
         for syllabification in syllabify(sounds)

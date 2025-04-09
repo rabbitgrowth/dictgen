@@ -1,15 +1,38 @@
 from clusters import ONSETS, CODAS
-from sound import BREAK
+from sound import Sound, START, BREAK, END
+
+PREFIXES = [
+    [Sound('d', 'd'), Sound('ɪ', 'i'), Sound('s', 's')],
+    [Sound('d', 'd'), Sound('ɪ', 'i'), Sound('z', 's')],
+]
+
+def find_prefix_ends(sounds):
+    start = 0
+    ends = set()
+    while start < len(sounds):
+        for prefix in PREFIXES:
+            end = start + len(prefix)
+            if sounds[start:end] == prefix:
+                ends.add(end)
+                start = end
+                break
+        else:
+            break
+    return ends
 
 def syllabify(sounds):
+    prefix_ends = find_prefix_ends(sounds)
     clusters, vowels = group_by_type(sounds)
+    cluster = clusters.pop(0)
+    parts = [[cluster]]
+    start = len(cluster)
     prev = None
-    parts = [[clusters.pop(0)]]
     assert len(vowels) == len(clusters)
     for vowel, cluster in zip(vowels, clusters):
         if prev is not None:
             prev_vowel, prev_cluster = prev
             parts.append([[prev_vowel]])
+            start += 1
             if BREAK in prev_cluster:
                 # Use the pre-inserted break
                 parts.append([prev_cluster])
@@ -19,14 +42,19 @@ def syllabify(sounds):
                 for i, sound in enumerate(prev_cluster)
                 if sound.is_consonant() or sound.spell == 'r'
             ]
-            start = 0
-            stop = len(prev_cluster) + 1
+            lo = 0
+            hi = len(prev_cluster) + 1
             if consonant_indices:
                 if prev_vowel.stressed and (len(consonant_indices) > 1 or not vowel.stressed):
-                    start = consonant_indices[0] + 1
+                    lo = consonant_indices[0] + 1
                 if vowel.stressed:
-                    stop = consonant_indices[-1] + 1
-            splits = [(prev_cluster[:i], prev_cluster[i:]) for i in range(start, stop)]
+                    hi = consonant_indices[-1] + 1
+            splits = [
+                (prev_cluster[:i], prev_cluster[i:])
+                for i in range(len(prev_cluster) + 1)
+                if lo <= i < hi or start + i in prefix_ends
+            ]
+            start += len(prev_cluster)
             parts.append([
                 [*coda, BREAK, *onset]
                 for coda, onset in splits
@@ -34,7 +62,8 @@ def syllabify(sounds):
             ])
         prev = vowel, cluster
     parts.extend([[[vowel]], [cluster]])
-    return combine(parts)
+    for combined in combine(parts):
+        yield [START, *combined, BREAK, END]
 
 def group_by_type(sounds):
     clusters = []

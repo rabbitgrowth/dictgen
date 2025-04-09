@@ -104,6 +104,10 @@ class TestGenerate(unittest.TestCase):
     def test_not_start_with_impossible_onset(self):
         self.T('admit', 'ə d m ɪ́ t', 'UD/PHEUT') # not U/TKPHEUT
 
+    def test_prefix_overrides_consonant_attraction(self):
+        self.T('disease', 'd ɪ z ɪ́j z',     'TKEU/SWRAOEZ TKEUZ/AOEZ')
+        self.T('disable', 'd ɪ s ɛ́j b ə l', 'TKEU/SAEUBL  TKEUS/AEUBL')
+
     def test_initial_consonants_out_of_steno_order(self):
         self.T('Gwen', 'g w ɛ́ n', 'TKPWU/WEPB')
 
