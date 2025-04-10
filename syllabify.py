@@ -20,6 +20,36 @@ def find_prefix_ends(sounds):
             break
     return ends
 
+def group_by_type(sounds):
+    clusters = []
+    cluster  = []
+    vowels   = []
+    for sound in sounds:
+        if sound.is_vowel():
+            clusters.append(cluster)
+            cluster = []
+            vowels.append(sound)
+        else:
+            cluster.append(sound)
+    clusters.append(cluster)
+    assert len(clusters) == len(vowels) + 1
+    return clusters, vowels
+
+def to_string(sounds):
+    return ''.join(sound.ipa for sound in sounds)
+
+def is_possible_onset(sounds):
+    return to_string(sounds) in ONSETS
+
+def is_possible_coda(sounds):
+    return to_string(sounds) in CODAS
+
+def combine(parts):
+    results = [[]]
+    for part in parts:
+        results = [result + choice for result in results for choice in part]
+    return results
+
 def syllabify(sounds):
     prefix_ends = find_prefix_ends(sounds)
     clusters, vowels = group_by_type(sounds)
@@ -64,33 +94,3 @@ def syllabify(sounds):
     parts.extend([[[vowel]], [cluster]])
     for combined in combine(parts):
         yield [START, *combined, BREAK, END]
-
-def group_by_type(sounds):
-    clusters = []
-    cluster  = []
-    vowels   = []
-    for sound in sounds:
-        if sound.is_vowel():
-            clusters.append(cluster)
-            cluster = []
-            vowels.append(sound)
-        else:
-            cluster.append(sound)
-    clusters.append(cluster)
-    assert len(clusters) == len(vowels) + 1
-    return clusters, vowels
-
-def to_string(sounds):
-    return ''.join(sound.ipa for sound in sounds)
-
-def is_possible_onset(sounds):
-    return to_string(sounds) in ONSETS
-
-def is_possible_coda(sounds):
-    return to_string(sounds) in CODAS
-
-def combine(parts):
-    results = [[]]
-    for part in parts:
-        results = [result + choice for result in results for choice in part]
-    return results
