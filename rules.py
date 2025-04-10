@@ -114,6 +114,23 @@ NON_RIGHT_RULES = [
         outline = lambda outline: outline,
     ),
     Rule(
+        [Sound('oː', 'oo')],
+        [Stroke('AO')],
+    ),
+    Rule(
+        [Sound('oː', 'a'), Sound('', 'r')],
+        [Stroke('AR')],
+    ),
+    Rule(
+        [Sound('oː'), Sound('', 'r'), Sound('', 'e')],
+        [Stroke('OER')],
+        lookahead = [BREAK, END],
+    ),
+    Rule(
+        [Sound('oː'), Sound('', 'r')],
+        [Stroke('OR')],
+    ),
+    Rule(
         [UNSTRESSED_SCHWA],
         [Stroke('AU')],
         lookahead = [BREAK, END],

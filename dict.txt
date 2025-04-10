@@ -322,7 +322,7 @@ U/TPEBGT
 afford
 a ff o  r d
 ə f  óː   d
-U/TPAURD
+U/TPORD
 
 afraid
 a f r ai d
@@ -458,8 +458,8 @@ AEURL/AOEUPB
 airport
 ai r p o  r t
 ɛ́ː   p oː   t
-AEUR/PAURT
-AEURP/AURT
+AEUR/PORT
+AEURP/ORT
 
 alarm
 a l a  r m
@@ -1195,7 +1195,7 @@ U/SROEUD
 award
 a w a  r d
 ə w óː   d
-U/WAURD
+U/WARD
 
 aware
 a w a  r e
@@ -1435,7 +1435,7 @@ PWAOER
 before
 b e f o  r e
 b ə f óː
-PWU/TPAUR
+PWU/TPOER
 
 beg
 b e g
@@ -1677,7 +1677,7 @@ PWHRAOU
 board
 b oa r d
 b óː   d
-PWAURD
+PWORD
 
 boat
 b oa t
@@ -1722,13 +1722,13 @@ PWAOUT
 border
 b o  r d e r
 b óː   d ə
-PWAUR/TK-R
-PWAURD/-R
+PWOR/TK-R
+PWORD/-R
 
 bored
 b o  r e d
 b óː     d
-PWAURD
+PWORD
 
 boring
 b o  r i ng
@@ -1738,7 +1738,7 @@ PWAUR/-PBG
 born
 b o  r n
 b óː   n
-PWAURPB
+PWORPB
 
 borrow
 b o rr ow
@@ -3364,22 +3364,22 @@ KAUP/AE
 core
 c o  r e
 k óː
-KAUR
+KOER
 
 corner
 c o  r n e r
 k óː   n ə
-KAUR/TPH-R
-KAURPB/-R
+KOR/TPH-R
+KORPB/-R
 
 corporate
 c o  r p o r a t e
 k óː   p ə r ə t
-KAUR/PR-T
-KAUR/PU/R-T
-KAUR/P-R/-T
-KAURP/R-T
-KAURP/-R/-T
+KOR/PR-T
+KOR/PU/R-T
+KOR/P-R/-T
+KORP/R-T
+KORP/-R/-T
 
 correct
 c o rr e c t
@@ -3467,12 +3467,12 @@ KUR/-PBLG
 course
 c ou r s e
 k óː   s
-KAURS
+KORS
 
 court
 c ou r t
 k óː   t
-KAURT
+KORT
 
 cousin
 c ou s i n
@@ -3648,7 +3648,7 @@ KUB/-RD
 cure
 c   u  r e
 k j óː
-KAUR
+KOER
 
 curly
 c u  r l y
@@ -4456,7 +4456,7 @@ d ɪ v ɪ́ ʒ  ə n
 divorced
 d i v o  r c e d
 d ɪ v óː   s   t
-TKEU/SRAURS/-T
+TKEU/SRORS/-T
 
 do
 d o
@@ -4533,7 +4533,7 @@ TKOE/TPHAEUT
 door
 d oo r
 d óː
-TKAUR
+TKAOR
 
 double
 d ou b   l e
@@ -5096,8 +5096,8 @@ EUPB/SKWROEU
 enormous
 e n o  r m ou s
 ɪ n óː   m ə  s
-EU/TPHAUR/PH-S
-EU/TPHAURPL/-S
+EU/TPHOR/PH-S
+EU/TPHORPL/-S
 
 enough
 e n ou gh
@@ -5112,7 +5112,7 @@ EUPB/KWAOEUR/AE
 ensure
 e n s u  r e
 ɪ n ʃ óː
-EUPB/SHAUR
+EUPB/SHOER
 
 enter
 e n t e r
@@ -5584,8 +5584,8 @@ EBGS/PHRU/RAEUGZ
 explore
 e x - p l o  r e
 ɪ k s p l óː
-EUBG/SPHRAUR
-EUBGS/PHRAUR
+EUBG/SPHROER
+EUBGS/PHROER
 
 explosion
 e x - p l o  si o n
@@ -5594,14 +5594,14 @@ e x - p l o  si o n
 export
 e x - p o  r t
 ɛ́ k s p oː   t
-EBG/SPAURT
-EBGS/PAURT
+EBG/SPORT
+EBGS/PORT
 
 export
 e x - p o  r t
 ɪ k s p óː   t
-EUBG/SPAURT
-EUBGS/PAURT
+EUBG/SPORT
+EUBGS/PORT
 
 expose
 e x - p o  s e
@@ -5651,12 +5651,12 @@ EBGS/TRU
 extraordinary
 e x - t r a o  r d i n a r y
 ɪ k s t r   óː   d ə n   r ɪj
-*EUBGS/RAUR/TK-PB/RAE
-*EUBGS/RAURD/-PB/RAE
-EUBG/STRAUR/TK-PB/RAE
-EUBG/STRAURD/-PB/RAE
-EUBGS/TRAUR/TK-PB/RAE
-EUBGS/TRAURD/-PB/RAE
+*EUBGS/ROR/TK-PB/RAE
+*EUBGS/RORD/-PB/RAE
+EUBG/STROR/TK-PB/RAE
+EUBG/STRORD/-PB/RAE
+EUBGS/TROR/TK-PB/RAE
+EUBGS/TRORD/-PB/RAE
 
 extreme
 e x - t r e  m e
@@ -6136,7 +6136,7 @@ TPHRUD
 floor
 f l oo r
 f l óː
-TPHRAUR
+TPHRAOR
 
 flour
 f l ou r
@@ -6218,7 +6218,7 @@ TPAOT/PWAUL
 for
 f o  r
 f óː
-TPAUR
+TPOR
 
 for
 f o r
@@ -6228,7 +6228,7 @@ TPUR
 force
 f o  r c e
 f óː   s
-TPAURS
+TPORS
 
 foreign
 f o r ei g n
@@ -6261,49 +6261,49 @@ TPUR/TKPWEUFB
 fork
 f o  r k
 f óː   k
-TPAURBG
+TPORBG
 
 form
 f o  r m
 f óː   m
-TPAURPL
+TPORPL
 
 formal
 f o  r m a l
 f óː   m ə l
-TPAUR/PH-L
-TPAURPL/-L
+TPOR/PH-L
+TPORPL/-L
 
 former
 f o  r m e r
 f óː   m ə
-TPAUR/PH-R
-TPAURPL/-R
+TPOR/PH-R
+TPORPL/-R
 
 fortunately
 f o  r t  u n a t e l y
 f óː   tʃ ə n ə t   l ɪj
-TPAUR/KHU/TPH-T/HRAE
-TPAUR/KH-PB/-T/HRAE
-TPAUR/-FP/TPH-T/HRAE
-TPAUR/-FP/-PB/-T/HRAE
+TPOR/KHU/TPH-T/HRAE
+TPOR/KH-PB/-T/HRAE
+TPOR/-FP/TPH-T/HRAE
+TPOR/-FP/-PB/-T/HRAE
 
 fortune
 f o  r t  u  n e
 f óː   tʃ ʉw n
-TPAUR/KHAOUPB
-TPAUR/-FP/AOUPB
+TPOR/KHAOUPB
+TPOR/-FP/AOUPB
 
 forty
 f o  r t y
 f óː   t ɪj
-TPAUR/TAE
-TPAURT/AE
+TPOR/TAE
+TPORT/AE
 
 forward
 f o  r w a r d
 f óː   w ə   d
-TPAUR/W-RD
+TPOR/W-RD
 
 found
 f ou n d
@@ -6313,17 +6313,17 @@ TPOUPBD
 four
 f ou r
 f óː
-TPAUR
+TPOR
 
 fourteen
 f ou r t ee n
 f óː   t ɪ́j n
-TPAUR/TAOEPB
+TPOR/TAOEPB
 
 fourth
 f ou r th
 f óː   θ
-TPAURGT
+TPORGT
 
 frame
 f r a  m e
@@ -6509,10 +6509,10 @@ TPURGT/-R
 furthermore
 f u  r th e r m o  r e
 f ə́ː   ð  ə   m óː
-TPUR/THU/PHAUR
-TPUR/TH-R/PHAUR
-TPURGT/PHAUR
-TPURGT/-R/PHAUR
+TPUR/THU/PHOER
+TPUR/TH-R/PHOER
+TPURGT/PHOER
+TPURGT/-R/PHOER
 
 future
 f   u  t  u r e
@@ -7300,7 +7300,7 @@ HAUR/-R
 horse
 h o  r s e
 h óː   s
-HAURS
+HORS
 
 hospital
 h o s p i t a l
@@ -7475,7 +7475,7 @@ EUF
 ignore
 i g n o  r e
 ɪ g n óː
-EUG/TPHAUR
+EUG/TPHOER
 
 ill
 i ll
@@ -7572,25 +7572,25 @@ EUPL/PHRAOEU
 import
 i m p o  r t
 ɪ m p óː   t
-EUPL/PAURT
+EUPL/PORT
 
 import
 i m p o  r t
 ɪ́ m p oː   t
-EUFPL/AURT
-EUPL/PAURT
+EUFPL/ORT
+EUPL/PORT
 
 importance
 i m p o  r t a n c e
 ɪ m p óː   t ə n s
-EUPL/PAUR/T-PBS
-EUPL/PAURT/-PBS
+EUPL/POR/T-PBS
+EUPL/PORT/-PBS
 
 important
 i m p o  r t a n t
 ɪ m p óː   t ə n t
-EUPL/PAUR/T-PBT
-EUPL/PAURT/-PBT
+EUPL/POR/T-PBT
+EUPL/PORT/-PBT
 
 impose
 i m p o  s e
@@ -7755,13 +7755,13 @@ EUPBD/SREUPBLG/AOU/-L
 indoor
 i n d oo r
 ɪ́ n d oː
-EUPB/TKAUR
-EUPBD/AUR
+EUPB/TKAOR
+EUPBD/AOR
 
 indoors
 i n d oo r s
 ɪ́ n d óː   z
-EUPB/TKAURZ
+EUPB/TKAORZ
 
 industrial
 i n d u s t r i  a l
@@ -7792,13 +7792,13 @@ EUPB/TPHRAOU/-PBS
 inform
 i n f o  r m
 ɪ n f óː   m
-EUPB/TPAURPL
+EUPB/TPORPL
 
 informal
 i n f o  r m a l
 ɪ n f óː   m ə l
-EUPB/TPAUR/PH-L
-EUPB/TPAURPL/-L
+EUPB/TPOR/PH-L
+EUPB/TPORPL/-L
 
 information
 i n f o r m a  ti o n
@@ -8320,7 +8320,7 @@ KAOE
 keyboard
 k ey b oa r d
 k ɪ́j b oː   d
-KAOEB/AURD
+KAOEB/ORD
 
 kick
 k i c k
@@ -8857,7 +8857,7 @@ HRAOUS
 lord
 l o  r d
 l óː   d
-HRAURD
+HRORD
 
 lorry
 l o rr y
@@ -9487,13 +9487,13 @@ PHAUR/-L
 more
 m o  r e
 m óː
-PHAUR
+PHOER
 
 morning
 m o  r n i ng
 m óː   n ɪ ŋ
-PHAUR/TPH-PBG
-PHAURPB/-PBG
+PHOR/TPH-PBG
+PHORPB/-PBG
 
 most
 m o  s t
@@ -9894,32 +9894,32 @@ TPHUPB
 nor
 n o  r
 n óː
-TPHAUR
+TPHOR
 
 normal
 n o  r m a l
 n óː   m ə l
-TPHAUR/PH-L
-TPHAURPL/-L
+TPHOR/PH-L
+TPHORPL/-L
 
 normally
 n o  r m a ll y
 n óː   m ə l  ɪj
-TPHAUR/PHAEL
-TPHAUR/PHU/HRAE
-TPHAURPL/HRAE
-TPHAURPL/AEL
+TPHOR/PHAEL
+TPHOR/PHU/HRAE
+TPHORPL/HRAE
+TPHORPL/AEL
 
 north
 n o  r th
 n óː   θ
-TPHAURGT
+TPHORGT
 
 northern
 n o  r th e r n
 n óː   ð  ə   n
-TPHAUR/TH-RPB
-TPHAURGT/-RPB
+TPHOR/TH-RPB
+TPHORGT/-RPB
 
 nose
 n o  s e
@@ -10257,7 +10257,7 @@ AUP/SH-PB
 or
 o  r
 óː
-AUR
+OR
 
 or
 o r
@@ -10272,56 +10272,56 @@ AUR/-FPG
 order
 o  r d e r
 óː   d ə
-AUR/TK-R
-AURD/-R
+OR/TK-R
+ORD/-R
 
 ordinary
 o  r d i n a r y
 óː   d ɪ n   r ɪj
-AUR/TK-PB/RAE
-AURD/-PB/RAE
+OR/TK-PB/RAE
+ORD/-PB/RAE
 
 organ
 o  r g a n
 óː   g ə n
-AUR/TKPW-PB
-AURG/-PB
+OR/TKPW-PB
+ORG/-PB
 
 organization
 o  r g a n i  z a  ti o n
 óː   g ə n ɑj z ɛ́j ʃ  ə n
-AUR/TKPWU/TPHAOEU/SWRAEUGZ
-AUR/TKPW-PB/AOEU/SWRAEUGZ
-AURG/TPHAOEU/SWRAEUGZ
-AURG/-PB/AOEU/SWRAEUGZ
+OR/TKPWU/TPHAOEU/SWRAEUGZ
+OR/TKPW-PB/AOEU/SWRAEUGZ
+ORG/TPHAOEU/SWRAEUGZ
+ORG/-PB/AOEU/SWRAEUGZ
 
 organize
 o  r g a n i  z e
 óː   g ə n ɑj z
-AUR/TKPWU/TPHAOEUZ
-AUR/TKPW-PB/AOEUZ
-AURG/TPHAOEUZ
-AURG/-PB/AOEUZ
+OR/TKPWU/TPHAOEUZ
+OR/TKPW-PB/AOEUZ
+ORG/TPHAOEUZ
+ORG/-PB/AOEUZ
 
 organized
 o  r g a n i  z e d
 óː   g ə n ɑj z   d
-AUR/TKPWU/TPHAOEUZ/-D
-AUR/TKPW-PB/AOEUZ/-D
-AURG/TPHAOEUZ/-D
-AURG/-PB/AOEUZ/-D
+OR/TKPWU/TPHAOEUZ/-D
+OR/TKPW-PB/AOEUZ/-D
+ORG/TPHAOEUZ/-D
+ORG/-PB/AOEUZ/-D
 
 organizer
 o  r g a n i  z e r
 óː   g ə n ɑj z ə
-AUR/TKPWU/TPHAOEU/SWR-R
-AUR/TKPWU/TPHAOEUZ/-R
-AUR/TKPW-PB/AOEU/SWR-R
-AUR/TKPW-PB/AOEUZ/-R
-AURG/TPHAOEU/SWR-R
-AURG/TPHAOEUZ/-R
-AURG/-PB/AOEU/SWR-R
-AURG/-PB/AOEUZ/-R
+OR/TKPWU/TPHAOEU/SWR-R
+OR/TKPWU/TPHAOEUZ/-R
+OR/TKPW-PB/AOEU/SWR-R
+OR/TKPW-PB/AOEUZ/-R
+ORG/TPHAOEU/SWR-R
+ORG/TPHAOEUZ/-R
+ORG/-PB/AOEU/SWR-R
+ORG/-PB/AOEUZ/-R
 
 origin
 o r i g  i n
@@ -10389,12 +10389,12 @@ OUT/K-PL
 outdoor
 ou t d oo r
 áw t d oː
-OUT/TKAUR
+OUT/TKAOR
 
 outdoors
 ou t d oo r s
 áw t d óː   z
-OUT/TKAURZ
+OUT/TKAORZ
 
 outer
 ou t e r
@@ -10657,8 +10657,8 @@ PAGZ
 passport
 p a  ss p o  r t
 p ɑ́ː s  p oː   t
-PAS/PAURT
-PAS/-P/AURT
+PAS/PORT
+PAS/-P/ORT
 
 past
 p a  s t
@@ -10770,16 +10770,16 @@ PUR/-F/-BGT/HRAE
 perform
 p e r f o  r m
 p ə   f óː   m
-PU/TPAURPL
-PUR/TPAURPL
+PU/TPORPL
+PUR/TPORPL
 
 performance
 p e r f o  r m a n c e
 p ə   f óː   m ə n s
-PU/TPAUR/PH-PBS
-PU/TPAURPL/-PBS
-PUR/TPAUR/PH-PBS
-PUR/TPAURPL/-PBS
+PU/TPOR/PH-PBS
+PU/TPORPL/-PBS
+PUR/TPOR/PH-PBS
+PUR/TPORPL/-PBS
 
 perhaps
 p e r h a p s
@@ -11056,7 +11056,7 @@ PHRAEUT
 platform
 p l a t f o  r m
 p l á t f oː   m
-PHRAT/TPAURPL
+PHRAT/TPORPL
 
 play
 p l ay
@@ -11203,7 +11203,7 @@ PAOUL
 poor
 p oo r
 p óː
-PAUR
+PAOR
 
 pop
 p o p
@@ -11234,13 +11234,13 @@ PAUP/HRAEUGZ
 port
 p o  r t
 p óː   t
-PAURT
+PORT
 
 portrait
 p o  r t r ai t
 p óː   t r ɛj t
-PAUR/TRAEUT
-PAURT/RAEUT
+POR/TRAEUT
+PORT/RAEUT
 
 pose
 p o  s e
@@ -11319,7 +11319,7 @@ POUPBD
 pour
 p ou r
 p óː
-PAUR
+POR
 
 poverty
 p o v e r t y
@@ -11837,7 +11837,7 @@ PUR/-FP/-S
 pure
 p   u  r e
 p j óː
-PAUR
+POER
 
 purple
 p u  r p   l e
@@ -11908,8 +11908,8 @@ KWAUPBT/AET
 quarter
 q u a  r t e r
 k w óː   t ə
-KWAUR/T-R
-KWAURT/-R
+KWAR/T-R
+KWART/-R
 
 queen
 q u ee n
@@ -12176,18 +12176,18 @@ REBG/-PL/EPB/TKAEUGZ
 record
 r e c o  r d
 r ɛ́ k oː   d
-REBG/AURD
+REBG/ORD
 
 record
 r e c o  r d
 r ɪ k óː   d
-REU/KAURD
+REU/KORD
 
 recording
 r e c o  r d i ng
 r ɪ k óː   d ɪ ŋ
-REU/KAUR/TK-PBG
-REU/KAURD/-PBG
+REU/KOR/TK-PBG
+REU/KORD/-PBG
 
 recover
 r e c o v e r
@@ -12455,13 +12455,13 @@ REUP/HRAOEU
 report
 r e p o  r t
 r ɪ p óː   t
-REU/PAURT
+REU/PORT
 
 reporter
 r e p o  r t e r
 r ɪ p óː   t ə
-REU/PAUR/T-R
-REU/PAURT/-R
+REU/POR/T-R
+REU/PORT/-R
 
 represent
 r e p r e s e n t
@@ -12557,12 +12557,12 @@ REU/SWRAUL/-FB
 resort
 r e s o  r t
 r ɪ z óː   t
-REU/SWRAURT
+REU/SWRORT
 
 resource
 r e s ou r c e
 r ɪ z óː   s
-REU/SWRAURS
+REU/SWRORS
 
 respect
 r e s p e c t
@@ -12671,7 +12671,7 @@ REFB/HRAOUGZ
 reward
 r e w a  r d
 r ɪ w óː   d
-REU/WAURD
+REU/WARD
 
 rhythm
 r h y th   m
@@ -13045,7 +13045,7 @@ SAOEU/-PBT/*S
 score
 s c o  r e
 s k óː
-SKAUR
+SKOER
 
 scream
 s c r ea m
@@ -13482,7 +13482,7 @@ SHAUP/-PBG
 short
 sh o  r t
 ʃ  óː   t
-SHAURT
+SHORT
 
 shot
 sh o t
@@ -13977,7 +13977,7 @@ SAUR/AE
 sort
 s o  r t
 s óː   t
-SAURT
+SORT
 
 soul
 s ou l
@@ -13997,7 +13997,7 @@ SAOUP
 source
 s ou r c e
 s óː   s
-SAURS
+SORS
 
 south
 s ou th
@@ -14127,7 +14127,7 @@ SPAOUPB
 sport
 s p o  r t
 s p óː   t
-SPAURT
+SPORT
 
 spot
 s p o t
@@ -14309,12 +14309,12 @@ STAUP
 store
 s t o  r e
 s t óː
-STAUR
+STOER
 
 storm
 s t o  r m
 s t óː   m
-STAURPL
+STORPL
 
 story
 s t o  r y
@@ -14576,16 +14576,16 @@ SUP/HRAOEU
 support
 s u pp o  r t
 s ə p  óː   t
-SPAURT
-SU/PAURT
+SPORT
+SU/PORT
 
 supporter
 s u pp o  r t e r
 s ə p  óː   t ə
-SPAUR/T-R
-SPAURT/-R
-SU/PAUR/T-R
-SU/PAURT/-R
+SPOR/T-R
+SPORT/-R
+SU/POR/T-R
+SU/PORT/-R
 
 suppose
 s u pp o  s e
@@ -14596,13 +14596,13 @@ SU/POEZ
 sure
 s u  r e
 ʃ óː
-SHAUR
+SHOER
 
 surely
 s u  r e l y
 ʃ óː     l ɪj
-SHAUR/HRAE
-SHAURL/AE
+SHOR/HRAE
+SHORL/AE
 
 surface
 s u  r f a c e
@@ -15069,8 +15069,8 @@ THUR
 therefore
 th e  r e f o  r e
 ð  ɛ́ː     f oː
-THAEUR/TPAUR
-THAEUR/-F/AUR
+THAEUR/TPOER
+THAEUR/-F/OER
 
 they
 th ey
@@ -15359,7 +15359,7 @@ TUF
 tour
 t ou r
 t óː
-TAUR
+TOR
 
 tourism
 t ou r i s   m
@@ -15375,8 +15375,8 @@ TAUR/*S
 towards
 t o w a  r d s
 t ə w óː   d z
-TWAURDZ
-TU/WAURDZ
+TWARDZ
+TU/WARDZ
 
 towel
 t ow e l
@@ -15454,8 +15454,8 @@ TRAPBS/TPUR
 transform
 t r a n s f o  r m
 t r a n s f óː   m
-TRAPB/STPAURPL
-TRAPBS/TPAURPL
+TRAPB/STPORPL
+TRAPBS/TPORPL
 
 transition
 t r a n s i ti o n
@@ -15475,14 +15475,14 @@ TRAPBZ/HRAEUGZ
 transport
 t r a n s p o  r t
 t r a n s p óː   t
-TRAPB/SPAURT
-TRAPBS/PAURT
+TRAPB/SPORT
+TRAPBS/PORT
 
 transport
 t r a n s p o  r t
 t r á n s p oː   t
-TRAPB/SPAURT
-TRAPBS/PAURT
+TRAPB/SPORT
+TRAPBS/PORT
 
 travel
 t r a v e l
@@ -15774,10 +15774,10 @@ UPB/TPAEUR
 unfortunately
 u n f o  r t  u n a t e l y
 ʌ́ n f óː   tʃ ə n ə t   l ɪj
-UPB/TPAUR/KHU/TPH-T/HRAE
-UPB/TPAUR/KH-PB/-T/HRAE
-UPB/TPAUR/-FP/TPH-T/HRAE
-UPB/TPAUR/-FP/-PB/-T/HRAE
+UPB/TPOR/KHU/TPH-T/HRAE
+UPB/TPOR/KH-PB/-T/HRAE
+UPB/TPOR/-FP/TPH-T/HRAE
+UPB/TPOR/-FP/-PB/-T/HRAE
 
 unhappy
 u n h a pp y
@@ -15787,8 +15787,8 @@ UPB/HAP/AE
 uniform
   u  n i f o  r m
 j ʉ́w n ɪ f oː   m
-KWRAOUPB/TPAURPL
-KWRAOUPB/-F/AURPL
+KWRAOUPB/TPORPL
+KWRAOUPB/-F/ORPL
 
 union
   u  n i  o n
@@ -16198,23 +16198,23 @@ WAUPBT
 war
 w a  r
 w óː
-WAUR
+WAR
 
 warm
 w a  r m
 w óː   m
-WAURPL
+WARPL
 
 warn
 w a  r n
 w óː   n
-WAURPB
+WARPB
 
 warning
 w a  r n i ng
 w óː   n ɪ ŋ
-WAUR/TPH-PBG
-WAURPB/-PBG
+WAR/TPH-PBG
+WARPB/-PBG
 
 wash
 w a sh
@@ -16775,18 +16775,18 @@ KWRUPBG
 your
 y ou r
 j óː
-KWRAUR
+KWROR
 
 yours
 y ou r s
 j óː   z
-KWRAURZ
+KWRORZ
 
 yourself
 y ou r s e l f
 j oː   s ɛ́ l f
 KWRAU/SEL/-F
-KWRAUR/SEL/-F
+KWROR/SEL/-F
 
 youth
 y ou th
