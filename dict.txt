@@ -339,10 +339,10 @@ AFT/-R
 afternoon
 a  f t e r n oo n
 ɑ́ː f t ə   n ʉ́w n
-AF/TU/TPHAOUPB
-AF/T-R/TPHAOUPB
-AFT/TPHAOUPB
-AFT/-R/TPHAOUPB
+AF/TU/TPHAOPB
+AF/T-R/TPHAOPB
+AFT/TPHAOPB
+AFT/-R/TPHAOPB
 
 afterwards
 a  f t e r w a r d s
@@ -1342,7 +1342,7 @@ PWAGT
 bathroom
 b a  th r oo m
 b ɑ́ː θ  r ʉw m
-PWAGT/RAOUPL
+PWAGT/RAOPL
 
 battery
 b a tt e r y
@@ -1415,7 +1415,7 @@ PWED
 bedroom
 b e d r oo m
 b ɛ́ d r ʉw m
-PWED/RAOUPL
+PWED/RAOPL
 
 bee
 b ee
@@ -1717,7 +1717,7 @@ PWAOBG
 boot
 b oo t
 b ʉ́w t
-PWAOUT
+PWAOT
 
 border
 b o  r d e r
@@ -2195,8 +2195,8 @@ KAR/AE
 cartoon
 c a  r t oo n
 k ɑː   t ʉ́w n
-KA/TAOUPB
-KAR/TAOUPB
+KA/TAOPB
+KAR/TAOPB
 
 case
 c a  s e
@@ -2490,7 +2490,7 @@ KHOEUS
 choose
 ch oo s e
 tʃ ʉ́w z
-KHAOUZ
+KHAOZ
 
 church
 ch u  r ch
@@ -2565,7 +2565,7 @@ KHRAS/-BG/-L
 classroom
 c l a  ss r oo m
 k l ɑ́ː s  r ʉw m
-KHRAS/RAOUPL
+KHRAS/RAOPL
 
 clause
 c l au s e
@@ -3354,7 +3354,7 @@ KAOBG/-PBG
 cool
 c oo l
 k ʉ́w l
-KAOUL
+KAOL
 
 copy
 c o p y
@@ -6203,7 +6203,7 @@ TPAUL/OE/-PBG
 food
 f oo d
 f ʉ́w d
-TPAOUD
+TPAOD
 
 foot
 f oo t
@@ -8852,7 +8852,7 @@ HRAOBG
 loose
 l oo s e
 l ʉ́w s
-HRAOUS
+HRAOS
 
 lord
 l o  r d
@@ -9472,12 +9472,12 @@ PHUPBGT
 mood
 m oo d
 m ʉ́w d
-PHAOUD
+PHAOD
 
 moon
 m oo n
 m ʉ́w n
-PHAOUPB
+PHAOPB
 
 moral
 m o r a l
@@ -11198,7 +11198,7 @@ PU/HRAOUGZ
 pool
 p oo l
 p ʉ́w l
-PAOUL
+PAOL
 
 poor
 p oo r
@@ -11698,7 +11698,7 @@ PRU/TPHOUPBS
 proof
 p r oo f
 p r ʉ́w f
-PRAOUF
+PRAOF
 
 proper
 p r o p e r
@@ -12756,17 +12756,17 @@ ROE/PHAPBT/-BG
 roof
 r oo f
 r ʉ́w f
-RAOUF
+RAOF
 
 room
 r oo m
 r ʉ́w m
-RAOUPL
+RAOPL
 
 root
 r oo t
 r ʉ́w t
-RAOUT
+RAOT
 
 rope
 r o  p e
@@ -13024,7 +13024,7 @@ SKAOEPL
 school
 s ch oo l
 s k  ʉ́w l
-SKAOUL
+SKAOL
 
 science
 s c i  e n c e
@@ -13462,12 +13462,12 @@ SHAOU
 shoot
 sh oo t
 ʃ  ʉ́w t
-SHAOUT
+SHAOT
 
 shooting
 sh oo t i ng
 ʃ  ʉ́w t ɪ ŋ
-SHAOUT/-PBG
+SHAOT/-PBG
 
 shop
 sh o p
@@ -13825,7 +13825,7 @@ SPHOEBG/-PBG
 smooth
 s m oo th
 s m ʉ́w ð
-SPHAOUGT
+SPHAOGT
 
 snake
 s n a  k e
@@ -13967,7 +13967,7 @@ SAUPBG
 soon
 s oo n
 s ʉ́w n
-SAOUPB
+SAOPB
 
 sorry
 s o rr y
@@ -14122,7 +14122,7 @@ SPAUPBS/-R
 spoon
 s p oo n
 s p ʉ́w n
-SPAOUPB
+SPAOPB
 
 sport
 s p o  r t
@@ -15313,17 +15313,17 @@ TU/TPHOEUGT
 too
 t oo
 t ʉ́w
-TAOU
+TAO
 
 tool
 t oo l
 t ʉ́w l
-TAOUL
+TAOL
 
 tooth
 t oo th
 t ʉ́w θ
-TAOUGT
+TAOGT
 
 top
 t o p

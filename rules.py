@@ -114,7 +114,7 @@ NON_RIGHT_RULES = [
         outline = lambda outline: outline,
     ),
     Rule(
-        [Sound('oː', 'oo')],
+        [Sound({'oː', 'ʉw'}, 'oo')],
         [Stroke('AO')],
     ),
     Rule(
