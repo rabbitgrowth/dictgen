@@ -6313,7 +6313,7 @@ TPOUPBD
 four
 f ou r
 f óː
-TPOR
+TPOUR
 
 fourteen
 f ou r t ee n
@@ -11319,7 +11319,7 @@ POUPBD
 pour
 p ou r
 p óː
-POR
+POUR
 
 poverty
 p o v e r t y
@@ -15359,7 +15359,7 @@ TUF
 tour
 t ou r
 t óː
-TOR
+TOUR
 
 tourism
 t ou r i s   m
@@ -16775,7 +16775,7 @@ KWRUPBG
 your
 y ou r
 j óː
-KWROR
+KWROUR
 
 yours
 y ou r s

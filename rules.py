@@ -122,6 +122,11 @@ NON_RIGHT_RULES = [
         [Stroke('AR')],
     ),
     Rule(
+        [Sound('oː', 'ou'), Sound('', 'r')],
+        [Stroke('OUR')],
+        lookahead = [BREAK, END],
+    ),
+    Rule(
         [Sound('oː'), Sound('', 'r'), Sound('', 'e')],
         [Stroke('OER')],
         lookahead = [BREAK, END],
